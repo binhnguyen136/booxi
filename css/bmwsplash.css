@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700,900');
+
+.booxi-splash-logo {
+	width: 120px;
+	height: 120px;
+	
+	position: absolute;
+	top: calc(50% - 60px);
+	left: calc(50% - 60px);
+	margin: 0;
+}
