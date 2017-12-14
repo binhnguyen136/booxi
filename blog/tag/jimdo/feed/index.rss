@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; jimdo</title>
+	<atom:link href="https://www.booxi.com/blog/tag/jimdo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>How to Add Online Booking to Jimdo Website</title>
+		<link>https://www.booxi.com/blog/online-booking-jimdo/</link>
+		<comments>https://www.booxi.com/blog/online-booking-jimdo/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 21:30:27 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[jimdo]]></category>
+		<category><![CDATA[online appointment booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1377</guid>
+		<description><![CDATA[Learn how to add online appointment booking to your Jimdo website and start converting online visitors into customers. ]]></description>
+				<content:encoded><![CDATA[<p><strong><img class="float_top aligncenter wp-image-1391 size-full" title="jimdo" src="https://lh3.googleusercontent.com/NwYs4OteRJonSOv6mBI03BVnVV-T2nF2CrLzbfeNtVM9wKpQUKUWyRCj4ufLCtb8tF7WIgjiWM2kHSHg6kT6oaY=s0" alt="jimdo" width="1200" height="600" /><br />
+Step 0 :</strong></p>
+<ul>
+<li>Go to <a href="https://www.booxi.com/developers/booknow" target="_blank">https://www.booxi.com/developers/booknow</a></li>
+<li>Enter your booxi API key and generate your widget code.</li>
+<li>Set this aside, we will use it in the Jimdo site editor.</li>
+</ul>
+<p><strong>Step 1 :</strong> Go to jimbo and please login into your account and access your jimdo site editor screen.</p>
+<p><strong>Step 2 :</strong> Open your site menu (menu left side). Look for settings option and select it:<br />
+<img class="shadow_medium aligncenter wp-image-1378 size-full" src="https://lh3.googleusercontent.com/0qLDEEWgqwJcGc3XdH54LQDQVaXEpdzSomXUYa292hen_kXlI6COh48E1LkJIVglYA7TVJhNlU_JkfijTrPMupk=s0" alt="Jimdo menu " width="461" height="393" /></p>
+<p><strong>Step 3 :</strong> In the settings menu look for an option called Edit Head and select it:</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1379" src="https://lh3.googleusercontent.com/nm9zyV0xb7Eio_MVfWOzmrKpwZFHE9DU3626CcYv9VE0Kj-PvirxkmITnxq3WCT8gSGj8oO1kTV6GzCp5CCkwA=s0" alt="Jimdo Settings" /></p>
+<p><strong>Step 4 :</strong> This section will allow you to place the booxi widget code onto every page of the site (this does NOT automatically include a button on each page).</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1380" src="https://lh3.googleusercontent.com/jJgTfcymbjH2ym6Lq7I8xJEUIVXHRgAvxKBmLdBwON7L2QFkclaNtM0oOt1_V6S1stnzD20_bQsQr14DZzrx2nc=s0" alt="edit head" /></p>
+<p>Please make sure that WEBSITE tab is selected (loaded in the grey header). Go back to the booxi developer page and look for Widget Code section, there will be a text box full of web code and would look like the image below :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1381" src="https://lh3.googleusercontent.com/Ic289KnGmHkCUMPlWX9WkIGO8dbGwm1nfQCItLOnJhZHTnqNqas6UajX6xZkJBgVltMf-62QKsPny6PYfqKJ8_U=s0" alt="book now widget code" /></p>
+<p>You must select all the text in this text area and copy it (crtl-c), go back to your Jimdo Edit Head window, and paste the code into the text area.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1382" src="https://lh3.googleusercontent.com/Tj_TgdEfXeO3yilZXSrE0Q13NOEyIwBLRGs3LOSZFRM0xiKP980srK2tdp044sE_EWtc98ETv-o8Hh4du2CH9w=s0" alt="script html edit head" /></p>
+<p>Be sure to save it before leaving the section. If there was an error in the copy page Jimdo will not save it. To make sure it worked just go back to the section after saving it, if the code is still there that means everything is good.</p>
+<p><strong>Step 5:</strong> Now that the widget code we are able to add the book now button. Go to your jimdo page editor and find the place where you wish to add the book now button. Use the + Add Element option that is presented on the page editor as you move your mouse around. Click the <strong>+ Add Element</strong> button.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1383" src="https://lh3.googleusercontent.com/YQXxcnroEjAlyB5MitmSEgKikxS68a2wFoPfA3a0zeUdlb6HDGgiBA4dkKobUMVFjoYJIzzdGZzA__IG3-CxTA=s0" alt="add online booking" /></p>
+<p>The option to add the book now button is not a part of these basic options, please press the <strong>More elements and Add-ons</strong> button.<br />
+<img class="img_zoom aligncenter size-full wp-image-1384" src="https://lh3.googleusercontent.com/0kXa1yuGzDKFnwslN46Vllt1WIu7KfWFBilX41OGNR-9B58jJvtvtfsYVeTz5TKU-zUZ6yHLdRrSYGAseli22Q=s0" alt="Widget book now on jimdo" /></p>
+<p>Look for and select the option called Widget / HTML, this will bring up a editor where we can add the button. The Editor should look something like this :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1385" src="https://lh3.googleusercontent.com/Lt4VyZ8JwcefoCQmLgAY6ntRfvVnpQjehGM8aVH-vESJphfGPnLLsZbX1ws32fi1UcfhXZ5QgxeVhlIawr9ggAI=s0" alt="Jimdo website editor" /></p>
+<p>Go back to the booxi developer page and look for Book Now Button, you will have a text area containing the html code required to add a button to the page. It looks something like :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1386" src="https://lh3.googleusercontent.com/O0urejHYe1A066SnncZMFxydiiteNXN9KDm2z573s5VOWEctffJmLWc9y51yGldl2jeRgNR0hu8XFiK3FPl_=s0" alt="book now button " /></p>
+<p>You must copy the HTML code from the text box and go back to your Jimdo editor and paste the text into Widget / HTML text area. As shown in the following image :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1387" src="https://lh3.googleusercontent.com/6gXnAcOkk_U3gw3GDUoMZxVURV0zEMwj7d7rbP61Y4emN7hN-JOuO_QdQ5S7R3RYQcjaK8f6Z-9gsO9I2K8NOw=s0" alt="Jimdo script editor " /></p>
+<p>Press the save button. It is normal that you do not see the button on the page. Save the page and testing it out, if everything went well the green button should appear. If you click on it the book now widget will load up.</p>
+<p><strong>Trouble shooting :</strong></p>
+<p>If your button is not loading it can be one of the following problems :</p>
+<ul>
+<li>There was an error with the copying of one of the book now widget text code.</li>
+<li>Your api key is invalid, could be a typo or something similar.</li>
+<li>Your business is not online.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/online-booking-jimdo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

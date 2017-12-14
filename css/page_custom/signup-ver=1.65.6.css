@@ -1,0 +1,429 @@
+#f3_stateProv_row
+{
+    padding-bottom:0.5em;
+}
+
+.suv_link
+{
+    color: #33BCF2  !important;
+    text-decoration: underline !important;
+}
+
+.signup_box
+{
+    width: 96em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sb_col
+{
+    width: 50%;
+}
+
+.fxd_detail_box
+{
+    width: 44em;
+    position: fixed;
+}
+
+.info_row
+{
+    padding-left: 8em;
+}
+
+.info_left_float
+{
+    position: absolute;
+    width: 8em;
+    height:8em;
+    left:-8em;
+    top: -0.5em;
+}
+
+.step_circle
+{
+    position: absolute;
+    left:-6.5em;
+
+    border-radius: 50%;
+    width: 4em;
+    height: 4em;
+    border: 4px solid #FFFFFF;
+}
+
+.step_circle > .inner
+{
+    width: 100%;
+    height: 100%;
+    line-height: 4em;
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+
+.form_box
+{
+    position: relative;
+    z-index: 1;
+}
+
+.form_box > .form_item[data-active=true], .display_item[data-active=true]
+{
+    max-height: 100em;
+    overflow: visible;
+    display:block;
+    z-index: 2;
+}
+
+
+.form_item, .display_item
+{
+    max-height:0;
+    overflow: hidden;
+}
+
+.form_item
+{
+     transition: max-height 0.5s;
+     -webkit-transition: max-height 0.5s;
+}
+
+
+.display_item
+{
+    transition: max-height 1s;
+    -webkit-transition: max-height 1s;
+}
+
+.step_block
+{
+    opacity: 0;
+    display: none;
+}
+
+.step_block
+{
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+}
+
+.step_block[data-active=standby]
+{
+    opacity: 0;
+    display: block;
+}
+
+.step_block[data-active=true]
+{
+    opacity: 1;
+    display: block;
+}
+
+#promo_code_space #promo_input_box   { display:block; }
+#promo_code_space #promo_details_box { display:none;  }
+
+#promo_code_space[data-active=true] #promo_input_box   { display:none; }
+#promo_code_space[data-active=true] #promo_details_box { display:block;  }
+
+
+.btn_continue
+{
+    padding: 2em 2em 2em 2em;
+    background-color: #44CE5E;
+    border: 1px solid #38AC4E;
+    cursor: pointer;
+}
+
+.btn_continue:hover {
+
+    background-color: #3ebd55;
+    border: 1px solid #38AC4E;
+}
+
+
+
+.signup_bkg
+{
+    height: 22em;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-image: url("../../img/signup/signup_city.svg");
+}
+
+.signup_img
+{
+    bottom:-2em;
+}
+
+.promo_cell_left
+{
+    position: relative;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-right: 8em;
+}
+
+.promo_cell_right
+{
+    position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    width:6em;
+
+}
+
+#biz_found_box, #biz_phone_notice
+{
+    display: none;
+}
+
+#biz_found_box[data-active=true], #biz_phone_notice[data-active=true]
+{
+    display: block;
+}
+
+.biz_found_box
+{
+    padding-right: 10em;
+}
+
+.biz_control
+{
+    width:8em;
+}
+
+.img_status
+{
+    display: none;
+    height: 30em;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.img_status[data-img-status=new_biz_success]
+{
+    display: block;
+    background-image: url("../../img/signup/complete_email_verify.svg");
+    /*background-image: url("../../img/signup/complete_business_activated.svg");*/
+}
+
+.img_status[data-img-status=biz_success]
+{
+    display: block;
+    background-image: url("../../img/signup/complete_business_activated.svg");
+}
+
+.img_status[data-img-status=staff_success]
+{
+    display: block;
+    background-image: url("../../img/signup/complete_personnel_activated.svg");
+}
+
+.pw_ico
+{
+    border: 1px solid transparent;
+    -moz-border-radius-topright: 3px;
+    -moz-border-radius-bottomright: 3px;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    background-image: url("../../img/icons/svg/password_mini_b.svg");
+    height:3.8em;
+}
+
+.pw_ico
+{
+    transition: background-color 0.5s, border 0.5s;
+    -webkit-transition: background-color 0.5s, border 0.5s;
+}
+
+
+input[data-pw=bad] ~ .pw_ico
+{
+    background-color: #ff7070;
+    border: 1px solid #cc5a5a;
+    background-image: url("../../img/icons/svg/password_mini_w.svg");
+}
+
+input[data-valid=false][data-pw=bad] ~ .pw_ico
+{
+    background-image: url("../../img/icons/svg/error_w.svg") !important;
+}
+
+input[data-pw=ok] ~ .pw_ico
+{
+    background-color: #33bcf2;
+    border: 1px solid #2994c2;
+    background-image: url("../../img/icons/svg/password_mini_w.svg");
+}
+
+input[data-pw=good] ~ .pw_ico
+{
+    background-color: #44ce5e;
+    border: 1px solid #349c47;
+    background-image: url("../../img/icons/svg/password_mini_w.svg");
+}
+
+.pw_col_bad
+{
+   color: #ff7070;
+}
+
+.pw_col_ok
+{
+    color: #33bcf2;
+}
+
+
+.pw_col_good
+{
+    color: #44ce5e;
+}
+
+.terms_box
+{
+    border: 1px solid #D9D9D9;
+}
+
+.terms_box[data-valid=false]
+{
+    border: 1px solid #ff7070 !important;
+}
+
+.terms_box[data-valid=false] ~ .ux_input_error_label
+{
+    display: block;
+}
+
+@media screen and (max-height: 700px)
+{
+    .fxd_detail_box
+    {
+        position: static !important;
+    }
+}
+
+@media screen and (min-width: 1px) and (max-width: 999px)
+{
+    #form_img
+    {
+        width: 33% !important;
+    }
+
+
+    .signup_box
+    {
+        width: 100%;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    #bx_float_help
+    {
+        display: none;
+    }
+
+    .sb_col
+    {
+        width: 100%;
+    }
+
+    .main_bkg_layer
+    {
+        background: #EEEEEE !important;
+    }
+
+    .signup_bkg
+    {
+        height: inherit !important;
+        background-size: 100% auto !important;
+        background-position: center bottom !important;
+    }
+
+    .signup_bkg::after
+    {
+        content: '';
+        display: block;
+        padding-top: 40%;
+    }
+
+    .select2
+    {
+        width: 100% !important;
+    }
+
+    .hmob_signup
+    {
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 1000px)
+{
+    .exA1
+    {
+        width:calc(60% - 2em) !important;
+    }
+
+    .exA2
+    {
+        width:40% !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.placeholder_bkg
+{
+    background: -webkit-linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), -webkit-linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), rgb(255, 255, 255);
+    background: -moz-linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), -moz-linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), rgb(255, 255, 255);
+    background: linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), linear-gradient(45deg, rgba(0,0,0,0.0980392) 25%, rgba(0,0,0,0) 25%, rgba(0,0,0,0) 75%, rgba(0,0,0,0.0980392) 75%, rgba(0,0,0,0.0980392) 0), rgb(255, 255, 255);
+    background-position: 0 0, 40px 40px;
+    -webkit-background-origin: padding-box;
+    background-origin: padding-box;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    -webkit-background-size: 80px 80px;
+    background-size: 80px 80px;
+}

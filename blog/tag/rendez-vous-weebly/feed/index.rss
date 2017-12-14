@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; rendez-vous weebly</title>
+	<atom:link href="https://www.booxi.com/blog/tag/rendez-vous-weebly/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Weebly &#8211; Ajoutez la prise de rendez-vous en ligne directement sur votre site</title>
+		<link>https://www.booxi.com/blog/weebly-rendez-vous-en-ligne/</link>
+		<comments>https://www.booxi.com/blog/weebly-rendez-vous-en-ligne/#comments</comments>
+		<pubDate>Sun, 28 May 2017 18:07:46 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[rendez-vous weebly]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1323</guid>
+		<description><![CDATA[Ajoutez facilement la prise de rendez-vous en ligne directement sur votre site web Weebly grâce à l'intégration complète avec booxi, le logiciel de gestion des rendez-vous.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1370 size-full" src="https://lh3.googleusercontent.com/anNJNU4N5aVh_oAz0T9VZ7ZZSpmc3lO4Dxf4Wrk-MwJJuW38n3gawz1mDBgxWOdAy5FABGP0fN6LK_0hQDtjZJ8=s0" alt="Weebly" width="1650" height="960" /><br />
+1. Connectez-vous sur votre compte Weebly.<br />
+2. Au bas du menu principal, à gauche, cliquez sur l’option “Ajouter des applications”.</p>
+<p><img class="shadow_medium aligncenter wp-image-1325 size-full" src="https://lh3.googleusercontent.com/_n_CNyPCFeObzC9ri3QXL6wfyDGoHNQSLvpc6Uqsrq23kOTbg9AP9KUoABKB5a9KE-wKRamT0bldkRvZWQ5Shn8=s0" alt="Intégrations Weebly" width="1458" height="1006" /></p>
+<p>3. La page de l’app Center de Weebly va alors s’ouvrir. Entrez le mot Reservations dans la barre de recherche et cliquez sur Entrer.</p>
+<p><img class="shadow_medium aligncenter wp-image-1310 size-full" src="https://lh3.googleusercontent.com/16jz8dIDfLVB90o5sIMjvi9VuCk5M5hwhP2IIwwRBo-RDfkMZXQzNbu6YYvB4wPUGG6f0OM65qFnhiGRo1ig9g=s0" alt="Weebly app store" width="1838" height="1051" /></p>
+<p>4. Sélectionnez alors booxi en cliquant dessus.</p>
+<p><img class="shadow_medium aligncenter wp-image-1326 size-full" src="https://lh3.googleusercontent.com/RIIYnW-J_RL96G5m0DrNzDpQHdpCA0qieJ9H4GNequjsq5tibI__zbxD1ZbJznjWX8hs5VM0aqGEdQUc23RWiA=s0" alt="application de réservation sur Weebly" width="898" height="549" /></p>
+<p>5. Et cliquez alors sur le bouton bleu Ajouter.</p>
+<p><img class="shadow_medium aligncenter wp-image-1327 size-full" src="https://lh3.googleusercontent.com/9sspea_qzzmBspUc_D0EyUPbPpqdpb3SNJ0BSXBuEz8OG3ralxq7CwSNZgQBXIAzGVv3Hjw7QzIW6s4FyFsH=s0" alt="rendez-vous en ligne sur Weebly" width="1491" height="891" /></p>
+<p>6. Vous devez alors cliquez sur “Se connecter” en haut à gauche pour connecter Weebly avec booxi.</p>
+<p><img class="shadow_medium aligncenter wp-image-1328 size-full" src="https://lh3.googleusercontent.com/O_Gq6-DgmfbbwCMvzit136XZWlg1bYzEkRtTg3ZBhVhbHYU-jICB0epTU_iDeOUYdhEBIz0i3C2hXwqrYDf1=s0" alt="intégration complète de weebly et booxi" width="1416" height="897" /></p>
+<p>7. La fenêtre pour entrer vos identifiants booxi apparaît alors.</p>
+<p><img class="shadow_medium aligncenter wp-image-1329 size-full" src="https://lh3.googleusercontent.com/ZBjoFwEKFoyUChICyT1RL3i6YcdhzNpA2hRGj2bP6UCfxSk9rC6FsrXloudF3XgOioWPeE4URj77NN3OLRKWJg=s0" alt="synchronisation weebly et booxi" width="477" height="426" /></p>
+<p>8. Une fois que vous avez entré vos identifiants, et sélectionnez le compte souhaité, la fenêtre s’ouvre à nouveau sur l’éditeur de votre site Weebly.</p>
+<p>9. Si vous faites défiler le menu principal vers le bas, vous verrez qu’une nouvelle option a été ajouté: Book Now booxi.</p>
+<p><img class="shadow_meduim aligncenter wp-image-1330 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image121-e1500656688549.png" alt="prise de rendez-vous sur weebly" width="232" height="268" /></p>
+<p>10. Pour continuer la configuration du bouton, connectez-vous sur adresse courriel.<br />
+Vous avez reçu un message avec un code: Copier la clée d’API.</p>
+<p><img class="shadow_medium aligncenter wp-image-1331 size-full" src="https://lh3.googleusercontent.com/SuPWNBSxeP8eSSqyq5KiTM1IbTDv7nfTcvqzcmNZTAKDawmBbEVBzxVRmvXkIxmVfOdKdMaQsYbjno_JTDCA2w=s0" alt="Weebly accepte la réservation en ligne" width="623" height="634" /></p>
+<p>11. Ensuite revenez sur votre dashboard Weebly, pour éditer votre site web.</p>
+<p>12. Faites défiler l’écran jusqu’à l’option “Book now booxi”, sélectionnez la et faites la glisser à l’endroit où vous souhaitez placer le bouton sur votre site.</p>
+<p>13. Un bouton avec la mention “No Api Key Configured” apparaît alors.</p>
+<p><img class="shadow_medium aligncenter wp-image-1332 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image101-e1500656820705.png" alt="bouton rendez-vous Weebly" width="468" height="366" /></p>
+<p>14. Lorsque vous cliquez dessus, une fenêtre pour le configurer apparaît.</p>
+<p><img class="shadow_medium aligncenter wp-image-1333 size-full" src="https://lh3.googleusercontent.com/3VL1ZUiRkbjtdYD08wCMbnvkMjGiKy1xWXBMSewDs8BGycIYdN-uTqK8XwLcu8AGquO03PYePu_xJtsj_0fcBIY=s0" alt="configuration des rendez-vous sur Weebly" width="790" height="587" /></p>
+<p>15. Il suffit de compléter l’ensemble des champs:<br />
+API Key: c’est ici que vous devez coller le code que vous avez reçu par courriel :<br />
+Vous pouvez déterminer dans quelle langue vous souhaitez afficher le texte sur le bouton, ainsi que la position du bouton dans la zone sélectionnée.</p>
+<p>16. Vous pouvez ensuite jouer avec les paramètres avancés pour personnaliser votre bouton.</p>
+<p><img class="shadow_medium aligncenter wp-image-1334 size-full" src="https://lh3.googleusercontent.com/6Ba6eiZb2yEMRV83499kCIoSbO0hmqqCw0mwYAsPNMJ6hQovjGM7d3V7e5lT4TsAPkapAjSkGDnK7W0jCpwFmRU=s0" alt="personnalisation complète du bouton de rendez-vous" width="797" height="609" /></p>
+<p>Et c’est fait, vous venez d&rsquo;ajouter la prise de rendez-vous en ligne directement sur votre site web Weebly. Avant de publier votre site en ligne, avec le nouveau bouton pour accepter la prise de rendez-vous, assurez vous de paramétrer votre compte booxi, en ajoutant votre offre de services et vous disponibilité.</p>
+<p>Vos clients peuvent maintenant commencer à prendre rendez-vous en ligne.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/weebly-rendez-vous-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

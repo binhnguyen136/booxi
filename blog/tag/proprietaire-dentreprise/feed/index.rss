@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; propriétaire d’entreprise</title>
+	<atom:link href="https://www.booxi.com/blog/tag/proprietaire-dentreprise/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Générez des rapports de rendez-vous pour suivre l&#8217;évolution de votre entreprise</title>
+		<link>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/</link>
+		<comments>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/#comments</comments>
+		<pubDate>Fri, 13 Oct 2017 20:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1461</guid>
+		<description><![CDATA[Avec booxi, vous pouvez maintenant facilement générer des rapports à partir des données de vos rendez-vous. Une information très importante pour réaliser l’analyse de votre entreprise et vous aider à la développer en concentrant vos efforts sur les aspects pertinents. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1501 size-full" src="https://lh3.googleusercontent.com/vlag5YfyW7i7IcrFCWGZMejfiMo6l6WW_EM2eJ_rb2NxbWqP45YUGDFCwmNmwKEjQgXf4oWZe1W0XXFltjnNvQ=s0" alt="AppointmentReportThumbnail copy" width="1200" height="600" />Les rapports sont des outils puissants pour vous permettre d&rsquo;analyser votre entreprise, de vous aider à prendre les bonnes décisions, de savoir où concentrer vos efforts ou encore quels sont les points à améliorer.</p>
+<p>Avec booxi, vous pouvez maintenant facilement exporter des rapports à partir des données de vos rendez-vous, ajuster les critères d’export et les analyser.</p>
+<p>Voici quelques exemples d&rsquo;informations importantes que vous pouvez extraire à partir de ces rapports:</p>
+<ul>
+<li>Savoir quel est le service le plus apprécié de vos clients</li>
+<li>Connaître les périodes les plus occupées (que ce soit en terme de jours de la semaine ou d’horaires)</li>
+<li>Visualiser les performances de vos employés</li>
+<li>Déterminer qui sont vos clients les plus réguliers</li>
+<li>Déterminer les revenus générés à travers la prise de rendez-vous</li>
+<li>Faire des comparatifs pour l’ensemble de ces aspects, sur différentes périodes de temps.</li>
+</ul>
+<p>Pour cela rien de plus facile :</p>
+<ol>
+<li>Connectez-vous sur votre compte booxi, et allez sur l’onglet Calendrier.</li>
+<li>Ensuite cliquez sur l’icône “Plus d’options”, et sélectionnez l’option “Rapport des rendez-vous”.<img class="img_zoom aligncenter size-full wp-image-1499" src="https://lh3.googleusercontent.com/gMih5Qz4Lv1zdgREtR4FN_7cZN0qLtwk9_r9MG3sqoOcXnsl05ktjlcr8KCeEZKZ7xmj7NO2rXKyEa_Mc4qMqA=s0" alt="exporter les rapports de rendez-vous" /></li>
+<li>Sélectionnez les critères souhaités et cliquez sur Exporter.<i>Astuce: </i><i><i><i>Pour faire l’analyse des rendez-vous complétés, veillez à exporter en excluant les données des rendez-vous manqués et des rendez-vous annulés.</i></i></i><img class="img_zoom aligncenter size-full wp-image-1500" src="https://lh3.googleusercontent.com/M6xALaTAuoVr7wsLmpjcI2In5SLJap_09fv73OX7CECkA5Jy_YHAkRNLWjgbXWgHKnQelxHrgiIdXlJmRcIp=s0" alt="critères d'exportation" /></li>
+<li>Ensuite cliquez sur le lien “Cliquez ici pour télécharger le rapport”.<br />
+<img class="aligncenter wp-image-1464 size-full" src="https://lh3.googleusercontent.com/NZGEofqgihgEnYDbXBwQLSS_DWn_vk88_C-ULHmKGobpfGchRGjNv_bb1pDJg0jWtQSqEFGPgLGnlopSzi8f=s0" alt="télécharger le rapport" width="787" height="435" /></li>
+<li>Le téléchargement commence alors et vous pouvez trouver votre fichier en bas à gauche de votre fenêtre.</li>
+</ol>
+<p>Vous pouvez maintenant facilement l’ouvrir avec Excel ou Google Spreadsheet et commencer à faire vos analyses en fonction des informations qui vous intéressent.</p>
+<p>L’analyse de rapports est essentielle dans la gestion de votre entreprise. C’est une façon efficace de déterminer si votre entreprise est en croissance, stagne ou si vous devez réaliser des changements.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La Tranchée: bâtir une communauté en ligne pour des entrepreneurs ambitieux</title>
+		<link>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/</link>
+		<comments>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/#comments</comments>
+		<pubDate>Thu, 05 Oct 2017 18:05:09 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Nouvelles]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1474</guid>
+		<description><![CDATA[Connaissez-vous notre partenaire La Tranchée? Cette communauté permet aux propriétaires d'entreprises et aux entrepreneurs de poser leur questions concernant leur entreprise pour les aider à la développer. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1485 size-full" src="https://lh3.googleusercontent.com/XVwjmlA-gdclfbOjLGAXArwRQRoLNUEE8hnmg3RkFiYe-lGRjpcp_R468eMK1rTu1e3gnjswKXedBM_WA2zQ_uk=s0" alt="la-tranchee-thumbnail" width="1200" height="600" />J’estime que c’est arrivé à 99% d’entre nous: Faire une action marketing pour son entreprise, récolter 0 résultats et se demander pourquoi ça marche pas.</p>
+<p>Puis, 2 mois plus tard, parler avec quelqu’un qui te dit: «Mais non, c’est pas ÇA que tu aurais dû faire, c’est ÇAAAA!»</p>
+<p>Et lui répondre: «J’aurais dont dû te connaître avant».</p>
+<p>Je me trompe?</p>
+<p>C’est le genre de situation où on aurait bien aimé avoir l’avis d’un humain au moment où on en avait vraiment besoin. Pas 2 mois plus tard&#8230;</p>
+<p>Et bien, ce genre de situation ne devrait plus jamais t’arriver grâce à La Tranchée, une communauté pour entrepreneurs et marketeurs qui veulent aller plus loin.</p>
+<p>Cette communauté permet aux gens de briser la paralysie et de passer à l’action. C’est rempli de gens qui <i>veulent </i>te voir réussir et qui vont te pousser pour que tu ailles chercher le succès que tu mérites. Ça inclut un forum de discussion, des formations, un répertoire d’échange ou de demande de service, des rabais pour les abonnés, des webinaires live, etc.</p>
+<p>En tout cas, je ne suis pas ici pour te vanter tous les mérites de La Tranchée (même s’il y en a plein ahah!), mais pour t’introduire à notre entreprise, qui on est, d’où c’est parti, ce qu’on a fait jusqu’à maintenant et les défis qui s’en viennent.</p>
+<p>D’abord, pourquoi est-ce que je te parle de La Tranchée sur le blogue de Booxi?</p>
+<p>Parce qu’on a un partenariat avec Booxi. Ils offrent un rabais à nos abonnés qui veulent se procurer Booxi et en retour, on offre 50% de rabais sur l’abonnement à La Tranchée aux membres de Booxi.</p>
+<h2><span style="font-weight: 400">Les balbutiement d’une communauté en ligne</span></h2>
+<p>Permet moi de me présenter. Mon nom est Marie-Pierre, je travaille avec Olivier Lambert depuis le tout début de La Tranchée. On est actuellement seulement 2 à travailler à temps plein au développement de cette entreprise.</p>
+<p>Avant de lancer La Tranchée, Olivier avait une entreprise à son nom où il vendait des formations en ligne. Peut-être que tu le reconnais si je te dis: le gars avec la barbe que tu vois sur les publicités Facebook <img src="https://www.booxi.com/blog/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />  Souvent perçu comme un <a href="https://www.latranchee.com/de-guru-entrepreneur/"><i>guru</i> en marketing</a>, il est, en réalité, un entrepreneur talentueux qui a beaucoup de mérite.</p>
+<p>Olivier a créé La Tranchée parce qu’il a voulu amener son entreprise personnelle, olivierlambert.com, à un autre niveau. Il rêvait de créer une communauté d’entrepreneurs et de marketeurs qui s’unissent, s’entraident et se donnent des munitions pour être plus compétitifs.</p>
+<p>Après plusieurs semaines de travail de programmation acharné (Olivier a tout programmé par lui-même!), on a pu dévoiler La Tranchée publiquement.</p>
+<p>Au tout début, en août 2016, La Tranchée comprenait seulement le <a href="https://forum.latranchee.com"><b>forum de discussion</b></a> entre les membres. Olivier avait déjà une bonne liste courriels et beaucoup de clients qui suivaient ses formations. On a donc réussi à peupler La Tranchée avec ce qu’Olivier avait créé au fil du temps.</p>
+<p>Pour amener de nouveaux membres dans cette communauté, on a lancé une offre bêta, où La Tranchée était accessible pour 1$ jusqu’à ce que la version officielle sorte, en avril dernier. On en a fait la promotion avec des publicités Facebook.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1475" src="https://lh3.googleusercontent.com/aiiqYzOYK611sXUF89C8-Vvf9V5yiHG2TdR1zg7SV0-hr_-HB12w0BFvcIc5noFmV3V3oXis0qPKuHDyrCcS=s0" alt="La Tranchée " /></p>
+<p>Aujourd’hui, plus d’un an plus tard, on est maintenant rendus à plus de 1000 membres, 2000 sujets et 15 000 réponses données, ROCK ON!</p>
+<p>Au cours des premiers mois suivant la création, le contenu des formations avancées qui se trouvait sur olivierlambert.com a migré vers latranchee.com.</p>
+<p>Nous offrons 3 <a href="https://latranchee.com/formation"><b>formations avancées</b></a>:</p>
+<ul>
+<li>Devenez un expert Facebook: Apprenez les secrets derrière la création de campagnes publicitaires rentables</li>
+<li>Email marketing: Comment avoir plus d’abonnés, vendre plus et travailler moins!</li>
+<li>Comment se démarrer un blogue profitable? De la création d’un site web jusqu’au premier dollar</li>
+</ul>
+<p>On a ensuite ajouté un <a href="http://www.latranchee.com/blog"><b>blog</b></a> au site web de La Tranchée, où on écrit nous-même des articles, mais où on a aussi recruté des rédacteurs qui rédigent sur des sujets touchant le marketing et/ou de l’entrepreneuriat. Le blog est ouvert à tous, pas besoin d’être membre pour consulter les articles!</p>
+<p>D’ailleurs, on est toujours à la recherche de rédacteurs. Remplis <a href="https://docs.google.com/a/latranchee.com/forms/d/e/1FAIpQLSf4jPAXnpYG34jBwqXJlsCqwNUIbFIoq5VfbgdRIincT2M-zQ/viewform">ce formulaire</a> si ça t’intéresse <img src="https://www.booxi.com/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>Ce que tu vois en ligne sur La Tranchée n’est qu’une petite partie du travail! En parallèle, on doit régler les bugs, améliorer le <a href="https://www.latranchee.com/la-magie-derriere-le-systeme-de-paiement-qui-vend-deux-fois-plus/">système de paiement</a>, supporter les questions de nos clients, animer le forum, répondre aux emails, optimiser nos publicités Facebook, préparer les séquence de courriel, monter des landing pages, etc.</p>
+<h2><span style="font-weight: 400">Apporter plus de valeur à la communauté</span></h2>
+<p>En mars dernier, souhaitant apporter plus de valeur à la communauté qu’avec un simple forum, on a filmé des capsules vidéo de <a href="https://latranchee.com/formation#membres"><b>formations gratuites pour les membres de La Tranchée</b></a>.</p>
+<p>On a des vidéos sur une multitude de sujets: marketing Facebook, marketing par courriel, les outils à utiliser sur le web, référencement 101, introduction à Adwords, Google Analytics, etc.</p>
+<p>Près de 7h de contenu gratuit est disponible à l’heure actuelle et on continue d’ajouter des formations à chaque semaine!</p>
+<p>En avril dernier, on a ajouté une nouvelle fonctionnalité à La Tranchée: un répertoire pour échanger des services avec d’autres entrepreneurs. On a donc créé un genre de <a href="http://www.latranchee.com/portail/repertoire">Tinder pour entreprises</a>!</p>
+<p>Un Tinder? Oui monsieur. C’est un répertoire où tu inscris ce que tu offres, ce que tu recherches et tu es <i>matché</i> avec un entrepreneur qui a les besoins opposés!</p>
+<p>Aujourd’hui, 772 membres ont inscrit leurs compétences et besoins. Plusieurs nous remercient pour les coûts et les efforts que ce répertoire leur a sauvé!</p>
+<p>De plus, depuis le printemps dernier, on développe des <a href="https://www.latranchee.com/rabais-exclusifs/">partenariats</a> avec des entreprises qui offrent des produits/services utiles à nos membres, comme Booxi!</p>
+<h2><span style="font-weight: 400">Les nouveautés de l’été 2017</span></h2>
+<p>En juin dernier, on a lancé notre propre webinaire, exclusivement pour les membres. On tient un webinaire par mois, où notre équipe répond en <i>live</i> aux questions de nos abonnés.</p>
+<p>Puis, tout récemment, on a lancé notre <a href="http://www.latranchee.com/podcast">podcast</a>, disponible à tous. On diffuse un épisode par semaine, le mercredi matin. Olivier a travaillé très fort tout l’été pour interroger des références en ce qui a trait au marketing ou à l’entrepreneuriat. Pour l’instant, le critique est plus que positive!</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1476" src="https://lh3.googleusercontent.com/ufRULG32LXbyJNFqPpJt7c60D30yHeo-YNkCnsCvvOVHcVUPqy6glCvS1ySXhUbBuLZdABe-3PPm1qM6agL_eGg=s0" alt="Partenaire La tranchée " /></p>
+<p>Si j’avais un conseil à te donner pour terminer, ça serait ceci: l’important pour faire croître ton entreprise, c’est de prioriser les efforts. Il y aura toujours beaucoup à faire. Il faut donc choisir les actions qui vont rapporter rapidement.</p>
+<p>Et parfois, avoir un regard externe sur son entreprise permet de la remettre dans la bonne direction.</p>
+<p>De notre côté, nos principaux défis pour l’année à venir: mieux se positionner côté référencement et continuer à faire croître le nombre d’abonnés. C’est là-dessus que nos efforts seront dirigés.</p>
+<p>Et toi, quels sont tes défis?</p>
+<p>Tes ventes stagnent? Tu voudrais être plus compétitif? Tu voudrais augmenter ta présence en ligne?</p>
+<p>Viens poser tes question sur La Tranchée, des experts sont là pour te donner un coup de main!</p>
+<p style="text-align: center"><a href="http://bit.ly/2fsgLpl" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Pose tes questions</a></p>
+<p style="text-align: center"><div class="creativ-shortcode creativ-shortcode-alertbox creativ-shortcode-alertbox-colour-border"><p class="creativ-shortcode creativ-shortcode-alertbox-content">Article écrit par Marie-Pierre Guignard.<br />
+Avec son bac et sa maitrise en marketing en poche, Marie-Pierre aide Olivier à l&rsquo;organisation du futur empire! Elle était directrice communication-marketing d&rsquo;une PME de la région de Québec, avant de se joindre à l&rsquo;aventure d&rsquo;Olivier Lambert. Elle apporte à l&rsquo;équipe par son énergie positive et son esprit vif.</p></div></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#171;&#160;Une solution pour mes dossiers patients!&#160;&#187;</title>
+		<link>https://www.booxi.com/blog/temoignage-annie-banville/</link>
+		<comments>https://www.booxi.com/blog/temoignage-annie-banville/#comments</comments>
+		<pubDate>Fri, 09 Jun 2017 14:40:28 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Témoignages]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1154</guid>
+		<description><![CDATA[Avec booxi, j'ai trouvé "une solution pour mes dossiers patients". Dans ce témoignage, découvrez pourquoi Annie Banville ne pourrait plus travailler sans booxi! ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1155 size-full" src="https://lh3.googleusercontent.com/Gj8P5nJrTZdgNyUZIq1UChU0T1Rsz3kovigVlaDRUkF9qTRLX0FlcyvJdYVf0HW4d26rCtKQHWIb51rFozExyw=s0" alt="témoignage Annie Banville " width="1200" height="390" />Annie Banville est esthéticienne visagiste et passionnée par la cosmétologie depuis plus de 20 ans.<br />
+Artiste maquilleuse reconnue par l’<a href="http://www.apeseq.ca/">APESEQ</a>, elle réalise son rêve en 2010: ouvrir son propre salon <a href="http://maquillagepermanentab.com/">Maquillage Permanent AB</a> et vivre de sa passion!<br />
+Spécialisée en maquillage permanent &amp; maquillage professionnel, ce sont sa sensibilité et son expérience qui lui permettent d’offrir un service personnalisé à l’image de ses clientes.</p>
+<p>Aujourd’hui Annie nous explique comment booxi l’aide à gérer son salon et à être plus efficace en affaires.</p>
+<h2><b>Qu’est-ce qui vous a conduit à essayer booxi en octobre 2016?</b></h2>
+<p>“Il y a 10 ans je n’étais pas quelqu’un de très technologique, je fonctionnais beaucoup sur papier. Mon agenda, mes dossiers clients et même ma comptabilité : tout était sur papier. Mais en maquillage permanent les clientes peuvent revenir 10 ans plus tard, pour une retouche par exemple, donc je ne peux jamais détruire les dossiers. Je me suis rapidement retrouvée avec une accumulation de dossiers, qui prenait beaucoup d’espace de stockage. Il fallait que je trouve une solution.</p>
+<p>Initialement c’est la raison pour laquelle j’ai voulu essayer booxi: Mon défi c’était de trouver une solution pour gérer mes dossiers clients.</p>
+<p>J’ai entendu parler de booxi grâce à l’<a href="http://www.apeseq.ca/">APESEQ</a>, et j’ai vu qu’il y avait une fonctionnalité “Dossier Clients” en ligne. J’ai réalisé l’essai gratuit et c’est à ce moment que j’ai vu la prise de rendez-vous en ligne. J’ai trouvé ça intéressant car en tant que travailleur autonome je n’ai pas de réceptionniste qui travaille pour moi, donc quand je suis en soin, pour ne pas interrompre le service offert, je ne réponds pas au téléphone.</p>
+<p>Alors ça prenait parfois jusqu’à 3 jours pour prendre un rendez-vous avec une cliente. On fonctionnait par messages vocaux: la cliente laissait un message, je la rappelais en lui donnant mes disponibilités, elle me rappelait pour m’informer que les dates ne fonctionnaient pas pour elle&#8230; ça prenait parfois plusieurs jours avant de trouver une date commune.</p>
+<p>Ça m’a fait réaliser qu’il y avait un problème de ce côté là aussi et j’ai donc décidé de l’essayer pendant la période gratuite. Très rapidement  je me suis aperçu que ça me simplifiait la vie.</p>
+<p>Dès la première semaine où j’ai mis mon compte en ligne, une cliente a pris son rendez-vous  sans avoir besoin de m’appeler. Et rapidement les rendez-vous ont commencé automatiquement à s’enregistrer. J’ai trouvé cela vraiment pratique.</p>
+<p>Parallèlement, j’ai transféré tous mes dossiers clients papier sur booxi, au fur et à mesure.”</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1158" src="https://lh3.googleusercontent.com/ZyLEqao7PYGXhkla2UqdopZuqgQU0S4kr1OT1M1LguEV1Adwu9HgrNTfE0-vIcgdvJQkLyfKdip4vFUWS5HXhRE=s0" alt="salon maquillage permanent" /></p>
+<h2><b>Qu’est-ce que booxi a changé dans votre quotidien? </b><b><br />
+</b></h2>
+<p>“Avant d’utiliser booxi, quand je fonctionnais encore sur papier, je prenais un soir ou deux par semaine pour téléphoner à toutes mes clientes de la semaine afin de leur rappeler leur rendez-vous. Maintenant je n’ai plus besoin de le faire, elles reçoivent automatiquement leur message de rappel.</p>
+<p>Au delà de l’énorme gain de temps que cela m’a fait réaliser, cela m’a également permis de supprimer une tâche que je n’aimais pas faire. Les gens n’apprécient pas spécialement de recevoir des appels en soirée, alors parfois je sentais que ce n’était pas le moment idéal pour mes clientes. D’ailleurs moi-même je n’avais pas forcément envie de faire des appels le soir.“</p>
+<p>“Quand j’ai commencé à utiliser booxi, je pensais que cela intéresserait une clientèle plutôt jeune. J’ai constaté que même mes clientes plus âgées l’utilisent et aiment recevoir leurs rappels par texto.<br />
+J’ai été surprise par le fait que les gens utilisent à ce point la prise de rendez-vous en ligne. Comme je suis en maquillage permanent j’avais pensé que les gens préféreraient me rencontrer ou communiquer avec moi de vive voix avant de prendre un rendez-vous. Et non en fait beaucoup de femmes que je ne connais pas, qui n’ont pas nécessairement été référencées par une de mes clientes, prennent rendez-vous de cette façon là.</p>
+<p>Elles trouvent ça plaisant de pouvoir connaître mes disponibilités si rapidement. C’est un commentaire qui revient souvent.”</p>
+<p>“Grâce à la prise de rendez-vous en ligne, je passe beaucoup moins de temps au téléphone. Avant, à la fin d’une séance je prenais mes messages vocaux, et j’en avais énormément. J’ai beaucoup moins de retour d’appels à faire, et pourtant mon agenda est rempli pour les 2 prochains mois. D’ailleurs mon horaire est plus rempli qu’il ne l’était à l’automne dernier, avant que je commence à utiliser booxi. “</p>
+<p>“Une autre chose que j’ai remarqué et qui m’a surprise c’est que j’avais l’habitude d’avoir une liste d’attente. C’est-à-dire qu’en cas d’annulation d’un rendez-vous certaines clientes me demandaient de les appeler pour leur proposer la plage horaire disponible.</p>
+<p>Maintenant quand j’ai une annulation, rapidement dans la journée un autre rendez-vous remplace la plage horaire qui vient de se libérer. Je me suis rendue compte que les clientes sont à l&rsquo;affût, elles ont pris l’habitude d’aller voir si des disponibilités se sont ouvertes.<br />
+Elles ont l’opportunité de devancer leur rendez-vous avant même que j’aie le temps de les rappeler. Je trouve ça vraiment plaisant.“</p>
+<p>“J’ai même dû faire des petits réajustements dans ma façon de gérer les réservations de rendez-vous. J’offre une retouche gratuite 4 à 6 semaines après le premier rendez-vous. Avant je planifiais cette retouche, directement avec la cliente, lors du rendez-vous.</p>
+<p>Aujourd’hui, étant donné que j’ai en moyenne 2 mois d’attente pour un rendez-vous, j’invite mes clientes à tout de suite réserver en ligne cette séance de retouche, pour leur assurer les meilleurs délais.”</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1159" src="https://lh3.googleusercontent.com/QQHRo2TbyftrqlpuqhodQd1UxebOFHc7H3dAMDlEb-4CiUaZndGfn7vzmT6E3vIh8_GlnzI8FyKTMhmIzcQfmw=s0" alt="annie banville services" /></p>
+<h2><b>Avez-vous une fonctionnalité coup de coeur?</b></h2>
+<p>“Les dossiers patients!</p>
+<p>Étant donné que chaque dossier peut être relié à une photo facilement en quelques clics, c’est vraiment plus simple pour moi de réaliser le suivi. Avant, lorsque je fonctionnais avec des dossiers papier, je devais chaque semaine prendre le temps d’imprimer mes photos, les classer sans me tromper, ce qui me demandait une gestion supplémentaire.</p>
+<p>Maintenant tout est facilement et rapidement à portée de main : la photo, les notes de chaque séance et même des notes de nos conversations. Ça m’aide vraiment dans mes suivis. Avant même que la cliente se présente, même après plusieurs années pour une retouche, je me souviens qui elle est et le traitement fait initialement. Bien sûr quand j’utilisais les dossiers papiers je notais également  tout cela . Mais aujourd’hui c’est plus visuel, et je peux y accéder bien plus rapidement et me rappeler du visage de ma cliente avant son rendez-vous, et donc assurer un suivi encore plus personnalisé.“</p>
+<p>“Une autre fonctionnalité qui me fait également gagner beaucoup de temps, c’est la possibilité de lier un formulaire de santé dans le message de confirmation. Il est automatiquement envoyé et mes clientes peuvent le compléter avant le rendez-vous. Là encore tout est en ligne, donc cela m’a permi de complètement éliminer le papier, et donc d’économiser beaucoup d’espace.<br />
+En plus lorsque la cliente arrive à son rendez-vous le formulaire est déjà rempli et je l’ai automatiquement reçu. Une économie de 20 minutes, qu’on prenait habituellement en début de séance.”</p>
+<p>“Enfin j’aime beaucoup le message de remerciement envoyé automatiquement à mes clientes une fois que le rendez-vous est terminé. Il complète l’expérience client offerte”.</p>
+<h2><b>Et comment se sont passés vos débuts avec booxi?</b></h2>
+<p>“booxi m’a sorti de ma zone de confort : Au début j’étais inconfortable sans mon agenda papier pourtant je sentais qu’il fallait que je le fasse. J’étais bien dans mes pantoufles avec mes papiers, mais j’ai lu dans un article que d’ici 2020, plus de 80% des gens vont faire leurs achats et leurs réservations en ligne. J’ai conscience que c’est l’avenir et je pense que c’est important de le réaliser. Alors bien sûr au début c’est inconfortable de changer, mais c’est tellement temporaire et le résultat en vaut vraiment la peine. Donc j’ai quand même décidé de me lancer et depuis ce n’est que du positif.”</p>
+<p>“J’ai trouvé que la page a été simple à monter et j’ai aimé le faire. C’est vraiment très facile à comprendre. De mon côté j’ai pris environ 2 semaines à la paramétrer, mais je suis très perfectionniste, alors j’ai passé beaucoup de temps à choisir mes photos, à penser à ce que j’allais écrire dans mes services et à mettre mon compte en ligne qu’une fois que c’était complètement à mon goût.”</p>
+<p>“Et mes clientes, de tous les âges, adorent et me disent que ça fait parti de l’expérience client. Même des clientes de 60 ans et plus l’utilisent. Elles arrivent à leur rendez-vous et elles sont déjà enchantées: le message de confirmation, les rappels et le message de remerciement ont un impact positif. Étant travailleur autonome, j’ai  la sensation que c’est une façon de me distinguer dans mon service.“</p>
+<p>“Aujourd’hui je ne pourrais plus m’en passer et je suis contente d’avoir fait le saut.</p>
+<p>Quand j’entends des gens hésiter à faire le pas vers ce genre de système je me dis “S&rsquo;ils savaient”. Je me sens plus zen depuis que j’utilise booxi. Ça m’a enlevé une charge de travail qui me permet de réellement me concentrer sur ma passion et sur ma créativité.&nbsp;&raquo;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/temoignage-annie-banville/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#171;&#160;Pas de téléphone quand je suis avec une cliente!&#160;&#187;</title>
+		<link>https://www.booxi.com/blog/temoignage-esthetique-isa-belle/</link>
+		<comments>https://www.booxi.com/blog/temoignage-esthetique-isa-belle/#comments</comments>
+		<pubDate>Thu, 04 May 2017 21:48:57 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Témoignages]]></category>
+		<category><![CDATA[gain de temps]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1026</guid>
+		<description><![CDATA[Découvrez comment Isabelle Perrault, travailleur autonome et propriétaire du salon Esthétique Isa-Belle, a gagné énormément de temps et a augmenté sa clientèle depuis qu'elle utilise booxi. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1139 size-full" src="https://lh3.googleusercontent.com/cAC0sPGX4CRl-oO2UB-sc39Lj--fH2qRXqV_qJGbbogQ7EczhrRc83QKy-JheCXr6epjWf27WfYwngNX6ram=s0" alt="témoignage Isabelle" width="1200" height="390" />Isabelle est travailleur autonome en esthétique et propriétaire de <a href="https://www.facebook.com/EsthetiqueIsabelle82/">Esthétique Isa-Belle</a>.</p>
+<p>Il y a 5 ans elle était encore très attachée à son calendrier papier. Pourtant son mari réussit à la convaincre que <a href="https://www.booxi.com/fonctionnalites">la prise de rendez-vous en ligne</a> est un avantage compétitif et qu’elle doit simplifier au maximum la vie de ses clients. Consciente qu’elle perd beaucoup de temps à gérer ses horaires, elle décide d’essayer une solution de gestion de rendez-vous.</p>
+<p>Isabelle évalue quelques solutions disponibles sur le marché et commence à en utiliser une. Pourtant peu de temps après elle découvre booxi. Directement conquise par son design et sa simplicité d’utilisation ainsi que par l’expérience que booxi offre à ses clients, elle décide de changer de solution et en quelques heures seulement elle est opérationnelle pour l’utiliser.</p>
+<p>Depuis?<em><span style="color: #999999">«Ce n’est que du positif»</span></em> pour Isabelle.</p>
+<h3 style="text-align: center"><b> 90% des clients prennent rendez-vous en ligne, un gain de temps considérable.</b></h3>
+<p><img class="img_zoom wp-image-1036 aligncenter" src="https://lh3.googleusercontent.com/4MkaeF2FvjtZ6NHUfoC0cXNeFIJE1KFghqCkoB_fVmCtsouWzx-eIiQKUpCy_O3f8RbUZW8bVWdQ7q4AL_WU=s0" alt="rendez-vous pris en ligne" width="319" height="319" /></p>
+<p>Pourquoi?</p>
+<p style="text-align: center"><em><span style="color: #999999">«Parce qu’ils peuvent prendre rendez-vous en tout temps et toute simplicité,” sans décrocher le téléphone et sans mot de passe à mémoriser.»</span></em></p>
+<p>D’ailleurs Isabelle a remarqué que la plupart des rendez-vous sont pris après 21h. Certains rendez-vous s’enregistrent même pendant la nuit ou tôt le matin. Fini le temps où les clients devaient appeler pendant leurs heures de travail, au risque de tomber sur une messagerie vocale.</p>
+<p>Les rendez-vous rentrent tout seuls et Isabelle n’a quasiment plus d’appels téléphoniques à gérer, ni de messages sur sa boîte vocale.</p>
+<h3 style="text-align: center"><b>Une diminution considérable des appels téléphoniques.</b></h3>
+<p><a href="https://booxi-live-wp-storage.storage.googleapis.com/simplify-appointment-booking.png"><img class="img_zoom aligncenter  wp-image-1037" src="https://lh3.googleusercontent.com/2uf9BAKEO2WhSqSctNTx5apNvrTI-iWsikfqmDDkG52Qb81gpVcGBsDyk8mjshVPNCcZr3plfre4VVL-P_Ip=s0" alt="prise de rendez-vous en ligne simplifiée" width="396" height="360" /></a></p>
+<p>En plus Isabelle a toujours veillé à appliquer une règle:</p>
+<p style="text-align: center"><em><span style="color: #999999"> «Pas de téléphone quand je suis en soin avec une cliente! »</span></em></p>
+<p>Alors avant booxi, ses clients laissaient des messages vocaux, qu’elle devait écouter dès qu’elle avait un peu de temps, rappeler ses clients par ordre de priorité des rendez-vous. Elle tombait souvent à son tour sur la messagerie des clients, et cet échange représentait une grande perte de temps autant pour Isabelle que pour ses clients.</p>
+<p>Aujourd’hui, avec booxi, elle gagne énormément en efficacité. D’ailleurs si un client appelle et tombe sur le répondeur, le message l’informe qu’il peut maintenant prendre rendez-vous en ligne. Fini les pertes de temps à jouer au ping-pong téléphonique.</p>
+<p>Cela contribue à augmenter la fréquence des rendez-vous de ses clients actuels qui prennent rendez-vous dès qu’ils y pensent et n’ont plus à attendre un retour d’appel. C’est vraiment simple et efficace.</p>
+<h3 style="text-align: center"><b> Une gestion d’horaire simplifiée et une adoption instantanée par les clients.</b></h3>
+<p>Enfin grâce à la fonctionnalité qui permet d’ajouter un espacement occupé après le rendez-vous sans que cela impacte la durée du rendez-vous pour les clients, Isabelle est sûre d’avoir le temps nécessaire dont elle a besoin pour ranger la pièce et la préparer pour le prochain client, même lorsque les clients prennent rendez-vous eux-même. Avec booxi le client connaît la durée du service fourni et Isabelle peut optimiser son horaire.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1039" src="https://lh3.googleusercontent.com/ioVJ2X8Dn-eMInopCISGYfqhpADUUmi8c9QAZd9gDxl-lTDvNjyN3HUuFzQeJ4f_NU6mK_zRYKdhGWEfg7cmocw=s0" alt="busy time slot" /></p>
+<p>Isabelle a trouvé booxi très facile à utiliser, et à configurer. C’est également le commentaire que lui donne ses clientes pour la prise de rendez-vous en ligne :<em><span style="color: #999999">«C’est clair et simple à comprendre. D’ailleurs l’une de mes clientes, âgée de 73 ans prend facilement ses rendez-vous en ligne avec booxi.»</span></em></p>
+<p>En plus le fait d’offrir la prise de rendez-vous en ligne via booxi a permis à Isabelle d’acquérir de nouveaux clients!</p>
+<p style="text-align: center"><em><span style="color: #999999">«Les gens cherchent à se simplifier la vie, alors si vous les aidez à le faire ils sont forcément satisfaits et viennent chez-vous”.»</span></em></p>
+<p>La prise de rendez-vous en ligne représente un réel avantage compétitif, et ça Isabelle en est convaincue.</p>
+<a href="https://www.booxi.com/affaires/inscription" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Démarrer</a>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/temoignage-esthetique-isa-belle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Augmentez les revenus de votre salon d’esthétique de plus 17&#160;000$ par an</title>
+		<link>https://www.booxi.com/blog/augmentez-les-revenus-votre-salon-desthetique/</link>
+		<comments>https://www.booxi.com/blog/augmentez-les-revenus-votre-salon-desthetique/#comments</comments>
+		<pubDate>Tue, 14 Feb 2017 21:19:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Témoignages]]></category>
+		<category><![CDATA[optimisation]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=919</guid>
+		<description><![CDATA[Découvrez, à travers la réussite de Marie, comment gérer un salon de beauté avec succès et en augmenter rapidement les revenus! ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1147 size-full" src="https://lh3.googleusercontent.com/FaINPg_Dy8KU_o9UX4jahEpzy6Wwk-u23TYT1sj2TTBKh95330mCfYQ71TTnpJUIEonECV8DnafT_lI8FOX2=s0" alt="témoignage marie leblanc" width="1200" height="390" />Marie est la propriétaire du salon <a href="http://www.esthetiquemarieleblanc.com/">Esthétique Marie Leblanc</a> depuis 15 ans. Avec une équipe de 5 personnes et des semaines bien remplies de plus de 140 rendez-vous, la gestion des horaires de l’ensemble de l’équipe prenait beaucoup de temps et de nombreux clients oubliaient de se présenter à leur rendez-vous.</p>
+<h2><img class="img_zoom  alignleft wp-image-925" src="https://lh3.googleusercontent.com/DJiMoF2e1wDQjeYTbpARUPfgMqnkY63FZgfxa5H-73-i4TyOh_36rXLRJ-iqYWANNX9PvPRYRIE4IDfyyIogRw=s0" alt="no more no-shows" width="69" height="69" /></h2>
+<h2></h2>
+<h2></h2>
+<h2>Fini les rendez-vous manqués!</h2>
+<p>D’ailleurs avant d’utiliser booxi Marie avait environ 5 rendez-vous manqués par semaine.<br />
+Depuis elle en a au maximum 1.<br />
+À 40$ environ le rendez-vous, c’est 160$ par semaine, soit 640$ pour un mois. On parle donc de plus de 7680$ de revenus supplémentaires par an.</p>
+<p style="text-align: center"><em><img class="aligncenter wp-image-926 size-full" src="https://lh3.googleusercontent.com/4rWvDxwBQu0Z1EK9TqCfj4X0whRrLi0oy3qnREg1n5dEQy8bxmsMLHk08CJ5tDMOPve1TaH8-NX3CeVrdPZl_w=s0" alt="marie-leblanc-team" width="1280" height="700" /><br />
+<span style="color: #999999">“Les gens reçoivent tous un texto de rappel. J’adore ça, je fais entièrement confiance, ils savent qu’ils ont rendez-vous à telle heure demain. Pour nous ça a été tout un changement!”<br />
+— Marie Leblanc</span></em></p>
+<p>&nbsp;</p>
+<p>Le cas de Marie est particulier: une réceptionniste assurait la gestion des appels et des rendez-vous en même temps que celle du salon de coiffure voisin: un investissement de 800$ par mois. Grâce à booxi, 40% des clients prennent maintenant rendez-vous en ligne, directement à partir du site web de Marie ou de la <a href="https://www.facebook.com/Centre-dEsth%C3%A9tique-Marie-Leblanc-267430483278142/">page Facebook</a>. Il n’y a quasiment plus de téléphone, et les journées se remplissent d’elles-même. Marie n’a donc plus de secrétaire, et gagne 9 600$ de plus par an.</p>
+<h2><img class="verti_top wp-image-923 alignleft" src="https://lh3.googleusercontent.com/1Q1ZVOcTudMAqz0oru68nsaE3Jjl8Pl-DMWUxc3U7doMUcehzqFaOEAynz_0LXTcBmhfw0-9Py6If9qi8Pd0Qw4=s0" alt="clients_plus_b" width="69" height="69" /><br />
+Nouveaux clients</h2>
+<p>En plus booxi lui a permis d’acquérir de nouveaux clients. En effet en 6 mois c’est une quinzaine de nouveaux clients qui ont informés Marie avoir choisi son salon justement parce qu’elle offre la prise de rendez-vous en ligne. Une preuve que le fait d’offrir à sa clientèle la possibilité de prendre rendez-vous quand cela leur convient est un avantage important sur la concurrence. Et une source de revenu considérable.</p>
+<p>Imaginons que ces 15 nouveaux clients ne soient venus qu’une fois au cours des 6 derniers mois. À 40$ en moyenne le rendez-vous cela représente : 40$ x 15 = 600$.</p>
+<h2><img class="verti_top wp-image-934 alignleft" src="https://lh3.googleusercontent.com/V2-9QcwlofZ21P9G1aRgeuMpdoDqw7FJ-0IOQHgdynVHn3CQLOw-2Uhz7BhIWeEusfNXdLUv0g2xmfRYfkoCRQ=s0" alt="appointment_plus_b" width="69" height="69" /><br />
+Augmentation de la fréquence des visites</h2>
+<p style="text-align: left">Finalement Marie a également remarqué que la fréquence des visites de ses clients a augmenté. En effet, avant qu’elle n’utilise booxi, la prise de rendez-vous par téléphone prenait du temps aux clients. Ils devaient y penser pendant la journée, souvent sur leur propres horaires de travail et prenaient le risque de patienter que la secrétaire finisse son précédent appel et fasse payer les clients devant elle. Aujourd’hui avec booxi ils peuvent le faire chez eux, quand ils y pensent, et donc même à minuit, en prenant le temps qu’ils souhaitent. Ils sont aussi plus nombreux à prendre plusieurs rendez-vous à l’avance.</p>
+<hr class="dash" />
+<p style="text-align: center"><strong><span class="bx_text28"><span style="color: #555555">À la fin de l’année,<br />
+Marie a donc gagné plus de</span> <span style="color: #44ce5e">17 300$</span> <span style="color: #555555">grâce à booxi.</span></span></strong></p>
+<p>&nbsp;</p>
+<p>Avec un abonnement annuel de moins de 480$ par an le retour sur investissement*, de 3500%, est donc largement prouvé.</p>
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p><img class="img_zoom aligncenter size-full wp-image-946" src="https://lh3.googleusercontent.com/tXpCHiqXRaxrjoKBcD8tScnSsEJV1ND9bWXEMYZd9FPF9Fs5JvfAbE2pZmj1_AFq3SO6igdr1C8cuvkvajQmeA=s0" alt="cost_fr" /></p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"><p><img class="img_zoom aligncenter wp-image-965 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/retour_sur_investissement_fr.png" alt="retour sur investissement" width="380" height="200" /></p>
+</div></div></div>
+<p>&nbsp;</p>
+<p><img class="img_zoom aligncenter wp-image-940" src="https://lh3.googleusercontent.com/yVkIznwVTrhOSd00lZcZyc2XMt9OC4cO9TNPcIPa2Hm6HkaFEC2wpaHOSCYNphjQEkZWscIaTBN3fVgDuzYxlcc=s0" alt="calcul du retour sur investissement" width="537" height="71" /></p>
+<h5 style="text-align: center">Calculez combien votre entreprise pourrait gagner</h5>
+<p style="text-align: center"><a href="https://www.booxi.com/retour-sur-investissement?utm_source=blog&amp;utm_campaign=testimonial-marie-fr&amp;utm_medium=CTA" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Passer le test</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/augmentez-les-revenus-votre-salon-desthetique/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>booxi au salon de la beauté du CFP des Riverains.</title>
+		<link>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/</link>
+		<comments>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/#comments</comments>
+		<pubDate>Mon, 11 Jul 2016 16:59:45 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Communiqués de presse]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+		<category><![CDATA[solution abordable]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=74</guid>
+		<description><![CDATA[Saviez-vous que booxi offre des présentations et des formations sur la gestion des entreprises? Découvrez plus de détails dans ce article.]]></description>
+				<content:encoded><![CDATA[<p>L’événement a pour but de présenter aux étudiants et visiteurs les nouveautés dans l’industrie de la coiffure et de la beauté. Dans le cadre de son partenariat avec <a href="http://toncoiffeur.com">TonCoiffeur.com</a>, booxi<img class="alignright" src="https://2.bp.blogspot.com/-aONcXrImupI/VyitfCYao_I/AAAAAAAAAOs/Tptn47kTn1Qotq24iK4-SphTHN-QHtMeACLcB/s200/beaute.JPG" alt="" /> y présentait sa solution intelligente, qui s’adresse autant aux entreprises avec plusieurs employés, qu’aux travailleurs autonomes. booxi est <strong>une révélation pour les étudiants qui planifient se lancer en affaires</strong>, et une révolution pour les entreprises de coiffure établies.</p>
+<p>Étudiants et entreprises y voient l’opportunité d’éviter une dépense de 3 000 $ à 10 000 $ pour un site web, un logiciel de gestion de salon vieille génération et des ordinateurs en réseau. Avec un <strong>budget limité</strong> de 17 $ à 34 $ par mois (200 $ à 400 $ par année), ils auront<strong> tout ce dont ils ont besoin</strong> : un site web sans entretien, une liste de clients (CRM/GRC), une solution de prise de rendez-vous, l’envoi automatique de rappels par courriel et texto, et davantage. Cette solution facile d’utilisation, leur permet donc rapidement d’être plus efficaces que la plupart de leurs concurrents.</p>
+<p><img class="alignleft" src="https://4.bp.blogspot.com/-azYXvIj1boU/Vyit6aJNz7I/AAAAAAAAAOw/te9eKrjA04IAuVTjgFft-jROTxHPos8nwCLcB/s320/salonbeaute.JPG" alt="" />La solution vise à leur permettre d’obtenir plus de résultats avec moins d’efforts, notamment en passant moins de temps au téléphone, sur des tâches administratives et leur marketing, tout en se concentrant sur ce qu’ils aiment vraiment faire : s’occuper de leurs clients.<br />
+booxi souhaite continuer à initier les étudiants à l’<strong>importance d’avoir une bonne visibilité en ligne</strong>, et d’utiliser les outils abordables et gratuits qui sont à leur disposition, afin de gérer leur salon plus efficacement.</p>
+<p>C’est donc avec beaucoup d’enthousiasme que<strong> nous invitons les étudiants à parler de booxi avec leurs enseignants, et les écoles à nous contacter afin d’initier leurs étudiants à ses problématiques et leurs solutions</strong>, via une présentation éducative offerte par booxi.</p>
+<hr />
+<p>Vous souhaitez en apprendre plus sur notre formation en école? Découvrez le programme des sujet abordés, et envoyez nous votre demande pour que nous organisions ensemble une formation dans votre école.</p>
+<a href="https://docs.google.com/a/booxi.com/forms/d/e/1FAIpQLSfhxM5d9SHJazGz8_7gYLBpl2JBu7608RJoNVY1g1CRRspNjQ/viewform" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Presentation Request</a>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

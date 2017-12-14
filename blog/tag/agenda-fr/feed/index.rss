@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; agenda</title>
+	<atom:link href="https://www.booxi.com/blog/tag/agenda-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Horaire compact, format 12 heures, politique d&#8217;annulation par service</title>
+		<link>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/</link>
+		<comments>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:56:23 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[agenda]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[gain de temps]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=50</guid>
+		<description><![CDATA[Découvrez les fonctionnalités du calendrier qui vous permettent de sauver encore plus de temps. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Voici des explications sur les petits détails de booxi qui vous permettent de gagner encore plus de temps :</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Localisation des dates et heures</li>
+<li>Impression d&rsquo;un horaire compact</li>
+<li>Politique d’annulation par service</li>
+<li>Ligne de temps sur le calendrier</li>
+<li>Zone grise d’horaire plus précise</div></li>
+</ul>
+<hr />
+<h3>Localisation des dates et heures<a href="https://lh4.googleusercontent.com/sKDFQNAuHSEcO1qqI5xar5MInD1NWUZyILfT_4ZCb1JUpYIyR5BuV1c0gaJotIhi5d6PGYVc0vqtXt88_4fV0i1F1Z_Hx5W5QAkUW7cDLV8QhRMiOhn2_fdKWinmQwN1RUQqdiIA"><img class="shadow_medium alignright" title="use_banner" src="https://lh4.googleusercontent.com/sKDFQNAuHSEcO1qqI5xar5MInD1NWUZyILfT_4ZCb1JUpYIyR5BuV1c0gaJotIhi5d6PGYVc0vqtXt88_4fV0i1F1Z_Hx5W5QAkUW7cDLV8QhRMiOhn2_fdKWinmQwN1RUQqdiIA" alt="paramétrer l'heure" width="241" height="132" border="0" /></a></h3>
+<p>Nous avons amélioré l’affichage des dates et heures en respectant les formats spécifiques à chaque pays. Nous supportons maintenant complètement les formats 24 heures et 12 heures (militaire) avec AM/PM.</p>
+<h3>Imprimer un horaire compact</h3>
+<p>Nous avons ajouté un nouveau format pour l’impression de l’horaire de rendez-vous journalier. Vous pouvez maintenant imprimer un horaire avec 24 rendez-vous par page, comparativement à l’horaire détaillé qui n’en affiche que 8 par page.<img class="alignright wp-image-379 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/pasted-image-0.png" alt="imprimer l'horaire" width="291" height="165" /></p>
+<p>Pour imprimer l’horaire compact :</p>
+<ol>
+<li>Accédez à votre calendrier en mode Journée</li>
+<li>Cliquez sur le bouton de menu  <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/bAK47s-rP2ZE9TRNjjOmmQRrd9WGq941rMY6dxD10SUGZgw1Wz1JE0PHV9V95bCfd6kF0rDtJCFb1o3sYbSSvkw0VzReJxduioUaF7TARnRV4CDIoUKcTeZxmzNXtz15PaGQiS2i" alt="" /> (en haut, à droite)</li>
+<li>Choissez Imprimer l’horaire compact.</li>
+</ol>
+<p>Le navigateur Google Chrome, vous permet toujours d’imprimer ou sauvegarder en format PDF.</p>
+<p><a style="font-weight: normal" href="https://lh4.googleusercontent.com/b1vqYZA8Rtz59gm2q3pEdBF5oAWLJCqTQk46-mTUwP2zZ-p4NIEYGKzvuMA7nSz_QNx2JojAIglP5-uZSfvDLKOZQKlmr2hQcm27_H-q7Gd0OkOMnrKF71-l9Xnebr1K5ewNgyy6"><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/b1vqYZA8Rtz59gm2q3pEdBF5oAWLJCqTQk46-mTUwP2zZ-p4NIEYGKzvuMA7nSz_QNx2JojAIglP5-uZSfvDLKOZQKlmr2hQcm27_H-q7Gd0OkOMnrKF71-l9Xnebr1K5ewNgyy6" alt="horaire de la journée" width="309" height="400" border="0" /></a></p>
+<h3>Politique d’annulation par service</h3>
+<p>Vous pouvez maintenant ajuster la politique d’annulation pour chaque service. Par défaut, tous les services utilisent la politique d’annulation de votre entreprise, mais vous pouvez donc au besoin, ajuster cette dernière.<br />
+<a style="font-weight: normal" href="https://lh3.googleusercontent.com/3MmXJKTO_HdDSY3zq_lj2x9u1s18JtE8gMtmfevTjSHS8ctASnmu6yrKaBJK081ptnh6TJyyWvpchnGk_PLTWTjRL5syV3seeVzPZZ4ddHWywh1MxpnKfrJcMXeSdBpEOkiZYNZX"><img class="shadow_medium alignright" src="https://lh3.googleusercontent.com/3MmXJKTO_HdDSY3zq_lj2x9u1s18JtE8gMtmfevTjSHS8ctASnmu6yrKaBJK081ptnh6TJyyWvpchnGk_PLTWTjRL5syV3seeVzPZZ4ddHWywh1MxpnKfrJcMXeSdBpEOkiZYNZX" alt="règle de rendez-vous par service" width="320" height="274" border="0" /></a></p>
+<p>Pour ajuster la politique d’annulation d’un service :</p>
+<ol>
+<li>Accédez à votre liste de services</li>
+<li>Choisissez un service</li>
+<li>Cliquez sur Règles de rendez-vous</li>
+<li>Activez la Politique d’annulation <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/BFkDc_VSvdcUbz-dmdmuiFEhNJgx4_vWRul0XDjQ6I4DUHw6gx96A5X0GJrnfm-ZycZOuSGzw4TBS367GpY5Z7gg6U3U1Xx9v-9R-N9YVA0A0IBLzmyN9iH5guESyVbWMsp-w_Q-" alt="" /></li>
+<li>Ajustez les paramètres et cliquez sur Sauvegarder</li>
+</ol>
+<h3>Ligne de temps sur le calendrier</h3>
+<p>Nous avons ajouté une ligne de temps qui vous indique en tout temps le moment présent dans votre horaire.</p>
+<h3>Zone grise d’horaire plus précise</h3>
+<p>Vous pouvez voir en tout temps votre horaire de travail ou heures d’ouverture, grâce à la couleur grise en arrière plan de votre calendrier. Par contre si votre intervalle de rendez-vous est ajustée à 60 minutes et que votre journée débute à 8h30, la zone grise commençait à 9h00, affichant ainsi une information erronée. Nous avons amélioré la précision de la zone grise au 5 minutes, affichant ainsi une information précise à propos de votre horaire, et ce en tout temps.</p>
+<p><a style="font-weight: normal" href="https://lh4.googleusercontent.com/KpAFI1auYB1fUINC2adknblMhRe_WVz6WdErjZpVwUTotUtYoWYsBlARaLjgbPJPOQx45iiCQXE7_TR4fUM7xvKDqnekA6a2WIZ7W6Gj5neTV2cHSFVDRjrvz5DknlxHrQd-HsD2"><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/KpAFI1auYB1fUINC2adknblMhRe_WVz6WdErjZpVwUTotUtYoWYsBlARaLjgbPJPOQx45iiCQXE7_TR4fUM7xvKDqnekA6a2WIZ7W6Gj5neTV2cHSFVDRjrvz5DknlxHrQd-HsD2" alt="précision augmentée du calendrier" width="320" height="184" border="0" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gains de temps : Couleur, État, copier coller et plus encore.</title>
+		<link>https://www.booxi.com/blog/gains-de-temps-couleur-etat-copier-coller-et-plus-encore/</link>
+		<comments>https://www.booxi.com/blog/gains-de-temps-couleur-etat-copier-coller-et-plus-encore/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:53:01 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[agenda]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[service multiple]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=49</guid>
+		<description><![CDATA[Gagnez en efficacité grâce aux couleurs qui vous permettent de connaître vos horaires d'un seul coup d'oeil et apprenez quelques astuces pour gagner encore plus de temps. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top  aligncenter" src="https://3.bp.blogspot.com/-LQoQS3lnMwU/Vp8KkhUrWPI/AAAAAAAAAic/BhEo6fOFxMU/s320/booxi_NewFeature_Calendar_Full.png" alt="" width="320" height="191" /></p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Merci pour votre feedback et vos suggestions, nous avons pu apporter plusieurs améliorations à booxi, dont voici les plus importantes.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>L’apparence du calendrier</li>
+<li>De nouveaux états de rendez-vous (Complété, Rendez-vous manqué, Client arrivé)</li>
+<li>Désactiver l’envoi automatique de messages</li>
+<li>Aperçu de rendez-vous avec plusieurs services</li>
+<li>Copier / Coller des plages horaires</div></li>
+</ul>
+<hr />
+<h3>Apparence du calendrier</h3>
+<p>L’apparence du calendrier a été améliorée de façon à mettre plus en évidence l’état (couleur) des rendez-vous, l’heure et le nom du client. Nous avons aussi ajouté deux nouveaux états de couleurs (pour Complété et Rendez-vous manqué).</p>
+<p><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/Ed2jRpFtmlyKV1wvX7DGuEswYfilxeUYAdNFCjvAX2vStDY9SxeVtRTtGf7T_ONZZL8sbZY0GPsoRuj6zbKkWR2pSgvwWHDqeDUcfDETGf6fFlOn3rsUjzbBQX0s-P3zjtGYpjfG" alt="" width="491" height="72" /></p>
+<h3>Nouveaux états de rendez-vous</h3>
+<p>Nous avons ajouté quelques nouveaux états de rendez-vous afin de vous permettre de mieux gérer ces-derniers. Vous pouvez maintenant marquer un rendez-vous comme étant complété ou manqué, ainsi qu’indiquer que le client est arrivé (si vous avez plus d’un employé qui gère les rendez-vous). Vous n’avez qu’à cliquer (bouton de droite) sur un rendez-vous et en changer l’état. L&rsquo;option Client arrivé n’est bien entendu que disponible pour les rendez-vous de la journée même, tandis que les options Compléter et Rendez-vous manqué sont disponibles une fois l’heure du rendez-vous passée.</p>
+<p><img class="shadow_medium aligncenter" style="color: #000000" title="use_banner" src="https://lh5.googleusercontent.com/1r3Z8dL3gD37GxzypwDT2PV7VKYpodgz-cUlvujG8P1U5drTpK6neuINJIu1PLmooaOOTqVQRRtyl2so2VNOAdlGE-exwSnJXPmM3vvxKvWBEH27-1v1iYUMV0nE0pegbbIFpAdD" alt="" width="493" height="215" /><br />
+Les rendez-vous complétés sont gris, les rendez-vous manqués sont mauve, et les rendez-vous pour lesquels le client est arrivé sont vert avec l’indicateur de client arrivé suivant <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/66kH1Iehghv5jowYvKYRnKT_6JdQCbHdIAK-RouoWlrW7D0GKKv3bpAud4GPaTJq2msknup4G7cTO68oZk_P37lHvb4tPZrcdQYSXN3HupcmUD9xiJXsX_kcJphDobAu1ps4q39D" alt="" /> (en bas à droite).</p>
+<p>L’option Réouvrir vous permet d’annuler l’état Complété, l’option Annuler rendez manqué, d’annuler l’état manqué, et finalement l’option Annuler client arrivé vous permet d’enlever l’indicateur de client arrivé.</p>
+<h3>Désactiver l’envoi de messages</h3>
+<p>Vous pouvez maintenant décider de ne pas envoyer de message au client quand vous modifiez ou ajoutez un rendez-vous. Pour ce faire, vous devez simplement modifier l’option “Approuver sans confirmation du client” en la changeant pour “Ne pas envoyer de message au client” et aucun message ne sera envoyé. Si le rendez-vous vient tout juste d’être ajouté et que vous décidez de ne pas envoyer de message, il portera l&rsquo;état (jaune) de nouvelle demande puisqu’il n&rsquo;a pas encore été confirmé au client par l’envoi du message. Nous avons aussi modifié les règles qui gouvernent l’envoi automatisé des messages, de façon à ne plus envoyer de messages pour tout changement. Seules les modifications d’heure et durée de rendez-vous déclancheront l’envoi d’un message de modification.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/PCVJuzRrHpIL_ibSl08NbK5--wlE1H68FaO3UnYTm6nDSZiTGRyuxnwWV76aLEZEUgvgfWnpk2g1k2iPFQ0upcB3WzYYyb3CLYXdRw-lscVwizfyyI7FKMDW0eji5NqhHnc6nwx2" alt="" width="470" height="116" /></p>
+<h3>Aperçu de rendez-vous</h3>
+<p>Quand votre souris est positionnée par-dessus un rendez-vous dans le calendrier. booxi vous affiche un aperçu de ce dernier. Cet aperçu affiche maintenant la liste de tous les services pour les rendez-vous avec plusieurs services et affichera bientôt aussi la catégorie de chaque service.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/TAOmnI1lUufW_Z5wGTKKc_V5Od_EHygh3k1FbCdoPu-kCLxz05fNaKw3OD6N0ptpFMBW8wjI67l00_skf2cGPSy_0-30D8dGLPJyeN0Zz4sHeyPxNY5lYYczI1SXNY-IAL2T6Vgb" alt="" width="403" height="388" /></p>
+<h3>Copier / Coller des plages horaires</h3>
+<p>Non seulement vous pouvez déplacer des plages horaires et des rendez-vous à l’aide de la souris (glisser et déposer), mais vous pouvez aussi maintenant copier et coller des plages horaires afin de modifier plus rapidement vos disponibilités. Vous n’avez qu’à cliquer (clic droit) sur une plage horaire et sélectionner l’option Copier, puis cliquer dans le calendrier (clic droit) et sélectionner l’option Coller pour copier une plage horaire.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/wZ82QUoNxpYbGk1ptgIjS3IxLwKILOMpCDygfwASUz6rdxfGJLQZ6qflJO3Ax3FCPN7FUaRf-QoVd4fbgPxSia1q8P7qfIyN6qWxFq1sH2HhtcU0utDnMs2qqqTZIUsnfzDBtw1t" alt="" width="301" height="63" /><br />
+<img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/bX3kSjIkdcqdjQZoDmS7R_nKpErg_6CGxXeU4ZWmoFzAakzUVBM18_61AKdhs0xrvOXwkDb1NLkCYgeuTMiAS9QDyG2Bs35VoIfP4j0lspRPgdMpODDWxY5fssOwpzind8bLcudG" alt="" width="303" height="62" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/gains-de-temps-couleur-etat-copier-coller-et-plus-encore/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

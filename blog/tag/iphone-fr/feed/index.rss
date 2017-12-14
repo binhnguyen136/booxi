@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; iPhone / iOS</title>
+	<atom:link href="https://www.booxi.com/blog/tag/iphone-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Appli iPhone &#8211; UI et calendrier améliorés</title>
+		<link>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/</link>
+		<comments>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 20:41:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=54</guid>
+		<description><![CDATA[Découvrez plus de détails sur la mise à jour de l'application iPhone : une meilleure expérience pour l'utilisateur et des améliorations dans le calendrier.]]></description>
+				<content:encoded><![CDATA[<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Nous venons de rendre disponible une nouvelle version de l’appli iPhone, dans laquelle nous avons apporté plusieurs améliorations dans le but de vous donner une expérience UI exceptionnelle, ainsi que pour rendre disponible sur mobile, plusieurs options déjà disponibles sur l’appli web.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Mise à jour générale basée sur l’application web</li>
+<li>Amélioration du calendrier</li>
+<li>Disponibilité dans de nouveaux pays</li>
+</ul>
+<p></div>
+<hr />
+<h3>Mise à jour générale basée sur l’application web</h3>
+<h3><img class="shadow_small alignright" src="https://3.bp.blogspot.com/-IugkeGPLRHU/V2f1aeZTo6I/AAAAAAAAAdc/CvBAlNDlHvYmdNbafDzAzFMw3_sOyhAIgCLcB/s400/IMG_0565.PNG" alt="modification d'une fiche client depuis l'iPhone" width="225" height="400" /></h3>
+<p>Nous avons pris le temps de revoir l’aspect visuel et l’expérience qu’offre l’appli mobile, afin qu’elle soit plus agréable et plus intuitive. Nous avons également ajouté de nombreuses fonctionnalités, pour que l’appli mobile offre plus d’options qui sont déjà disponibles sur l’appli web.</p>
+<p>En voici quelques exemples:</p>
+<ul>
+<li>Vous pouvez maintenant consulter et modifier la description de vos plages horaires disponibles et occupées.</li>
+<li>Vous avez maintenant accès à la note rapide de chaque rendez-vous.</li>
+<li>Nous avons ajouté plus de détails dans la fiche client, soit : le sexe, la date de naissance et la langue préférée.</li>
+<li>Nous avons aussi ajouté les choix d’emplacement Par vidéo conférence, et Par téléphone pour vos services, qui s’ajoutent aux choix Place d’affaires, et Domicile du client.</li>
+</ul>
+<h3><img class="shadow_small alignleft" src="https://3.bp.blogspot.com/-kD6peOctHMw/V2f13ztxDJI/AAAAAAAAAdk/-ZOGvCvl0lwmNzIlSYr2A_WNf_mCzcBggCLcB/s400/IMG_0560.PNG" alt="vue du calendrier sur l'application iPhone" width="225" height="400" />Amélioration de la présentation du calendrier</h3>
+<p>Nous avons amélioré l’affichage des évènements, de façon à ce que vos disponibilités soient plus évidentes et que le calendrier ressemble plus à un horaire journalier.</p>
+<ul>
+<li>Vous êtes maintenant en mesure de voir votre horaire de travail, vos plages horaires et vos rendez-vous, dans une même vue chronologique.</li>
+<li>Chaque fois qu’un rendez-vous est ajouté, votre horaire se brise en plages, afin de mettre en évidence les disponibilités restantes et conserver la chronologie des évènements.</li>
+<li>Vous pouvez aussi maintenant voir votre calendrier personnel synchronisé (par exemple Gmail, Hotmail, ou Apple) dans votre calendrier booxi.</li>
+<li>Nous avons aussi ajouté de nouveaux états de rendez-vous (qui sont aussi disponibles sur l’appli web), soit : Client arrivé, Rendez-vous manqué, et Complété.</li>
+</ul>
+<h3>Disponibilité dans de nouveaux pays</h3>
+<p>Finalement l’appli mobile est maintenant disponible dans de nouveaux pays, pour un total de 43 pays.</p>
+<p><img class="shadow_small aligncenter" src="https://2.bp.blogspot.com/-PwfE1Ngy-wc/V2f3TiXGcHI/AAAAAAAAAd8/8O1v20tV8l80QUmC_R7nErORRBD-APC8QCLcB/s1600/pays.png" alt="pays dans lesquels booxi est disponibles sur l'appli mobile" width="696" height="339" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Appli iPhone &#8211; Calendrier amélioré</title>
+		<link>https://www.booxi.com/blog/appli-iphone-calendrier-ameliore/</link>
+		<comments>https://www.booxi.com/blog/appli-iphone-calendrier-ameliore/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 20:01:06 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[service multiple]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=53</guid>
+		<description><![CDATA[Tous vos rendez-vous à portée de main, grâce aux nouvelles fonctionnalités sur l'appli iPhone.]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Merci de votre patience pour la mise à jour de notre appli mobile pour iPhone. Cette mise à jour vient améliorer la vue agenda du calendrier de rendez-vous, ainsi qu’assurer la disponibilité des détails de chaque rendez-vous peu importe les types de rendez-vous que booxi ajoutera dans le futur.</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+<li>Une vue agenda améliorée</li>
+<li>Nouveaux types de rendez-vous</div></li>
+</ul>
+<hr />
+<h3>Une vue agenda améliorée<img class="shadow_medium alignright" src="https://1.bp.blogspot.com/-AZPD-CVEPKg/Vv7HS7iYFWI/AAAAAAAAAJo/e5B9tUWzZ4kNcswR240gZHWcXAZ8qsKOw/s400/iPhone_agenda_fr.png" alt="" width="196" height="400" /></h3>
+<p>Dépendemment de la façon dont vous gérez vos disponibilités dans booxi, notre version précédente de l’appli mobile n’était pas toujours conviviale. Nous l&rsquo;avons améliorée afin de mieux présenter votre emploi du temps.</p>
+<ul>
+<li>Si vous avez des rendez-vous par-dessus des plages horaires disponibles, booxi sépare maintenant une grande plage en plusieurs parties, permettant ainsi de ne voir que les disponibilités et les rendez-vous, dans un ordre chronologique qui permet à garder le fil du temps.</li>
+<li>Les nouveaux types de rendez-vous qui n&rsquo;étaient pas encore supportés par l’appli mobile sont maintenant affichés avec leurs détails au lieu d’un format de plage horaire occupée.</li>
+</ul>
+<h3><img class="shadow_medium alignleft" src="https://3.bp.blogspot.com/-m5hbosBdkmw/Vv7HTzLH76I/AAAAAAAAAJs/FbeTKPxOm5wDpZNGjUCp2VGDG-f0yK82Q/s400/iPhone_apptreadonly.png" alt="" width="196" height="400" /></h3>
+<h3></h3>
+<h3>Nouveaux types de rendez-vous</h3>
+<p>Nous ajoutons souvent de nouvelles fonctionnalités à booxi, mais en laissant malheureusement l’appli mobile quelques versions en arrière. Vous ne pouviez alors pas accéder, depuis l&rsquo;appli mobile, aux nouveaux types de rendez-vous, comme ceux avec plusieurs services par exemple. Nous avons donc corrigé ce problème, en vous permettant toujours d’accéder au moins aux détails du nouveau type de rendez-vous et même d’y changer la date et heure de rendez-vous.</p>
+<ul>
+<li>Supporter les types de rendez-vous nouveaux et futurs.</li>
+<li>Afficher les nouveaux types de rendez-vous dans la vue agenda.</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/appli-iphone-calendrier-ameliore/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

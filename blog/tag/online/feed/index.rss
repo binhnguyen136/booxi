@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; online</title>
+	<atom:link href="https://www.booxi.com/blog/tag/online/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>How secure is booxi to store my data?</title>
+		<link>https://www.booxi.com/blog/how-secure-is-booxi-to-store-my-data/</link>
+		<comments>https://www.booxi.com/blog/how-secure-is-booxi-to-store-my-data/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[benefits]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[online]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=20</guid>
+		<description><![CDATA[Find out why your data are safe with the cloud.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-808 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/cloud_base.png" alt="cloud based solution" width="1200" height="800" /><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>This article will help you understand how it works and how safe is your data with booxi.</p>
+</div></div> <div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Hackers and viruses</li>
+<li>The cloud</li>
+<li>The benefits</div></li>
+</ul>
+<hr />
+<p>Some of us are afraid of storing data on a remote computer, because we hear stories and we lack knowledge of how these things work. This article will help you understand how it works and how safe is your data with booxi.</p>
+<h3>Hackers and viruses</h3>
+<p>We all hear stories about criminal hackers, spyware, software viruses, stolen credit card numbers, and data or pictures leaked on the Internet. The reality is that most of these things take place on your computer, not in the cloud. Criminal hackers use various techniques which can easily be avoided by developing some simple habits to protect your computer, or accounts from being hacked. I would say that the cloud is much safer than your own computer, as long as you don’t give up your credentials (username and password).</p>
+<h3>The Cloud</h3>
+<p>What is the cloud? Imagine a series of computers with lots of data storage capacity for which the access is highly secured. Let say that when you access a website, only the user interface runs on your computer, the application runs on a remote computer, and for that reason, if your computer breaks, the website is not lost, it remains on the remote computer (or server) and you can still access it from any computer. The concept is similar with the cloud, where if you use cloud storage, your data are stored on a remote server, or if you use a web application or service, that application runs on a remote server. In fact, if you have a facebook account, you are a cloud computing service user. Other example of cloud services:</p>
+<ul>
+<li>Your email account (outlook, gmail and others)</li>
+<li>Google docs</li>
+<li>Social networks (Facebook, Twitter, Pinterest)</li>
+<li>Banking portals</li>
+</ul>
+<p><img class="aligncenter wp-image-23 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/422493-best-cloud-storage-solutions.jpg" alt="cloud accessible from all devices" width="740" height="417" /></p>
+<h3>The Benefits</h3>
+<p>There are many benefits of using cloud service like booxi, which explains its growing popularity. As a starter: it prevents you from losing data; it provides more flexibility for the accessibility of your data; and it allows you to share data in the most convenient ways. <strong>Safe and Secure</strong> <img class="alignright wp-image-24 size-medium" src="https://lh3.googleusercontent.com/WB-xyMnMXbrW1WfgyuECuujeyxT5vf75riqWhZmf_oBGsd0W0g0OVaGnyNPjWk_yyMBWDRkXrNdtFuPlbDS8nA=s300" alt="secure cloud computing" width="300" height="300" /> The access to your data is password protected. Only you, who know your password can access your booxi account and your data. No one can see your password, not even booxi&#8217;s customer support and software developers, as it is encrypted in our databases. No need to do backups. If your computer, tablet or smartphone is broken or stolen, you will not loose anything as nothing was on it. You can simply connect from a new computer and retrieve everything. <strong>Accessible</strong> Your data is centralized, which means you can access it from various devices at any time. You can also share the experience with members of your personnel, making it a team effort. <strong>No service interruption</strong> Another very important thing is that you get no service interruption, as you can rapidly access everything from your smartphone, a tablet or another computer in the event that your business computer stops working.</p>
+<h3>Things to remember:</h3>
+<ul>
+<li>Your data is secured with your password.</li>
+<li>You will never loose your data, so no backup is required.</li>
+<li>No interruption of service, since you can access it from various device.</li>
+<li>You can share booxi with your team.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-secure-is-booxi-to-store-my-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; weebly appointment</title>
+	<atom:link href="https://www.booxi.com/blog/tag/weebly/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Weebly &#8211;  Add Online Appointment Booking Directly on your website</title>
+		<link>https://www.booxi.com/blog/weebly/</link>
+		<comments>https://www.booxi.com/blog/weebly/#comments</comments>
+		<pubDate>Sun, 28 May 2017 15:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[weebly appointment]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1307</guid>
+		<description><![CDATA[Easily add online appointment booking directly on your Weebly website thanks to the complete integration with booxi, the online appointment scheduling software.
+]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1370 size-full" src="https://lh3.googleusercontent.com/anNJNU4N5aVh_oAz0T9VZ7ZZSpmc3lO4Dxf4Wrk-MwJJuW38n3gawz1mDBgxWOdAy5FABGP0fN6LK_0hQDtjZJ8=s0" alt="Weebly" width="1650" height="960" /><br />
+1. Sign in your weebly account.<br />
+2. At the bottom of the main menu, on the left, click on the “Add App” option.</p>
+<p><img class="shadow_medium aligncenter wp-image-1309 size-full" src="https://lh3.googleusercontent.com/xzTzJZEu6zQ6Z4p4qk71967WH4bgM6gXsIeoczAfaRHEn2Qeeq8loPFhk8ujXF0C2rS0jQUpN15UOmU0Ektindg=s0" alt="Weebly dashboard" width="1373" height="1030" /></p>
+<p>3.The Weebly App Center will open. Enter “bookings” in the search bar and press Enter.</p>
+<p><img class="shadow_medium aligncenter wp-image-1311 size-full" src="https://lh3.googleusercontent.com/dS-ZIhz2WI159Qcgwh6JTBa4sqhKIPrLJmIT0ZxkpMjwjbr9HBFpLoFkwXh2s8d1wcunhtiXMogVYfaHBnxzmw=s0" alt="Weebly App Store" width="1834" height="1007" /></p>
+<p>4. Select Book Now &#8211; booxi by clicking on it.<br />
+<img class="shadow_medium aligncenter wp-image-1312 size-full" src="https://lh3.googleusercontent.com/9VQ5BUd3gdfEU_b0T76mdqOdPWNQRbTtUVk0dUVIZOI9rK2nDbeAf08SKLgS5Pkc58DoX9KeZbuYQHBV7riaXw=s0" alt="Weebly booking apps" width="1795" height="931" /></p>
+<p>5. And then click on Add button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1313 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image22.png" alt="online appointment booking on Weebly" width="1809" height="1002" /></p>
+<p>6. Connect booxi with Weebly by clicking on Connect, at the top right.</p>
+<p><img class="shadow_medium aligncenter wp-image-1315 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image4.png" alt="Weebly fully integrated with booxi" width="1790" height="992" /></p>
+<p>7. This window opens.</p>
+<p><img class="shadow_medium aligncenter wp-image-1316 size-full" src="https://lh3.googleusercontent.com/vBvZrp7dpwkYffwAtY07bo4lw_NZXQL3PX9VvZ2j1s4BQZbr7rFSgu_9QBKSxAWkRXOiUeA0rI3W4j_y3YbwHEc=s0" alt="sign-in-booxi" width="475" height="427" /></p>
+<p>8. Enter your credentials to sign in your booxi account. You will be redirect to your Weebly dashboard.</p>
+<p>9. If you scroll down on the main menu, you’ll see the new option “Book Now booxi”.</p>
+<p><img class="shadow_medium aligncenter wp-image-1317 size-full" src="https://lh3.googleusercontent.com/AKt5lo4-2a_ikN49ubZb0-A_qN5pijO8nI12rM8msxtXn9yA2gkrSZNLGrtZFrm3taj6NDy1TmodKLEJ4Tgo=s0" alt="Weebly Online booking" width="1102" height="1047" /></p>
+<p>10. To finalize the configuration of your book now button, check your emails. You received an email from booxi, with an API Key. Copy this code.</p>
+<p><img class="shadow_medium aligncenter wp-image-1318 size-full" src="https://lh3.googleusercontent.com/LEmIgm9rAoQbqGL20b2hr7p2iCYYgeBqj4LkBFg_gW0u8CjDtRcj6IPGxFmB0vktWPnukmmym0gCKORDCcKqFA=s0" alt="Accept online booking with Weebly" width="632" height="498" /></p>
+<p>11. Then come back to Weebly, on your website editor.<br />
+12. On the main menu, on the left, you can now see the “Book Now booxi” button. Select it and drag it to where you want to place the button on your website.<br />
+13. A button with the mention “No Api Key Configured” will appear.</p>
+<p>14. When you click on it, a pop appears.</p>
+<p><img class="shadow_medium aligncenter wp-image-1320 size-full" src="https://lh3.googleusercontent.com/DFyaaRNmpwcASoHfWszFGkFV9MX-1_Ls-zgO0hKGOLBpPCj56aYirNZmeIIYQz_LU6CUyzc2KrzcUvyfYbkc=s0" alt="Booking button Weebly" width="805" height="534" /></p>
+<p>15. To set up the button, all you have to do it to fill up all the fields:<br />
+API Key : It’s here that you can paste the code you received by email.</p>
+<p><img class="shadow_medium aligncenter wp-image-1321 size-full" src="https://lh3.googleusercontent.com/WF5C2lZAohNmpAkDC4UKC5YnoVZqMQd05WQ-CNWGdKuil4JmI2VAf4_WkxXnNfQfT8Znv7uXZUVNWPd_7CZG=s0" alt="customize weebly button" width="1207" height="586" /></p>
+<p>16. Finally you can play with the advanced settings, to fully customize your button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1322 size-full" src="https://lh3.googleusercontent.com/Hw-JiPhtKM3PvnLV7Oyv_N-tDaAG4VtbVDK1ufHZsOLee9EhC5DByp0GgDW38OAGFYv5mHujwOlutf-MiZ6qAQ=s0" alt="booking fully integrated in Weebly" width="860" height="490" /><br />
+And it’s done, you&#8217;ve just added online appointment booking directly on your Weebly website. Before publishing it, to offer online appointment booking, make sure to set up your booxi account, by adding your service offer and your schedules.</p>
+<p>Once it’s done your customers can start booking online and you save time over the phone.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/weebly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

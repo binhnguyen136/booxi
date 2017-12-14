@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; online booking</title>
+	<atom:link href="https://www.booxi.com/blog/tag/booking/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Increase Your Customer Retention With Automated Appointment Recall Reminders</title>
+		<link>https://www.booxi.com/blog/automated-appointment-recall-reminder/</link>
+		<comments>https://www.booxi.com/blog/automated-appointment-recall-reminder/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:11:04 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[customer retention]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1416</guid>
+		<description><![CDATA[Build repeat business with automated rebooking reminders. An efficient way to boost your customer retention. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1568 size-full" src="https://lh3.googleusercontent.com/7QdBPh1WkLbGHc8JE3HzLF9U3PjwoO4XHaF1mfB8iK-hr5mLerl6ckWn4li7ZQOPwYLxNGMqFBK3d_kDQlWvpw=s0" alt="appointment recall reminder" width="1200" height="600" /></p>
+<p>You can now easily schedule automated message to remind your customers to book a new appointment with you, in due time. Since calling every customers is not a viable option, most service providers suffer the lost. Which is why booxi can do it all for you and simplify things even more.</p>
+<ul>
+<li>Enable Appointment Recall in booxi</li>
+<li>Schedule Recall Reminders in One Click</li>
+<li>Book A Next Appointment While the Customer is There</li>
+<li>Automate Everything</li>
+</ul>
+<p><b>Enable Appointment Recall<br />
+</b>You can easily enable the Appointment Recall feature from your Business Appointment Rules. You can set a default delay, for example 20 days, if you would like booxi to send your customer an email reminder in 20 days, for most of your appointments. You will be able to change this delay for every appointment recall reminders.</p>
+<p><img class="shadow_small aligncenter wp-image-1453 size-full" src="https://lh3.googleusercontent.com/tPFOrVrXsuJlz_jwMz1df0pceIWcukzdjG3nwhdNQ4fCegOtHlmJ7KvP3jGFADchiMgyVv88GWnQHe3TZGQzpA=s0" alt="appointment recall " width="586" height="298" /></p>
+<p><b>Schedule Recall Reminders in One Click<br />
+</b>Once you have enabled Appointment Recall, you will be able to set an automated reminder for your customer, whenever you complete an appointment. Simply click on Complete and you’re done, disable the reminder or adjust the reminder settings prior to completing the appointment. Since recall reminders are sent via email, if the customer did not provide an email address, you will be able to add one at this time.</p>
+<p><img class="aligncenter wp-image-1566 size-full" src="https://lh3.googleusercontent.com/E877n1Qf9rZGyOEimN-fDKlvbW9Ugqco288Vkvi5hc3Zwd_3XUJuCuMkItk-0f_U1T4vC3Rq2JRDuym_KH0Y=s0" alt="complete this appointment" width="935" height="770" /></p>
+<p>&nbsp;</p>
+<ol>
+<li>Right-Click on the appointment and select Complete. The Complete confirmation popup will be displayed, providing you more options.</li>
+<li>You can choose to schedule a recall reminder, complete without reminder, or Book the next appointment now. Choose to Schedule a recall reminder.</li>
+<li>Select the service to propose, which is by default set to the same service as the appointment you are about to complete.</li>
+<li>Select the personnel to propose, which is by default also set to the same personnel as the appointment you are about to complete.</li>
+<li>Adjust the delay, or a specify a date on which the reminder will be sent.</li>
+<li>You may also add an additional message, or simply leave it blank.</li>
+<li>Finally, click on Complete and the appointment recall reminder will be scheduled and automatically sent in due time.</li>
+<li>If you choose to Complete without reminder, or Book the next appointment now, no recall reminder will be scheduled.</li>
+</ol>
+<p>If you or your client book a new appointment for the same service and client before the automated recall reminder is sent, that reminder will be automatically cancelled, avoiding any confusion for your customer.</p>
+<p>You can cancel or change the appointment recall reminder by reopening the appointment, and complete it again. Whenever a completed appointment is reopen, the associated scheduled appointment recall reminder is automatically cancelled.</p>
+<p><b>Book A Next Appointment While the Customer is There<br />
+</b>You can now book a next appointment faster, while your customer is still at your store. When you complete an appointment, you can now choose to Book the next appointment now. It creates a new appointment identical to the current one, and you simply set a different date and time.</p>
+<ol>
+<li>Right-Click on the appointment and select Complete.</li>
+<li>Choose Book the next appointment now in the confirmation dialog.</li>
+<li>Click on Complete at the bottom of the dialog, and a new copy of the appointment will open on the right.</li>
+<li>Simply change the appointment date and time, and click on Save.</li>
+</ol>
+<p><b>Automate Everything<br />
+</b>You can save even more time by putting your appointment on auto complete. If you set the Complete Appointment Business Appointment Rule to automatic and adjust the delay, appointments will be automatically completed past that delay after the appointment. When completed, the appointment recall reminder will also automatically be scheduled using the default delay and for clients with an email adresse.</p>
+<ul>
+<li>Make sure the Appointment Recall feature is on with a delay that suits most of your services.</li>
+<li>Turn the Complete Appointment feature on, and adjust the delay.</li>
+<li>Both features can be found in your Business Appointment Rules.<img class="shadow_small aligncenter wp-image-1455 size-full" src="https://lh3.googleusercontent.com/yrftYJtQW8VrYMO1FKGIwrPJB69lhc9wEo-dEW8Pv5EUZB8SS0vWsAV8xTElG6h-HZr-rPNXeCcE8itZpMXvqA=s0" alt="complete appointment" width="584" height="296" /></li>
+</ul>
+<p>Booking a next appointment, or sending a reminder to book again to your customer will contribute greatly in increasing your customer retention, and help you improve your revenues.</p>
+<p style="text-align: center"><strong><br />
+Boost your customer retention by using booxi<br />
+</strong><br />
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started </a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automated-appointment-recall-reminder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatically Dispatch Appointments to Your Personnel and Spend Less Time Managing Schedules</title>
+		<link>https://www.booxi.com/blog/automatically-dispatch-appointments/</link>
+		<comments>https://www.booxi.com/blog/automatically-dispatch-appointments/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 17:03:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1493</guid>
+		<description><![CDATA[It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1487 size-full" src="https://lh3.googleusercontent.com/jGIIyUywkNnHRAH79me-Fa-ksrFffuWo5z3uwyYLe5HoM-cei9k1N-7QZf4GtaITOduYufJT4mzHzB2BkK0XhZo=s0" alt="automatic dispatch " width="1492" height="713" />It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. This way appointments get evenly distributed to your personnel, and you spend no time managing schedules.</p>
+<p>Whether you have 10 or 100 employees, book spaces like conference rooms, gun ranges, pet wash cabins, or stuff like bikes, kayaks, booxi can dispatch appointments for you, and save you precious time.</p>
+<ul>
+<li>How Appointments Are Automatically Dispatched</li>
+<li>Setup a Service for Automatic Dispatch</li>
+<li>Online Booking Experience</li>
+</ul>
+<p><b>How Appointments Are Automatically Dispatched</b></p>
+<p>When using appointment automatic dispatch, booxi computes the availability of each personnel and presents a choice of dates and time slots that have at least one personnel available each. When the client selects a time slot, booxi automatically dispatches the appointment to the personnel available that has the least appointments for the selected date. This way all personnel will have on average the same number of appointments.</p>
+<p>Depending on the Approval Mode you set, you will receive appointment requests (manual mode) or approved appointments (automated mode) in your booxi calendar. All automated, saving you lots of schedule management efforts and time.</p>
+<p><b>Setup a Service for Automatic Dispatch</b></p>
+<p>You can enable automatic dispatch per service, simply by changing two simple appointment rules for that service. Automatically dispatching appointments will not require the client to select a personnel, so you must first <b>Disable personal selection</b>, and then set the <b>Time Slot Selection</b> to <b>Display time slot with automatic dispatch</b>. You can then offer some services with automatic dispatch, and other with a personnel selected by the client.</p>
+<ol>
+<li>Go to the profile of the service you would like to dispatch appointment automatically.</li>
+<li>Click on <b>Appointment Rules</b> for that service</li>
+<li>Turn <b>Disable Personnel Selection</b> On</li>
+<li>Set the <b>Time Slot Selection</b> option to <b>Display time slot with automatic dispatch</b></li>
+<li>Click <b>Save </b>at the top of the Appointment Rules form, and you’re done.<br />
+<a href="https://booxi-live-wp-storage.storage.googleapis.com/AutomaticDispatch_2_En-1.png"><br />
+<img class="img_zoom aligncenter size-full wp-image-1496" src="https://lh3.googleusercontent.com/cmW7LEtpE_NZn4KuLIBeg8-vOov6nZdNMoYjhZSfnM5VapNIpk-6BoXngxUZTodCHafxrkMGjlr5j6oczotzug=s0" alt="automatic dispatch setting" /> </a></li>
+</ol>
+<p><b>Online Booking Experience</b></p>
+<p>When a client selects a service that is set to automatically dispatch appointments, he is presented with a choice of dates and time slots, without prior personnel selection. These time slots are the available times that have at least one personnel available. If more than one personnel is available for the selected time, booxi will dispatch the appointment to the personnel with the least appointments for that day.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1488" src="https://lh3.googleusercontent.com/Ww8UXP3eZWEA79O-MLJEuFE8_oXLQOvJZaSVGlSB6g0FiSONXXsyTf9Of8ro7awtvI9v8ZCPOk7Nh6-pSg6sdbk=s0" alt="AutomaticDispatch_2_En (1)" /></p>
+<p>Your client will receive a confirmation and reminder without mention of who is the selected personnel, leaving you the possibility to make some changes afterwards.</p>
+<p style="text-align: center">You spend to much time managing your employees&#8217; schedules? Try booxi for free during 14 days!</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automatically-dispatch-appointments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weebly &#8211;  Add Online Appointment Booking Directly on your website</title>
+		<link>https://www.booxi.com/blog/weebly/</link>
+		<comments>https://www.booxi.com/blog/weebly/#comments</comments>
+		<pubDate>Sun, 28 May 2017 15:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[weebly appointment]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1307</guid>
+		<description><![CDATA[Easily add online appointment booking directly on your Weebly website thanks to the complete integration with booxi, the online appointment scheduling software.
+]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1370 size-full" src="https://lh3.googleusercontent.com/anNJNU4N5aVh_oAz0T9VZ7ZZSpmc3lO4Dxf4Wrk-MwJJuW38n3gawz1mDBgxWOdAy5FABGP0fN6LK_0hQDtjZJ8=s0" alt="Weebly" width="1650" height="960" /><br />
+1. Sign in your weebly account.<br />
+2. At the bottom of the main menu, on the left, click on the “Add App” option.</p>
+<p><img class="shadow_medium aligncenter wp-image-1309 size-full" src="https://lh3.googleusercontent.com/xzTzJZEu6zQ6Z4p4qk71967WH4bgM6gXsIeoczAfaRHEn2Qeeq8loPFhk8ujXF0C2rS0jQUpN15UOmU0Ektindg=s0" alt="Weebly dashboard" width="1373" height="1030" /></p>
+<p>3.The Weebly App Center will open. Enter “bookings” in the search bar and press Enter.</p>
+<p><img class="shadow_medium aligncenter wp-image-1311 size-full" src="https://lh3.googleusercontent.com/dS-ZIhz2WI159Qcgwh6JTBa4sqhKIPrLJmIT0ZxkpMjwjbr9HBFpLoFkwXh2s8d1wcunhtiXMogVYfaHBnxzmw=s0" alt="Weebly App Store" width="1834" height="1007" /></p>
+<p>4. Select Book Now &#8211; booxi by clicking on it.<br />
+<img class="shadow_medium aligncenter wp-image-1312 size-full" src="https://lh3.googleusercontent.com/9VQ5BUd3gdfEU_b0T76mdqOdPWNQRbTtUVk0dUVIZOI9rK2nDbeAf08SKLgS5Pkc58DoX9KeZbuYQHBV7riaXw=s0" alt="Weebly booking apps" width="1795" height="931" /></p>
+<p>5. And then click on Add button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1313 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image22.png" alt="online appointment booking on Weebly" width="1809" height="1002" /></p>
+<p>6. Connect booxi with Weebly by clicking on Connect, at the top right.</p>
+<p><img class="shadow_medium aligncenter wp-image-1315 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image4.png" alt="Weebly fully integrated with booxi" width="1790" height="992" /></p>
+<p>7. This window opens.</p>
+<p><img class="shadow_medium aligncenter wp-image-1316 size-full" src="https://lh3.googleusercontent.com/vBvZrp7dpwkYffwAtY07bo4lw_NZXQL3PX9VvZ2j1s4BQZbr7rFSgu_9QBKSxAWkRXOiUeA0rI3W4j_y3YbwHEc=s0" alt="sign-in-booxi" width="475" height="427" /></p>
+<p>8. Enter your credentials to sign in your booxi account. You will be redirect to your Weebly dashboard.</p>
+<p>9. If you scroll down on the main menu, you’ll see the new option “Book Now booxi”.</p>
+<p><img class="shadow_medium aligncenter wp-image-1317 size-full" src="https://lh3.googleusercontent.com/AKt5lo4-2a_ikN49ubZb0-A_qN5pijO8nI12rM8msxtXn9yA2gkrSZNLGrtZFrm3taj6NDy1TmodKLEJ4Tgo=s0" alt="Weebly Online booking" width="1102" height="1047" /></p>
+<p>10. To finalize the configuration of your book now button, check your emails. You received an email from booxi, with an API Key. Copy this code.</p>
+<p><img class="shadow_medium aligncenter wp-image-1318 size-full" src="https://lh3.googleusercontent.com/LEmIgm9rAoQbqGL20b2hr7p2iCYYgeBqj4LkBFg_gW0u8CjDtRcj6IPGxFmB0vktWPnukmmym0gCKORDCcKqFA=s0" alt="Accept online booking with Weebly" width="632" height="498" /></p>
+<p>11. Then come back to Weebly, on your website editor.<br />
+12. On the main menu, on the left, you can now see the “Book Now booxi” button. Select it and drag it to where you want to place the button on your website.<br />
+13. A button with the mention “No Api Key Configured” will appear.</p>
+<p>14. When you click on it, a pop appears.</p>
+<p><img class="shadow_medium aligncenter wp-image-1320 size-full" src="https://lh3.googleusercontent.com/DFyaaRNmpwcASoHfWszFGkFV9MX-1_Ls-zgO0hKGOLBpPCj56aYirNZmeIIYQz_LU6CUyzc2KrzcUvyfYbkc=s0" alt="Booking button Weebly" width="805" height="534" /></p>
+<p>15. To set up the button, all you have to do it to fill up all the fields:<br />
+API Key : It’s here that you can paste the code you received by email.</p>
+<p><img class="shadow_medium aligncenter wp-image-1321 size-full" src="https://lh3.googleusercontent.com/WF5C2lZAohNmpAkDC4UKC5YnoVZqMQd05WQ-CNWGdKuil4JmI2VAf4_WkxXnNfQfT8Znv7uXZUVNWPd_7CZG=s0" alt="customize weebly button" width="1207" height="586" /></p>
+<p>16. Finally you can play with the advanced settings, to fully customize your button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1322 size-full" src="https://lh3.googleusercontent.com/Hw-JiPhtKM3PvnLV7Oyv_N-tDaAG4VtbVDK1ufHZsOLee9EhC5DByp0GgDW38OAGFYv5mHujwOlutf-MiZ6qAQ=s0" alt="booking fully integrated in Weebly" width="860" height="490" /><br />
+And it’s done, you&#8217;ve just added online appointment booking directly on your Weebly website. Before publishing it, to offer online appointment booking, make sure to set up your booxi account, by adding your service offer and your schedules.</p>
+<p>Once it’s done your customers can start booking online and you save time over the phone.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/weebly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Integrate the Book Now Button in Your Website</title>
+		<link>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/</link>
+		<comments>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/#comments</comments>
+		<pubDate>Tue, 21 Feb 2017 16:28:43 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=988</guid>
+		<description><![CDATA[Find out how easy it is to add online booking to your website, with a step by step tutorial and a series of useful links to generate the code you need and fully customize your Book Now button.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-993 size-full" src="https://lh3.googleusercontent.com/rDDBCz4_k3m23CDIt3cUWYF9wSX2MFZPnfGFoVAQMR4UTyzKtNx9pulGbdnX0G-wsCpeVVvScWrvY9uzzO3OLw=s0" alt="Integrate book now button in your website" width="1280" height="720" />This article guides you through simple steps to easily add online booking to your website. It also provides you with useful links to generate the Javascript code that best suites the website creation tool you are using.</p>
+<p>Book Now works prety much for any kind of website, no matter if it is custom made or if it was created using a website creator/builder/designer tool. Book Now is also responsive and will work just fine with most mobile devices.</p>
+<h3 style="text-align: center">Use One of Our Tutorials and Code Generators</h3>
+<p>If you know what tool was used to create your website, you can use one of the links below, and simply follow the tutorial steps.<img class="img_zoom wp-image-991 alignright" src="https://lh3.googleusercontent.com/580NOjvWld1z9yA2h46zHCJfeIqXBmOYgsrZCBD1SIybeAsXMYMCSgX2Pfyh6yhSQpnKQwtpuB0BYggo5eOswQ=s0" alt="wordpress logo" width="318" height="187" /></p>
+<ul>
+<li><a href="https://www.booxi.com/developers/wordpress" target="_blank">WordPress websites</a></li>
+<li><a href="https://www.booxi.com/developers/wix" target="_blank">Wix websites</a></li>
+<li><a href="https://www.booxi.com/developers/lightspeed" target="_blank">Lightspeed eCom websites</a></li>
+<li><a href="https://www.booxi.com/blog/how-to-use-the-booxi-book-now-widget-with-votresite-ca/" target="_blank">Votresite.ca websites</a></li>
+</ul>
+<p>If you have no idea what tool was used to create your website, or if it is not covered by the links listed before, use the generic tutorial below.</p>
+<ul>
+<li><a href="https://www.booxi.com/developers/booknow" target="_blank">Any other website tool or custom websites</a></li>
+</ul>
+<h3 style="text-align: center">You Can Fully Customize Your Book Now Button</h3>
+<p>booxi allows you to fully customize your button, so it matches perfectly your brand. If you are familiar with Javascript and CSS, use this <a href="https://www.booxi.com/blog/how-to-fully-customize-your-book-now-button/" target="_blank">article to find out how to customize it.</a></p>
+<h3 style="text-align: center">Have Someone Else Do It For You</h3>
+<p>We thought you might simplify things even more by sending an email to your web developer with all the required information. So we added a small Share button next to your API key, which will ask you for an email address and send an automated email with your API key and a link to this article. You will find this Share button in My Business, Business Details and scrolling down to your API Key.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-990" src="https://lh3.googleusercontent.com/OAJDKH099iYPISquQuCvctZIU5rdbaXRAghSDOLkij9Up1gb3oToqIbcrptLhTqo1Sg3tcrcsrZzetZDuyBDwQ=s0" alt="send my API key pop up" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Reasons Why Your Business Should Offer Online Appointment Scheduling</title>
+		<link>https://www.booxi.com/blog/why-your-business-should-offer-online-appointment-scheduling/</link>
+		<comments>https://www.booxi.com/blog/why-your-business-should-offer-online-appointment-scheduling/#comments</comments>
+		<pubDate>Fri, 17 Feb 2017 16:34:57 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=950</guid>
+		<description><![CDATA[A major, but tedious part of running a service-oriented business is scheduling; however, the technology available today gives business owners an opportunity to simplify and automate it. Here are the 5 top reasons why you should be using online scheduling tool.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-963 size-full" src="https://lh3.googleusercontent.com/WeXicrU_7BsfWi5etyzY0cPzm6V4o3foZMvNlids0HHpjCa2VrUKj2vDJ3Y66hRKSWLyU-1cBdLXUwbK5HMhRIw=s0" alt="online appointment booking system" width="1200" height="600" />A major, but tedious, part of running a service-oriented business is scheduling. Manual systems typically mean going through a lot of back and forth with customers that usually leads to errors. These mistakes can negatively impact your relationship with clients and your business reputation.</p>
+<p>Technology available today however, gives business owners an opportunity to automate scheduling. Online scheduling tools offer a more professional way to handle bookings and appointments, they also provides efficient, systematic, and ultimately, practical solutions that allow you to manage clients communications.</p>
+<p>To give you a better understanding of what it can really do for your business, we’ve hashed out the top 5 reasons why you should be using online scheduling tool —</p>
+<h2>1. You want to make the most of your time</h2>
+<p>Online scheduling tools are designed to reduce, if not completely eliminate, the back and forth between you and your client. Trying to determine available dates for a meeting, making sure that it doesn’t conflict with any of your busy schedules, ensuring that there are no overlaps—this whole process can be very frustrating. There are more productive ways that you can spend your time on than trying to pin down a date and time that works for you and a client.</p>
+<h2>2. Customers demand efficiency and innovation</h2>
+<p>As a business, you recognize that your time is important; on the flipside, customers and clients want to know that companies they deal with aren’t wasting their time either. In the same way that you don’t want to go back and forth setting, cancelling and rescheduling appointments, it’s just as much of a hassle for customers. That said, customers demand efficiency and convenience from businesses they patronize—and online booking tools are one way to provide them with it.</p>
+<h2>3. Minimizes no shows</h2>
+<p>For any service business, no shows are a big concern. Unused appointments are essentially costing your business time and money, especially if it is dependent on limited slots that could have been used by other, interested customers. Whether you’re running a clinic, a fitness studio, or a salon, implementing a scheduling tool means you’re not only automating the booking process, but you’re also putting in place efficient tools that minimizes no-shows. These tools come with automated email and text reminders that, at the very least, can give customers enough time to inform you of a cancellation.</p>
+<h2>4. Provides mobility</h2>
+<p>One of the most convenient elements of automated online scheduling is that it’s easily accessible whether you’re on your phone, or your tablet, or computer. Knowing you can access important elements of your business anytime, anywhere means everything is run with a sense of transparency and efficiency that gives business-owners full control of their schedules. This also means that customers have access to the scheduling platform and can book appointments on the go, ensuring that the entire process is equally convenient for them</p>
+<h2>5. Captures important customer data</h2>
+<p>You can use online scheduling tools to serve as a database and archive of your customer information. You can use this information to continuously evolve your business to better serve their needs; and because it records and tracks data efficiently, it means you have a reliable archive of references you can use to build relationships with your customers.</p>
+<p>Our online appointment booking software could prove to be one of the most important things you can do for your business.</p>
+<hr class="dash" />
+<p style="font-size: 30px;font-weight: 200;color: #888;text-align: center">Try it for free</p>
+<p style="font-size: 16px;text-align: center;color: #555">14 days &#8211; No credit card required</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/why-your-business-should-offer-online-appointment-scheduling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 Reasons Your Business Needs a Mobile App</title>
+		<link>https://www.booxi.com/blog/8-reasons-your-business-needs-a-mobile-app/</link>
+		<comments>https://www.booxi.com/blog/8-reasons-your-business-needs-a-mobile-app/#comments</comments>
+		<pubDate>Tue, 14 Feb 2017 16:38:28 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[mobile app]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=861</guid>
+		<description><![CDATA[Having an App to support your business offers huge benefits and is a great step to take to keep your customers engaged and coming back. Find out our partner AppInstitute and why you should create your own app.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-875 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/app_mobile.png" alt="mobile app" width="360" height="514" />Having an App to support your business offers huge benefits and is a great step to take to keep your customers engaged and coming back. Not only does it offer a better customer experience but also enables small businesses to leverage the power of mobile marketing and stay connect with their loyal customers, 24/7. As of 2014, <a href="http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/">Mobile web browsing</a> skyrocketed above desktop, and like it or not, it’s not going to change any time soon. Now almost anything that a desktop is used for can also be done by a smartphone and people love it. Smartphones have almost become integral to the way people live and manage their lives, they are with you 24/7 and many businesses are tapping into this huge marketing opportunity, and here’s how you can too.</p>
+<h2><b><img class="verti_top" src="https://lh3.googleusercontent.com/vlwyAe_oFYKH9sHnXRq7791dXTNYmrvW8P2lyBooyfGYJz3jq32gF-XN7w9kr-PvBB7im8zTAJpZ4EH0rxr1=s0" alt="increased booking" width="78" height="68" /> Book Right from the App with Just a Few Taps</b></h2>
+<p>One fantastic reason to build an App into your business is so that it can be used as a platform for your online booking system. Without an App the customer has to search for your website through a browser, find your booking page and then schedule their next appointment. With a mobile App you can streamline that whole process into a few taps directly from their smartphone.</p>
+<h2><b><img class="verti_top" src="https://lh3.googleusercontent.com/iANkENvWzjSFhp79D3EE0sIFOsoE85iNrD6FIVSbGHWlrpKpZdvV1Oe8NI0-8V9ca9wr8w6AKHx-iFkDGp7-=s0" alt="customer_loyalty" width="69" height="69" /> Loyalty Stamp Cards &#8211; Reward Loyalty</b></h2>
+<p>When it comes to loyalty, customers love knowing that their business is appreciated. It also gives you an opportunity to encourage repeat sales by incentivising their next transaction with you. With an App, you can give your customers a simple way to earn loyalty and earn rewards through a mobile Loyalty cards and keep them coming back.</p>
+<h2><img class="verti_top" src="https://lh3.googleusercontent.com/obJxaWEO22nOot_NxHh_0vAl7RQMvzBl0t1YGOS1lRsIQTqNj3bMISUzRDAs0_cYd7CaeqcS8X9U7jSV0_VoeA=s0" alt="increased_downloads" width="70" height="66" /><b>Mobile Coupons</b></h2>
+<p>During those quieter times, why not push out some special offers that can be redeemed by your customers who have the App? You could also promote seasonal deals, last minute sales or new services.  Mobile Coupons are also an incredible way to incentivise your mobile App downloads.<b> </b><b></b></p>
+<h2><b><img class="alignleft wp-image-870" src="https://lh3.googleusercontent.com/8uI3mtCDax9QBqvcDqRk62XIl37Ojo3R_jBLCuArpzpDTpfdzIkV6Ok4n_uTG5WaAzi1KfxmOKb7LqVQjqFFEQ=s0" alt="awareness" width="76" height="55" /><br />
+Stay Top of Mind</b><b> </b></h2>
+<p>The average person looks at their phone 85 times a day. So when you have an App, every time a customer looks at their phone your App’s icon will be there to remind them about your business.<img class="alignright" src="https://lh3.googleusercontent.com/7SmDxsXkF-n5vuinNB2rNNhuSw9N_ewAAoo7VOljdyeHdh_R4h-rQNIoHa6DA3CKp3ttkl-7U-iwVIbsek_5=s0" alt="location based messaging" width="307" height="505" /></p>
+<h2></h2>
+<h2></h2>
+<p>&nbsp;</p>
+<h2><b>Location-Based Messaging</b></h2>
+<p>Mobile App marketing enables businesses to send Push Notifications based on an App user’s location by creating a ‘geo-fence’ to trigger the message. This means you can target nearby customers with timely, highly relevant in-store offers.</p>
+<h2><img class="verti_top" src="https://lh3.googleusercontent.com/iKtsbfdiOxy2wpjAwAHiT2_W8n6uCasI459aSgaHGXGuI1e7u5Cx69KfdmsGQl89L0tjhwWkNh7qT25cs-eR=s0" alt="improved_communication" width="70" height="58" />Scheduled Messages</h2>
+<p>Schedule your messages in advance so you can spend more time running your business. This is perfect for upcoming holiday closure announcements, seasonal deals or recurring offers. Simply set up the messages you want to schedule, set the date and time and get on with your day. If you know your business has quiet periods on certain days or times, then schedule Push Reminders to get encourage customers to visit you.</p>
+<h2><b><img class="verti_top" src="https://lh3.googleusercontent.com/sQg1JdTlgr-c1lLgIPOPEjXsluU0t_OIfFOxJMcViTRZSw9EuDvZdxhaq7lF-q9WRTDwpGI3D9LjE9fNfyIo=s0" alt="stored_data" width="67" height="76" /> Contact Information Stored All in One Place</b></h2>
+<p>If your customer needs to contact you for any reason, whether it’s to provide extra details for their booking or to make an enquiry, they’re much more likely to keep using your business if this information is stored just a tap or two away. This way they don’t have to search for your details online or scroll through their phone list.</p>
+<h2><img class="verti_top" src="https://lh3.googleusercontent.com/ansrbqDRoqnppb7ZMBAiPS_MwovTUEasZPRprfZ7rmEbpnCAgF59MVof_hQ2AzYeKGgRM05UXL1KrRFJfe1jLsY=s0" alt="business_growth" width="89" height="62" /><b>The Best of Both Worlds </b></h2>
+<p>Having a desktop booking system as well as mobile app means your business is accessible by every device. Mobile web browsing took over desktop back in 2014, and many people today rely solely on their smartphones to access the internet. By offering a streamlined mobile app solution you can reduce the friction of your customer’s booking experience by enabling them to connect with your services from any device and any location, whether they’re commuting to work in the morning or out for lunch.</p>
+<p><img class="img_zoom  wp-image-895 alignleft" src="https://lh3.googleusercontent.com/bmgLEzUBjfH3QugCwssDvERXi7MoO1A7NqCmWfDq8Zch8QY1umMoATiDmlYD6YSw54ps5Cf_UfZQ4VQDivZeUaA=s0" alt="AppInstitute-logo-400x400-whiteversion" width="154" height="154" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ian Naylor, CEO &amp; Founder at <a href="https://appinstitute.com/booxi-app/?utm_source=booxi&amp;utm_medium=Partner&amp;utm_campaign=booxi">AppInstitute</a>. AppInstitute is a DIY App Builder for Small Businesses. <a href="https://appinstitute.com/booxi-app/?utm_source=booxi&amp;utm_medium=Partner&amp;utm_campaign=booxi">Try it now for free</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/8-reasons-your-business-needs-a-mobile-app/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You Can Now Customize Pricing and Duration per Staff</title>
+		<link>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/</link>
+		<comments>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/#comments</comments>
+		<pubDate>Fri, 18 Nov 2016 21:34:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[staff]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=729</guid>
+		<description><![CDATA[When you have staff with different levels of experience and your pricing must reflect that, your service offer may quickly become complex and tedious to go through. This is why we added a very cool feature where you can adjust the pricing and duration of a service for a specific staff.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-743 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Article_CustomizeService.png" alt="customize pricing and duration of a service" width="1140" height="575" /></p>
+<p>When you have staff with different levels of experience and your pricing must reflect that, your service offer may quickly become complex and tedious to go through. This is why we added a very cool feature where you can adjust the pricing and duration of a service for a specific staff.</p>
+<p>For example, if you have a staff with only a few years of experience offering a Service A for $40 in 40 min; while another staff with over 10-20 years of experience offer the same Service A, but for $75 in 30 min (it’s supply and demand principle), you can now pre-configure that.</p>
+<p>Your customer will clearly see the difference when they book online, and you will automatically get the price and duration adjustment when you book on the phone. Finally your service offer will indicate that services with various prices are offered starting at a lower price and duration.</p>
+<h2>It’s very easy to set that up. You save time and get a simplified service list.</h2>
+<p><img class="verti_top alignnone" src="https://lh3.googleusercontent.com/bQHfKD8k3cZ8CrhDyHcbl01FCkeCjcEVbqydBclr5Xjf03wWHonoYl_iFkIQE9skuvEQZTB2sjJfKPc-nIotpw=s0" alt="services customization " width="572" height="224" /></p>
+<p><b>Setup Your Pricing per Staff</b></p>
+<p>In order to setup your price and/or duration variations per personnel, you simply customize each association of service to a personnel, following these simple steps:</p>
+<ol>
+<li>Go in your Personnel List (from the left main menu).</li>
+<li>Select a Personnel.</li>
+<li>Click on the Assigned Serviced section to access the list of services offered by this personnel.</li>
+<li>For each service that is selected with a checkmark, you get the Custom <img class="verti_top" src="https://lh3.googleusercontent.com/X_V8TYMTLWPlK4u3x59JFEiLaopdsTJ65JZXZBhooeuzH_3kj_c9BS2KpAumH81PbvVcz2T5AwFjr1qAb3T_=s0" alt="modifier" /> icon.<img class="shadow_medium alignright wp-image-730" src="https://lh3.googleusercontent.com/DjBDv0zd0rYpmJpvk1y4-bDFRQzwFeY-1NNv7AIWouIYIcL6hP_w4MQxKPo7wyxaxghJKNGskoTNVEEoYgeW=s0" alt="customize per staff" width="420" height="319" /></li>
+<li>Click on the edit icon and edit the new duration and price for this personnel.</li>
+<li>When customized, the value that differs from the service default price or duration is displayed in bold.</li>
+<li>Remember to click on Save at the top of the list to keep your changes.</li>
+</ol>
+<p><b>Add an Appointment with Automatic Price Adjustment</b></p>
+<p>When you add a new appointment with a personnel that has a custom price or duration for the selected service, booxi automatically adjusts that price and duration for you.<img class="shadow_medium alignright wp-image-732" src="https://lh3.googleusercontent.com/sLs2ejlqNdld-IktPEBjFRaSY7R706RPoaBwQeeEb0mr2cwT6pTbmMQ2VgRIi8YgEE8C2E2kmdnmoVbKtd0T=s0" alt="customization automatically report when booking" width="420" height="233" /></p>
+<ol>
+<li>Click on New Appointment from the top right menu.</li>
+<li>Select a service.</li>
+<li>Select a personnel.</li>
+<li>The price and duration will automatically adjust, and the default service price and duration will be displayed in brackets.</li>
+<li>If you manually customize the duration or the price for this appointment, they won’t auto adjust anymore for this appointment, keeping your customized values.</li>
+</ol>
+<p>It is as simple as that, and saves you lots of time.</p>
+<h2>Your customers will immediately know what is the price for each personnel when they book online.</h2>
+<p>When they book online, your customers will see the price adjustments per personnel. So when they choose a personnel they know what to expect, in terms of price and duration. For the services that have price or duration variations, these will be displayed with a + sign following the price and/or the duration.</p>
+<h2>You Can Take Advantage of This Feature Now!</h2>
+<p>This new features is included with your current subscription and ready to use now, try it and save time.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Fully Customize Your Book Now Button</title>
+		<link>https://www.booxi.com/blog/how-to-fully-customize-your-book-now-button/</link>
+		<comments>https://www.booxi.com/blog/how-to-fully-customize-your-book-now-button/#comments</comments>
+		<pubDate>Mon, 14 Nov 2016 20:51:15 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Developers]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=713</guid>
+		<description><![CDATA[This article presents technical notes on how to fully customize the look and feel of your booxi book now widget, as well as some behaviours. Remember that these are optional and not required to use the booxi Book Now widget and get a perfectly working Book Now button.]]></description>
+				<content:encoded><![CDATA[<p>This article presents technical notes on how to fully customize the look and feel of your booxi book now widget, as well as some behaviours. Remember that these are optional and not required to use the booxi Book Now widget and get a perfectly working Book Now button.</p>
+<ul>
+<li>Full Button UI Customization</li>
+<li>Redirect URL (successful booking or abort)</li>
+<li>Add Analytics</li>
+</ul>
+<p><b>Customize Your Button Appearance</b></p>
+<p>Here is a list of available button style options, which you can customize using javascript properties.</p>
+<ul>
+<li>button_color : css background-color</li>
+<li>text_color : css text color</li>
+<li>border : css border style</li>
+<li>hover_button_color : on hover background-color</li>
+<li>hover_text_color : on hover text color</li>
+<li>hover_border : on hover border style</li>
+<li>border_radius : css border-radius</li>
+<li>button_height : css height</li>
+<li>line_height : css inline-height for text vertical centering</li>
+<li>font_size : css font-size button text</li>
+<li>font_weight : css font-weight : like bold</li>
+<li>font_family : css font family</li>
+<li>show_icon : true or false to display icon</li>
+<li>icon_path : url to image for icon</li>
+<li>use_important : true or false applies css !important to overrides</li>
+</ul>
+<p>Look for the bxe_core.init javascript method, add the customize_button property, which should be a javascript object (property / value pairs) using the properties listed above. These values are actual css values, for example 18px which is a valid CSS value for font_size. Example :</p>
+<p style="padding-left: 30px">bxe_core.init({</p>
+<p style="padding-left: 30px">bxLang: &#8216;eng&#8217;,<br />
+btn_text_eng: &#8216;Book My Appointment&#8217;,<br />
+bxExtWin: false,<br />
+customize_button:<br />
+{<br />
+button_color:&quot;#D792A1&quot;,<br />
+text_color:&quot;#333333&quot;<br />
+}<br />
+});</p>
+<p><b>Customize Your Button Behaviors</b></p>
+<p>You can customize some behaviors of your button using external parameters.</p>
+<ul>
+<li><b>Referrer url (</b>document_domain<b>)</b>: The URL from which the web user is originating from.</li>
+<li><b>onBooked url (</b>url_booked<b>)</b>: If defined, the web user will be redirected to this URL upon successful booking.</li>
+<li><b>onCancel url (</b>url_cancel<b>)</b> : If defined, the web user will be redirected to this URL upon aborting the current booking process.</li>
+<li><b>Google Analytic ID (</b>custom_ga<b>)</b>: Allows you to provide your own analytics id. To be instanced in book now.</li>
+</ul>
+<p>Here is how you can use these.</p>
+<p style="padding-left: 30px">window.bxApiInit =<br />
+function()<br />
+{bxe_core.init({<br />
+bxLang: &#8216;eng&#8217;,<br />
+btn_text_eng: &#8216;Book your appointment&#8217;,<br />
+bxExtWin: true,<br />
+document_domain:&#8217;<a href="http://fr.wix.com/">wix.com</a>&#8216;,<br />
+url_booked:&#8217;[Add your successful booking url]&#8216;,<br />
+url_cancel:&#8217;[Add your cancel/abort booking url]&#8216;,<br />
+custom_ga:&#8217;[Add your Google Analytics ID]&#8216;<br />
+});<br />
+};</p>
+<p>That’s it for now. More great things to come with booxi!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-fully-customize-your-book-now-button/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Get More Revenues by Working Less ?</title>
+		<link>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/</link>
+		<comments>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 16:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[time saving]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=290</guid>
+		<description><![CDATA[Stop loosing time and energy. Choose the right tool that works for you to increase your income, improve your customer service, and enjoy your evenings and week-end. ]]></description>
+				<content:encoded><![CDATA[<p>You might think “Everyone knows that less work brings less income and not the opposite&#8230;&#8221;, but yet we always end up meeting someone who works less than us and gets more revenues. It is often because they find a way to make other people work for them, or work with tools that do the job for them.</p>
+<p>With that in mind, let’s have a look on two examples based on real life cases and see how these people manage to increase their incomes by working less.</p>
+<h3 style="text-align: center">For Michelle, Change Was Perceived as an Uphill Battle</h3>
+<p>Michelle, a mother of two owns a massage therapy center with 6 employees and has almost no time left to see her clients as her business and appointment management occupies nearly all of her time. To avoid as much as possible no-shows, she spends hours sending emails and calling customers to remind them of their appointment for the next day. Unfortunately she has no time to take care of her website, her visibility and her marketing and she is unable to grow her business.</p>
+<p>She hits a wall and has to change something, but change feels like an uphill battle for her. Michelle finally decides and begins to use a tool that she was considering for several months, but yet was delaying the implementation date.</p>
+<p>The transition is very easy, employees adapt quickly, and the uphill battle becomes a small step. Customers love it, nearly 20% of them book appointments without calling, and get an automated confirmation email. Reminders are also automatically sent by email and/or SMS, which completely takes away the associated workload while eliminating no-shows. Her client list automatically update, so she no more needs Excel nor paper notes because her appointment solution does all the work for her.</p>
+<p>After only one month using it, she realizes that managing appointments is not time consuming anymore, her employees have access to their appointments and the tool does the rest, “It’s like magic” she says. Given this work reduction, which Michelle estimates to be 28 hours a week, she starts seeing customers and even hires a new therapist. And after two months of using the tool she hires another therapist.</p>
+<p>Two months ago, Michelle could not see the day her business would grow and now it is performing better than ever while Michelle works less.</p>
+<h3 style="text-align: center">Julie Used to Spend Her Evenings Calling Back Clients,<br />
+on Top of Paying Two Daytime Receptionists</h3>
+<p>Julie owns a beauty salon in Quebec with a good clientele, many beauticians and two shared receptionists which costs nearly $36,000 a year. Despite her good business management, she spends her evenings and part of her weekends to call back clients as no-shows quickly becomes a problem if she doesn’t so.</p>
+<p>She decides to &#8220;take the technology turn&#8221; she said. Right from the first week employees are comfortable with the tool and inform their customers that they can now book appointments online from their website or directly from their facebook page.</p>
+<p>Julie starts having more free time instantly, and she can enjoy her evenings and weekends. After her first month, she reduces her reception to one receptionist, a saving that she estimates to $ 18,000 a year.</p>
+<p>She provides a better customer service than ever, her employees love the tool, her business is more profitable than ever and Julie works less.</p>
+<h3>Work Smarter Not Harder</h3>
+<p>The previous cases clearly show how easy it can be to increase income by working less, if you work more efficiently.</p>
+<p>Now let&#8217;s take a fictional example by calculating a possible increase in income, while using actual statistics.</p>
+<h3>Professional NOT Using a Tool:</h3>
+<p><strong>$40</strong> per 30 min appointment ( $80/hr).<br />
+<strong>64</strong> appointments per week for a total of 32 hours (+ $2,560).<br />
+<strong>7.5</strong> hours spent on the phone weekly.<br />
+<strong>13%</strong> missed appointments (4 missed appointments per week &#8211; $320).</p>
+<p><strong>40</strong> hours (or more) of work per week.<br />
+<strong>$2,240</strong> in revenues ( $2,560 &#8211; $320) per week.</p>
+<p><strong>30</strong> hours on the phone each month.<br />
+<strong>$8,960</strong> in gross revenue per month.<br />
+<strong>$43,000</strong> a year before tax, with a profit margin of 40% after expenses.</p>
+<h3>Professional Using a Tool:</h3>
+<p><strong>8</strong> hours less the phone time per month (+ 16 appointments $640).<br />
+<strong>2%</strong> no-shows only (+ 13 appointments per month $520).<br />
+<strong>$5,568</strong> per year for a total annual income of $48,568 before tax.<br />
+<strong>2,729%</strong> return on your investment of $204 per year for the management tool.</p>
+<h3 style="text-align: center">Gross Revenue increase of $27,840<br />
+At an additional cost of only $408</h3>
+<p>The same scenario can easily be used to estimate that a business of 5 employees could get a revenue increase of $27,840 at the sole cost of $408.</p>
+<p>You too, can “take the technology turn” to increase your revenues, improve your customer service, and enjoy your evenings and weekends, or for all these reasons.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tired to Spend Most of Your Time on the Phone to Manage Your Appointments?</title>
+		<link>https://www.booxi.com/blog/tired-to-spend-most-of-your-time-on-the-phone-to-manage-your-appointments/</link>
+		<comments>https://www.booxi.com/blog/tired-to-spend-most-of-your-time-on-the-phone-to-manage-your-appointments/#comments</comments>
+		<pubDate>Thu, 11 Aug 2016 18:34:14 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[no-show]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[time saving]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=153</guid>
+		<description><![CDATA[Stop wasting time and focus on what you really like to do : be with your customers.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-781 size-full" src="https://lh3.googleusercontent.com/59sO0o50pVl2u-ry-B7_6tiqhr-sKAIjh0QZA28AM10lrPpJhk8gHqu__QodLsILHHIdaEM1DHmigP8j5xyV75E=s0" alt="woman spending too much time on the phone" width="1200" height="600" /><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Juggling with appointments, sales, marketing, customer service while managing a business can turn into real headache. Some solutions may actually help you to save a lot of time. Take a management solution for appointment as booxi and see the benefits it offers.</p>
+</div></div></p>
+<p>&nbsp;</p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Gain Efficiency</li>
+<li>Reduce No-Shows</li>
+<li>Get More Satisfied Customers</li>
+<li>Automate your Client List</li>
+<li>Get More Online Visibility and More Appointments</div></li>
+</ul>
+<hr />
+<h3>Gain Efficiency</h3>
+<p>You’ll save time by spending less time on the phone.<br />
+You lose around 6 minutes per phone call to book an appointment, asking for personal information, confirmation of the date, time and so on. Reduce that phone time with booxi. It will manage part of your appointments by encouraging your clients to book online. At least 6 hours saving per month!</p>
+<h3>Reduce No-Shows</h3>
+<p>For each appointment, booxi sends an automated confirmation with all information at hand for the customer. Customers are less likely to call back to ask about the date or the address. In addition, the platform offers the possibility to send an automated reminder (by email or text message). No-shows will decrease from 13% to less than 2%! Automate your business !</p>
+<h3>Get More Satisfied Customers</h3>
+<p>Allow your customers to book their appointment when they have time.</p>
+<p>20% of customers prefer booking online over talking to someone on the phone, also they can do it when they have time and as soons as they think about it (even when your business is closed). They save time, just as you do. Focus on customer experience!</p>
+<p>&nbsp;</p>
+<h3>Automate Your Client List</h3>
+<p>When you use an online booking solution, you collect your customers emails (with their consent). As they book online and you add new appointments, you automatically build up your client list with valuable details. You can also access each customer’s appointment history (and notes for each appointment). It’s a good way to impress them by knowing when was their last visit and the service they received. In addition, thanks to automated recall you can send emails to invite them to book a new appointment, with an impeccable timing.</p>
+<h3>Get More Online Visibility and More Appointments</h3>
+<p>With solution like booxi for example, you can also add the Book Now button to your website, your Facebook page, and in all your messages (2 sources for new appointments). Finally, add your link on specialized online directory. All roads lead to a new appointment !</p>
+<p style="text-align: center"><strong>The solution works for you and you can focus on what you like to do.</strong><br />
+<strong>Amazing, this online appointment booking. What could be better ?</strong></p>
+<hr class="dash" />
+<p style="text-align: center;font-weight: 200"><span class="bx_text24">Try booxi for free</span></p>
+<h5 style="text-align: center">14 days &#8211; No credit card required</h5>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/tired-to-spend-most-of-your-time-on-the-phone-to-manage-your-appointments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

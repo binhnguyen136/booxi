@@ -1,0 +1,119 @@
+
+
+.bio_viewport
+{
+    position: absolute;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+
+    padding-top:10em;
+    pointer-events: none;
+}
+
+.bio_viewport_inner
+{
+    width:100%;
+    height:100%;
+
+    overflow-x: hidden;
+    overflow-y: auto;
+    pointer-events:auto;
+
+    -webkit-overflow-scrolling: touch;
+    -webkit-transform: translateZ(0);
+    -webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+}
+
+
+
+.key_point_box
+{
+    width:100%;
+
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    padding-top: 4em;
+    padding-left: 2em;
+    padding-right: 4em;
+}
+
+.bio_key_point
+{
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.bio_key_point .bullet_box
+{
+    position: absolute;
+    left:0;
+    top:0;
+    display:inline-block;
+    width:2em;
+}
+
+.bio_key_point .bullet
+{
+    display:inline-block;
+
+    width:8px;
+    height:8px;
+    background-color: #FFFFFF;
+    border:1px solid #555555;
+    border-radius: 2px;
+    margin-top:5px;
+}
+
+.bio_key_point .text_box
+{
+    display:inline-block;
+    width:100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 2em;
+    line-height: 2em;
+
+}
+
+.bio_key_point .text_box > span
+{
+    font-size: 1.6em;
+}
+
+.bio_text_area
+{
+    padding-right: 15%;
+    text-align: justify;
+    font-size: 18px;
+}
+
+
+@media screen and (min-width: 1px) and (max-width: 800px)
+{
+    .bio_frame_left { display: none; }
+    .bio_frame_right
+    {
+        width: 100%;
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    .bio_viewport
+    {
+        left:2.01em !important;
+        right:2.01em !important;
+    }
+}
+
+@media screen and (min-width: 801px)
+{
+    .bio_frame_left { width: 45%; }
+    .bio_frame_right { width: 55%; }
+}

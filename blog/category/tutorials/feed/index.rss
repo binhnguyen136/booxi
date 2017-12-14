@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; Tutorials</title>
+	<atom:link href="https://www.booxi.com/blog/category/tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>How to add book now button directly on your Webself website?</title>
+		<link>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/</link>
+		<comments>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 14:38:43 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online visibility]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1537</guid>
+		<description><![CDATA[Here is the tutorial to learn how to add online appointment booking directly on your Webself website.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1550 size-full" src="https://lh3.googleusercontent.com/nDarG9RG95oK7v1li6gcErJC3276LsosdNNeFTQ-9-M-o99X1NXWIZPPMroEVoEq33RKtqvZ5pL0iS-HuToUAg=s0" alt="webself-top" width="1200" height="373" /></p>
+<ol>
+<li>Sign in your Webself editor, and go on the page where you want to add the book now button.</li>
+<li>Click on the section ‘’+ ADD’’ and select the option ‘’Script’’ in the Tools Sections.<br />
+Click on it, and drop down it on the desired section.<img class="img_zoom aligncenter wp-image-1551 size-full" src="https://lh3.googleusercontent.com/b6KMQT_6vmpRJIhKEUV2pHbCNq2wdRmRvuvfpzQ1R2gw-JpAamebpYjYBgssNbbRVz2enbPvuc7s9w88M8pw=s0" alt="add section" width="290" height="463" /></li>
+<li>This pop will appear:<img class="img_zoom aligncenter size-full wp-image-1552" src="https://lh3.googleusercontent.com/5ybr9C0oRvuC2KxAvXhnj8jv4WGLHIbGWq_tgFkpSKFiMAHQd3kLTBmGyOL9yMoBTJmHJzRQWwTwg_KKJq15=s0" alt="script pop up" /></li>
+<li>To generate the code that you’ll past on this pop up:</li>
+</ol>
+<ul>
+<li>You’ll need your booxi API Key.<br />
+Here’s how to find it:<br />
+Go on My Business tab, and then on the section Business Details. Scroll down to the section API Key and copy the code.</li>
+<li>Then go <a href="https://www.booxi.com/developers/booknow" target="_blank">to this page</a> and use the Widget Generator to create the script:<img class="img_zoom aligncenter size-full wp-image-1553" src="https://lh3.googleusercontent.com/egv5RSJe8_GV_2o-C5JTG7UMGuvwlBer8u64Bg45ubpTkn44SflEJNAiOvq27eL-QUai9Wv-5MHLqWd6u7O7Yyc=s0" alt="widget generator" /></li>
+</ul>
+<p>In the section API Key, paste the code you’ve just copied.<br />
+Select the language which you want the text to appear on the button, and select the option ‘’External Popup’’. Then you can customize the text of the button if you want to. Finally click on the button ‘’ Generate the code’’ : a code is generated on the right side.</p>
+<p>5. Copy the code generated in the section ‘’Widget Code’’.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1554" src="https://lh3.googleusercontent.com/nsUFxl_nzdPF263-IfbGIPAZs2_SdeV8iZf917_RIpAaBhrg9zDRyl11rpGc3iLxu831UZQJtynxOIHdic8Oni4=s0" alt="widget generated" /></p>
+<p>6. And go back to the Editor in Webself.</p>
+<p>In the pop-up Script, scroll down to the section ‘’Content code between &lt;body&gt; and &lt;/body&gt; tags. Paste the Widget code you’ve just copied.</p>
+<p>7. Go back to the booxi code generator and copy the code in the Widget Container section.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1555" src="https://lh3.googleusercontent.com/Z95pOAxVwexShHksu_E8sbEiTn7p2sz1l-pv3PTWPpMt-5ysuWBb8k4jPzzz4LvblJQ71p5rfWmfoJJBtVjDHWo=s0" alt="book now button code" /></p>
+<p>8. In the Webself Editor, paste the code in the first section ‘’Code Content’’.<br />
+9. Once again go back to your booxi generator, and copy the code in the section ‘’Book Now Button’’. For example, copy the English one.</p>
+<p>10. And finally go back to the Webself Editor and paste the code you’ve just copied in the section ‘’Content code between &lt;head&gt; and &lt;/head&gt; tags.</p>
+<p>11. Click on the Update buttons, and then on Save and you’re done.</p>
+<p>Your customers can now book appointment directly from your Webself website.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Add Online Booking to Jimdo Website</title>
+		<link>https://www.booxi.com/blog/online-booking-jimdo/</link>
+		<comments>https://www.booxi.com/blog/online-booking-jimdo/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 21:30:27 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[jimdo]]></category>
+		<category><![CDATA[online appointment booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1377</guid>
+		<description><![CDATA[Learn how to add online appointment booking to your Jimdo website and start converting online visitors into customers. ]]></description>
+				<content:encoded><![CDATA[<p><strong><img class="float_top aligncenter wp-image-1391 size-full" title="jimdo" src="https://lh3.googleusercontent.com/NwYs4OteRJonSOv6mBI03BVnVV-T2nF2CrLzbfeNtVM9wKpQUKUWyRCj4ufLCtb8tF7WIgjiWM2kHSHg6kT6oaY=s0" alt="jimdo" width="1200" height="600" /><br />
+Step 0 :</strong></p>
+<ul>
+<li>Go to <a href="https://www.booxi.com/developers/booknow" target="_blank">https://www.booxi.com/developers/booknow</a></li>
+<li>Enter your booxi API key and generate your widget code.</li>
+<li>Set this aside, we will use it in the Jimdo site editor.</li>
+</ul>
+<p><strong>Step 1 :</strong> Go to jimbo and please login into your account and access your jimdo site editor screen.</p>
+<p><strong>Step 2 :</strong> Open your site menu (menu left side). Look for settings option and select it:<br />
+<img class="shadow_medium aligncenter wp-image-1378 size-full" src="https://lh3.googleusercontent.com/0qLDEEWgqwJcGc3XdH54LQDQVaXEpdzSomXUYa292hen_kXlI6COh48E1LkJIVglYA7TVJhNlU_JkfijTrPMupk=s0" alt="Jimdo menu " width="461" height="393" /></p>
+<p><strong>Step 3 :</strong> In the settings menu look for an option called Edit Head and select it:</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1379" src="https://lh3.googleusercontent.com/nm9zyV0xb7Eio_MVfWOzmrKpwZFHE9DU3626CcYv9VE0Kj-PvirxkmITnxq3WCT8gSGj8oO1kTV6GzCp5CCkwA=s0" alt="Jimdo Settings" /></p>
+<p><strong>Step 4 :</strong> This section will allow you to place the booxi widget code onto every page of the site (this does NOT automatically include a button on each page).</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1380" src="https://lh3.googleusercontent.com/jJgTfcymbjH2ym6Lq7I8xJEUIVXHRgAvxKBmLdBwON7L2QFkclaNtM0oOt1_V6S1stnzD20_bQsQr14DZzrx2nc=s0" alt="edit head" /></p>
+<p>Please make sure that WEBSITE tab is selected (loaded in the grey header). Go back to the booxi developer page and look for Widget Code section, there will be a text box full of web code and would look like the image below :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1381" src="https://lh3.googleusercontent.com/Ic289KnGmHkCUMPlWX9WkIGO8dbGwm1nfQCItLOnJhZHTnqNqas6UajX6xZkJBgVltMf-62QKsPny6PYfqKJ8_U=s0" alt="book now widget code" /></p>
+<p>You must select all the text in this text area and copy it (crtl-c), go back to your Jimdo Edit Head window, and paste the code into the text area.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1382" src="https://lh3.googleusercontent.com/Tj_TgdEfXeO3yilZXSrE0Q13NOEyIwBLRGs3LOSZFRM0xiKP980srK2tdp044sE_EWtc98ETv-o8Hh4du2CH9w=s0" alt="script html edit head" /></p>
+<p>Be sure to save it before leaving the section. If there was an error in the copy page Jimdo will not save it. To make sure it worked just go back to the section after saving it, if the code is still there that means everything is good.</p>
+<p><strong>Step 5:</strong> Now that the widget code we are able to add the book now button. Go to your jimdo page editor and find the place where you wish to add the book now button. Use the + Add Element option that is presented on the page editor as you move your mouse around. Click the <strong>+ Add Element</strong> button.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1383" src="https://lh3.googleusercontent.com/YQXxcnroEjAlyB5MitmSEgKikxS68a2wFoPfA3a0zeUdlb6HDGgiBA4dkKobUMVFjoYJIzzdGZzA__IG3-CxTA=s0" alt="add online booking" /></p>
+<p>The option to add the book now button is not a part of these basic options, please press the <strong>More elements and Add-ons</strong> button.<br />
+<img class="img_zoom aligncenter size-full wp-image-1384" src="https://lh3.googleusercontent.com/0kXa1yuGzDKFnwslN46Vllt1WIu7KfWFBilX41OGNR-9B58jJvtvtfsYVeTz5TKU-zUZ6yHLdRrSYGAseli22Q=s0" alt="Widget book now on jimdo" /></p>
+<p>Look for and select the option called Widget / HTML, this will bring up a editor where we can add the button. The Editor should look something like this :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1385" src="https://lh3.googleusercontent.com/Lt4VyZ8JwcefoCQmLgAY6ntRfvVnpQjehGM8aVH-vESJphfGPnLLsZbX1ws32fi1UcfhXZ5QgxeVhlIawr9ggAI=s0" alt="Jimdo website editor" /></p>
+<p>Go back to the booxi developer page and look for Book Now Button, you will have a text area containing the html code required to add a button to the page. It looks something like :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1386" src="https://lh3.googleusercontent.com/O0urejHYe1A066SnncZMFxydiiteNXN9KDm2z573s5VOWEctffJmLWc9y51yGldl2jeRgNR0hu8XFiK3FPl_=s0" alt="book now button " /></p>
+<p>You must copy the HTML code from the text box and go back to your Jimdo editor and paste the text into Widget / HTML text area. As shown in the following image :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1387" src="https://lh3.googleusercontent.com/6gXnAcOkk_U3gw3GDUoMZxVURV0zEMwj7d7rbP61Y4emN7hN-JOuO_QdQ5S7R3RYQcjaK8f6Z-9gsO9I2K8NOw=s0" alt="Jimdo script editor " /></p>
+<p>Press the save button. It is normal that you do not see the button on the page. Save the page and testing it out, if everything went well the green button should appear. If you click on it the book now widget will load up.</p>
+<p><strong>Trouble shooting :</strong></p>
+<p>If your button is not loading it can be one of the following problems :</p>
+<ul>
+<li>There was an error with the copying of one of the book now widget text code.</li>
+<li>Your api key is invalid, could be a typo or something similar.</li>
+<li>Your business is not online.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/online-booking-jimdo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Create Your Business Instagram Account : a Step by Step Guide</title>
+		<link>https://www.booxi.com/blog/how-to-create-your-business-instagram-account-a-step-by-step-guide/</link>
+		<comments>https://www.booxi.com/blog/how-to-create-your-business-instagram-account-a-step-by-step-guide/#comments</comments>
+		<pubDate>Wed, 05 Jul 2017 18:13:50 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online visibility]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1180</guid>
+		<description><![CDATA[Follow this step by step tutorial and create your business Instagram account.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1238 size-full" src="https://lh3.googleusercontent.com/66LaRlqnPOrUmA74vfNFmj0qvHioWlJX3Q54ak-Us6aX4aOocgFCWnysqIMgKTwksOWSbpDk0C7swuPBJ7zfMQ=s0" alt="create your instagram account" width="1280" height="720" /><br />
+Learn how to create your Instagram account by following this step by step guide.</p>
+<ol>
+<li>From your smartphone, go on your Apple Store or on your Google Play, search for the Instagram application and download it. Once it&#8217;s done, open the app and start to create your account.<img class="shadow_small aligncenter wp-image-1239 size-full" src="https://lh3.googleusercontent.com/AyIASjR4UQXN-iLj3x7cdtqSlKiF0Z6mHPW4KRKlV-4ouyxH4I2rPP1J6_J3MKfIw9q1_4uCFDLLsXSIpZlAz3U=s0" alt="download the app" width="674" height="600" /></li>
+<li>It&#8217;s easy to sign up: enter your phone number or your email address.<br />
+Add your business name, your password, a picture (you can change it later) and click on Next.<br />
+Then create a user name and click on Next.<img class="shadow_small aligncenter wp-image-1244 " src="https://lh3.googleusercontent.com/bR0nTK9oRgc-ybYt_cojkg8xgFw0wysZDBu0NGXv4rVY7QxeDxll8WRZLnGvQm6ENvV7e91_dVIWODBJjV6j=s0" alt="set-up-your-account" width="713" height="423" /></li>
+<li>You can now find contacts with the option &#8220;Connect to Facebook&#8221;.</li>
+<li>Then Instagram will make some suggestions, based on the most popular accounts.<br />
+<img class="shadow_small aligncenter wp-image-1245 " src="https://lh3.googleusercontent.com/RUt3RjS_Y4XE12BgV8IgvVkFpD-QdQnfGV2ZtCQTv2fMqQZowQvfvxMMYeQwQeKjhbIwiLeZjNH6UmaodR9wcw=s0" alt="find-contact" width="454" height="404" /></li>
+<li>Then you can try the professional features, specific for businesses accounts. Use a Professional Profile to add your business phone number, your business address and your business email address.<br />
+You have also access to a Statistic section to analyse which post perform better. This is very useful to optimize your account.<br />
+Finally the Promotion section allows you to create promotions to get more visibility and more followers.<img class="shadow_small aligncenter wp-image-1243 " style="padding: 35px" src="https://lh3.googleusercontent.com/aUhWMzfefKTgIyMNh3IqEW2arihSWMPTEd1warcEAVMK-haLJmht_Xg3OR38juW2uG81rE85AdS3ueTCy3h1=s0" alt="switch to business profile" width="1221" height="435" /></li>
+<li>To activate the professional account on Instagram, link your Instagram account with your business Facebook Page.<br />
+To do it, click on &#8220;Log in with Facebook&#8221;, then click on &#8220;Ok&#8221; in the &#8220;Confirm Login&#8221; page.<br />
+Then you can select the Facebook page associated with this Instagram account.<img class="shadow_small aligncenter wp-image-1242 " style="padding: 35px" src="https://lh3.googleusercontent.com/r7pt35UamPEl1geppTNsTmSzDxiwnCRDx42p_reTTVAfrNDsZ1tg6XHEkI1D_ifbWDq9NnnGCqoubKKsJzHCpg=s0" alt="link to your facebook page" width="711" height="422" /></li>
+<li>You can then set up your business profile by adding useful information. And now you have access to your profile.<br />
+Now make sure to publish picture on a regular basis.<br />
+No inspiration? Here is a <a href="https://www.booxi.com/blog/12-creative-ways-to-benefit-from-instagram/" target="_blank">guide with 12 ideas</a>.</li>
+<li>Once you publish on a regular basis and you have determined you strategy, you can follow your account metrics.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-create-your-business-instagram-account-a-step-by-step-guide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Create Your Canva Account to Produce Your Own Visuals</title>
+		<link>https://www.booxi.com/blog/create-your-canva-account-to-produce-your-own-visuals/</link>
+		<comments>https://www.booxi.com/blog/create-your-canva-account-to-produce-your-own-visuals/#comments</comments>
+		<pubDate>Mon, 29 May 2017 14:56:51 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online visibility]]></category>
+		<category><![CDATA[social network]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1040</guid>
+		<description><![CDATA[Visual content is 40X more likely to get shared on social media than others types of content. By creating your Canva account, you can easily create images that fits with your business to illustrate your social media's publications.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1041 size-full" src="https://lh3.googleusercontent.com/Fz91j7ffB9M4LUwUEN-NVnd3AIevnLq5J-vC7WfzDEkQKidT1eW9DIwsGaO6fdHElUWpeJXuw1-YuBZxwh40Qw=s0" alt="create your canva account" width="1280" height="720" />Canva is a solution that allows you to edit images to personalize them and make them fit with your business’ image.<br />
+This can be very useful for customizing the images you publish on your social networks, for creating visuals for your Facebook ads, for illustrating your promotions newsletters or for illustrating your blog if you have one.</p>
+<p>&nbsp;</p>
+<p>#1 &#8211; Go on <a href="http://www.canva.com">Canva website</a>.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1042" src="https://lh3.googleusercontent.com/piHrKQqbyDg74XJ9HRsUslq9Z3xo3XplBMhpbNCpkyzCPEjQCkktQLdy3lMS75MWqapEUiyD3gIf38V3fU5oNMM=s0" alt="sign up with canva" /></p>
+<p># 2 &#8211; If you have a Facebook account or a Google Account, click the appropriate button to speed up your account creation.</p>
+<p>Otherwise click on &#8220;Sign up with Email&#8221; and follow the steps.</p>
+<p># 3 &#8211; In order that Canva offers you the best possible templates according to your needs, select the reason for the creation of your account between the following options:</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1043" src="https://lh3.googleusercontent.com/OouW60JHRjuZmf7ZbrP_2bxSVy5Z6trvOttm3KFXk0GZIupAVFh8QNQTIzgvVQLfDYR0yOr2LvoKu0mliDRRfg=s0" alt="Canva sign up completed" /></p>
+<p>#4 &#8211; And it’s done.<br />
+You can now start to<a href="https://www.booxi.com/blog/how-to-create-shareable-images-that-drive-traffic/"> customize your visuals for your social media publications</a>, for example.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/create-your-canva-account-to-produce-your-own-visuals/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Weebly &#8211;  Add Online Appointment Booking Directly on your website</title>
+		<link>https://www.booxi.com/blog/weebly/</link>
+		<comments>https://www.booxi.com/blog/weebly/#comments</comments>
+		<pubDate>Sun, 28 May 2017 15:03:57 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[weebly appointment]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1307</guid>
+		<description><![CDATA[Easily add online appointment booking directly on your Weebly website thanks to the complete integration with booxi, the online appointment scheduling software.
+]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1370 size-full" src="https://lh3.googleusercontent.com/anNJNU4N5aVh_oAz0T9VZ7ZZSpmc3lO4Dxf4Wrk-MwJJuW38n3gawz1mDBgxWOdAy5FABGP0fN6LK_0hQDtjZJ8=s0" alt="Weebly" width="1650" height="960" /><br />
+1. Sign in your weebly account.<br />
+2. At the bottom of the main menu, on the left, click on the “Add App” option.</p>
+<p><img class="shadow_medium aligncenter wp-image-1309 size-full" src="https://lh3.googleusercontent.com/xzTzJZEu6zQ6Z4p4qk71967WH4bgM6gXsIeoczAfaRHEn2Qeeq8loPFhk8ujXF0C2rS0jQUpN15UOmU0Ektindg=s0" alt="Weebly dashboard" width="1373" height="1030" /></p>
+<p>3.The Weebly App Center will open. Enter “bookings” in the search bar and press Enter.</p>
+<p><img class="shadow_medium aligncenter wp-image-1311 size-full" src="https://lh3.googleusercontent.com/dS-ZIhz2WI159Qcgwh6JTBa4sqhKIPrLJmIT0ZxkpMjwjbr9HBFpLoFkwXh2s8d1wcunhtiXMogVYfaHBnxzmw=s0" alt="Weebly App Store" width="1834" height="1007" /></p>
+<p>4. Select Book Now &#8211; booxi by clicking on it.<br />
+<img class="shadow_medium aligncenter wp-image-1312 size-full" src="https://lh3.googleusercontent.com/9VQ5BUd3gdfEU_b0T76mdqOdPWNQRbTtUVk0dUVIZOI9rK2nDbeAf08SKLgS5Pkc58DoX9KeZbuYQHBV7riaXw=s0" alt="Weebly booking apps" width="1795" height="931" /></p>
+<p>5. And then click on Add button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1313 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image22.png" alt="online appointment booking on Weebly" width="1809" height="1002" /></p>
+<p>6. Connect booxi with Weebly by clicking on Connect, at the top right.</p>
+<p><img class="shadow_medium aligncenter wp-image-1315 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image4.png" alt="Weebly fully integrated with booxi" width="1790" height="992" /></p>
+<p>7. This window opens.</p>
+<p><img class="shadow_medium aligncenter wp-image-1316 size-full" src="https://lh3.googleusercontent.com/vBvZrp7dpwkYffwAtY07bo4lw_NZXQL3PX9VvZ2j1s4BQZbr7rFSgu_9QBKSxAWkRXOiUeA0rI3W4j_y3YbwHEc=s0" alt="sign-in-booxi" width="475" height="427" /></p>
+<p>8. Enter your credentials to sign in your booxi account. You will be redirect to your Weebly dashboard.</p>
+<p>9. If you scroll down on the main menu, you’ll see the new option “Book Now booxi”.</p>
+<p><img class="shadow_medium aligncenter wp-image-1317 size-full" src="https://lh3.googleusercontent.com/AKt5lo4-2a_ikN49ubZb0-A_qN5pijO8nI12rM8msxtXn9yA2gkrSZNLGrtZFrm3taj6NDy1TmodKLEJ4Tgo=s0" alt="Weebly Online booking" width="1102" height="1047" /></p>
+<p>10. To finalize the configuration of your book now button, check your emails. You received an email from booxi, with an API Key. Copy this code.</p>
+<p><img class="shadow_medium aligncenter wp-image-1318 size-full" src="https://lh3.googleusercontent.com/LEmIgm9rAoQbqGL20b2hr7p2iCYYgeBqj4LkBFg_gW0u8CjDtRcj6IPGxFmB0vktWPnukmmym0gCKORDCcKqFA=s0" alt="Accept online booking with Weebly" width="632" height="498" /></p>
+<p>11. Then come back to Weebly, on your website editor.<br />
+12. On the main menu, on the left, you can now see the “Book Now booxi” button. Select it and drag it to where you want to place the button on your website.<br />
+13. A button with the mention “No Api Key Configured” will appear.</p>
+<p>14. When you click on it, a pop appears.</p>
+<p><img class="shadow_medium aligncenter wp-image-1320 size-full" src="https://lh3.googleusercontent.com/DFyaaRNmpwcASoHfWszFGkFV9MX-1_Ls-zgO0hKGOLBpPCj56aYirNZmeIIYQz_LU6CUyzc2KrzcUvyfYbkc=s0" alt="Booking button Weebly" width="805" height="534" /></p>
+<p>15. To set up the button, all you have to do it to fill up all the fields:<br />
+API Key : It’s here that you can paste the code you received by email.</p>
+<p><img class="shadow_medium aligncenter wp-image-1321 size-full" src="https://lh3.googleusercontent.com/WF5C2lZAohNmpAkDC4UKC5YnoVZqMQd05WQ-CNWGdKuil4JmI2VAf4_WkxXnNfQfT8Znv7uXZUVNWPd_7CZG=s0" alt="customize weebly button" width="1207" height="586" /></p>
+<p>16. Finally you can play with the advanced settings, to fully customize your button.</p>
+<p><img class="shadow_medium aligncenter wp-image-1322 size-full" src="https://lh3.googleusercontent.com/Hw-JiPhtKM3PvnLV7Oyv_N-tDaAG4VtbVDK1ufHZsOLee9EhC5DByp0GgDW38OAGFYv5mHujwOlutf-MiZ6qAQ=s0" alt="booking fully integrated in Weebly" width="860" height="490" /><br />
+And it’s done, you&#8217;ve just added online appointment booking directly on your Weebly website. Before publishing it, to offer online appointment booking, make sure to set up your booxi account, by adding your service offer and your schedules.</p>
+<p>Once it’s done your customers can start booking online and you save time over the phone.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/weebly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Use Stripe to Accept Online Booking &amp; Credit Card Payments</title>
+		<link>https://www.booxi.com/blog/stripe/</link>
+		<comments>https://www.booxi.com/blog/stripe/#comments</comments>
+		<pubDate>Tue, 07 Mar 2017 22:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Goup scheduling]]></category>
+		<category><![CDATA[online payment]]></category>
+		<category><![CDATA[Stripe Payment]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1003</guid>
+		<description><![CDATA[With Stripe, you can easily accept online payment at the time of booking, thanks to the full integration with booxi.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1024 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/stripe.png" alt="Stripe" width="1200" height="418" /><br />
+<a href="https://stripe.com/ca" target="_blank">Stripe</a> is a very easy to use payment processor. Fully integrated with booxi, Stripe allows you to easily accept credit card online payments at the time of booking. Whether you need to capture a full payment, deposit, or a booking fee when customers book online with you, booxi made it simple for you and your customer to do so.</p>
+<p>You can now choose to request an online payment for any of your services, and for both appointment bookings and group reservations. Requesting a payment can contribute in reducing no-shows, as well as simplify your cancellation fees management. This article shows you how easy it is to do it, by using Stripe.</p>
+<p>Features:</p>
+<ul>
+<li>Request a full or partial payment per service for appointments or reservations.</li>
+<li>Accept online payment at booking time, or via email.</li>
+<li>See which appointments or reservations have been paid in your calendar.</li>
+<li>Review the payment details per appointment or reservation.</li>
+<li>Charge, refund and get payment reports using Stripe.</li>
+</ul>
+<h2 style="text-align: center"><b>Activate Your Stripe Account</b></h2>
+<p>booxi supports <a href="https://stripe.com/ca" target="_blank">Stripe</a> which is one of the most trusted online payment processor. In order to start using it with booxi, you will need to create your Stripe account, and activate the Stripe module in booxi. This will enable and show the hidden online payment options in booxi.</p>
+<p>Steps:</p>
+<ol>
+<li>Sign in your booxi account, and click on My Business</li>
+<li>Select the Business Module section, and scroll down to the Stripe module.<img class="img_zoom aligncenter size-full wp-image-1004" src="https://lh3.googleusercontent.com/I9lOdfLXaZhoSevcM5QZKFwZ7ZJpmR6OtgL6_X-gkY5Ljb0WVxsUpQp8MDZPM4pYnqdMi5SHFY_ZqKLxjkk3HU4=s0" alt="booxi business Module" /></li>
+<li>Turn the module on by clicking on the ON/OFF switch &#8211; a setup dialog will pop up.<img class="shadow_small aligncenter wp-image-1005 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/stripe-online-payment.png" alt="Stripe Online Payment" width="548" height="273" /></li>
+<li>Click on Sign in Stripe, and if you already have a Stripe account, use the Sign in link at the top of the pop up dialog; if you don’t, complete the signup form underneath to create your new Stripe account.</li>
+<li>To link (sign in) your existing Stripe account, simply provide your Stripe account email and password when asked, and continue with the following steps, but you must have an existing Stripe account to continue.</li>
+<li>The setup dialog will ask you to provide your tax informations so we can correctly calculate taxes for your customer’s online payment. If you only have one tax, leave the second one blank and to 0%.<img class="shadow_medium aligncenter wp-image-1007 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/complete-tax-rate-configuration1.png" alt="Stripe Set up" width="603" height="848" /></li>
+<li>When done click Save and you are done.</li>
+</ol>
+<h2 style="text-align: center">How to accept online payments with Stripe?</h2>
+<p>Now that you have activated your Online Payment Module, you can choose to request a payment for any of your services, simply by adjusting their online payment settings.</p>
+<ul>
+<li>You will be able to request a full payment of the service, or a fix amount for example as a deposit or reservation fee.</li>
+<li>This payment can be requested at the online booking, or by email just after the online booking is completed, leaving more time to pay.</li>
+<li>If a customer does not complete the payment at online booking (not by email) within 15 minutes, his reservation will be automatically canceled; without requiring you to do anything.</li>
+</ul>
+<p>To adjust the online payment settings of a service.</p>
+<ol>
+<li>Go to your service list and select a service for which you would like to request payment.</li>
+<li>From that service profile, click on Details to open the Edit Details form on the right, and scroll down to locate the Online Payment settings (these will only be shown if you have activated your online payment processor module).</li>
+<li>Select the option to request payment At Online Booking or By Email, or select Disabled (no payment requested).</li>
+<li>Set the Required Payment amount, to the full amount of the service, or a fix amount, for example 10% as a deposit.</li>
+<li>Click on Save, and you’re done. When a customer books an appointment online for this service, a payment will be requested.<img class="shadow_medium  aligncenter wp-image-1008 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/price-per-service.png" alt="Online Payments &amp; Booking" width="576" height="573" /></li>
+</ol>
+<p>Remember that if you set a required amount equal to the total service price, booxi will assume that you want to charge the service in full, so if the total to be paid varies when booking (for example multiple attendees), the total amount will be requested. Also, if you book multiple services, you can mix services that require a payment in full, partial, or even no payment, and booxi will calculate the amount in respect of each service settings.</p>
+<p><i>booxi currently only support online payment for group reservations.<img class="shadow_medium alignright wp-image-1009 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/online-payment.png" alt="Stripe payment" width="301" height="483" /></i></p>
+<h2 style="text-align: center"><b>Your Clients Can Pay Online in Simplicity</b></h2>
+<p>When booking online, your client will be informed that a payment is required, just before confirming his booking. Once he has confirmed his booking, he will be requested to pay online using any major credit cards through the secured Stripe online payment system, within the booxi booking process.</p>
+<ul>
+<li>If the payment is successfully completed, the client will receive an appointment confirmation email from booxi, and a payment confirmation email from Stripe.</li>
+<li>If the payment fails, the appointment will be automatically cancelled within 15 minutes, and both you and the client will be informed of that by alert and email.</li>
+<li>Since communication is important here, the client must provide an email address at booking when a payment is required.</li>
+</ul>
+<p>&nbsp;</p>
+<h2 style="text-align: center"><b>You Can Easily Track Who Paid Online</b></h2>
+<p>As clients book and complete their online required payments, you can see who paid online and track what is left to be paid.</p>
+<ul>
+<li>Each reservation will inform you of the current payment status and the associated balance to be paid.</li>
+<li>Each appointment will indicate if a payment has been requested and completed.</li>
+</ul>
+<p>Color status quickly inform you of what to expect in terms of payment.</p>
+<ul>
+<li>Bleu when a payment has been requested and you await this payment from the client.</li>
+<li>Yellow when a balance is left and you need to request that payment.</li>
+<li>Green when everything is paid.<img class="shadow_small aligncenter wp-image-1010 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/requested-payment.png" alt="Stripe enabled" width="291" height="83" /></li>
+</ul>
+<p><i>booxi currently only tracks online payment information, so you need to continue tracking payment the way you use to, while taking advantage of accepting online payment</i></p>
+<h2 style="text-align: center"><b>Capture Payment in Person or Over the Phone</b></h2>
+<p>For any reservation or appointment, you can process an online payment, or capture that a manual payment was completed. This means that you can complete an online payment by typing in the client’s credit card information, by send an online payment request to the client by email, or by registering that a payment was completed manually cash, or using physical payment processor terminal. This way you can track all your reservations and appointments payment status.</p>
+<p>To capture payment information:</p>
+<ol>
+<li>Right click on an appointment or a reservation and select Pay to open the payment dialog.</li>
+<li>Or open an appointment or reservation and select the top menu and option Pay.</li>
+<li>You may also set a required amount for a new appointment or reservation before saving it the first time, and the Payment pop up will automatically open.</li>
+</ol>
+<p>To capture an online payment for your client, using his credit card information, follow these steps:</p>
+<ol>
+<li>Set the payment method to Using Stripe</li>
+<li>Set the required amount</li>
+<li>Click on Pay</li>
+<li>The Stripe payment system will appear and complete the payment providing the client email and credit card information.</li>
+<li>The payment status will change for Paid.</li>
+</ol>
+<p>To send a payment request email to your client, follow these steps:</p>
+<ol>
+<li>Set the payment method to By Email</li>
+<li>Set the required amount</li>
+<li>Click on Send.</li>
+<li>The payment status will change for Awaiting the payment.</li>
+</ol>
+<p>To register a manual payment cash or using a payment processor terminal, follow these steps:</p>
+<ol>
+<li>Set the payment method to Manual</li>
+<li>Set the required amount</li>
+<li>Click on Pay.</li>
+<li>The payment status will change for Paid.</li>
+</ol>
+<p>For each appointment and reservation, you can expand the payment status to review the details of each payment completed (using Stripe, or manual).</p>
+<p><i>booxi currently only allows you to capture payment from online booking.</i></p>
+<h2 style="text-align: center"><b>You Have a Complete Access to Your Transactions</b></h2>
+<h2 style="text-align: center"><b>and Can Do Refund</b></h2>
+<p>From your Stripe dashboard, you can easily find a payment transaction, do a refund to a specific customer, and create simple transaction reports.</p>
+<p>This means you can use booxi to accept online payment when clients book online; while you continue to track who paid the way you used to, and consolidate all your payments by adding the online payment report provided by Stripe.</p>
+<p><img class="img_zoom aligncenter wp-image-1011 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/stripe-payment-history.png" alt="Stripe Live test" width="1122" height="584" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/stripe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Integrate the Book Now Button in Your Website</title>
+		<link>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/</link>
+		<comments>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/#comments</comments>
+		<pubDate>Tue, 21 Feb 2017 16:28:43 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=988</guid>
+		<description><![CDATA[Find out how easy it is to add online booking to your website, with a step by step tutorial and a series of useful links to generate the code you need and fully customize your Book Now button.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-993 size-full" src="https://lh3.googleusercontent.com/rDDBCz4_k3m23CDIt3cUWYF9wSX2MFZPnfGFoVAQMR4UTyzKtNx9pulGbdnX0G-wsCpeVVvScWrvY9uzzO3OLw=s0" alt="Integrate book now button in your website" width="1280" height="720" />This article guides you through simple steps to easily add online booking to your website. It also provides you with useful links to generate the Javascript code that best suites the website creation tool you are using.</p>
+<p>Book Now works prety much for any kind of website, no matter if it is custom made or if it was created using a website creator/builder/designer tool. Book Now is also responsive and will work just fine with most mobile devices.</p>
+<h3 style="text-align: center">Use One of Our Tutorials and Code Generators</h3>
+<p>If you know what tool was used to create your website, you can use one of the links below, and simply follow the tutorial steps.<img class="img_zoom wp-image-991 alignright" src="https://lh3.googleusercontent.com/580NOjvWld1z9yA2h46zHCJfeIqXBmOYgsrZCBD1SIybeAsXMYMCSgX2Pfyh6yhSQpnKQwtpuB0BYggo5eOswQ=s0" alt="wordpress logo" width="318" height="187" /></p>
+<ul>
+<li><a href="https://www.booxi.com/developers/wordpress" target="_blank">WordPress websites</a></li>
+<li><a href="https://www.booxi.com/developers/wix" target="_blank">Wix websites</a></li>
+<li><a href="https://www.booxi.com/developers/lightspeed" target="_blank">Lightspeed eCom websites</a></li>
+<li><a href="https://www.booxi.com/blog/how-to-use-the-booxi-book-now-widget-with-votresite-ca/" target="_blank">Votresite.ca websites</a></li>
+</ul>
+<p>If you have no idea what tool was used to create your website, or if it is not covered by the links listed before, use the generic tutorial below.</p>
+<ul>
+<li><a href="https://www.booxi.com/developers/booknow" target="_blank">Any other website tool or custom websites</a></li>
+</ul>
+<h3 style="text-align: center">You Can Fully Customize Your Book Now Button</h3>
+<p>booxi allows you to fully customize your button, so it matches perfectly your brand. If you are familiar with Javascript and CSS, use this <a href="https://www.booxi.com/blog/how-to-fully-customize-your-book-now-button/" target="_blank">article to find out how to customize it.</a></p>
+<h3 style="text-align: center">Have Someone Else Do It For You</h3>
+<p>We thought you might simplify things even more by sending an email to your web developer with all the required information. So we added a small Share button next to your API key, which will ask you for an email address and send an automated email with your API key and a link to this article. You will find this Share button in My Business, Business Details and scrolling down to your API Key.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-990" src="https://lh3.googleusercontent.com/OAJDKH099iYPISquQuCvctZIU5rdbaXRAghSDOLkij9Up1gb3oToqIbcrptLhTqo1Sg3tcrcsrZzetZDuyBDwQ=s0" alt="send my API key pop up" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-integrate-the-book-now-button-in-your-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get the Most Out of Your Client List!</title>
+		<link>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/</link>
+		<comments>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 21:58:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[mailing list]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=827</guid>
+		<description><![CDATA[Your business exists for your customers. It is then crucial to know them well and regularly communicate with them. Here is how to export your booxi client list and benefit from it. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-823 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/export_booxi_client_list.png" alt="export your booxi client list" width="1280" height="720" />A good business manager knows that a client list is crucial to be successful. There are many reasons for that, and here are some of them.</p>
+<ul>
+<li>Each client record holds informations such as the frequency of appointments, which allows you to know who is a regular and who has not come back in a while. That tells you whether you should send a thank you message or an invitation to come back.</li>
+<li>You probably have birth dates of some customers, so a short message for their birthday with a promotion is a good way to encourage them to spend money in your business.</li>
+<li>Thanks to online appointment booking, you probably have a good database of email addresses, so take advantage of that to send monthly news or promotions to your customers. Keeping in touch is really important, without excess of course.</li>
+<li>By exporting your client list with metrics, you can for example perform simple analysis in Excel and target customers that had appointments with a specific personnel, target the ones who often missed their appointment or the ones who buy a specific service. Use this to apply or try different strategies with your customers.</li>
+</ul>
+<p><b>With booxi It’s Easy to Export Your Client List</b></p>
+<p>You can export your client list as a CSV file, so it is compatible with almost any software, including Excel. To do it, complete the following steps:</p>
+<ol>
+<li>Click on the Clients tab in the main menu on the left.</li>
+<li>Then click on the Options <img class="verti-top" src="https://lh3.googleusercontent.com/6gZ3W4NoBfevPKYlMll4EcwCFLJ70yyrbqLsKzpkCenfA-qHCzPrjG2cL2t6VAfF165Q4ux_7015jG9hEhOO=s0" alt="option" width="20" height="20" /> icon at the top of the client list.</li>
+<li>And select the Export the client list option <img class="verti-top" src="https://lh3.googleusercontent.com/FAYppJy_rmrJGgVjiDMABqw0jkAEvDyj9vch1Nt7AsOPbuCC67Q0dqG-tHMUd79MAXv7V42VB2JZ05bE96ZvGA=s0" alt="clients_export_b" width="33" height="33" />.</li>
+<li>A pop-up appears allowing you to segment your export by selecting a few criterias.</li>
+<li>If you want to get your full client list with all the information about appointments, all you have to do is to check the option “Include client metrics”.</li>
+<li>Once you had selected your criterias, click on the Export button.</li>
+<li>booxi is preparing your list and a new pop-up appears with the link “Click here to download the exported clients”.</li>
+<li>Click on that link and the download starts, like any file downloaded from your browser.</li>
+<li>You can now have access to the CVS file in your Downloads folder and use your client list.</li>
+</ol>
+<p>Now try it for yourself! For example you can import your client list in a mailing solution or analyse different variables of interest, according to your strategies.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Use the booxi Book Now Widget With votresite.ca</title>
+		<link>https://www.booxi.com/blog/how-to-use-the-booxi-book-now-widget-with-votresite-ca/</link>
+		<comments>https://www.booxi.com/blog/how-to-use-the-booxi-book-now-widget-with-votresite-ca/#comments</comments>
+		<pubDate>Wed, 20 Jul 2016 20:01:42 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=970</guid>
+		<description><![CDATA[Your booxi book now button can be easily added to your votresite.ca website using this step by step tutorial. This will allow you to offer online appointment booking directly in your website.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-986 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/votresite.ca_.png" alt="votresite.ca + booxi" width="1200" height="600" />Your booxi Book Now button can be easily added to your votresite.ca website using this step by step tutorial. This will allow you to offer online appointment booking directly in your website.</p>
+<p>The use of the Book Now widget requires a booxi account and a valid API key.</p>
+<h2>Getting Your API Key</h2>
+<p>You can find your API key in your booxi account following these simple steps.</p>
+<ol>
+<li>To find your API key simply sign in your account</li>
+<li>Go to My Business from the left menu</li>
+<li>Access your business details by clicking on the Business Details section</li>
+<li>Scroll down until you see the API Key field</li>
+<li>Copy the code (select all, right-click, copy)</li>
+</ol>
+<h2><img class="img_zoom aligncenter size-full wp-image-972" src="https://lh3.googleusercontent.com/vKv161IRxgk1tIkF-RoAgjBTozhG6Hkki4Y4Q2F4UucgycPIJsyM0asiEkBM6d4E8KtzBTlrrwh_n3rstZou88w=s0" alt="api key" /><br />
+Integration Instructions</h2>
+<p>Once you have your API key, simply follow the steps below.</p>
+<ol>
+<li>Log into your <a href="http://www.votresite.ca/client/" target="_blank">votresite.ca website</a> manager / builder tool.</li>
+<li>Use the <a href="https://www.booxi.com/developers/booknow" target="_blank">booxi Widget Generator page</a> to generate the code that you will copy/paste in your website.</li>
+<li>In the Outil de creation menu, select the Settings tab.</li>
+<li>In Settings, from the top left menu, select Advanced.</li>
+<li>In Settings / Advanced select section Edit Metadata.<img class="img_zoom aligncenter size-full wp-image-973" src="https://lh3.googleusercontent.com/qMRJGweN-ZlXi_zqJ5gBIGH2SnzuM6kdnObXlgb04FKkJE3jPJl4xiwneXLvx7S_MzcsHXKPJi0zDubUfdXCvDE=s0" alt="edit meta data option" /></li>
+<li>Copy the widget script from booxi Widget Generator page.</li>
+<li>Paste the widget script in the Edit Metadata text box.</li>
+<li>Click on Add and Save your site.<img class="img_zoom aligncenter size-full wp-image-975" src="https://lh3.googleusercontent.com/XPvldMDWnFI1MSvrLnbUIYl5SW07iBzq6cigszAlETF5VD8k9Yqm2wb1kfpEuAtnQsMQBWw4Poi9VwwnvXFPAMU=s0" alt="edit-meta-data-popup" /></li>
+<li>Next, select the location on your page where you wish to add the Book Now button.</li>
+<li>Click on the HTML button to add a script block at that location.<img class="img_zoom aligncenter size-full wp-image-976" src="https://lh3.googleusercontent.com/GkSqbhAWHa_Rb-JeIIyqWiYkl1MpiA6GzwVFTdaCjXDk9timQTt0DUhaIcvXelWkFWrTjjAuD7CgWiT-0VIu=s0" alt="book now localisation" /></li>
+<li>Copy the button code from booxi Widget Generator page.</li>
+<li>Paste the button code (this an example):<br />
+<blockquote><p><em>&lt;div class=&#8221;bx_book_btn&#8221; data-lang=&#8221;fre&#8221; data-key=&#8221; API KEY &#8220;&gt;&lt;/div&gt;</em></p></blockquote>
+</li>
+<li>Click Update and Save the page.<img class="img_zoom aligncenter size-full wp-image-977" src="https://lh3.googleusercontent.com/j7xgHgPXsAvwO-pTBVWFaVtDIZ53dCWC-TaC8ft5Cqn7So8a5wGzpYirJb1G2qCh_N-Kghus79RWp7aa6J-F=s0" alt="html source editor" /></li>
+<li>If you are using the internal iFrame option (from the booxi Widget Generator page), you must place the following additional line of code in your footer: <em><em>&lt;div id=&#8221;bx-viewport&#8221;&gt;&lt;/div&gt;</em></em><img class="img_zoom aligncenter size-full wp-image-978" src="https://lh3.googleusercontent.com/5J4qiv9wRCzQ1lDjatttdGxgJ1LXhdeYfNhdzulAITELeSK3Hpvpc0XufyGg6pmfvZJVWaH0SPyFPR5YaDGLrA8=s0" alt="html-source-editor-iframe" /></li>
+<li>Save and Publish your site, and the Book Now button should be working perfectly. Your business must be online (in booxi) to be able to use the Book Now button.</li>
+</ol>
+<p>You&#8217;re done! If you have any problem, please read carefully the booxi Widget Generator guidelines, or contact us via email for assistance.</p>
+<hr class="dash" />
+<p style="font-size: 30px;font-weight: 200;color: #888;text-align: center">Try it for free</p>
+<p style="font-size: 16px;text-align: center;color: #555">14 days &#8211; No credit card required</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-use-the-booxi-book-now-widget-with-votresite-ca/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Add Online Booking to Facebook</title>
+		<link>https://www.booxi.com/blog/facebook-online-appointment-booking/</link>
+		<comments>https://www.booxi.com/blog/facebook-online-appointment-booking/#comments</comments>
+		<pubDate>Mon, 11 Jul 2016 16:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Business Facebook Page]]></category>
+		<category><![CDATA[Call to Action]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=66</guid>
+		<description><![CDATA[Social networks receive a lot of daily traffic, why not get the most out of your Facebook page and turn some of those visitors into customers. This article will introduce Facebook Business Pages as well as adding online booking to your facebook page.]]></description>
+				<content:encoded><![CDATA[<div class="float_top creativ-shortcode creativ-shortcode-video-embed"><iframe class="post_vid_iframe" src="https://www.youtube.com/embed/Z4h1FK88C_E" frameborder="0" allowfullscreen></iframe></div>
+<p>As you know consumers increasingly spend time on social networks. Most of you, self-employed professionals and small business owners, probably already have a Facebook business page. The main reason for that, is to get additional visibility and new customers. Some of you may even receive appointment requests by Facebook messages which is time consuming as you and your customers may not always answer promptly.</p>
+<p>Obviously, the main objective of this visibility is to get customers to book appointments.<br />
+Let’s see how to get more appointments with less effort using your Facebook Business Page.</p>
+<h3>How to Add Online Appointment Booking to Your Facebook Page?</h3>
+<p>If you already use an online appointment booking solution, like booxi, you can easily add online appointment booking directly from your Facebook Business page. It allows your customers to instantly book an appointment with you, so they won&#8217;t forget or book with your competitors. Some of you may still be using a paper calendar, so I would strongly suggest to take a look at a simple solution like booxi to enable online appointment booking and save hours off the phone. 20% of your customers will start booking online as soon as you have online booking, that is a 6 to 8 hours of time savings per month.</p>
+<p>Some online appointment booking solutions give you the opportunity to confirm and control every online booking, as well as automatically send confirmation by emails for all your booking. In addition it can send reminders by emails or text messages (SMS). All these features save you a tone of time, decrease your no-shows, and improve the quality of your service.</p>
+<h3>Facebook</h3>
+<p>Add online appointment booking directly from your Facebook page is a cinch.</p>
+<p>Let’s start by copying your booxi URL</p>
+<p>From your booxi account, complete the following steps:</p>
+<ol>
+<li>Click on My Business tab from the main menu.</li>
+<li>Click on Business Details.</li>
+<li>Scroll down to the section booxi site.<img class="shadow_medium aligncenter wp-image-184 size-large" src="http://lh3.googleusercontent.com/RuOxJ-u079o5r8lwPMRjiCa3ZwRr2drsYGo3jgbKa7QBpUBz2jTvuHuzaNpJpA5qfjUy5HL4s-eota6-lqcvyg=s1024" alt="booxi interface" width="1024" height="1024" /></li>
+<li>Select the URL and copy it to paste it later on Facebook.</li>
+</ol>
+<p>Then let’s Add your Book Now button on Facebook</p>
+<ul>
+<li>Open your Business Facebook Page and</li>
+<li>Below your cover picture, you should find the option “Add a button”. If you have already added a call-to-action button, you should have access to the option “Edit Button” to replace this button, because you are allowed to have only one call to action at the same time.</li>
+<li>Click on Add a Button or Edit Button to configure it.<img class="shadow_medium aligncenter wp-image-181 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/add-a-button.jpg" alt="Facebook Online booking " width="909" height="829" /></li>
+<li>The following pop-up will appear. Select Book Now among the button options.<img class="shadow_medium aligncenter wp-image-183 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/book-now2-e1472868573768.jpg" alt="Facebook Book Buton" width="752" height="430" /></li>
+<li>Paste your booxi URL. At the end of it, you can add ?book=now so the online appointment booking automatically appears.</li>
+<li>Click on Create, if it is your first call to action on Facebook or on Save Changes if you just modified it.</li>
+</ul>
+<h3>And You’re Done!</h3>
+<p>Your customers can now book appointment online with you. From that point, you may post once a month an invitation to book appointments online, just to remind your customers that they can do it. This small addition will allow you to save a lot of time , and customers can even book outside your business hours, without leaving voicemail. How wonderful is that?</p>
+<hr />
+<p>Make it easy for your customers to book with you by addind online booking directly on your Facebook page.</p>
+<p style="text-align: center"><a href="https://www.booxi.com/features#online-appointment-booking" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Learn More</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/facebook-online-appointment-booking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; Languages &#187; Français</title>
+	<atom:link href="https://www.booxi.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Fusionnez les doublons de vos dossiers clients et gardez votre liste de clients saine</title>
+		<link>https://www.booxi.com/blog/fusionner-les-clients-en-double/</link>
+		<comments>https://www.booxi.com/blog/fusionner-les-clients-en-double/#comments</comments>
+		<pubDate>Thu, 09 Nov 2017 15:56:27 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[client]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1611</guid>
+		<description><![CDATA[Avec booxi, vous pouvez facilement fusionner les dossier clients pour garder une liste irréprochable.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1622 size-full" src="https://lh3.googleusercontent.com/AoCD0Bi9OfF5Mokg-mKNlMmFaNdhoeYLAiKTMq13J5iLdLRW6OsGbmLjKwQ_PmggPbcOZNrBPjxnsxhF0dNrWg=s0" alt="merging-client" width="1200" height="600" />Vous pouvez maintenant chercher les doublons dans votre liste de clients et fusionner plusieurs dossiers en un seul, sans perdre l’historique des rendez-vous.</p>
+<ul>
+<li>Chercher les doublons</li>
+<li>Fusionner les dossiers clients</li>
+</ul>
+<p><strong>Chercher les doublons</strong></p>
+<p>En utilisant la barre de recherche en haut de la liste de client, vous pouvez réaliser une recherche pour un nom de client incomplet, ou un numéro de téléphone pour trouver les doublons dans votre liste de clients. Utilisez la pour trouver, sélectionner et fusionner les doublons, afin de conserver une liste de clients claire et complète.</p>
+<ol>
+<li>Allez sur la liste de vos clients, en cliquant sur l’icône Clients dans le menu de gauche.</li>
+<li>Cliquez sur la loupe en haut de la liste des clients.</li>
+<li>Tapez une partie du nom ou un numéro de téléphone.<br />
+<img class="img_zoom aligncenter size-full wp-image-1612" src="https://lh3.googleusercontent.com/mrmIbMreczEJhtieHYAyqRBeiBzKX6rTY7DRY68li-SNA3RVPfGRutpMMbcGQOw3a7eWy2utw1r7bSTRUe_5SQ=s0" alt="barre-de-recherches" /></li>
+<li>Cliquez sur la loupe à nouveau pour lancer la recherche ou appuyez simplement sur la touche Entrer.<br />
+<img class="img_zoom aligncenter size-full wp-image-1613" src="https://lh3.googleusercontent.com/cySBopCGvNj0S6KHeQ9Cfyqtpo1zPu-r9fsDjXRl-ZZptxUqyJbl5ymdAGYWu_bj1BBnK0oFCJgVhWels9x9=s0" alt="recherche-nom-du-client" /></li>
+<li>Les résultats de la recherche seront listés en dessous, et vous pourrez sélectionner plusieurs dossiers de clients en cochant la case en face de chaque nom, ou retourner à la liste complète en annulant la rechercher en cliquant sur le bouton Annuler.<br />
+<img class="img_zoom aligncenter size-full wp-image-1614" src="https://lh3.googleusercontent.com/7TCDwFJjNhnqQHrZgve6PrpyOF9NL1f1sg1GvvTOedLeURuVx6FoOu7j_ihZVd0nTdXdXxPwajHZKxUGBZqfgmE=s0" alt="selection clients" /></li>
+</ol>
+<p><strong>Fusionner les dossiers client</strong></p>
+<p>Une fois que vous avez identifiés les doublons dans la liste de clients, vous pouvez facilement les sélectionner et les fusionner ensemble en un dossier avec un seul historique de rendez-vous. Le dossier client fusionné contiendra les informations combinées et l’historique des rendez-vous de tous les dossiers sélectionnés, et les dossiers en double seront supprimés de votre liste de clients.</p>
+<ol>
+<li>Cherchez une partie du nom ou un numéro de téléphone pour trouver les dossiers en double.</li>
+<li>Sélectionnez les dossiers de clients que vous souhaitez fusionner, <strong>en sélectionnant en premier le dossier que vous souhaitez conserver et dans lequel vous souhaitez fusionner les autres, puis en sélectionnant les suivants.</strong><br />
+<img class="img_zoom aligncenter size-full wp-image-1615" src="https://lh3.googleusercontent.com/R6yJsj0TfGPpyzxqAnUSvkRKuTuJrOo__ltxcrkfdgGltdmaWsEAaS61XXSHAvotu0r6B30cEPm3I033OKIoAPU=s0" alt="fusionner-clients" /></li>
+<li>Cliquez sur le menu Options en haut de la liste, et sélectionnez “Fusionner les clients”.</li>
+<li>Un formulaire vous permettant de voir le résultat de la fusion apparaîtra.</li>
+<li>Vous pouvez passer au dessus de l’icône “i” en haut, pour revoir la liste de dossiers de clients sélectionnés, qui vont être fusionnés.<br />
+<img class="img_zoom aligncenter size-full wp-image-1616" src="https://lh3.googleusercontent.com/8hsM7Nz6bf1l18K8xcgNYK2WC6ihY_IMCZXkEmLxFuOVmI6jig6zJl4EdZXJEh0CkOXRgR4u3Dv57WvEureuj3A=s0" alt="liste clients fusion" /></li>
+<li>Mettez à jour les détails si besoin et cliquez sur le bouton Fusionner en bas du formulaire.<br />
+<img class="img_zoom aligncenter size-full wp-image-1620" src="https://lh3.googleusercontent.com/O6tCOG4j10ptKp9DykkmytfBTjS3Wleol7mjVhYlfuk6_a0iZkBtGNVfAW3JHRZtja3vWmobKE5tvQwkQUvLFw=s0" alt="fusionner" /></li>
+<li>Les dossiers des clients seront fusionnés et c’est fait.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/fusionner-les-clients-en-double/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 astuces marketing pour promouvoir son site web</title>
+		<link>https://www.booxi.com/blog/4-astuces-marketing-pour-promouvoir-son-site-web/</link>
+		<comments>https://www.booxi.com/blog/4-astuces-marketing-pour-promouvoir-son-site-web/#comments</comments>
+		<pubDate>Thu, 02 Nov 2017 20:08:10 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[siteweb]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1597</guid>
+		<description><![CDATA[Dans un monde numérique très évolutif, vous devez constamment vous tenir informer des nouvelles tendances pour promouvoir correctement votre entreprise. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1593 size-full" src="https://lh3.googleusercontent.com/mI2GV7mp_t4SMTwvqeifVMod0PXyqvSqLcK8o3uHpUIHOeHQFrYA-BStPzCQcwbfF-q6FNY3pZ2HjUuNxNtLaA=s0" alt="promotion site web" width="1200" height="600" />Dans un monde numérique très évolutif, il faut constamment se tenir à jour des nouvelles tendances pour s’assurer que notre entreprise évolue en même temps que la technologie. Heureusement, il a plusieurs outils qui s’offrent à vous pour approfondir vos connaissances du web.  Aujourd’hui, WebSelf, partenaire de booxi nous donne 4 astuces marketing pour promouvoir votre site web!</p>
+<p><b>Premièrement, apprenez à connaître votre clientèle</b></p>
+<p>Avant toute chose, vous devez bien connaître votre clientèle. Cette étape est primordiale: vous devez tenir compte de votre public cible lorsque vous effectuez des actions marketing, pour fidéliser vos clients ou encore pour en gagner de nouveaux.</p>
+<p><i>Vos offres, produits et services, ils s’adressent à qui?</i></p>
+<p>La réponse à cette question est très importante, car elle vous donnera une idée du type d’audience avec laquelle vous faites affaire.</p>
+<p>Lorsque vous avez globalement déterminé votre marché cible, vous devez en apprendre le plus possible sur ces clients: leurs habitudes d’achat, leur genre, leur âge, etc.  Plus vous possédez d’informations, plus il sera facile d’adapter vos efforts de marketing pour les maximiser.</p>
+<p><b>1. Propagez la bonne nouvelle</b></p>
+<p>On dit parfois qu’un site web est une représentation directe de votre entreprise! Voilà pourquoi votre présence en ligne, que ce soit par l’intermédiaire d’un site web, les réseaux sociaux, les pages jaunes, etc., doit être impeccable.</p>
+<p>Lorsque vous êtes fier du résultat, c’est le temps de propager la bonne nouvelle et de partager votre site web partout! Demander l’avis de vos proches et insérer un lien sur vos réseaux sociaux ne sont que quelques exemples. Cela augmentera également votre visibilité en ligne et vous permettra de gagner des clients!</p>
+<p><b>2. Utilisez les différentes plateformes sociales</b></p>
+<p>Avons-nous vraiment besoin de vous parler de l’importance d’inscrire votre entreprise sur les nombreux réseaux sociaux? Prenez soin de bien choisir sur lesquels vous désirez apparaître, puis bien les entretenir, en publiant régulièrement du contenu. N’oubliez pas que plusieurs s’en serviront comme support pour leurs questions techniques. Répondez à toutes les questions et suggestions de vos clients et communiquez avec du contenu original et intéressant. Utilisez les réseaux sociaux comme des alliés puissants dans votre stratégie marketing, car ils peuvent vous rapporter beaucoup plus que vous ne le pensez!</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1594" src="https://lh3.googleusercontent.com/OTIZOfG-rBOquVjwa8ikWXrOgBLr5M3aGOsCOsxpwBz25PY2E4ANFKdrgaX9SvFRw94CXn7LkZDSpHHckAmPcw=s0" alt="social" /></p>
+<p><b>3. Fidéliser vos clients avec une newsletter</b></p>
+<p>Un excellent moyen de fidéliser votre clientèle actuelle est de leur envoyer une newsletter. C’est avantageux surtout lorsqu’on sait qu’il est 5x plus facile et moins coûteux de fidéliser notre clientèle actuelle que de dénicher de nouveaux clients.</p>
+<p>Envoyez une newsletter pour informer vos clients de vos nouveautés, partagez vos articles de blogs ou encore pour leur rappeler que vous existez toujours! WebSelf offre un module de collecte d’email, dans l’éditeur, dans lequel vous pourrez collecter les adresses e-mail de vos clients et l’utiliser à votre guise!</p>
+<p><b>4. Offrez un système de référence</b></p>
+<p>Vos clients satisfaits seront les meilleurs ambassadeurs de votre marque, et vous devez récompenser les plus loyaux! Il existe plusieurs sortes de systèmes de récompenses de ce genre, que ce soit du parrainage, ex, offrir un rabais chaque fois qu’un client vous en réfère un autre, ou que vous offrez à vos clients des rabais ou cadeaux après X nombres d’achats. Faites attention: offrez seulement des cadeaux/rabais qui sont proportionnels aux dépenses. Vous voulez fidéliser vos clients, mais vous ne voulez pas perdre de l’argent dans le processus.</p>
+<p><b><a href="http://www.webself.net/">Maintenant, c’est à vous de jouer!</a></b></p>
+<p>WebSelf, un outil simple et gratuit pour la création de sites Internet. Choisissez votre design, ajoutez vos textes et images et publiez votre site sur le web. Créer un site n’aura jamais été plus facile! De plus, pas besoin de connaissance informatique, mais seulement de votre imagination! Commencez la conception de votre site dès aujourd’hui!</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1595" src="https://lh3.googleusercontent.com/jEoFtg5ddoS97OHD8dV-0ge8dkvLsYbOA3YffcBO5XFXnqO5EzhBFla32DwELenPPBSpJB6oJ3Zzjj8ltv4L=s0" alt="webself site web creator" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/4-astuces-marketing-pour-promouvoir-son-site-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ajoutez des questions à votre prise de rendez-vous et économisez du temps.</title>
+		<link>https://www.booxi.com/blog/ajoutez-des-questions-a-votre-prise-de-rendez-vous-et-economisez-du-temps/</link>
+		<comments>https://www.booxi.com/blog/ajoutez-des-questions-a-votre-prise-de-rendez-vous-et-economisez-du-temps/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:39:38 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1510</guid>
+		<description><![CDATA[Il est maintenant possible d’ajouter de simples questions à votre prise de rendez-vous, et ainsi obtenir plus de détails avec vos demandes de rendez-vous, sans avoir à rappeler le client pour obtenir l’information dont vous avez besoin.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1575 size-full" src="https://lh3.googleusercontent.com/svJGDc-OWsEHBNfVCN4Nn8HtpL3ufmmyoVt7IycGzC1T7Eqwz1OOxLIGZrpXfAE0NvlSiuJuVodk_Nc5cRPI2w=s0" alt="question personnalisée rendez-vous" width="1200" height="600" />Il est maintenant possible de poser des questions à vos clients lors de la prise de rendez-vous, et ainsi obtenir plus de détails sans avoir à rappeler le client pour obtenir l’information dont vous avez besoin.</p>
+<ul>
+<li>Comment ajouter une question personnalisée lors de la prise de rendez-vous?</li>
+<li>Comment les questions sont demandées lors de la prise de rendez-vous en ligne?</li>
+<li>Où trouver les réponses à ces questions?</li>
+</ul>
+<p><b>Comment ajouter une question lors de la prise de rendez-vous? </b></p>
+<p>Vous pouvez facilement ajouter une question par service, qui sera optionnelle ou obligatoire, et votre client devra y répondre lors de la prise de rendez-vous en ligne. Votre personnel lui pourra aussi enregistrer la réponse lors de la prise de rendez-vous par téléphone ou en personne.</p>
+<ol>
+<li>Accédez à votre liste de services et choisissez un service en particulier,</li>
+<li>Cliquez sur <b>Détails du service, </b></li>
+<li>Et faites défiler vers le bas pour trouver la section <b>Question prise de rendez-vous.</b></li>
+<li>Composez votre question. Vous pouvez demandez une ou plusieurs informations dans la même question. Par exemple: “Entrez la marque, le modèle et la grandeur de votre vélo”, ou “Inscrivez toutes vos allergies alimentaires, ou indiquez Aucune si vous n&rsquo;en avez pas.”*Le texte que vous ajoutez ne sera pas traduit par booxi. Donc dans le cas où vous souhaitez présenter la question dans deux langues différentes, veillez</li>
+<li>Sélectionnez l’option <b>Obligatoire à la réservation, </b>ou laissez la question optionnelle</li>
+<li>Cliquez sur <b>Sauvegarder</b>, et le tour est joué. La prochaine fois qu’un client ou vous réservez ce service, la question sera posée.<br />
+<img class="img_zoom aligncenter size-full wp-image-1511" src="https://lh3.googleusercontent.com/mp5Djxv2TeOZv1QSbjEuFjaFBLXqzPOcpu4H2cmi82x-dfpxKAaXMj6hhmz7FJ3BWP3iH4AHdDmwPU6o1RNSYQ=s0" alt="question lors de la réservation" /></li>
+</ol>
+<p><b>Comment les questions sont demandées lors de la prise de rendez-vous en ligne</b></p>
+<p>Quand un client prend rendez-vous en ligne et choisit un ou plusieurs services avec questions, ces questions sont demandées par service, et juste après que le client est complété le formulaire d’identification. Les clients doivent fournir réponses aux questions obligatoire, tandis que votre personnel n’est pas obligé (lors de la prise de rendez-vous par téléphone ou en personne). Pour les réservations de groupe, la question sera répétée à chaque participant.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1507" src="https://lh3.googleusercontent.com/rerCb3aquOHrtvQH6Rme5RPxuNh_FvxX3LMsPMJ_PNZzejbPPG2frrI1-T5Ivw8ynoNLzL_oJgGiQ0tFljI=s0" alt="question prise de rendez-vous" /></p>
+<p><b>Où trouver les réponses à ces questions</b></p>
+<p>Quand une question est demandée lors de la prise de rendez-vous en ligne, ou par téléphone, booxi enregistre la réponse dans le rendez-vous, ce qui vous permet de consulter les questions et réponses par service dans le rendez-vous à partir de votre calendrier booxi. Pour les réservations de groupe, les questions et réponses seront répétées à chaque participant.</p>
+<p>Les questions et réponses peuvent être aussi consultées dans certains rapports, dont la liste de participants, l’horaire détaillée, et la liste des rendez-vous.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1512" src="https://lh3.googleusercontent.com/6aEozsZ3yKfthjg4Nig-kCEn4VgMKYEFEajuMlTEGOS0JbjLKjI1DjC8HPqaYJrporKD3I1T5t8iJlC05LD_lg=s0" alt="question personnalisée" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/ajoutez-des-questions-a-votre-prise-de-rendez-vous-et-economisez-du-temps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fidélisez vos clients avec les rappels automatisés de prochain rendez-vous</title>
+		<link>https://www.booxi.com/blog/rappel-nouveau-rendez-vous/</link>
+		<comments>https://www.booxi.com/blog/rappel-nouveau-rendez-vous/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:11:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[fidélisation de la clientèle]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1420</guid>
+		<description><![CDATA[Assurez la fidélité de vos clients grâce aux rappels automatisés pour les inviter à réserver leur prochain rendez-vous.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1586 size-full" src="https://lh3.googleusercontent.com/g_XAv7ZtxUnoGQqPL-uf_g38hhgLj9vtq65SUreG7eK5k5Z4Nbn_aky_W2YGNxpCJB_c-1CZ_8k3wbCriWBKkg=s0" alt="rappel de prochain rendez-vous" width="1200" height="600" />Avec booxi, il est maintenant facile de programmer des messages automatisés pour rappeler à vos clients de prendre leur prochain rendez-vous avec vous. Rappeler chaque client manuellement n’étant pas une option viable, la plupart des profesionnels qui offrent des services manquent l&rsquo;opportunité de générer des revenus réguliers et de fidéliser leur clientèle. Voyons donc comment automatiser facilement cette tâche:</p>
+<ul>
+<li>Activer le rappel de prochain rendez-vous</li>
+<li>Programmer un rappel de prochain rendez-vous en un clic</li>
+<li>Prendre le prochain rendez-vous sur place</li>
+<li>Automatiser l&rsquo;ensemble</li>
+</ul>
+<p><b>Activer le rappel de prochain rendez-vous</b></p>
+<p>Vous pouvez facilement activer le rappel de prochain rendez-vous à partir des règles de rendez-vous de votre profil entreprise. Vous pouvez configurer un délai par défaut, comme par exemple 20 jours, si vous désirez que booxi envoi un rappel à votre client dans 20 jours. Vous pourrez par la suite modifier ce délai pour chaque rappel programmé.</p>
+<p><img class="shadow_small  aligncenter wp-image-1450 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image42.png" alt="rappel de prochain RDV" width="584" height="297" /></p>
+<p><b>Programmer un rappel de prochain rendez-vous en un clic</b></p>
+<p>Une fois l’option de rappel de prochain rendez-vous activée, des options s’ajouteront à la fenêtre de confirmation pour compléter un rendez-vous. Vous pourrez ainsi simplement cliquer sur Compléter et un message de rappel sera automatiquement programmé, vous pouvez aussi désactiver le rappel ou encore modifier les paramètres pour ce rappel. Les rappels sont envoyés par courriel, alors si le client n’a pas donné d’adresse courriel, il vous sera alors possible d’en préciser une.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1451" src="https://lh3.googleusercontent.com/8cJ38MKKtli-myGiHkzYMrrxB9wWDQGMMdDDT4va95T8QHuUWf5fm_l7wRUwMCCV1NMfq31g7cNUVuh25wyQtA=s0" alt="programmer prochain rdv" /></p>
+<ol>
+<li>Faites un clic-droit sur un rendez-vous et choisissez l’option Complété. La fenêtre de confirmation vous offre des options de rappel.</li>
+<li>Vous pouvez choisir de programmer un rappel, compléter sans rappel, ou prendre immédiatement le prochain rendez-vous. Choisissez alors l’option de programmer un rappel de prochain rendez-vous.</li>
+<li>Choisissez le service à proposer dans ce rappel. Par défaut le service du rendez-vous à compléter sera sélectionné.</li>
+<li>Choisissez le personnel à proposer dans ce rappel. Par défaut le personnel du rendez-vous à compléter sera sélectionné.</li>
+<li>Ajustez le délai d’envoi du rappel, ou préciser la date à laquelle le message de rappel sera envoyé.</li>
+<li>Vous pouvez aussi y ajouter un message additionnel ou laisser l’espace vide.</li>
+<li>Finalement, cliquez sur Compléter et le message de rappel de prendre un prochain rendez-vous sera programmé et envoyé au bon moment.</li>
+<li>Si vous avez choisi de Compléter sans rappel, ou de Prendre le prochain rendez-vous maintenant, aucun rappel ne sera programmé.</li>
+</ol>
+<p>Si votre client prend rendez-vous pour le même service, ou que vous le faîtes pour lui, avant que le rappel soit envoyé, la programmation de ce rappel sera automatiquement annulée, évitant ainsi toute confusion.</p>
+<p>Pour annuler ou modifier un rappel de prochain rendez-vous, vous n’avez qu’à réouvrir le rendez-vous complété et le compléter à nouveau en modifiant les options de rappel. À chaque fois qu’un rendez-vous complété est réouvert, la programmation du rappel de prochain rendez-vous associé est automatiquement annulée.</p>
+<p><b>Prendre un nouveau rendez-vous sur place</b></p>
+<p>Vous pouvez maintenant rapidement prendre un nouveau rendez-vous pour votre client, au moment ou vous complétez son rendez-vous sur place. La fenêtre de confirmation pour compléter un rendez-vous vous offre la possibilité de Compléter et prendre immédiatement un prochain rendez-vous. Il ne vous reste qu’à choisir le moment du rendez-vous et le tour est joué.</p>
+<ol>
+<li>Faites un clic-droit sur un rendez-vous et choisissez l’option Complété.</li>
+<li>La fenêtre de confirmation vous permet alors de choisir l’option Prendre un prochain rendez-vous.</li>
+<li>Cliquez sur Compléter au bas de la fenêtre et une copie du rendez-vous complété s’ouvre à votre droite.</li>
+<li>Vous n’avez alors qu’à modifier la date et l’heure de rendez-vous et cliquer sur Sauvegarder.</li>
+</ol>
+<p><b>Automatiser l&rsquo;ensemble</b></p>
+<p>Afin d’économiser encore plus de temps, vos rendez-vous peuvent se compléter automatiquement avec rappels de prochain rendez-vous programmés. Dans ce cas, les rappels seront programmés en utilisant le délai de rappel par défaut, et seulement si le client à une adresse courriel à son dossier.</p>
+<ul>
+<li>Assurez-vous que le Rappel de prochain rendez-vous soit activé avec un délai par défaut qui fonctionne pour tous les services.</li>
+<li>Activé l’option Compléter les rendez-vous et ajustez le délai.</li>
+<li>Les deux options se trouvent parmi les règles de rendez-vous de votre entreprise.<img class="shadow_small aligncenter wp-image-1452 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/image33.png" alt="compléter les rendez-vous" width="587" height="295" /></li>
+</ul>
+<p>Prendre les prochains rendez-vous sur place, au moment du paiement, et envoyer des messages de rappel de nouveau rendez-vous automatisés sont des stratégies efficaces pour augmenter la rétention de votre clientèle et augmenter vos revenus.</p>
+<p style="text-align: center"><strong>Fidélisez vos clients en utilisant booxi :</strong></p>
+<p style="text-align: center"><a href="https://www.booxi.com/affaires/inscription" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Démarrer </a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/rappel-nouveau-rendez-vous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Générez des rapports de rendez-vous pour suivre l&#8217;évolution de votre entreprise</title>
+		<link>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/</link>
+		<comments>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/#comments</comments>
+		<pubDate>Fri, 13 Oct 2017 20:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1461</guid>
+		<description><![CDATA[Avec booxi, vous pouvez maintenant facilement générer des rapports à partir des données de vos rendez-vous. Une information très importante pour réaliser l’analyse de votre entreprise et vous aider à la développer en concentrant vos efforts sur les aspects pertinents. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1501 size-full" src="https://lh3.googleusercontent.com/vlag5YfyW7i7IcrFCWGZMejfiMo6l6WW_EM2eJ_rb2NxbWqP45YUGDFCwmNmwKEjQgXf4oWZe1W0XXFltjnNvQ=s0" alt="AppointmentReportThumbnail copy" width="1200" height="600" />Les rapports sont des outils puissants pour vous permettre d&rsquo;analyser votre entreprise, de vous aider à prendre les bonnes décisions, de savoir où concentrer vos efforts ou encore quels sont les points à améliorer.</p>
+<p>Avec booxi, vous pouvez maintenant facilement exporter des rapports à partir des données de vos rendez-vous, ajuster les critères d’export et les analyser.</p>
+<p>Voici quelques exemples d&rsquo;informations importantes que vous pouvez extraire à partir de ces rapports:</p>
+<ul>
+<li>Savoir quel est le service le plus apprécié de vos clients</li>
+<li>Connaître les périodes les plus occupées (que ce soit en terme de jours de la semaine ou d’horaires)</li>
+<li>Visualiser les performances de vos employés</li>
+<li>Déterminer qui sont vos clients les plus réguliers</li>
+<li>Déterminer les revenus générés à travers la prise de rendez-vous</li>
+<li>Faire des comparatifs pour l’ensemble de ces aspects, sur différentes périodes de temps.</li>
+</ul>
+<p>Pour cela rien de plus facile :</p>
+<ol>
+<li>Connectez-vous sur votre compte booxi, et allez sur l’onglet Calendrier.</li>
+<li>Ensuite cliquez sur l’icône “Plus d’options”, et sélectionnez l’option “Rapport des rendez-vous”.<img class="img_zoom aligncenter size-full wp-image-1499" src="https://lh3.googleusercontent.com/gMih5Qz4Lv1zdgREtR4FN_7cZN0qLtwk9_r9MG3sqoOcXnsl05ktjlcr8KCeEZKZ7xmj7NO2rXKyEa_Mc4qMqA=s0" alt="exporter les rapports de rendez-vous" /></li>
+<li>Sélectionnez les critères souhaités et cliquez sur Exporter.<i>Astuce: </i><i><i><i>Pour faire l’analyse des rendez-vous complétés, veillez à exporter en excluant les données des rendez-vous manqués et des rendez-vous annulés.</i></i></i><img class="img_zoom aligncenter size-full wp-image-1500" src="https://lh3.googleusercontent.com/M6xALaTAuoVr7wsLmpjcI2In5SLJap_09fv73OX7CECkA5Jy_YHAkRNLWjgbXWgHKnQelxHrgiIdXlJmRcIp=s0" alt="critères d'exportation" /></li>
+<li>Ensuite cliquez sur le lien “Cliquez ici pour télécharger le rapport”.<br />
+<img class="aligncenter wp-image-1464 size-full" src="https://lh3.googleusercontent.com/NZGEofqgihgEnYDbXBwQLSS_DWn_vk88_C-ULHmKGobpfGchRGjNv_bb1pDJg0jWtQSqEFGPgLGnlopSzi8f=s0" alt="télécharger le rapport" width="787" height="435" /></li>
+<li>Le téléchargement commence alors et vous pouvez trouver votre fichier en bas à gauche de votre fenêtre.</li>
+</ol>
+<p>Vous pouvez maintenant facilement l’ouvrir avec Excel ou Google Spreadsheet et commencer à faire vos analyses en fonction des informations qui vous intéressent.</p>
+<p>L’analyse de rapports est essentielle dans la gestion de votre entreprise. C’est une façon efficace de déterminer si votre entreprise est en croissance, stagne ou si vous devez réaliser des changements.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nouvelle fonctionnalité: Vue condensée du calendrier</title>
+		<link>https://www.booxi.com/blog/nouvelle-fonctionnalite-vue-condensee-du-calendrier/</link>
+		<comments>https://www.booxi.com/blog/nouvelle-fonctionnalite-vue-condensee-du-calendrier/#comments</comments>
+		<pubDate>Thu, 12 Oct 2017 20:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1528</guid>
+		<description><![CDATA[ Vous pouvez maintenant voir l'ensemble de votre équipe d'un seul coup d'oeil: jusqu'à 20 personnes, sans avoir besoin de dérouler le curseur!]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1527 size-full" src="https://lh3.googleusercontent.com/UdqXYrLS_GITB3qPf3tbDvr_B5JHITNkJmNo5E087_s9AjgZxvbc8Xll6USl4jzRs0EYMOpUDVjlIiXf5tFeFYg=s0" alt="vue condensée du calendrier" width="1200" height="600" /><br />
+Vous pouvez maintenant voir les horaires de l&rsquo;ensemble de votre équipe d&rsquo;un seul coup d&rsquo;oeil: jusqu&rsquo;à 20 personnes, sans avoir besoin de dérouler le curseur!</p>
+<p><strong>Comment?</strong></p>
+<ol>
+<li>Allez sur l&rsquo;onglet Calendrier, puis cliquez sur la vue Jour.</li>
+<li>Ensuite assurez vous d&rsquo;ajouter l&rsquo;ensemble des employés que vous souhaitez voir sur le calendrier.</li>
+<li>Et cliquez sur l&rsquo;icône Options, et finalement sélectionnez la &laquo;&nbsp;Vue Compacte&nbsp;&raquo;<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1533" src="https://lh3.googleusercontent.com/whlJqx68Wz-IFXTjbyW12NsaLaRUBCihRUvP3uQsbaMiPTc08rDNGdqzARImEVdQkI81Mp4qyC_ajmha-19i=s0" alt="vue compacte" /></li>
+<li>Vous pouvez maintenant voir l&rsquo;ensemble de votre équipe en un coup d&rsquo;oeil.</li>
+</ol>
+<p>Pour revenir à la vue initiale il suffit de cliquer à nouveau sur l&rsquo;icône Options et sélectionnez la &laquo;&nbsp;Vue normale&nbsp;&raquo;.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/nouvelle-fonctionnalite-vue-condensee-du-calendrier/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La Tranchée: bâtir une communauté en ligne pour des entrepreneurs ambitieux</title>
+		<link>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/</link>
+		<comments>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/#comments</comments>
+		<pubDate>Thu, 05 Oct 2017 18:05:09 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Nouvelles]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1474</guid>
+		<description><![CDATA[Connaissez-vous notre partenaire La Tranchée? Cette communauté permet aux propriétaires d'entreprises et aux entrepreneurs de poser leur questions concernant leur entreprise pour les aider à la développer. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1485 size-full" src="https://lh3.googleusercontent.com/XVwjmlA-gdclfbOjLGAXArwRQRoLNUEE8hnmg3RkFiYe-lGRjpcp_R468eMK1rTu1e3gnjswKXedBM_WA2zQ_uk=s0" alt="la-tranchee-thumbnail" width="1200" height="600" />J’estime que c’est arrivé à 99% d’entre nous: Faire une action marketing pour son entreprise, récolter 0 résultats et se demander pourquoi ça marche pas.</p>
+<p>Puis, 2 mois plus tard, parler avec quelqu’un qui te dit: «Mais non, c’est pas ÇA que tu aurais dû faire, c’est ÇAAAA!»</p>
+<p>Et lui répondre: «J’aurais dont dû te connaître avant».</p>
+<p>Je me trompe?</p>
+<p>C’est le genre de situation où on aurait bien aimé avoir l’avis d’un humain au moment où on en avait vraiment besoin. Pas 2 mois plus tard&#8230;</p>
+<p>Et bien, ce genre de situation ne devrait plus jamais t’arriver grâce à La Tranchée, une communauté pour entrepreneurs et marketeurs qui veulent aller plus loin.</p>
+<p>Cette communauté permet aux gens de briser la paralysie et de passer à l’action. C’est rempli de gens qui <i>veulent </i>te voir réussir et qui vont te pousser pour que tu ailles chercher le succès que tu mérites. Ça inclut un forum de discussion, des formations, un répertoire d’échange ou de demande de service, des rabais pour les abonnés, des webinaires live, etc.</p>
+<p>En tout cas, je ne suis pas ici pour te vanter tous les mérites de La Tranchée (même s’il y en a plein ahah!), mais pour t’introduire à notre entreprise, qui on est, d’où c’est parti, ce qu’on a fait jusqu’à maintenant et les défis qui s’en viennent.</p>
+<p>D’abord, pourquoi est-ce que je te parle de La Tranchée sur le blogue de Booxi?</p>
+<p>Parce qu’on a un partenariat avec Booxi. Ils offrent un rabais à nos abonnés qui veulent se procurer Booxi et en retour, on offre 50% de rabais sur l’abonnement à La Tranchée aux membres de Booxi.</p>
+<h2><span style="font-weight: 400">Les balbutiement d’une communauté en ligne</span></h2>
+<p>Permet moi de me présenter. Mon nom est Marie-Pierre, je travaille avec Olivier Lambert depuis le tout début de La Tranchée. On est actuellement seulement 2 à travailler à temps plein au développement de cette entreprise.</p>
+<p>Avant de lancer La Tranchée, Olivier avait une entreprise à son nom où il vendait des formations en ligne. Peut-être que tu le reconnais si je te dis: le gars avec la barbe que tu vois sur les publicités Facebook <img src="https://www.booxi.com/blog/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />  Souvent perçu comme un <a href="https://www.latranchee.com/de-guru-entrepreneur/"><i>guru</i> en marketing</a>, il est, en réalité, un entrepreneur talentueux qui a beaucoup de mérite.</p>
+<p>Olivier a créé La Tranchée parce qu’il a voulu amener son entreprise personnelle, olivierlambert.com, à un autre niveau. Il rêvait de créer une communauté d’entrepreneurs et de marketeurs qui s’unissent, s’entraident et se donnent des munitions pour être plus compétitifs.</p>
+<p>Après plusieurs semaines de travail de programmation acharné (Olivier a tout programmé par lui-même!), on a pu dévoiler La Tranchée publiquement.</p>
+<p>Au tout début, en août 2016, La Tranchée comprenait seulement le <a href="https://forum.latranchee.com"><b>forum de discussion</b></a> entre les membres. Olivier avait déjà une bonne liste courriels et beaucoup de clients qui suivaient ses formations. On a donc réussi à peupler La Tranchée avec ce qu’Olivier avait créé au fil du temps.</p>
+<p>Pour amener de nouveaux membres dans cette communauté, on a lancé une offre bêta, où La Tranchée était accessible pour 1$ jusqu’à ce que la version officielle sorte, en avril dernier. On en a fait la promotion avec des publicités Facebook.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1475" src="https://lh3.googleusercontent.com/aiiqYzOYK611sXUF89C8-Vvf9V5yiHG2TdR1zg7SV0-hr_-HB12w0BFvcIc5noFmV3V3oXis0qPKuHDyrCcS=s0" alt="La Tranchée " /></p>
+<p>Aujourd’hui, plus d’un an plus tard, on est maintenant rendus à plus de 1000 membres, 2000 sujets et 15 000 réponses données, ROCK ON!</p>
+<p>Au cours des premiers mois suivant la création, le contenu des formations avancées qui se trouvait sur olivierlambert.com a migré vers latranchee.com.</p>
+<p>Nous offrons 3 <a href="https://latranchee.com/formation"><b>formations avancées</b></a>:</p>
+<ul>
+<li>Devenez un expert Facebook: Apprenez les secrets derrière la création de campagnes publicitaires rentables</li>
+<li>Email marketing: Comment avoir plus d’abonnés, vendre plus et travailler moins!</li>
+<li>Comment se démarrer un blogue profitable? De la création d’un site web jusqu’au premier dollar</li>
+</ul>
+<p>On a ensuite ajouté un <a href="http://www.latranchee.com/blog"><b>blog</b></a> au site web de La Tranchée, où on écrit nous-même des articles, mais où on a aussi recruté des rédacteurs qui rédigent sur des sujets touchant le marketing et/ou de l’entrepreneuriat. Le blog est ouvert à tous, pas besoin d’être membre pour consulter les articles!</p>
+<p>D’ailleurs, on est toujours à la recherche de rédacteurs. Remplis <a href="https://docs.google.com/a/latranchee.com/forms/d/e/1FAIpQLSf4jPAXnpYG34jBwqXJlsCqwNUIbFIoq5VfbgdRIincT2M-zQ/viewform">ce formulaire</a> si ça t’intéresse <img src="https://www.booxi.com/blog/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>Ce que tu vois en ligne sur La Tranchée n’est qu’une petite partie du travail! En parallèle, on doit régler les bugs, améliorer le <a href="https://www.latranchee.com/la-magie-derriere-le-systeme-de-paiement-qui-vend-deux-fois-plus/">système de paiement</a>, supporter les questions de nos clients, animer le forum, répondre aux emails, optimiser nos publicités Facebook, préparer les séquence de courriel, monter des landing pages, etc.</p>
+<h2><span style="font-weight: 400">Apporter plus de valeur à la communauté</span></h2>
+<p>En mars dernier, souhaitant apporter plus de valeur à la communauté qu’avec un simple forum, on a filmé des capsules vidéo de <a href="https://latranchee.com/formation#membres"><b>formations gratuites pour les membres de La Tranchée</b></a>.</p>
+<p>On a des vidéos sur une multitude de sujets: marketing Facebook, marketing par courriel, les outils à utiliser sur le web, référencement 101, introduction à Adwords, Google Analytics, etc.</p>
+<p>Près de 7h de contenu gratuit est disponible à l’heure actuelle et on continue d’ajouter des formations à chaque semaine!</p>
+<p>En avril dernier, on a ajouté une nouvelle fonctionnalité à La Tranchée: un répertoire pour échanger des services avec d’autres entrepreneurs. On a donc créé un genre de <a href="http://www.latranchee.com/portail/repertoire">Tinder pour entreprises</a>!</p>
+<p>Un Tinder? Oui monsieur. C’est un répertoire où tu inscris ce que tu offres, ce que tu recherches et tu es <i>matché</i> avec un entrepreneur qui a les besoins opposés!</p>
+<p>Aujourd’hui, 772 membres ont inscrit leurs compétences et besoins. Plusieurs nous remercient pour les coûts et les efforts que ce répertoire leur a sauvé!</p>
+<p>De plus, depuis le printemps dernier, on développe des <a href="https://www.latranchee.com/rabais-exclusifs/">partenariats</a> avec des entreprises qui offrent des produits/services utiles à nos membres, comme Booxi!</p>
+<h2><span style="font-weight: 400">Les nouveautés de l’été 2017</span></h2>
+<p>En juin dernier, on a lancé notre propre webinaire, exclusivement pour les membres. On tient un webinaire par mois, où notre équipe répond en <i>live</i> aux questions de nos abonnés.</p>
+<p>Puis, tout récemment, on a lancé notre <a href="http://www.latranchee.com/podcast">podcast</a>, disponible à tous. On diffuse un épisode par semaine, le mercredi matin. Olivier a travaillé très fort tout l’été pour interroger des références en ce qui a trait au marketing ou à l’entrepreneuriat. Pour l’instant, le critique est plus que positive!</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1476" src="https://lh3.googleusercontent.com/ufRULG32LXbyJNFqPpJt7c60D30yHeo-YNkCnsCvvOVHcVUPqy6glCvS1ySXhUbBuLZdABe-3PPm1qM6agL_eGg=s0" alt="Partenaire La tranchée " /></p>
+<p>Si j’avais un conseil à te donner pour terminer, ça serait ceci: l’important pour faire croître ton entreprise, c’est de prioriser les efforts. Il y aura toujours beaucoup à faire. Il faut donc choisir les actions qui vont rapporter rapidement.</p>
+<p>Et parfois, avoir un regard externe sur son entreprise permet de la remettre dans la bonne direction.</p>
+<p>De notre côté, nos principaux défis pour l’année à venir: mieux se positionner côté référencement et continuer à faire croître le nombre d’abonnés. C’est là-dessus que nos efforts seront dirigés.</p>
+<p>Et toi, quels sont tes défis?</p>
+<p>Tes ventes stagnent? Tu voudrais être plus compétitif? Tu voudrais augmenter ta présence en ligne?</p>
+<p>Viens poser tes question sur La Tranchée, des experts sont là pour te donner un coup de main!</p>
+<p style="text-align: center"><a href="http://bit.ly/2fsgLpl" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Pose tes questions</a></p>
+<p style="text-align: center"><div class="creativ-shortcode creativ-shortcode-alertbox creativ-shortcode-alertbox-colour-border"><p class="creativ-shortcode creativ-shortcode-alertbox-content">Article écrit par Marie-Pierre Guignard.<br />
+Avec son bac et sa maitrise en marketing en poche, Marie-Pierre aide Olivier à l&rsquo;organisation du futur empire! Elle était directrice communication-marketing d&rsquo;une PME de la région de Québec, avant de se joindre à l&rsquo;aventure d&rsquo;Olivier Lambert. Elle apporte à l&rsquo;équipe par son énergie positive et son esprit vif.</p></div></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/la-tranchee-batir-une-communaute-en-ligne-pour-des-entrepreneurs-ambitieux-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatisez la répartition de vos rendez-vous et gagnez encore plus de temps</title>
+		<link>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/</link>
+		<comments>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 15:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1490</guid>
+		<description><![CDATA[Il est maintenant possible d’automatiser la répartition des rendez-vous pris en ligne au lieu de demander à votre client de choisir un personnel, ou de répartir manuellement les rendez-vous vous-même.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1487 size-full" src="https://lh3.googleusercontent.com/jGIIyUywkNnHRAH79me-Fa-ksrFffuWo5z3uwyYLe5HoM-cei9k1N-7QZf4GtaITOduYufJT4mzHzB2BkK0XhZo=s0" alt="répartition automatique des rendez-vous" width="1492" height="713" />Il est maintenant possible d’automatiser la répartition des rendez-vous pris en ligne au lieu de demander à votre client de choisir un personnel, ou de répartir manuellement les rendez-vous vous-même. De cette façon les rendez-vous seront répartis uniformément à votre personnel, et vous économiserez un temps fou à ne pas gérer leurs horaires.</p>
+<p>Que vous ayez 10 ou 100 employés, louez des espaces comme des salles de conférence, champs de tir, ou cabines de toilettage pour chien, ou des objets comme des bicyclettes, ou kayaks, booxi peut automatiser votre répartition et vous faire économiser un temps considérable.</p>
+<ul>
+<li>Comment les rendez-vous sont répartis automatiquement</li>
+<li>Configurer un service pour la répartition automatique</li>
+<li>Expérience de prise de rendez-vous en ligne</li>
+</ul>
+<p><b>Comment les rendez-vous sont répartis automatiquement</b></p>
+<p>Quand la répartition automatique est activée, booxi calcule les disponibilités de chaque personnel et présente un choix de dates et heures qui ont au minimum un personnel disponible. Quand le client choisi une plage horaire, booxi répartit automatiquement le rendez-vous au personnel disponible ayant le moins de rendez-vous pour cette journée. De cette façon, tout le personnel disponible aura une moyenne de rendez-vous uniforme.</p>
+<p>Selon le mode d’approbation des rendez-vous sélectionné, vous recevrez soit une demande de rendez-vous (mode manuel) ou un rendez-vous approuvé (mode automatique). Tout est automatisé afin de vous faire économiser un temps considérable dans la gestion de vos horaires.</p>
+<p><b>Configurer un service pour la répartition automatique</b></p>
+<p>Vous pouvez activer la répartition automatique pour un ensemble de services, en changeant tout simplement deux règles de rendez-vous par service. La répartition automatique des rendez-vous remplace le choix du personnel lors de la prise de rendez-vous en ligne par un choix de plages horaires disponible. Vous n’avez donc qu’à <b>Désactiver le choix de personnel</b>, et changer le <b>Mode de sélection de plage horaire</b> pour <b>Afficher les plages horaires avec répartition automatisée</b>.  Vous pouvez ainsi offrir certains services avec la répartition automatique, et d’autres avec un choix de personnel.</p>
+<ol>
+<li>Parmi votre liste de services, ouvrez le profil du service pour lequel vous aimeriez répartir automatiquement les rendez-vous.</li>
+<li>Cliquez sur<b> Règles de rendez-vous</b> pour ce service</li>
+<li>Activez la règle <b>Désactiver le choix de personnel</b></li>
+<li>Ajustez le <b>Mode de sélection de plage horaire</b> à <b>Afficher les plages horaires avec répartition automatisée</b></li>
+<li>Cliquez sur <b>Sauvegarder </b>au haut du formulaire Règles de rendez-vous, et le tour est joué.<img class="img_zoom aligncenter size-full wp-image-1497" src="https://lh3.googleusercontent.com/jkcKwVvNanN1fETJEC6CvHcaCeJNawJKGbv89LoCqWOa7y5tRO1bJpKLsHxLgg8YjDXTmOl2Vj9qg1qsbD1uEg=s0" alt="répartition automatisée" /></li>
+</ol>
+<p><b>Expérience de prise de rendez-vous en ligne</b></p>
+<p>Quand un client choisi un service avec répartition automatique, il obtient un choix de dates et plages horaires, sans choisir de personnel. Ces plages horaires ont tous au minimum un personnel disponible et si plus d’un personnel, le rendez-vous est réparti au personnel avec le moins de rendez-vous pour cette journée.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1492" src="https://lh3.googleusercontent.com/mfkJzY5xXOYt6xFhH6FFpvEAZs0wGDNZt7FLt-sh-jZhfkHWtuOECXFqeA1fIXYLKOUpv-PYL0ERg6zktSs6xA=s0" alt="dispatch automatique" /></p>
+<p style="text-align: center">Votre client reçoit une confirmation et un rappel de rendez-vous, sans mention du personnel attitré, vous permettant ainsi de le changer par la suite.</p>
+<p>Vous passez trop de temps à gérer les horaires de vos employés? Testez gratuitement booxi pendant 14 jours!</p>
+<p style="text-align: center"><a href="https://www.booxi.com/affaires/inscription" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Démarrer</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ajouter la prise de rendez-vous sur votre site Webself</title>
+		<link>https://www.booxi.com/blog/ajouter-la-prise-de-rendez-vous-sur-votre-site-webself/</link>
+		<comments>https://www.booxi.com/blog/ajouter-la-prise-de-rendez-vous-sur-votre-site-webself/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 14:32:51 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[siteweb]]></category>
+		<category><![CDATA[visibilité en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1556</guid>
+		<description><![CDATA[Voici un tutoriel pour ajouter le bouton de prise de rendez-vous booxi directement sur votre site web.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1557 size-full" src="https://lh3.googleusercontent.com/yTK7t7VlzpXOZR4bE9y5-9XcVbxEeuCFP6iC65AUJStqnu1V1RNYx_ZFRgyI7qCB6npxgCIw_bm16Apk1Tw5=s0" alt="intégration booxi et Webself" width="1200" height="373" /></p>
+<ol>
+<li>Connectez-vous sur votre compte Webself et allez sur la page sur laquelle vous souhaitez ajouter le bouton rendez-vous.</li>
+<li>Cliquez sur le bouton + Ajouter, et sélectionnez l’option ‘’Script’’ dans la section ‘’Outils’’. Cliquez dessus et déposez-le dans la zone que vous souhaitez.
+<p><img class="img_zoom aligncenter size-full wp-image-1558" src="https://lh3.googleusercontent.com/Pl9fZf2BHCFh43MTSySEPWqfq9E0eXeSXgVt0XsBbY7O-wbNTPo37GP-6GpeFfTPTFKJ9Ep3JUCQXygilIWhog=s0" alt="option ajouter" /></li>
+<li>Cette fenêtre apparaît:
+<p><img class="img_zoom aligncenter size-full wp-image-1559" src="https://lh3.googleusercontent.com/1aqFh45eWTJW8g8g_aW_fkNAFEtacAYAck7vNKuoiVAQ3Qk7GoAf1_7a9TGsXaAZXBODvo7v-FDrGqcpadwvP9g=s0" alt="modifier le script" /></li>
+<li>Pour générer le code que vous allez ajouter dans cette fenêtre, il vous faut votre clé d’API booxi. Pour la trouver:<br />
+- Allez sur l’onglet Mon Entreprise,<br />
+- Puis dans la section Détails de l’entreprise.<br />
+- Déroulez jusqu’à la section Clef de l’API, et copiez le code.<br />
+- Ensuite, allez sur <a href="https://www.booxi.com/developpeurs/booknow" target="_blank">cette page</a> et utilisez le générateur de code pour créer le script :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1560" src="https://lh3.googleusercontent.com/k7gw72aCnEFjlCYLGt5d7ky3mlHFGV3nUmktq52X-uK7SxJBsiafCm2__M4sCye9VmJudWnFRUJtaY4-Z9mH8Q=s0" alt="generateur de code" />&nbsp;</li>
+<li>Dans la section Clée d’API, collez le code que vous venez de copier.<br />
+Choisissez ensuite la langue dans laquelle vous souhaitez faire apparaître le texte sur le bouton, et choisissez l’option ‘’External Popup’’. Vous pouvez ensuite personnaliser le texte du bouton si vous le souhaitez. Cliquez ensuite sur le bouton Générer le code: un code est alors généré dans la section de droite.</li>
+<li>Copier le code généré dans la section ‘’Code du Widget’’ :
+<p><img class="img_zoom aligncenter size-full wp-image-1561" src="https://lh3.googleusercontent.com/P4_BtPnveoFX5u8u9NFu-RNBT-7fW1YXTNXaxW-wXJG-DbxIfvIdyHh6CKfL5Wokb3h-VKBTroh7sUw7rMcSMQ=s0" alt="code du widget" /></li>
+<li>Et retournez sur votre page Editeur de Webself.<br />
+Faites dérouler la fenêtre ‘’Script’’ jusqu’à l’option ‘’Contenu du code entre les balises &lt;body&gt; et&lt;/body&gt;’’. C’est ici que vous devez coller le code du Widget que vous venez de copier.</li>
+<li>Retournez sur la page booxi où le code a été généré.<br />
+Et copier le code de la section ‘’Conteneur du widget’’.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1562" src="https://lh3.googleusercontent.com/PTHQPTxtmsLL8X2gl6tXvjlIvoOXkYGkvRlROncUmtFZMaUwKmqeMIGFu_5DYk5pgDsMuZrYTsNfnW7YmEIZHX4=s0" alt="conteneur du widget" /></li>
+<li>Retournez sur l’éditeur de Webself, et dans la première partie du script, ‘’Contenu du code’’ collez le code.</li>
+<li>Retournez une dernière fois sur la page booxi où le code a été généré.<br />
+Et copier le code de la section ‘’Bouton Rendez-vous’’. Par exemple dans mon cas je copie le code du bouton français.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1563" src="https://lh3.googleusercontent.com/yxBPoD6UhTh5h8umafcfgxwJ2MK449t7keORg934HhVg6EbICzXAiWP0rTffBBR8Uti2Eejmsr6p4NaZppS3fQ=s0" alt="code bouton rendez-vous" /></li>
+<li>Et retournez sur votre page Editeur de Webself.<br />
+Collez le code que vous venez de copier dans la section ‘’Contenu du code entre les balises &lt;head&gt; et&lt;/head&gt;.</li>
+<li>Cliquez sur les boutons ‘’Mettre à jour’’ puis sur Sauvegarder.</li>
+</ol>
+<p>Et c’est fait. Vos clients peuvent maintenant prendre rendez-vous directement à partir de votre site web Webself.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/ajouter-la-prise-de-rendez-vous-sur-votre-site-webself/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 façons faciles d&#8217;acquérir la confiance des clients et dépasser la stigmatisation de l&#8217;industrie de la beauté.</title>
+		<link>https://www.booxi.com/blog/5-facons-faciles-dacquerir-la-confiance-des-clients-et-depasser-la-stigmatisation-de-lindustrie-de-la-beaute/</link>
+		<comments>https://www.booxi.com/blog/5-facons-faciles-dacquerir-la-confiance-des-clients-et-depasser-la-stigmatisation-de-lindustrie-de-la-beaute/#comments</comments>
+		<pubDate>Tue, 26 Sep 2017 19:18:17 +0000</pubDate>
+		<dc:creator><![CDATA[booxi team​]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[expérience]]></category>
+		<category><![CDATA[fidélisation de la clientèle]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1447</guid>
+		<description><![CDATA[Cet article offre aux propriétaires d’entreprise 5 actions faciles (et réalisables) pour présenter leur entreprise comme un établissement moderne et fiable. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1482 size-full" src="https://lh3.googleusercontent.com/PrQJ25WqpklsUVHSJBuip5u-qJeImlbQvKCXpFo1jBDFf7hQEH21CE0KPicEWtE2x4kAZIqKDBhrg2pGaQ5M=s0" alt="salon de beauté de confiance" width="1200" height="600" />Un excellent service à la clientèle et le professionnalisme devraient être les premières choses auxquelles vous pensez en lisant ce titre. Au-delà de ces deux facteurs, il existe certains aspects qui ne sont pas forcément évident pour tous.</p>
+<p>Lorsqu’il s’agit de leur apparence physique, les clients veulent le meilleur possible et beaucoup sont réticents à s’aventurer dans un nouveau salon de beauté par peur d’être déçu, ou pire, de ne pas recevoir un service professionnel. Cet article offre aux propriétaires d’entreprise 5 actions faciles (et réalisables) pour présenter leur entreprise comme un établissement moderne et fiable.</p>
+<p>Qu’il s’agisse de travailler avec un <a href="https://www.lightspeedhq.com/">système de point de vente</a> qui augmente l’efficacité et/ou avec un <a href="http://booxi.com">système automatisé de gestion des rendez-vous</a> pour accorder une plus grande attention aux détails de leur salon d’esthétique physique et en ligne, les propriétaires de salons de beauté trouveront dans cet articles des actions pertinentes pour améliorer (ou maintenir) leur image et attirer de nouveaux clients fidèles.</p>
+<p><b>1. Offrir des suggestions personnalisées.</b><br />
+Bien que les clients s’attendent à des conseils professionnels, ils apprécient également entendre votre expérience personnelle sur les produits et les services que vous offrez. Après tout, tout le monde est différent et parfois des commentaires pratiques (plutôt que théoriques ou techniques) peuvent être un peu plus pertinent ou plus compréhensibles.<br />
+En vous intéressant à vos clients et en liant des relations personnelles avec eux, vous leur prouvez que vous vous souciez d’eux et vous rassemblez les informations dont vous avez besoin pour leur donner les meilleurs conseils possibles.</p>
+<p>D’un autre côté, cela signifie également que vous devrez parfois leur annoncer de mauvaises nouvelles: il est possible que vous n’ayez pas forcément la solution parfaite pour eux. Il peut donc arriver que vous deviez leur expliquer que vos produits ou votre entreprise ne correspondent pas à leurs besoins. Ils apprécieront votre honnêteté et vous serez perçu comme une personne qui donne de vrais conseils.</p>
+<p>Selon <a href="https://www.lightspeedhq.com/blog/2017/09/4-ecommerce-takeaways-lightspeed-speaker-series/">Simon Tooley</a>, fondateur et directeur général chez Maison Etiket, «si quelqu&rsquo;un vit une expérience si mémorable, ce n’est pas grâce au produit acheté mais c’est, en réalité, grâce aux personnes avec lesquelles il a interagi.» Nous ne pouvions être plus d&rsquo;accord.</p>
+<p><b>2. Écouter</b></p>
+<p>Avez-vous déjà visité un magasin de détail avec un vendeur à la commission, qui vous a importuné avec toutes sortes de produits pour lesquels vous n’aviez tout simplement aucun intérêt? Bien sûr que cela vous ai déjà arrivé &#8211; et il y a de fortes chances que vous n’ayez acheté aucun de ses produits. Apprenez de ses erreurs, tenez vous-en à ce que le client vous dit et ne lui poussez pas des produits qui n’ont aucun rapport. Vous ne vendrez pas plus et, au contraire, vous risquez même de perdre la vente au complet.<br />
+Votre expertise pourrait convaincre un client d’acheter un article ou un service, mais si vous semblez trop insister pour augmenter le montant de son panier total, vous vous décrédibiliser et la première chose que vous leur avez vendu est peut-être maintenant remise en question.<br />
+Etes-vous réellement en train de leur donner de bons conseils ou êtes-vous simplement en train de réaliser une vente rapide, en disant tout ce que vous pensez que le client souhaite entendre?</p>
+<p>En restant ouvert, les clients vont comprendre que vous prenez réellement à coeur leur intérêt, ils seront plus réceptifs et feront bien plus confiance à vos conseils professionnels.</p>
+<p><img class="img_zoom aligncenter size-large wp-image-1480" src="https://lh3.googleusercontent.com/88Z8fCTVjTUCvgHAYvJedsBkGUCPPzdNOpwQKjdvygkSWSa7o8JJodXkwa_nX8nZJlTNMGaCzdsORSmEcP_I=s1024" alt="listen your customers" width="1024" height="1024" /></p>
+<p><b>3. Libérer vos habiletés psychiques</b></p>
+<p>Cette action s’adresse aux entreprises qui cultivent une relation avec leur clients (ce qui devrait être le cas pour l’ensemble des entreprises), qui connaissent parfaitement les produits et services qu’elles offrent et qui ont préparé leur réponses.<br />
+Il y a de fortes probabilités que la plupart de vos clients vous posent des questions similaires et que ces conversations mènent souvent aux mêmes solutions. Prêtez attention à ce qu’ils disent, identifiez les schémas de leurs besoins et de leurs comportements d’achat, posez les bonnes questions et anticipez quelle sera leur prochaine préoccupation, en leur proposant une solution simple avant même qu’ils ne l’évoquent.<br />
+Souvent, ils ne connaîtront même pas cette solution, donc c’est à vous de la trouver pour eux. “Interrogez les pour connaître les vraies raisons de leur visite. Parfois il faut creuser un peu”, explique Simon Tooley. Ils apprécieront ce travail minutieux et sentiront qu’ils sont entre de bonnes mains. Par exemple, un client peut poser des questions sur l’un de vos services qu’il aimerait essayer pour la première fois, mais il semble peu convaincu de sa valeur. Au lieu de leur donner directement une réponse, lisez entre les lignes, informez le d’une promotion à venir qu’il devrait attendre pour en bénéficier.</p>
+<p><b>4. Présenter les avis positifs d’autres clients</b></p>
+<p>Lorsque vos clients marchent et parlent, ils font de la promotion “gratuite” pour votre entreprise &#8211; gardez cela à l’esprit en tout temps et ne faites que des promesses que vous pouvez tenir. Une bonne façon de s’y tenir est de vous assurer de respecter la règle “Promettre moins et dépasser les attentes”.<br />
+Comme vous le savez sûrement déjà, les cadeaux et les surprises ont tendance à rendre les clients vraiment heureux et cela les incitent à recommander votre entreprise. Ce qui est l’une des meilleures choses que vous pouvez faire pour votre entreprise.<br />
+Naturellement, les gens sont beaucoup plus enclins à essayer et à faire confiance à une entreprise qui a déjà reçu l&rsquo;approbation de quelqu&rsquo;un qu’ils connaissent et en qui ils ont confiance. Pour favoriser les recommandations, <a href="https://www.lightspeedhq.com/blog/2016/06/10-ways-get-feedback-online-customers/">mettez en place des systèmes et des incitations</a>. Cela peut-être aussi simple que d’offrir un petit rabais à un client pour chaque nouveau client qu’il réfère. Non seulement cela peut développer votre entreprise mais c’est aussi une excellente façon de voir comment les clients perçoivent votre entreprise et où vous devez réaliser des ajustements.</p>
+<p><b>5. Réagir rapidement en cas de crise </b></p>
+<p>Dans une situation de crise &#8211; un client insatisfait affirmant avoir été mal informé par exemple, n’attendez pas que la situation se résout d’elle même (ce n’est jamais le cas). <a href="https://www.lightspeedhq.com/blog/2016/12/how-to-respond-to-negative-reviews/">Soyez déterminé<b> </b>et répondez rapidement</a> pour montrer à vos clients qu’ils peuvent vous faire confiance.<br />
+Restez objectif et professionnel car la façon dont une entreprise gère et résout une situation difficile est très révélatrice.</p>
+<p>L’expérience d&rsquo;un client comporte 3 parties: avant, pendant et après, et il est important de ne pas négliger la dernière puisque c’est lors de cette phase que l’expérience globale du client se détermine (qu’elle soit positive ou négative) ainsi que sa perception à l’égard de votre entreprise.</p>
+<div class="creativ-shortcode creativ-shortcode-alertbox creativ-shortcode-alertbox-colour-border"><p class="creativ-shortcode creativ-shortcode-alertbox-content">Athena Kyriacou, alias Tina, est spécialiste de contenu chez Lightspeed POS, basé à Montréal, QC. Elle décrit la création de contenu comme étant son havre de bonheur. Après le travail, vous pouvez la trouver en train de passer du temps avec son chien, à éditer des vidéos pour sa chaîne Youtube, à revendiquer l’égalité entre les sexes et à nouveau avec son chien. </p></div>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/5-facons-faciles-dacquerir-la-confiance-des-clients-et-depasser-la-stigmatisation-de-lindustrie-de-la-beaute/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

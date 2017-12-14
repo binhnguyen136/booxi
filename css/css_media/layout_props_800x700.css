@@ -1,0 +1,9 @@
+@media
+screen and (max-width: 800px),
+screen and (max-height: 700px)
+{
+    .nrPT8 { padding-top: 6em !important; }
+    .nrH8 { height: 6em !important; }
+    .nrW10 { width: 8em !important; }
+    .nrW8 { width: 6em !important; }
+}

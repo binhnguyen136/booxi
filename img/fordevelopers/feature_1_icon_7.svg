@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="74px" viewBox="0 0 72 74" enable-background="new 0 0 72 74" xml:space="preserve">
+<g id="shadow" opacity="0.051">
+	<g>
+		<path d="M66,2H6C2.686,2,0,4.686,0,8v60c0,3.313,2.686,6,6,6h60c3.313,0,6-2.687,6-6V8C72,4.686,69.313,2,66,2z"/>
+	</g>
+</g>
+<g id="Rounded_box">
+	<g>
+		<path fill="#44CE5E" d="M66,0H6C2.686,0,0,2.687,0,6v59.999C0,69.313,2.686,72,6,72h60c3.313,0,6-2.687,6-6.001V6
+			C72,2.687,69.313,0,66,0z"/>
+	</g>
+</g>
+<g id="activity" opacity="0.102">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M54,15H18c-2.209,0-4,1.791-4,4v36c0,2.209,1.791,4,4,4h36c2.209,0,4-1.791,4-4
+			V19C58,16.791,56.209,15,54,15z M18,19h36v18H42l-2.805,5.974l-5.467-21.976L28,37H18V19z M54,55H18V41h12l3.12-8.073
+			l4.994,20.075L44,41h10V55z"/>
+	</g>
+</g>
+<g id="activity_1_">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M54,13H18c-2.209,0-4,1.791-4,4v36c0,2.209,1.791,4,4,4h36
+			c2.209,0,4-1.791,4-4V17C58,14.791,56.209,13,54,13z M18,17h36v18H42l-2.805,5.974l-5.467-21.976L28,35H18V17z M54,53H18V39h12
+			l3.12-8.073l4.994,20.075L44,39h10V53z"/>
+	</g>
+</g>
+</svg>

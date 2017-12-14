@@ -1,0 +1,86 @@
+@media screen
+and (min-width: 801px)
+and (max-width: 1080px)
+{
+    .vmob, .vmob800  { display: none !important; }
+    .hmob:not([data-ovr-hide=true]), .hmob800:not([data-ovr-hide=true])  { display: block !important; }
+    .vmob_in  { display: none !important; }
+    .hmob_in:not([data-ovr-hide=true])  { display: inline-block !important;  }
+
+    .lh_SSp { line-height:  3.8em; }
+    .lh_Sp  { line-height: 3.4em; }
+    .lh_Ap  { line-height: 2.6em; }
+    .lh_Bp  { line-height: 2.4em; }
+    .lh_Cp  { line-height: 2em; }
+    .lh_Dp  { line-height: 1.8em; }
+    .lh_Ep  { line-height: 1.6em; }
+    .lh_Fp  { line-height: 1.4em; }
+
+    .lh_SS { line-height:  3.8em; }
+    .lh_S  { line-height: 3.4em; }
+    .lh_A  { line-height: 2.6em; }
+    .lh_B  { line-height: 2.4em; }
+    .lh_C  { line-height: 2em; }
+    .lh_D  { line-height: 1.8em; }
+    .lh_E  { line-height: 1.6em; }
+    .lh_F  { line-height: 1.4em; }
+
+    span.tx_type_SS { font-size: 3.6em; }
+    span.tx_type_S { font-size: 3.2em; }
+    span.tx_type_A { font-size: 2.4em; }
+    span.tx_type_B { font-size: 2.2em; }
+    span.tx_type_C { font-size: 1.8em; }
+    span.tx_type_D { font-size: 1.6em; }
+    span.tx_type_E { font-size: 1.4em; }
+    span.tx_type_F { font-size: 1.2em; }
+
+    .tx_alg_L_mC { text-align: left;   }
+    .tx_alg_R_mC { text-align: right;  }
+    .tx_alg_J_mL { text-align: justify;  }
+    .tx_alg_C_mL { text-align: center; }
+
+    /* padding left */
+    .padB_L2 { padding-left: 2em; }
+    .padB_L4 { padding-left: 4em; }
+
+    /* padding right */
+    .padB_R2 { padding-right: 2em; }
+    .padB_R4 { padding-right: 4em; }
+
+    /* padding left right */
+    .padLR_cent
+    {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .padB_LR_2e, .padB_LR_2e_mp5
+    {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+    .padB_LR_4e
+    {
+        padding-left: 4em;
+        padding-right: 4em;
+    }
+
+    /* top bottom */
+    .padB_TB_1
+    {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .fbx_PR8 { padding-right: 4em; }
+    .fbx_PL8 { padding-left: 4em; }
+
+    /* padding full box */
+    .padBF_1 { padding: 1em; }
+    .padBF_2 { padding: 2em; }
+    .padBF_3 { padding: 2em; }
+
+    .bxStc_mxRel, .bxStc_mxRel800 { position: static;   }
+    .bxRel_mxStc, .bxRel_mxStc800 { position: relative; }
+}
+

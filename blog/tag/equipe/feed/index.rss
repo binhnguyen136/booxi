@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; equipe</title>
+	<atom:link href="https://www.booxi.com/blog/tag/equipe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Comment mettre à jour votre personnel ?</title>
+		<link>https://www.booxi.com/blog/tutoriel-mettre-votre-personnel-a-jour/</link>
+		<comments>https://www.booxi.com/blog/tutoriel-mettre-votre-personnel-a-jour/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:39:38 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[equipe]]></category>
+		<category><![CDATA[gestion d’entreprise]]></category>
+		<category><![CDATA[personnel]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=41</guid>
+		<description><![CDATA[Dans ce tutoriel, nous vous présenterons étape par étape comment mettre à jour votre personnel.]]></description>
+				<content:encoded><![CDATA[<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Dans ce tutoriel, nous vous présenterons étape par étape comment mettre à jour votre personnel.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></p>
+<ul>
+<li>Ajouter et modifier un membre du personnel</li>
+<li>Associer une photo à une personne</li>
+<li>Modifier l’horaire de travail d’une personne</li>
+<li>Associer des services à une personne</li>
+<li>Réviser les règles de rendez-vous d’une personne</li>
+</ul>
+<p>
+</div></div></div>
+<hr />
+<p>Vous devez d’abord être connecté à votre compte booxi pour pouvoir effectuer les étapes suivantes. Vous pouvez également regarder le tutoriel sur youtube via <a href="https://www.youtube.com/watch?v=mA-0X4bDSNU">ce lien</a>.</p>
+<h3>Étape 1 &#8211; Accéder à votre liste du personnel</h3>
+<p>À partir du menu principal situé à gauche de la page, cliquez sur Personnel pour accéder à votre liste du personnel. Par défaut, un nouveau compte booxi n’a qu’un seul profil, le votre, que vous pouvez modifier ou simplement désactiver et en ajouter de nouveaux.<br />
+<img class="aligncenter wp-image-100 size-large" src="https://lh3.googleusercontent.com/8sdNX1a5TIm4JhfTEJUxFEdWxUy8XHS5ddaZsSZ30muANLYS5TJAZaa4fmJE-917ZIR0PxUEVsS9BiGF6vlD=s1024" alt="onglet personnel sur booxi" width="1024" height="1024" /></p>
+<h3>Étape 2 &#8211; Ajouter un nouveau membre du personnel</h3>
+<p>Un profil nouvellement ajouté n’est pas automatiquement publié en ligne, ce qui vous donne le temps d’en réviser les détails avant de le rendre Disponible en ligne (visible par les clients).</p>
+<ol>
+<li>Cliquez sur l’icône <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/HkpAl71JaUcFkdIQ9UutG_O7DOSW6_Z4aK7X83lSlLnrjisHvS9TMKP6y_AhPb6d_cxK08EJZNQP7uOJIosODJBFqdo9XQgMV9OjeAzglPaKd5JaePA8ibBEIEEejqk7VqKj-so" alt="" />en haut de la liste du personnel pour ajouter un nouveau profil.</li>
+<li>Ajoutez le Prénom et Nom de famille de la personne (qui seront affichés en ligne).</li>
+<li>Entrez une adresse courriel, permettant d’inviter cette personne et de communiquer avec elle (l’adresse ne sera pas affichée en ligne).</li>
+<li>Cochez la case Inviter à joindre booxi pour envoyer automatiquement une invitation à utiliser booxi (vous pourrez aussi le faire plus tard).</li>
+<li>Cliquez sur Nouveau pour ajouter votre nouveau profil.</li>
+</ol>
+<p>Vous pouvez afficher un profil (une personne) en ligne sans que la prise de rendez-vous soit activée; cependant, nous vous encourageons à activer la prise de rendez-vous pour l’ensemble de votre personnel. À la prochaine étape, Modifier le profil d’un membre du personnel, vous pourrez voir la liste complète des caractéristiques offertes.</p>
+<p><img class="aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/9roZiltQ8jg2-yDyfTQbPbq207J5aSbvOLjqlgmqDyiVi3hkKVb468S4DCGqY7rUDxQi63Y3Dl4wQd2xUX4xL1pAV9cdUb3Enb4PWScDduswsGcwO6tTUi5JhWRl0uZOO3yn3eM" alt="ajouter un nouveau personnel" width="417" height="346" /></p>
+<h3>Étape 3 &#8211; Modifier le profil d’un membre du personnel</h3>
+<p>Le profil de chaque membre du personnel vous donne accès à ses détails, les services qui lui sont associés (ceux qu’il offre), son horaire de travail (ses disponibilités), ses règles de rendez-vous et la photo de profil associée.</p>
+<ol>
+<li>Sélectionnez une personne dans la liste.</li>
+<li>Cliquez sur Détails du personnel.<br />
+<img class="aligncenter wp-image-101 size-full" src="https://lh3.googleusercontent.com/DuibTXrzkX2baaIiVp01eRDLX9dpgpkVqOUQZzztt9QSiUMloxNoFK-qP6KYJY5dOw-nO-y2-O0mGiQUMuQvkQ=s0" alt="entrez les détails du personnel" width="1600" height="986" /></li>
+<li>Modifiez le Nom qui sera affiché en ligne.</li>
+<li>Modifiez la Position, afin qu’elle reflète la profession exercée par cette personne.</li>
+<li>Ajoutez un Numéro de téléphone mobile ou autre (ne seront pas affichés en ligne), qui seront utilisés pour communiquer avec la personne.</li>
+<li>Modifiez l’Adresse courriel (ne sera pas affichée en ligne), qui sera aussi utilisée pour communiquer avec la personne.</li>
+<li>Rédigez une Biographie qui met en valeur l’expertise de cette personne.</li>
+<li>Quand vous avez terminé, cliquez sur Sauvegarder en haut du formulaire pour sauvegarder vos changements ou sur Annuler pour annuler les changements.<img class="img_zoom aligncenter wp-image-66 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/sauvegarder2.png" alt="sauvegarder" width="315" height="40" /></li>
+</ol>
+<h3>Étape 4 &#8211; Associer une photo à un profil</h3>
+<p>Vous pouvez associer une photo à chaque membre de votre personnel, ce qui rendra votre site web booxi plus attrayant pour les clients et les mettra en confiance.</p>
+<p><img class="aligncenter" style="color: #000000" src="https://lh4.googleusercontent.com/uxlErygnpz9CVraoJ0jkqcU8z7DikAFBz_BpPHNw8BC4B64pDYN1tUWjP4rkiuumDtYB9S9Ju4ctZRYeHspebQfi51b8L3CUykk799qVN_q23N3lyAPe-n5xgIZ5Oe8BTWRPDPM" alt="photo de profil" width="260" height="261" /></p>
+<ol>
+<li>Changez la photo en cliquant sur l’icône <img style="color: #000000" src="https://lh4.googleusercontent.com/gcuwxq0obzGItMOY0W6IZW63xTl6Th6zbUmBKjND4PnHsu0f3l--xdSC4FgAXiVIpnO84201MeJzbMHYed0I2OAEcG6YXdGQGRPtPuarImDCbWnkqdU010AK6YCUB6ZETytnKUQ" alt="" /> au bas de la photo de profil actuelle. Vous pouvez aussi utiliser notre appli mobile pour prendre une photo avec votre téléphone intelligent et l’appliquer au profil d’un membre du personnel.
+<ul>
+<li>Cliquez sur le bouton Télécharger une photo afin de télécharger une photo à partir de votre ordinateur ou tablette.</li>
+<li>Cliquez sur le bouton Réinitialiser pour supprimer la photo.</li>
+<li>Utilisez les 4 points bleus pour découper ou sélectionner la portion visible de la photo.</li>
+</ul>
+</li>
+<li>Cliquez sur le bouton Sauvegarder la photo pour sauvegarder les changements, ou cliquez sur le X au haut pour annuler les changements.</li>
+</ol>
+<h3>Étape 5 &#8211; Associer des services</h3>
+<p>Vous pouvez préciser quels services sont offerts par le membre du personnel. De cette façon, les clients ne pourront demander un rendez-vous avec cette personne que pour les services qu’elle fournit.</p>
+<ol>
+<li>Cliquez sur Services associés</li>
+<li><span style="line-height: 21.6px">Cochez les services offerts par la personne</span></li>
+<li>Cliquez sur Sauvegarder en haut du formulaire pour sauvegarder vos changements ou sur Annuler pour annuler les changements.<img class="img_zoom aligncenter wp-image-66 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/sauvegarder2.png" alt="sauvegarder" width="315" height="40" /></li>
+</ol>
+<h3>Step 6 &#8211; Réviser l’horaire de travail</h3>
+<p>Si cette personne travail toujours aux heures d’ouverture, vous pouvez simplement choisir d’utiliser l’horaire des Heures d’ouverture de l’entreprise; si elle a un horaire hebdomadaire différent, utilisez l’Horaire personnel et définissez cet horaire; et si elle n’a pas d’horaire et ne connait pas ses disponibilités qu&rsquo;une ou deux semaines à l&rsquo;avance, utilisez l’option Calendrier et ajoutez des plages disponibles directement dans le calendrier.</p>
+<p>Pour définir un horaire hebdomadaire, ajoutez des plages horaires pour chaque jour de la semaine. Vous pouvez ajouter plus d’une plage par jour, par exemple si vous avez une pause (9:00-12:00 puis une autre de 13:00-18:00). Vous pouvez aussi laisser une journée sans plage horaire si vous n’êtes pas disponible cette journée.</p>
+<ol>
+<li>Cliquez sur Horaire de travail pour réviser l’horaire.
+<ul>
+<li>Entrez une heure de début et une heure de fin pour chaque plage horaire.</li>
+<li><span style="line-height: 21.6px">Cliquez sur X pour effacer une plage.</span></li>
+<li><span style="line-height: 21.6px"><span style="line-height: 21.6px">Cliquez sur + pour ajouter une plage.</span></span><img class="aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/nyejwdiVWKSZoxkcpHAY4iysYx-mxQAI0iS-7yqeE4D3LOtJadEcxK0UB7CIhHi5R3AKO3h43X-ETUG-fnxSkbFTosyIE5QCOKWa_BIinCnljd4s0DhYxVaIYCxGWiz4hXNKl44" alt="paramétrez l'horaire de travail" width="506" height="381" /></li>
+</ul>
+</li>
+<li>Si vous avez fait des changements, cliquez sur Sauvegarder ou sur Annuler pour annuler les changements.</li>
+</ol>
+<p><img class="img_zoom aligncenter wp-image-66 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/sauvegarder2.png" alt="sauvegarder" width="315" height="40" /></p>
+<h3>Étape 7 &#8211; Ajuster les règles de rendez-vous</h3>
+<p>Les règles de rendez-vous permettent de dire à booxi comment gérer les rendez-vous et les disponibilités pour cette personne.</p>
+<ol>
+<ol>
+<li>Cliquez sur Règles de rendez-vous pour accéder et modifier les règles.</li>
+</ol>
+</ol>
+<p><strong> Activer la prise de rendez-vous</strong><br />
+Cette règle vous permet de désactiver la prise de rendez-vous en ligne, et ainsi empêcher les clients de demander rendez-vous avec ce membre du personnel. Ceci vous est utile si vous voulez afficher cette personne sur votre site web booxi, mais ne désirez pas recevoir de demande de rendez-vous pour cette dernière. Désactivez l’option en décochant la case.</p>
+<p><strong>Afficher les disponibilités en ligne</strong><br />
+Lorsque cette règle est activée, les clients peuvent sélectionner et réserver une plage horaire disponible précise. Nous vous recommandons d’afficher vos disponibilités car les clients préfèrent choisir une plage précise et parce que vous épargnez du temps. Cependant, si vous souhaitez avoir un contrôle complet sur votre horaire et décider de vos disponibilités selon l’achalandage de la semaine, vous pouvez désactiver cette option.</p>
+<p>Lorsque l’option est désactivée (case non cochée), booxi demande au client de fournir ses disponibilités jusqu’à 5 plages horaires. Vous recevez ainsi une demande avec un choix de plages horaires, par exemple, lundi 6 avril de 9h00 à 12h00; mercredi 8 avril de 12h00 à 17h00; et vendredi 10 avril de 17h00 à 21h00. Vous pouvez ainsi trouver une disponibilité qui convient à votre horaire et confirmer une heure à votre client.</p>
+<p><strong>Intervalle de rendez-vous</strong><br />
+Cette règle vous permet de changer l’intervalle de temps entre le début de chaque plage horaire disponible qui seront présentées au client lors de la prise de rendez-vous en ligne. Nous vous suggérons d’ajuster cet intervalle à la durée de votre service le plus court. Par exemple, si vous n’offrez que des rendez-vous d’une durée de 1 heure, ajustez l’intervalle à 60 min, afin de ne pas permettre au client de réserver 8h15, 8h30 ou 8h45, se qui laisserait un trou de moins d’une heure. Avec un intervalle de 60 min, les clients pourront seulement réserver 8h00, 9h00, ou 10h00 et ainsi de suite.</p>
+<p>Nous regarderons les autres règles dans un autre tutoriel.</p>
+<p><img class="aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/V21ZFiWACnmhNYKa0kzfAA96hkKH5h9mHTPNvIbQhSMwq6dcNx7IJjAezjsdACFShIqVy_PZH9XmHtjEiQt9sI1ERgLNBStNHkj95Djw6HNg62EOyMQ4JkNpdc1vkpCojNPz99A" alt="établir les règles de rendez-vous par employé" width="559" height="513" /></p>
+<ol>
+<li>Si vous faites des changements, cliquez sur Sauvegarder en haut du formulaire ou sur Annuler pour annuler les changements.</li>
+</ol>
+<p><img class="aligncenter wp-image-66 size-full" src="https://lh3.googleusercontent.com/449TqWzSrRmvx7JfYwDCaZWXa73If4KjMIXG-tU0dOwsOPzSn12bH7hg-dU5hfOZAdNFM-6yFfLPY6unlEUIyTk=s0" alt="sauvegarder / annuler" width="315" height="40" /></p>
+<h3>Étape 8 &#8211; Mettre le profil personnel en ligne</h3>
+<p>Maintenant que le profil de ce membre du personnel est complété, vous pouvez le mettre en ligne afin qu’il devienne visible et que les clients puissent prendre rendez-vous avec cette personne. Le profil ne sera visible que si votre entreprise est disponible en ligne.</p>
+<ol>
+<li>Cliquez sur Hors-ligne et sélectionnez Disponible en ligne.</li>
+<li>Le statut devrait devenir vert.<img class="aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/e5j0ECcotfJ7zxe4AAHZxWebhdcaQ887YnjgD7B0BWUQ7UcsN4ZAssjX2WGVrSALTGhN4O2fQTZm7JukMxP46Dy3tawn__QTMF0AGnYvJo0aH3SvnoTVEOHPnWESbg_54_FKG2M" alt="statut du profesionnel" width="264" height="349" /></li>
+</ol>
+<p>Vous avez terminé et vous pouvez passer au tutoriel La gestion des rendez-vous.</p>
+<h3>À retenir</h3>
+<ul>
+<li>Ajoutez un membre du personnel pour offrir des rendez-vous avec ce dernier &#8211; son statut doit être Disponible en ligne pour qu’il apparaisse dans votre site web booxi.</li>
+<li><span style="line-height: 21.6px">Associez des services à un membre du personnel pour montrer qu’il est disponible pour offrir ces services.</span></li>
+<li><span style="line-height: 21.6px">Révisez l’horaire de travail d’un membre du personnel pour que booxi puisse connaître ses disponibilités.</span></li>
+<li><span style="line-height: 21.6px">Vous pouvez laisser le client choisir une plage horaire ou lui demander ses disponibilités.</span></li>
+<li><span style="line-height: 21.6px">Ajoutez une photo et une biographie qui reflète le professionalisme pour mettre les clients en confiance.</span></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/tutoriel-mettre-votre-personnel-a-jour/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment partager booxi avec mon personnel?</title>
+		<link>https://www.booxi.com/blog/comment-partager-booxi-avec-mon-personnel/</link>
+		<comments>https://www.booxi.com/blog/comment-partager-booxi-avec-mon-personnel/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[equipe]]></category>
+		<category><![CDATA[personnel]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=40</guid>
+		<description><![CDATA[Saviez-vous que vous pouvez multiplier les bienfaits de booxi en le partageant avec le reste de votre équipe? Partager booxi avec votre personnel vous fera économiser beaucoup de temps et vous facilitera la vie. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Cet article vous explique les avantages associés à l&rsquo;utilisation de booxi en équipe, et vous explique comment le faire.</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Les bénéfices</li>
+<li>Partager booxi avec votre équipe, c&rsquo;est facille</li>
+<li>S&rsquo;inscrire à un compte Personnel gratuit</li>
+<li>Vous pouvez limiter l&rsquo;accès.</div></li>
+</ul>
+<hr />
+<p>Vous utilisez maintenant booxi pour gérer votre agenda et permettez la prise de rendez-vous en ligne à vos clients.</p>
+<p>Saviez-vous que vous pouvez multiplier les bienfaits de booxi en le partageant avec le reste de votre équipe? Partager booxi avec votre personnel vous fera économiser beaucoup de temps et vous facilitera la vie.</p>
+<h3>Les avantages</h3>
+<h2><img class="shadow_medium alignright wp-image-29 size-medium" src="https://lh3.googleusercontent.com/kZOXItWuzEwpkt8pjiSPAHEvhC9zH8tndOAT0DQxB2OM9U0lxWky6LjrtKG2cQ9s42NRBjFNJ_Jbf6EmPYTFFA=s300" alt="partage-horaire-personnel" width="300" height="300" /></h2>
+<p>Quand vous dirigez une entreprise, vous avez beaucoup de responsabilités et vous vous retrouvez souvent seul en charge des horaires et des rendez-vous. Vous passez donc de nombreuses heures à planifier les rendez-vous en essayant de satisfaire tout le monde.</p>
+<p>Maintenant que vous utilisez booxi, vous pouvez économiser du temps et être plus efficace dans votre façon de prendre les rendez-vous. Fini les appels incessants de vos collègues pour connaître leurs agenda de la semaine ou même du jour. Grâce à booxi, vous donnez à chacun de vos employés accès à son calendrier en tout temps, à partir d&rsquo;un ordinateur, d&rsquo;une tablette ou d&rsquo;un téléphone intelligent.</p>
+<p>Partager booxi avec votre personnel leur permettra de gérer leurs propres rendez-vous.<br />
+Vous verrez instantanément les changements qu’ils apportent à leur horaire et les rendez-vous qu’ils ajoutent, peu importe où vous êtes. Ils pourront également modifier leurs disponibilités et vous le verrez automatiquement dans leur calendrier. De cette façon, vous éviterez les réservations en double et limiterez votre temps passé au téléphone à communiquer avec eux.</p>
+<p><span style="text-decoration: underline">Vous gardez toujours le contrôle sur les horaires de tout le monde, que vos employés utilisent booxi ou non.</span></p>
+<h3>Partager booxi avec votre personnel, c&rsquo;est facile!</h3>
+<p>Pour partager booxi et laisser votre personnel gérer leurs propres rendez-vous, vous devez les inviter. L’invitation qu’ils reçoivent leur permettra de s’abonner à un compte personnel gratuit et de se joindre à votre entreprise. Une fois le compte créé, ils seront en mesure d’utiliser booxi et de gérer leur rendez-vous.</p>
+<p>Leur accès à booxi est sécurisé avec le courriel et le mot de passe de leur choix. <span style="text-decoration: underline">Vous avez toujours la possibilité de bloquer cet accès à tout moment.</span></p>
+<p>Pour inviter un membre de votre personnel à utiliser booxi, veuillez simplement suivre les étapes suivantes:<br />
+<img class="shadow_medium alignleft wp-image-30 size-medium" src="https://lh3.googleusercontent.com/RoIA6u2Tope62z3En6vt6GNhOv3KoS_7e73Vu5Dch8F_tLWRz4jS_zX91ztSPIBhe5RJmFx0gLDmPLJla5NiJQ=s300" alt="invitation-personnel" width="300" height="300" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>Connectez-vous à votre compte booxi.</li>
+<li>Sélectionnez le profil de la personne à partir de la liste du personnel, ou ajoutez-le à la liste s&rsquo;il n&rsquo;y est pas déjà.</li>
+<li>Cliquez sur Inviter à joindre booxi.</li>
+<li>Une fois l’invitation envoyée (à l’adresse courriel qui apparaît dans le profil), le bouton changera pour Ré-envoyer l’invitation.</li>
+<li>Dès que la personne commencera à utiliser booxi, le bouton changera pour Utilise booxi.</li>
+</ol>
+<p>&nbsp;</p>
+<h3>S&rsquo;inscrire à un compte Personnel gratuit</h3>
+<h2><img class="shadow_medium alignright wp-image-31 size-medium" src="https://lh3.googleusercontent.com/wu5lqlMYj6oZ2DwJLMnsvEMXx6tueDl7MIeEfdsjH0VNSoFwO1I4piPvz4vkZcoVDUCfxgAIPAdmjMvpWx0DuQ=s300" alt="personnel" width="300" height="300" /></h2>
+<p>La personne que vous avez invitée recevra une invitation par courriel avec un code qu&rsquo;elle devra saisir pour se joindre à votre entreprise. Elle devra simplement suivre les étapes indiquées dans le courriel d’invitation.</p>
+<p>Elle devra alors compléter les étapes suivantes:</p>
+<ol>
+<li>Cliquer sur le lien d&rsquo;inscription inclus dans le courriel, ou aller sur le site web de booxi, puis cliquer sur Inscrivez-vous et choisir l&rsquo;option d&rsquo;inscription avec invitation.</li>
+<li>Entrer l’adresse courriel et le mot de passe qu&rsquo;elle désire utiliser pour ses futures connexions.</li>
+<li>Entrer l&rsquo;adresse courriel à laquelle elle a reçue l’invitation.</li>
+<li>Entrer le code fourni dans l’invitation.</li>
+<li>Cliquer sur le bouton Continuer.</li>
+</ol>
+<p>Son inscription sera alors complétée et elle recevra un courriel de bienvenue. Elle pourra ensuite se connecter à son compte en utilisant l&rsquo;adresse courriel et le mot de passe qu&rsquo;elle aura choisi, à partir d&rsquo;un ordinateur, d&rsquo;une tablette ou d&rsquo;un téléphone intelligent.</p>
+<h3>Votre personnel a un accès limité à booxi</h3>
+<p>Quand vous partagez booxi avec votre personnel, ces derniers n’ont accès qu’à certaines des fonctions et certaines des données.</p>
+<ul>
+<li>Modifier leur profil (détails, horaires et règles de rendez-vous)         <span class="floatR fnt_w7" style="margin-right: 5em">Oui</span></li>
+<li>Consulter et modifier leurs rendez-vous et alertes                                              <span class="floatR fnt_w7" style="margin-right: 5em">Oui</span></li>
+<li>Consulter et ajouter des rendez-vous pour les autres                                         <span class="floatR fnt_w7" style="margin-right: 5em">Oui</span></li>
+<li>Consulter les détails de l&rsquo;entreprise, les services et la liste du personnel       <span class="floatR fnt_w7" style="margin-right: 5em">Oui</span></li>
+<li>Modifier les détails de l&rsquo;entreprise, les services et le reste du personnel       <span class="floatR fnt_w7" style="margin-right: 5em">Non</span></li>
+<li>Consulter les données financières et de performance de votre entreprise    <span class="floatR fnt_w7" style="margin-right: 5em">Non</span></li>
+</ul>
+<p>Nous travaillons actuellement sur la possibilité de vous permettre de décider ce que chaque personne peut faire ou ne pas faire.</p>
+<h3>À retenir:</h3>
+<ol>
+<li>Les comptes Personnel sont gratuits.</li>
+<li><span style="line-height: 21.6px">Vous devez envoyer des invitations pour que votre équipe se joigne.</span></li>
+<li><span style="line-height: 21.6px">Vos employés auront accès à leur horaire et pourront gérer leurs rendez-vous en tout temps et ce, même à partir de leur téléphone intelligent. Vous en serez toujours informé.</span></li>
+<li><span style="line-height: 21.6px">Vous pouvez bloquer leur accès à tout moment. Aucune donnée n&rsquo;est conservée sur appareil, elles sont sécurisées en nuage.</span></li>
+<li><span style="line-height: 21.6px">Vous économiserez du temps et vous serez mieux organisé.</span></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/comment-partager-booxi-avec-mon-personnel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

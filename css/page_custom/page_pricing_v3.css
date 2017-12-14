@@ -1,0 +1,178 @@
+
+
+.fnt_price
+{
+    font-size: 7em;
+}
+
+.input_signup_test
+{
+    height: 60px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    font-size: 18px;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #D9D9D9;
+}
+
+.input_signup_test[data-is-error=true]
+{
+    border-color: #ff7070;
+}
+
+.button_signup
+{
+    display: inline-block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    height: 6em;
+    line-height: 6em;;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2b9ecc;
+    background-color: #33bcf2;
+    cursor: pointer;
+}
+
+.button_signup
+{
+    -webkit-transition: border-color 0.5s ease-in-out, background-color 0.25s ease-in-out;
+    -moz-transition: border-color 0.5s ease-in-out, background-color 0.25s ease-in-out;
+    transition: border-color 0.5s ease-in-out, background-color 0.25s ease-in-out;
+}
+
+.button_signup:hover
+{
+    border-color: #2894bf;
+    background-color: #2faee0;
+}
+
+.button_signup > span
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+.top-to-bottom
+{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    border-width: 1px;
+    border-style: solid;
+    border-top-style:none;
+    border-bottom-style: none;
+
+    -webkit-border-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(247, 247, 247, 1)), to(rgba(215, 215, 215, 1))) 1 100%;
+    -webkit-border-image: -webkit-linear-gradient(rgba(247, 247, 247, 1), rgba(215, 215, 215, 1)) 1 100%;
+    -moz-border-image: -moz-linear-gradient(rgba(247, 247, 247, 1), rgba(215, 215, 215, 1)) 1 100%;
+    -o-border-image: -o-linear-gradient(rgba(247, 247, 247, 1), rgba(215, 215, 215, 1)) 1 100%;
+    border-image: linear-gradient(to bottom, rgba(247, 247, 247, 1), rgba(215, 215, 215, 1)) 1 100%;
+}
+
+.mxq_notice_print { display: inline-block; }
+
+
+.vmob768 {}
+.hmob768 {}
+
+.fxt_x3_pricing_mq
+{
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: inline-block;
+    justify-content: center;
+    margin-bottom: 2em;
+    position: relative;
+}
+
+
+@media screen and (min-width: 1px) and (max-width: 320px)
+{
+    .top-to-bottom { border: none !important; }
+    .input_signup_test { width: 100%; margin-bottom: 20px; }
+    .button_signup, .mxq_notice_print {width: 100%;}
+}
+
+@media screen and (min-width: 321px) and (max-width: 460px)
+{
+    .top-to-bottom { border: none !important; }
+    .input_signup_test { width: 100%; margin-bottom: 20px; }
+    .button_signup, .mxq_notice_print {width: 100%;}
+}
+
+@media screen and (min-width: 461px) and (max-width: 640px)
+{
+    .top-to-bottom { border: none !important; }
+    .input_signup_test { width: 100%; margin-bottom: 20px; }
+    .button_signup, .mxq_notice_print {width: 100%;}
+}
+
+@media screen and (min-width: 641px) and (max-width: 800px)
+{
+    .top-to-bottom { border: none !important; }
+    .input_signup_test { width: 250px; margin-right: 20px;}
+    .mxq_notice_print {width: 100%;}
+}
+
+@media screen and (min-width: 801px) and (max-width: 1080px)
+{
+    .input_signup_test { width: 300px; margin-right: 20px;}
+    .mxq_notice_print { width: 80%; }
+}
+
+@media screen and (min-width: 1081px) and (max-width: 1360px)
+{
+    .input_signup_test { width: 300px; margin-right: 20px;}
+    .mxq_notice_print { width: 80%; }
+}
+
+@media screen and (min-width: 1361px) and (max-width: 1640px)
+{
+    .input_signup_test { width: 300px; margin-right: 20px;}
+    .mxq_notice_print { width: 60%; }
+}
+
+@media screen and (min-width: 1641px)
+{
+    .input_signup_test { width: 300px; margin-right: 20px;}
+    .mxq_notice_print { width: 60%; }
+}
+
+
+@media screen and (min-width: 1px) and (max-width: 767px)
+{
+    .fxt_x3_pricing_mq { flex-basis: 100%; }
+    .hmob768 { display: none !important; }
+
+}
+
+@media screen and (min-width: 768px)
+{
+    .fxt_x3_pricing_mq { margin-right: 2em; }
+    .fxt_x3_pricing_mq { flex-basis: calc( (100% - 4em) / 3); }
+    .fxt_x3_pricing_mq:nth-child(3n) { margin-right:0; }
+
+    .vmob768 { display: none !important; }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1024px)
+{
+    /* iPad */
+    .ipad-ovr { font-size: 80%; }
+    .ipad-hide { display: none !important; }
+}

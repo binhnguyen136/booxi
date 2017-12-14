@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; Product Features</title>
+	<atom:link href="https://www.booxi.com/blog/category/product-features/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Merge Duplicate Client Records and Keep a Healthy Client List</title>
+		<link>https://www.booxi.com/blog/merge-client-list/</link>
+		<comments>https://www.booxi.com/blog/merge-client-list/#comments</comments>
+		<pubDate>Thu, 09 Nov 2017 16:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[customer]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1603</guid>
+		<description><![CDATA[With booxi, you can easily merge duplicate client records to keep a clean client list. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1623 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/merging-client2.png" alt="merging client" width="1200" height="600" /><br />
+You can now search for client record duplicates, and merge multiple selected records into one, without losing your appointment history.</p>
+<ul>
+<li>Search for Duplicates</li>
+<li>Merge Client Records</li>
+</ul>
+<p><strong>Search for Duplicates</strong></p>
+<p>Using the search icon at the top of the client list, you can search for a partial client name, or a phone number to find duplicate client records. Use this to find, select and merge duplicate, so you keep a clean and healthy client list.</p>
+<ol>
+<li>Go to your client list, by clicking on the main menu Clients section.</li>
+<li>Click on the button at the top of the client list.</li>
+<li>Type in a partial name, or phone number.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1605" src="https://lh3.googleusercontent.com/NXJUJ2eNpvL2el6bFwSp8wkYcXr8t8qyV3RBSC2PPsIfpoqX8lTqxJlEZkrMVoU-yj-RdSR8u6y4JzkcZj73VA=s0" alt="search bar" /></li>
+<li>Click on the button again to launch the search, or simply hit the Enter key.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1606" src="https://lh3.googleusercontent.com/Jk42ECTznC3itkatE2jrrbvTmI7Bbi8GOCVnOVDC3BtnnxHbPqEToIPRpMZ5rJ9otb7Nwr0eaY25LHVYUqS1iw=s0" alt="client names search" /></li>
+<li>The search result will be listed below, and you can select multiple client records, or get back to the full list by cancelling the search using the button.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1607" src="https://lh3.googleusercontent.com/FBlFCykJWSSm6D3ZFheykyq19MzHQL3jak7hP1VuqbL3rei2MvV-nQjbXVi5YfKZtR-BepHZOw3KnwMZhAIG6Q=s0" alt="select client" /></li>
+</ol>
+<p><strong>Merge Client Records</strong></p>
+<p>Once you have identified duplicate client records, you can easily select and merge them together in one record with one appointment history. The merged client record will contain the combined available details and appointment history of all selected records, and the duplicate records will be marked as deleted and remove from your client list.</p>
+<ol>
+<li>Search for a partial name, or phone to find duplicate records</li>
+<li>Select the client records to merged together,<strong> by first selecting the client record to merge into, followed by the duplicates.</strong></li>
+<li>Click on the Action Menu of the List, and select Merge Clients<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1608" src="https://lh3.googleusercontent.com/7rEHszGXCda6QOjEDqRyXbYnAIPeJrKOy0-khk0qxSDj4BKDAyFudQ9grgCfbz9qlQVmdL1N0nusnwF6_e0f6iA=s0" alt="merge client" /></li>
+<li>A form allowing you to review the merge result will be displayed.</li>
+<li>You can hover the icon at the top to review the list of selected client records that are about to be merged.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1609" src="https://lh3.googleusercontent.com/ysCMd_dO1PX05sktWzXMt99W9EjhQ0T9Qvh4JF6O08WUnEBfy11CIE6CQHeLHepfMNzGzhLE9-YOzK2VA-YDDA=s0" alt="client list to merge" /></li>
+<li>Update the details if needed, and click on Merge at the bottom of the form.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1610" src="https://lh3.googleusercontent.com/T1YymvvVNiwIiymy1jI2C7bwkO8Fgqi_gY7Xfj_x_-9kJ9w3UK5BDY-YqGMVEs3U1qlQIseIGm5y3ouYNt7dQw=s0" alt="merging" /></li>
+<li>The client records will be merged in one record, and you’re done.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/merge-client-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Add Simple Questions to Your Booking, and Save Yourself The Burden</title>
+		<link>https://www.booxi.com/blog/add-customized-question-to-your-booking/</link>
+		<comments>https://www.booxi.com/blog/add-customized-question-to-your-booking/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1504</guid>
+		<description><![CDATA[It is now possible to add simple custom questions at booking, to acquire more details on your appointment requests, while avoiding to call customers to gather the information you need.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1575 size-full" src="https://lh3.googleusercontent.com/svJGDc-OWsEHBNfVCN4Nn8HtpL3ufmmyoVt7IycGzC1T7Eqwz1OOxLIGZrpXfAE0NvlSiuJuVodk_Nc5cRPI2w=s0" alt="customize question during online booking" width="1200" height="600" />It is now possible to add simple custom questions at booking, to acquire more details on your appointment requests, while avoiding to call customers to gather the information you need.</p>
+<ul>
+<li>How to setup booking questions</li>
+<li>How will online booking capture that information</li>
+<li>Where to find those question answers</li>
+</ul>
+<p><b>How to Setup Booking Questions</b></p>
+<p>You can easily setup a simple question per service, make it optional or mandatory, and your customer will have to provide that information when booking online. Your personnel will also be able to record that information when the booking is done over the phone.</p>
+<ol>
+<li>Go to your service list, and select a service</li>
+<li>Click on <b>Service Details </b>to open the service details form</li>
+<li>Scroll down to <b>Booking Question</b></li>
+<li>Type in the question. You can ask one ore multiple informations with the same question. For example, “Provide your bike brand, model and size.”, or “Provide any food allergies you may have, or answer NONE.”</li>
+<li>Set the question to be mandatory, or leave it optional</li>
+<li>Click on <b>Save</b>, on you’re done. Next time you or a client book this service, the booking question will be asked.<br />
+<img class="img_zoom aligncenter size-full wp-image-1505" src="https://lh3.googleusercontent.com/OoCDxnMdZQFjk0s3d497qdQME7L9AMUhtTaidm_uYurEcZiB0oO1n-dJz31PVRMLENIjLixIH5POkUPuLhK7jOU=s0" alt="question while booking" /></li>
+</ol>
+<p><b>How Will Online Booking Capture That Information</b></p>
+<p>When a client books online and selects one or more services setup with booking questions, these questions will be asked per service, right after the client provided his contact information. Clients must provide answers to mandatory questions, while your personnel doesn’t have to (when the booking is done over the phone).  For group reservation, the question will be repeated per attendee.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1508" src="https://lh3.googleusercontent.com/TzOkKKh-7zymMupHjk4y_ikjrNu6U9RzILm7EjrVkbu0PPc3ApiJHN_2ulcpayihZb-nlcwPrz_XFM-YSDkb1w=s0" alt="online booking question" /></p>
+<p><b>Where to Find Those Question’s Answers</b></p>
+<p>When questions are asked at online booking or provided over the phone, booxi stores the answers in the appointment, so each time you open the appointment, you have access to the question and answer per service. For group reservation, the question and answers repeated per attendee.</p>
+<p>The questions and answers are also included in a few reports, such as the attendee list, the detailed schedule, and the appointment report.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1509" src="https://lh3.googleusercontent.com/eFU09KnTCJcS5ALUQhZWibB4QF5Q4v-Rmr1_FpZuGRQPK6ZzDyXT-xmiGcOPAuWbU2SY9gA4Q9kuTSETyMeUYlY=s0" alt="customized section in appointment " /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/add-customized-question-to-your-booking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Generate Appointment Reports to Monitor Your business</title>
+		<link>https://www.booxi.com/blog/generate-appointment-reports/</link>
+		<comments>https://www.booxi.com/blog/generate-appointment-reports/#comments</comments>
+		<pubDate>Fri, 13 Oct 2017 20:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[Business Owners]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1456</guid>
+		<description><![CDATA[With booxi, it’s now easy to generate reports from your appointments data. A relevant information to analyze your business and help you to bring it to the next level. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1501 size-full" src="https://lh3.googleusercontent.com/vlag5YfyW7i7IcrFCWGZMejfiMo6l6WW_EM2eJ_rb2NxbWqP45YUGDFCwmNmwKEjQgXf4oWZe1W0XXFltjnNvQ=s0" alt="appointment report" width="1200" height="600" />Reports are powerful tools to analyze your business, to take the right decisions, to know where you should focus your efforts and where there is room for improvement.</p>
+<p>With booxi, you can now easily export reports from your appointments data, adjust your criteria and analyze them.</p>
+<p>Here are key information your can extract from these reports:</p>
+<ul>
+<li>Know which service is most appreciated by your customers.</li>
+<li>Know the busiest periods (whether in terms of days of the week or schedules)</li>
+<li>Visualize your employees’ performance</li>
+<li>Determine who are your most regular customers</li>
+<li>Make comparisons for all of these aspects, over different periods of time.</li>
+</ul>
+<p>To do it, you have to realize the export. It’s very easy to do it:</p>
+<ol>
+<li>Sign in your booxi account and go on the Calendar Tab.</li>
+<li>Then click on the “More options” icon, and select the “Appointment Report” option.<img class="img_zoom aligncenter size-full wp-image-1502" src="https://lh3.googleusercontent.com/I1KAR7kEOiXj2rDOCTd5WAsWzB90ZF9h2hbf05jepl5LK9njEu1hVlMvu2ur_FLeBVCKwXb8PlmfrJ9NRpjqHA=s0" alt="appointment export report" /></li>
+<li>Select the criteria and click on Export.<i>Tips: To analyze only completed appointments, make sure to exclude all cancelled appointments and no-show appointments.</i><img class="img_zoom aligncenter size-full wp-image-1503" src="https://lh3.googleusercontent.com/AUrx0-CvrdLpYKwZWRGF0gp8VsKSoucayCGFuMe2AkYCHOngl_2W4FvSvp2yWdteP5p1OBNkXdlvhVZOrbRt8A=s0" alt="export de rapport de rendez-vous" /></li>
+<li>Then click on the link “Click here to download the report”.<img class="img_zoom aligncenter size-full wp-image-1460" src="https://lh3.googleusercontent.com/DhT_hJGqRyEUx8dwdrH-Nx-g3IHpYjFJdEy-7s-gSimSK-3A-wrexHKaew-edljuFdlOmfdSjZ_wGuwyNbMyjg=s0" alt="download report" /></li>
+<li>You can now open your file (you can find it at the bottom left of the window). Use Excel or Google Spreadsheet to open it and start to analyze the data that interest you.</li>
+</ol>
+<p>Analysis of reports is crucial for your business management. This is an effective way to determine if your business is growing, stagnant or if you need to make some changes.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/generate-appointment-reports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New feature : Condensed view of the calendar</title>
+		<link>https://www.booxi.com/blog/condensed-view-of-the-calendar/</link>
+		<comments>https://www.booxi.com/blog/condensed-view-of-the-calendar/#comments</comments>
+		<pubDate>Thu, 12 Oct 2017 20:06:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[online appointment booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1522</guid>
+		<description><![CDATA[You can now see your entire team on only one view in the calendar: up to 20 people on the same view, without the need to move the cursor!]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1527 size-full" src="https://lh3.googleusercontent.com/UdqXYrLS_GITB3qPf3tbDvr_B5JHITNkJmNo5E087_s9AjgZxvbc8Xll6USl4jzRs0EYMOpUDVjlIiXf5tFeFYg=s0" alt="condensed calendar view " width="1200" height="600" /></p>
+<p>You can now see your entire team at a glance: up to 20 people on the same view, without the need to move the cursor!</p>
+<p><strong>How?</strong></p>
+<ol>
+<li>Go to the Calendar tab and click on the day view.</li>
+<li>Then make sure to add all employees on the view.</li>
+<li>Finally click on the Option icon, and select the Compact View.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1530" src="https://lh3.googleusercontent.com/WTClwcs6gVo9ho6JHLhErWe1358NCJ7hMLZP57fYzxNwCF-AwEurXFUFFXPf7LMm3YuoujgC0jbzCOiBwuE0JQ=s0" alt="compact view " /></li>
+<li>You can now see all your employees on the same calendar view.</li>
+</ol>
+<p>To come back to the initial view, just click again on the Option icon and select “Normal View”.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/condensed-view-of-the-calendar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatically Dispatch Appointments to Your Personnel and Spend Less Time Managing Schedules</title>
+		<link>https://www.booxi.com/blog/automatically-dispatch-appointments/</link>
+		<comments>https://www.booxi.com/blog/automatically-dispatch-appointments/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 17:03:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1493</guid>
+		<description><![CDATA[It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1487 size-full" src="https://lh3.googleusercontent.com/jGIIyUywkNnHRAH79me-Fa-ksrFffuWo5z3uwyYLe5HoM-cei9k1N-7QZf4GtaITOduYufJT4mzHzB2BkK0XhZo=s0" alt="automatic dispatch " width="1492" height="713" />It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. This way appointments get evenly distributed to your personnel, and you spend no time managing schedules.</p>
+<p>Whether you have 10 or 100 employees, book spaces like conference rooms, gun ranges, pet wash cabins, or stuff like bikes, kayaks, booxi can dispatch appointments for you, and save you precious time.</p>
+<ul>
+<li>How Appointments Are Automatically Dispatched</li>
+<li>Setup a Service for Automatic Dispatch</li>
+<li>Online Booking Experience</li>
+</ul>
+<p><b>How Appointments Are Automatically Dispatched</b></p>
+<p>When using appointment automatic dispatch, booxi computes the availability of each personnel and presents a choice of dates and time slots that have at least one personnel available each. When the client selects a time slot, booxi automatically dispatches the appointment to the personnel available that has the least appointments for the selected date. This way all personnel will have on average the same number of appointments.</p>
+<p>Depending on the Approval Mode you set, you will receive appointment requests (manual mode) or approved appointments (automated mode) in your booxi calendar. All automated, saving you lots of schedule management efforts and time.</p>
+<p><b>Setup a Service for Automatic Dispatch</b></p>
+<p>You can enable automatic dispatch per service, simply by changing two simple appointment rules for that service. Automatically dispatching appointments will not require the client to select a personnel, so you must first <b>Disable personal selection</b>, and then set the <b>Time Slot Selection</b> to <b>Display time slot with automatic dispatch</b>. You can then offer some services with automatic dispatch, and other with a personnel selected by the client.</p>
+<ol>
+<li>Go to the profile of the service you would like to dispatch appointment automatically.</li>
+<li>Click on <b>Appointment Rules</b> for that service</li>
+<li>Turn <b>Disable Personnel Selection</b> On</li>
+<li>Set the <b>Time Slot Selection</b> option to <b>Display time slot with automatic dispatch</b></li>
+<li>Click <b>Save </b>at the top of the Appointment Rules form, and you’re done.<br />
+<a href="https://booxi-live-wp-storage.storage.googleapis.com/AutomaticDispatch_2_En-1.png"><br />
+<img class="img_zoom aligncenter size-full wp-image-1496" src="https://lh3.googleusercontent.com/cmW7LEtpE_NZn4KuLIBeg8-vOov6nZdNMoYjhZSfnM5VapNIpk-6BoXngxUZTodCHafxrkMGjlr5j6oczotzug=s0" alt="automatic dispatch setting" /> </a></li>
+</ol>
+<p><b>Online Booking Experience</b></p>
+<p>When a client selects a service that is set to automatically dispatch appointments, he is presented with a choice of dates and time slots, without prior personnel selection. These time slots are the available times that have at least one personnel available. If more than one personnel is available for the selected time, booxi will dispatch the appointment to the personnel with the least appointments for that day.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1488" src="https://lh3.googleusercontent.com/Ww8UXP3eZWEA79O-MLJEuFE8_oXLQOvJZaSVGlSB6g0FiSONXXsyTf9Of8ro7awtvI9v8ZCPOk7Nh6-pSg6sdbk=s0" alt="AutomaticDispatch_2_En (1)" /></p>
+<p>Your client will receive a confirmation and reminder without mention of who is the selected personnel, leaving you the possibility to make some changes afterwards.</p>
+<p style="text-align: center">You spend to much time managing your employees&#8217; schedules? Try booxi for free during 14 days!</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automatically-dispatch-appointments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Send instant SMS and Emails Messages to Your Clients</title>
+		<link>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/</link>
+		<comments>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/#comments</comments>
+		<pubDate>Wed, 08 Feb 2017 19:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[time saving]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=691</guid>
+		<description><![CDATA[Notify your clients without picking up the phone and save precious time. booxi introduces you a brand new feature to send instant email and SMS messages to your clients.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-704 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Article_NotifyClient.png" alt="send personalized message to customers" width="800" height="594" /><br />
+Businesses like pet shops and repair shops, need to inform their clients once a service is done, just like any business may have to communicate quickly with a customer, for example if they are late with their appointments, and want to notify the next customer of a delay. With booxi it is now quick and easy to do it! Let’s take the example of a customer who booked an appointment to drop off his pet for grooming, bike, car or smartphone for repair. The customer is not present during the service, but has to be informed when it’s done. You currently have to call each customer; while with booxi you could:</p>
+<ul>
+<li>Send a notification as soon as the service is completed.</li>
+<li>Quickly select a predefined message.</li>
+<li>View all the messages you sent for a specific appointment or to a specific customer.</li>
+</ul>
+<p style="text-align: center"><b>How Does it Work?</b></p>
+<p><b>Send a Message From an Appointment</b></p>
+<p>You can notify a customer from an appointment in your booxi calendar.</p>
+<ol>
+<li>Right click on an appointment and select Notify Client.<img class="aligncenter wp-image-696 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/notifyclient.png" alt="notify client option" width="368" height="434" /></li>
+<li>A form appears, where you can select the way you want to notify your customer (by email, by SMS or by phone/call) and the message (create one or select a predefined message).<img src="https://booxi-live-wp-storage.storage.googleapis.com/notifyby.png" alt="ways to notify clients" width="564" height="337" /></li>
+<li>Click on Send and your customer will instantly receive the message in their inbox or on their smartphone.</li>
+<li>For notifications by phone, you simply take note of what have been discussed with the customer and click on Save.</li>
+<li>You can now see, directly in your calendar, that a notification was sent for that appointment with the icon <a href="https://booxi-live-wp-storage.storage.googleapis.com/notify.jpg"><img class="verti_top" src="https://lh3.googleusercontent.com/K_Gs41_ttH2CSSHNdvwUiKsnAAKMsdxiJB6sUXpgJxlLfNWRZxTtlysjRTH0nPjRGmcqEIMpVrM79LKbGs7Eaw=s0" alt="notify" /></a>.</li>
+<li>From the appointment form you have access to all the messages sent for this specific appointment.<img class="img_zoom aligncenter wp-image-699 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/viewmessagelist.png" alt="list of sent messages" width="368" height="434" /></li>
+</ol>
+<p><b>Edit and Add Predefined Messages</b><br />
+You can predefined messages that suit your needs, you can modify it once it is created or add a new one.</p>
+<ol>
+<li>To do it, simply right click on the appointment and select Notify Client.</li>
+<li>From there, select how you want to notify your customer (email, SMS or Phone Call).</li>
+<li>In the section Preset message, click on the Add <img class="verti_top" src="https://lh3.googleusercontent.com/FqosDAQStX3ANTUl1xC8ebNg7XG8Q1824PkTA9zKMejO8dtnQzAQVXb_tvoZvzYLbdvQvA7sK6luWUX-bOzr=s0" alt="add" /> icon. You can then add a name for the predefined message. Write the text you want and click on Save. Your preset message is saved. You can now use it by clicking on the drop down menu on the Preset message section. If you need to modify it, select the predefined message and click on the Edit <img class="verti_top" src="https://lh3.googleusercontent.com/X_V8TYMTLWPlK4u3x59JFEiLaopdsTJ65JZXZBhooeuzH_3kj_c9BS2KpAumH81PbvVcz2T5AwFjr1qAb3T_=s0" alt="modifier" />icon. The Edit predefined message popup will appear and you will be able to modify the message. Click on Save to keep your changes, or Delete to delete that predefined message.</li>
+<li>To add a new predefined message, select Custom Message and click on the Add  icon.</li>
+</ol>
+<p><b>View the Message History</b><br />
+You can access the list of messages sent for a specific appointment or to a specific customer at any time.</p>
+<ul>
+<li>From the Appointment Form, use the menu at the top right and click on the option View Message History.</li>
+<li>From the Client Summary (in the client list), select the option Message History.<img class="aligncenter wp-image-701 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/messagehistory.png" alt="history of sent messages" width="1181" height="508" /></li>
+</ul>
+<p>With this personalized message feature you can improve your customer experience and save even more time.</p>
+<hr class="dash" />
+<p style="font-size: 30px;font-weight: 200;color: #888;text-align: center">Try it for free</p>
+<p style="font-size: 16px;text-align: center;color: #555">14 days &#8211; No credit card required</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You Can Now Customize Pricing and Duration per Staff</title>
+		<link>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/</link>
+		<comments>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/#comments</comments>
+		<pubDate>Fri, 18 Nov 2016 21:34:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[staff]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=729</guid>
+		<description><![CDATA[When you have staff with different levels of experience and your pricing must reflect that, your service offer may quickly become complex and tedious to go through. This is why we added a very cool feature where you can adjust the pricing and duration of a service for a specific staff.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-743 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Article_CustomizeService.png" alt="customize pricing and duration of a service" width="1140" height="575" /></p>
+<p>When you have staff with different levels of experience and your pricing must reflect that, your service offer may quickly become complex and tedious to go through. This is why we added a very cool feature where you can adjust the pricing and duration of a service for a specific staff.</p>
+<p>For example, if you have a staff with only a few years of experience offering a Service A for $40 in 40 min; while another staff with over 10-20 years of experience offer the same Service A, but for $75 in 30 min (it’s supply and demand principle), you can now pre-configure that.</p>
+<p>Your customer will clearly see the difference when they book online, and you will automatically get the price and duration adjustment when you book on the phone. Finally your service offer will indicate that services with various prices are offered starting at a lower price and duration.</p>
+<h2>It’s very easy to set that up. You save time and get a simplified service list.</h2>
+<p><img class="verti_top alignnone" src="https://lh3.googleusercontent.com/bQHfKD8k3cZ8CrhDyHcbl01FCkeCjcEVbqydBclr5Xjf03wWHonoYl_iFkIQE9skuvEQZTB2sjJfKPc-nIotpw=s0" alt="services customization " width="572" height="224" /></p>
+<p><b>Setup Your Pricing per Staff</b></p>
+<p>In order to setup your price and/or duration variations per personnel, you simply customize each association of service to a personnel, following these simple steps:</p>
+<ol>
+<li>Go in your Personnel List (from the left main menu).</li>
+<li>Select a Personnel.</li>
+<li>Click on the Assigned Serviced section to access the list of services offered by this personnel.</li>
+<li>For each service that is selected with a checkmark, you get the Custom <img class="verti_top" src="https://lh3.googleusercontent.com/X_V8TYMTLWPlK4u3x59JFEiLaopdsTJ65JZXZBhooeuzH_3kj_c9BS2KpAumH81PbvVcz2T5AwFjr1qAb3T_=s0" alt="modifier" /> icon.<img class="shadow_medium alignright wp-image-730" src="https://lh3.googleusercontent.com/DjBDv0zd0rYpmJpvk1y4-bDFRQzwFeY-1NNv7AIWouIYIcL6hP_w4MQxKPo7wyxaxghJKNGskoTNVEEoYgeW=s0" alt="customize per staff" width="420" height="319" /></li>
+<li>Click on the edit icon and edit the new duration and price for this personnel.</li>
+<li>When customized, the value that differs from the service default price or duration is displayed in bold.</li>
+<li>Remember to click on Save at the top of the list to keep your changes.</li>
+</ol>
+<p><b>Add an Appointment with Automatic Price Adjustment</b></p>
+<p>When you add a new appointment with a personnel that has a custom price or duration for the selected service, booxi automatically adjusts that price and duration for you.<img class="shadow_medium alignright wp-image-732" src="https://lh3.googleusercontent.com/sLs2ejlqNdld-IktPEBjFRaSY7R706RPoaBwQeeEb0mr2cwT6pTbmMQ2VgRIi8YgEE8C2E2kmdnmoVbKtd0T=s0" alt="customization automatically report when booking" width="420" height="233" /></p>
+<ol>
+<li>Click on New Appointment from the top right menu.</li>
+<li>Select a service.</li>
+<li>Select a personnel.</li>
+<li>The price and duration will automatically adjust, and the default service price and duration will be displayed in brackets.</li>
+<li>If you manually customize the duration or the price for this appointment, they won’t auto adjust anymore for this appointment, keeping your customized values.</li>
+</ol>
+<p>It is as simple as that, and saves you lots of time.</p>
+<h2>Your customers will immediately know what is the price for each personnel when they book online.</h2>
+<p>When they book online, your customers will see the price adjustments per personnel. So when they choose a personnel they know what to expect, in terms of price and duration. For the services that have price or duration variations, these will be displayed with a + sign following the price and/or the duration.</p>
+<h2>You Can Take Advantage of This Feature Now!</h2>
+<p>This new features is included with your current subscription and ready to use now, try it and save time.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/you-can-now-customize-pricing-and-durations-per-staff/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Manage Group Activities Using booxi</title>
+		<link>https://www.booxi.com/blog/manage-group-activities-using-booxi/</link>
+		<comments>https://www.booxi.com/blog/manage-group-activities-using-booxi/#comments</comments>
+		<pubDate>Wed, 28 Sep 2016 17:54:21 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[Goup scheduling]]></category>
+		<category><![CDATA[online reservation]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=431</guid>
+		<description><![CDATA[You can now save even more time by managing your classes and your group activities with booxi. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top shadow_medium aligncenter wp-image-489 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/BMW_ServiceSchedule_AddReservation_Thumbnail-1.jpg" alt="group management" width="1200" height="600" /><br />
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>You can now schedule groups and accept booking for more than one person. All you have to do is to add an available time slot for a group with a maximum of attendees in the calendar of one of your personnel. This article shows you how to plan and manage group scheduling.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li><strong>Group Scheduling</strong></li>
+<li><strong>Booking Management</strong></li>
+<li><strong>Online Appointment Booking for Groups</strong></div></li>
+</ul>
+<hr />
+<h3 style="text-align: center">Group Scheduling</h3>
+<hr class="dash" />
+<p>You must first create a service for your class or activity, as you usually do for a service appointment, except that you have to select Group Reservation for the booking type. Once the group service has been created, you can schedule group availability by adding Group Availability Time Slots in the calendar of one of your personnel.</p>
+<ol>
+<li>Go to the calendar of the personnel who offers the group service (the class or activity).</li>
+<li>
+<div>
+<p>Right-click on a specific time slot in the calendar, or click on the Add Reservation button located at the top right of the calendar.</p>
+<p><img class="border_grey border_round aligncenter wp-image-544 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/addreservation2.jpg" alt="add new group availability" width="263" height="150" /></p>
+</div>
+</li>
+<li>If needed, adjust the personnel selection, the date and the time.</li>
+<li>Select the group service to offer and if needed adjust the duration.</li>
+<li>Now, adjust the capacity (maximum number of attendees).</li>
+<li>Then click on Save. The group is now scheduled and customers can book online.</li>
+</ol>
+<p style="text-align: left">To go back and modify the group details, simply click on the group time slot in the calendar and click on the Modify button located next to the details at the top of the form.</p>
+<p><img class="border_grey border_round aligncenter wp-image-545 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/modifyreservation.jpg" alt="modify group reservations" width="480" height="285" /></p>
+<hr />
+<h3 style="text-align: center">Booking Management For a Group</h3>
+<hr class="dash" />
+<p>You can get reservations from online bookings and phone requests. Each online booking, and reservation request by phone will automatically reduce the number of available places. Also, each booking or reservation can include several attendees.</p>
+<p><strong>List of Reservations and Attendees</strong><br />
+To see the list of reservations and attendees of a group, simply open that group by clicking on its time slot in a personnel’s calendar. You will see the counts of available, booked, and total places (the capacity), followed by the list of all reservations and attendees for that group. The names of the customers who booked and the attendees will also be displayed.</p>
+<p>The color of the vertical lines and icons show you the state of each reservation and attendee, where green indicates the approved ones and purple the no shows.</p>
+<p><img class="img_zoom  wp-image-438" src="https://lh3.googleusercontent.com/zTAqknpozBqemuqtNkXUTilHlvuXDNwMDqWx_GvX_gVeRnf8msHFdupIVyWabEC1rkL9uR-Qa-dPo6nAPSzldw=s0" alt="not attendee" width="16" height="16" />   Customer doesn’t participate, he only made the reservation.<br />
+<img class="img_zoom  wp-image-439" src="https://lh3.googleusercontent.com/T2HOfN8oOrgimYvWSCCwfwImG8aj53Fi7rlhIEYnN_IhfddRdZbaN3Dq3LGwwg3s1U3E8FLRlZgqR3II6gL6zw=s0" alt="attendee" width="17" height="19" />   Customer will be attending too.<br />
+<img class="img_zoom  wp-image-441" src="https://lh3.googleusercontent.com/0CxweVHK41_obG-MwYBUq-ysukqgPsYJzS6UXSgqy6pZZlumBJMRvuHzYDgfSnUm8ANRgn3_ZmxhRknizGdX=s0" alt="clientarrive" width="22" height="23" />  Attendee is present (client arrived).<br />
+<img class="img_zoom  wp-image-440" src="https://lh3.googleusercontent.com/5xXxEmPGd5hPuauMCfeSdxZDq5LLSMpYjWBuQAFVRZBbT7725j9JApz_rpNkE2TDHK69YNbSI_bT8eEqN7tqOg=s0" alt="noshow" width="23" height="20" /> Attendee is missing (no-show).</p>
+<p><strong>Change the Status of Reservations and Attendees</strong><br />
+You can select multiple reservations and cancel them at once. You can also, once group has started, select multiple attendees and change their status to Client has arrived and No-show.</p>
+<p><strong><img class="border_grey border_round aligncenter wp-image-551 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/reservationstatut.jpg" alt="group reservations status" width="478" height="416" /></strong></p>
+<p>Add a Reservation<br />
+You can take reservations by phone and add them in booxi by completing the following steps:</p>
+<ol>
+<li>Go to the calendar, and find the time slot associated with the desired group. Click on the group time slot to open its reservation list. You can also simply click on the New Appointment button at the top right of the calendar, and select a group service to find the desired scheduled group.</li>
+<li>
+<div>Then click on the  button located at the top of reservation list for this group.</div>
+<p><img class="border_grey border_round aligncenter wp-image-546 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/addreservation3.jpg" alt="add a reservation" width="480" height="285" /></li>
+<li>Once in the Add Reservation form, adjust the number of attendees and the price per person, if needed .</li>
+<li>
+<div>Click on Options to access the options allowing you to disable sending messages to the attendees (for a surprise or a gift) and to add a note with the reservation.</div>
+<p><img class="border_grey border_round aligncenter wp-image-547 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/surpriseeng.jpg" alt="add reservation details" width="466" height="434" /></li>
+<li><span style="line-height: 21.6px">Enter a partial name or a phone number to find the client within your client list, or complete all client information if it is a new client. booxi will automatically add the client to your client list.</span></li>
+<li><span style="line-height: 21.6px">Adjust the preferences for the reminder (by email or SMS).</span></li>
+<li><span style="line-height: 21.6px">If the person requesting the reservation is not an attendee, you can uncheck the option Customer is attending.</span></li>
+<li><span style="line-height: 21.6px">Complete all attendees information starting with the name and optionally the email address to get a reminder by email, then the mobile phone number to get a reminder by SMS. Don’t forget to select the reminder preferences.</span></li>
+<li><span style="line-height: 21.6px"><span style="line-height: 21.6px"><span style="line-height: 21.6px"><span style="line-height: 21.6px"><span style="line-height: 21.6px"><span style="line-height: 21.6px">For each attendee, you can add a note for additional requests (such as for allergies).</span></span></span></span></span></span><img class="border_grey border_round aligncenter wp-image-548 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/additionalrequest.jpg" alt="add additional request" width="467" height="385" /></li>
+<li>Once everything is completed, click on Save to add the reservation. If an error occurs, a message will appear with an an explanation. In some cases, such as when exceeding the capacity, you will have the opportunity to decide if you accept the booking anyway, or modify it.</li>
+</ol>
+<h3>Quickly Find a Group</h3>
+<p>When you take a reservation over the phone, you can find the requested group using two different options. For example, to find the Monday 4 PM group with Nataly, you can simply open Nataly’s calendar at the requested date and immediately find the group you are looking for, or click on New Appointment and choose a group service. If you have many employees and lots of groups, the second option will be faster.</p>
+<p>Here are the steps to use the second option:</p>
+<ol>
+<li>Click on the New Appointment button located at the top right of your calendar to open the new appointment form.</li>
+<li><span style="line-height: 21.6px">Select a group service and the form will transform into a group search form.</span></li>
+<li><span style="line-height: 21.6px">Select a specific personnel or All personnel to see all scheduled groups.</span></li>
+<li><span style="line-height: 21.6px">Specify a starting date and time to list the groups available for the requested period.</span></li>
+<li><span style="line-height: 21.6px">Each group will be listed with a date, time, personnel and places left. Simply select the desired group.</span></li>
+<li>
+<div>Click on Add Reservation at the top of the form and you will be directed to the New Reservation form for that group. Now follow the steps described earlier in this article for making a new reservation.</div>
+<p><img class="border_grey border_round aligncenter wp-image-549 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/group.jpg" alt="find a group availability" width="479" height="800" /></li>
+</ol>
+<p><strong> Attendance Record</strong><br />
+You can keep the attendance record simply by selecting reservations or attendees in the list and changing their status to Client Arrived. Use the button at the top of the list to do so.</p>
+<p>You can also print an attendance list using the button at the top of the list, and selection the option Print Attendance List.</p>
+<hr />
+<h3 style="text-align: center">Online Appointment Booking for Groups</h3>
+<hr class="dash" />
+<p>Your customers will now be able to easily book online with you for one or many attendees, from your booxi page, facebook or your website. To do so, they will have to complete the following steps:</p>
+<ol>
+<li>Click on the Book Now button.</li>
+<li><span style="line-height: 21.6px">Select the desired group service (or activity).</span></li>
+<li><span style="line-height: 21.6px">Adjust the number of attendees.</span></li>
+<li><span style="line-height: 21.6px">Select a date.</span></li>
+<li><span style="line-height: 21.6px">Select a time among the time slots that you have scheduled.</span></li>
+<li><span style="line-height: 21.6px">Complete the client information, as it’s done for usual appointment.</span></li>
+<li><span style="line-height: 21.6px">If the client choose to make a reservation for someone else, or if there is more than one attendee, the customer will have to complete the required information for each attendee.</span></li>
+<li>
+<div>For each attendee, enter a full name, and optionally an email address or a mobile phone number, preferences for the reminder (by email or SMS) and if needed, add an additional request.</div>
+<p><img class="border_grey border_round aligncenter wp-image-550 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/onlinereservation.jpg" alt="group reservation online" width="940" height="564" /></li>
+</ol>
+<p>The client who made the reservation will then receive a confirmation, and the attendees will receive a reminder by email or SMS. Finally, with booxi it’s easy to manage reservations for group activities.</p>
+<hr />
+<p>&nbsp;</p>
+<p style="text-align: center">Do you want to know more about booxi,<br />
+and learn about all the features?</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Try it for free</a><a href="https://www.booxi.com" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Learn More</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/manage-group-activities-using-booxi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone App &#8211; New and Improved UI &amp; Calendar</title>
+		<link>https://www.booxi.com/blog/iphone-app-new-and-improved-ui-calendar/</link>
+		<comments>https://www.booxi.com/blog/iphone-app-new-and-improved-ui-calendar/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:18:11 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=32</guid>
+		<description><![CDATA[Here are more details about the iPhone App Update : Better user experience and Calendar Improvements.]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>
+We have released a new version of the iPhone App. We made a lot of UI changes to improve your experience and some changes to complete the feature set. </p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>General Updates to Match the Web App Features</li>
+<li>Calendar Improvements</li>
+<li>Available in New Countries</div></li>
+</ul>
+<hr />
+<h3>General Updates to Match the Web App Features<img class="shadow_small alignright" src="https://3.bp.blogspot.com/-6-LRBcFQYv0/V2f8dmAYhKI/AAAAAAAAAeY/LV34fmEcuskWfgSG_a45dawvecpcePcBwCLcB/s400/IMG_0572.PNG" alt="edit client file from iPhone app" width="225" height="400" border="0" /></h3>
+<p>We took the time to review every aspects of the look and feel of the app to make it more pleasant and intuitive for you. We have also added many features so the app to better match the feature set of the web app.</p>
+<p>Here are a few examples:</p>
+<ul>
+<li>You can now see and change the description of your busy and available time slots.</li>
+<li>The quick note of each appointment is now accessible.</li>
+<li>We’ve added some details to the Client Details: gender, birth date and preferred language.</li>
+<li>We&#8217;ve also added the new choices of location in the Service Details. So now you can select By Video Conference and By Phone, in addition to At My Business and At Home.</li>
+</ul>
+<h3><img class="shadow_small alignleft" src="https://1.bp.blogspot.com/-9wlZo4ihlJA/V2f8nSLA90I/AAAAAAAAAeg/yu_0rg1OsUEiAUBuJLetodp4b8xqp1J6wCLcB/s400/IMG_0570.PNG" alt="Calendar view from iPhone app" width="225" height="400" /><br />
+Calendar Improvements</h3>
+<p>We’ve improved how the events are displayed in time, so your availability are more obvious, and the calendar view feels more like a day planner.</p>
+<ul>
+<li>You can now see your work hours schedule, displayed as available time slots among the various events of each day.</li>
+<li>Each time an appointment is added, your schedule and available time slots get broken in parts to make the available slots more obvious, as well as keep a good chronological view.</li>
+<li>You can also view your synchronized personal calendar events (i.e.: Gmail, Hotmail or Apple) in your booxi calendar.</li>
+<li>We’ve also added new appointment status (which are available in the web app), such as Client arrived, No-show, and Complete.</li>
+</ul>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h3>Available in New Countries</h3>
+<p>Finally, the mobile app is now available in more countries, for a total of 43 countries:</p>
+<p><img class="shadow_small aligncenter" src="https://4.bp.blogspot.com/-Fz-Z0GT3fnI/V2f8VV4qbnI/AAAAAAAAAeQ/lXLlEqw-_8w0s6uhBc_rRvk-5Kpn2_m-wCLcB/s640/countries.png" alt="countries where you can use booxi mobile app" width="640" height="296" border="0" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/iphone-app-new-and-improved-ui-calendar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iPhone App &#8211; Improved Calendar</title>
+		<link>https://www.booxi.com/blog/iphone-app-improved-calendar/</link>
+		<comments>https://www.booxi.com/blog/iphone-app-improved-calendar/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:16:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+		<category><![CDATA[multiple services]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=31</guid>
+		<description><![CDATA[All your appointments on hand, with the new features on the iPhone app. ]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Thanks for your patience with our iPhone mobile app updates. This update will improve your agenda view and ensure that you always see the details of appointments when new types of appointment are added to booxi.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Improved Agenda View</li>
+<li>New Types of Appointment</li>
+</ul>
+<p></div>
+<hr />
+<h3>Improved Agenda View</h3>
+<h2><a style="font-weight: normal" href="https://lh3.googleusercontent.com/wHwCsECbzd4_moN1_q9wK2gnuHbbDpD3mFr3kAUk_VKYwlx8Js6U0Q9LgendfGkUbUNrdzW91EZXjZ5uuFeKLjPFO0L-_q3NQnCCKGIqpQvVGbezWGG-LlBlCocH3twwAk4xbAjt"><img class="shadow_small alignright" src="https://lh3.googleusercontent.com/wHwCsECbzd4_moN1_q9wK2gnuHbbDpD3mFr3kAUk_VKYwlx8Js6U0Q9LgendfGkUbUNrdzW91EZXjZ5uuFeKLjPFO0L-_q3NQnCCKGIqpQvVGbezWGG-LlBlCocH3twwAk4xbAjt" alt="" width="195" height="400" border="0" /></a></h2>
+<p>Depending on how you manage your availability, our previous mobile app was not always efficient. We have improved it to better display your daily appointments.</p>
+<ul>
+<li>If you have appointments on top of available time slot, booxi will now split the time slots in parts, displaying what is still available and your appointments without overlaps; making it easier to track time.</li>
+<li>New appointment types that are not yet supported by the mobile app will now be displayed as regular appointments instead of busy time slot; providing you more information.</li>
+</ul>
+<p>&nbsp;</p>
+<h2><a href="https://lh5.googleusercontent.com/sPTayNswE0OsK5sp0WaWetV3KcIAuqXYiogAyFiDCTx58s6-3R1ZHjDqHFgxu6oqWZZ6EK9_5EQRJj1Tcyl-6GzEGXrcnYgRU0ythytZjbG9AyJXbKNewfKx_4R74o3LjA-_pXFZ"><img class="shadow_small alignleft" src="https://lh5.googleusercontent.com/sPTayNswE0OsK5sp0WaWetV3KcIAuqXYiogAyFiDCTx58s6-3R1ZHjDqHFgxu6oqWZZ6EK9_5EQRJj1Tcyl-6GzEGXrcnYgRU0ythytZjbG9AyJXbKNewfKx_4R74o3LjA-_pXFZ" alt="" width="196" height="400" border="0" /></a></h2>
+<h3>New Types of Appointment</h3>
+<p>We often add new features to booxi; which sometimes leaves the mobile app behind. The result is that new types of appointment like the multi-service appointment can’t be accessed using the mobile app. We fixed this for now and the future, by always providing you at least the details of the new appointment type, but limiting its editing to the appointment time only.</p>
+<ul>
+<li>Support for new and future appointment types</li>
+<li>Display new appointment types in the agenda view</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/iphone-app-improved-calendar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

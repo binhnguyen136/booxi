@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; liste de diffusion</title>
+	<atom:link href="https://www.booxi.com/blog/tag/liste-de-diffusion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Bénéficiez au maximum de votre liste de clients!</title>
+		<link>https://www.booxi.com/blog/beneficiez-au-maximum-de-votre-liste-de-clients/</link>
+		<comments>https://www.booxi.com/blog/beneficiez-au-maximum-de-votre-liste-de-clients/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 22:02:04 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[client]]></category>
+		<category><![CDATA[liste de diffusion]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=784</guid>
+		<description><![CDATA[Votre entreprise existe grâce à vos clients, il est donc important de bien les connaître et de communiquer avec eux. Voici comment exporter votre liste clients booxi et en tirer avantage. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-821 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/exporter_liste_clients.png" alt="exporter sa liste de clients booxi" width="1280" height="720" />Tout bon gestionnaire d’entreprise sait que d’avoir une liste de clients est essentiel à son succès. Les raisons en sont multiples, mais en voici quelques unes.</p>
+<ul>
+<li>Chaque fiche client comporte des indicateurs sur la fréquence des rendez-vous, ce qui permet par exemple de savoir qui vient souvent et qui n’est pas venu depuis longtemps. Donc cela permet également de savoir si un  message de remerciement ou un rappel de prochain rendez-vous par courriel s’impose.</li>
+<li>Si vous avez les dates de naissances de certains clients. Un petit message de bonne fête avec une promotion les incitera à dépenser chez vous.</li>
+<li>Grâce à la prise de rendez-vous en ligne, vous avez probablement une bonne base d’adresses courriels, alors profitez-en pour envoyer une nouvelle mensuelle, ou des promotions. Garder contact est important, sans en abuser.</li>
+<li>En exportant votre liste avec les indicateurs, vous pouvez faire des analyses simples par exemple dans excel et ainsi cibler les clients d’un employé précis, ceux qui annulent souvent, ou ceux qui achètent un service spécifique. Utilisez cette méthode simple pour appliquer ou essayer différentes stratégies avec vos clients.</li>
+</ul>
+<p><b>Avec booxi c’est facile d’exporter sa liste de clients.</b></p>
+<p>Vous pouvez exporter votre liste de clients en format CSV, donc textuel et compatible avec presque tous les logiciels, incluant excel. Pour ce faire, complétez les étapes suivantes:</p>
+<ol>
+<li>Cliquez sur l’onglet Clients du menu principal à gauche.</li>
+<li>Puis cliquez sur l’icône Options<img class="verti-top" src="https://lh3.googleusercontent.com/6gZ3W4NoBfevPKYlMll4EcwCFLJ70yyrbqLsKzpkCenfA-qHCzPrjG2cL2t6VAfF165Q4ux_7015jG9hEhOO=s0" alt="option" width="24" height="24" /> au haut de la liste de clients</li>
+<li>Et choisissez l’option Exporter la liste des clients <img class="verti-top" src="https://lh3.googleusercontent.com/FAYppJy_rmrJGgVjiDMABqw0jkAEvDyj9vch1Nt7AsOPbuCC67Q0dqG-tHMUd79MAXv7V42VB2JZ05bE96ZvGA=s0" alt="clients_export_b" width="34" height="34" /></li>
+<li>Une fenêtre apparaît et vous propose de sélectionner certains critères pour segmenter votre exportation.</li>
+<li>Si vous souhaitez obtenir la liste complète de vos clients ainsi que les informations sur leur rendez-vous cochez simplement l’option Inclure les métriques.</li>
+<li>Une fois vos critères d’exportation choisis, cliquez sur le bouton Exporter.</li>
+<li>Votre liste est préparée par booxi et une nouvelle fenêtre apparaît avec un lien “Cliquez ici pour télécharger les clients exportés”.</li>
+<li>Cliquez sur le lien et le téléchargement commence, comme n&rsquo;importe quel fichier téléchargé à partir de votre navigateur.</li>
+<li>Vous pouvez maintenant récupérer le fichier CSV dans votre dossier de téléchargement et utiliser cette liste de clients.</li>
+</ol>
+<p>C’est maintenant à vous de jouer. Vous pouvez par exemple l’importer dans une solution d’envoi de messages ou encore analyser les différentes variables qui vous intéressent!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/beneficiez-au-maximum-de-votre-liste-de-clients/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

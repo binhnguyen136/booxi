@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; calendrier</title>
+	<atom:link href="https://www.booxi.com/blog/tag/calendrier/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Premier Article</title>
+		<link>https://www.booxi.com/blog/premier-article/</link>
+		<comments>https://www.booxi.com/blog/premier-article/#comments</comments>
+		<pubDate>Thu, 25 Aug 2016 15:58:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=264</guid>
+		<description><![CDATA[Voici le tout premier article de booxi. Découvrez nos premières améliorations et fonctionnalités. ]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p><span class="bx_text24">Dans ce premier article nous vous présentons les fonctionnalités que nous venons de développer pour vous.</span> </p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Prise de rendez-vous ouverte</li>
+<li>Recevez les demandes de rendez-vous par courriel</li>
+<li>Rendez-vous à domicile</li>
+<li>Et autres améliorations</div></li>
+</ul>
+<hr />
+<h3>Prise de rendez-vous ouverte</h3>
+<p>Vous avez été nombreux à nous avouer avoir peur d&rsquo;arrêter d&rsquo;utiliser votre calendrier papier, dans lequel vous notez rigoureusement tous vos rendez-vous, pour utiliser du jour au lendemain un logiciel. Bonne nouvelle ! Vous n&rsquo;avez pas à le faire. Nous nous sommes assurés que vous puissiez commencer à profiter de booxi une étape à la fois.</p>
+<p>Vous pouvez toujours utiliser un calendrier papier et recevoir les demandes de rendez-vous de vos clients depuis votre page web booxi. Le client ne verra pas de plages horaires disponibles, mais à la place booxi lui demandera de vous donner jusqu&rsquo;à 5 plages horaires disponibles. Par exemple, un client souhaite réserver un massage et est disponible lundi matin prochain, mercredi après-midi, dimanche toute la journée et le mardi soir suivant. Vous recevez la demande de rendez-vous avec ses disponibilités et vous comparez vos horaires pour confirmer un horaire qui vous convient à tous les deux. Vous l&rsquo;écrivez sur votre calendrier papier et vous avez terminé. C&rsquo;est facile ! Nous appelons cela la prise de rendez-vous ouverte.</p>
+<p>Maintenant vous pouvez demander à booxi de vous envoyer ces demandes de rendez-vous par courriel, ou vous pouvez les voir en utilisant l&rsquo;application mobile. L&rsquo;avantage d&rsquo;utiliser l&rsquo;application pour confirmer vos rendez-vous c&rsquo;est que booxi enverra des courriels et des rappels à vos clients, ce qui vous fera sauver du temps.</p>
+<p>Et voilà, vous profitez de votre page web booxi, de la prise de rendez-vous, des courriels de confirmations et des rappels, et de tout ce qui vous permet de changer en douceur votre façon de faire actuelle. Commencez ainsi, vous allez adorer !</p>
+<p><img class="aligncenter" src="http://3.bp.blogspot.com/-oGdP-CBJA48/VFmaIMLM4WI/AAAAAAAAAL4/scRQ4iJxT3A/s1600/Blog_04NOV2014_SettingShowAvail.png" alt="" width="320" height="110" border="0" /></p>
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"></p>
+<p>
+<div style="width: 310px" class="wp-caption alignleft"><img src="http://4.bp.blogspot.com/-L6kMI29i-Zw/VFmQjz1B5mI/AAAAAAAAAK4/qj64wMwBCpo/s1600/Blog_04NOV2014_TimeSlotBN.png" alt="" width="300" height="260" border="0" />
+<p class="wp-caption-text">Présentez vos disponibilités</p>
+</div>
+<p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></p>
+<p>
+<div style="width: 310px" class="wp-caption alignright"><a href="http://3.bp.blogspot.com/-85sYCIQYmtk/VFmQmSfyZ6I/AAAAAAAAALA/Fq8Oa3zP_4Q/s1600/Blog_04NOV2014_openBookingBN.png"><img src="http://3.bp.blogspot.com/-85sYCIQYmtk/VFmQmSfyZ6I/AAAAAAAAALA/Fq8Oa3zP_4Q/s1600/Blog_04NOV2014_openBookingBN.png" alt="" width="300" height="260" border="0" /></a>
+<p class="wp-caption-text">Réservation ouverte &#8211; Demander au client ses disponibilités</p>
+</div>
+<p>
+</div></div></div>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"></p>
+<dl id="" class="wp-caption alignleft">
+<dt class="wp-caption-dt"><img src="http://4.bp.blogspot.com/-L7sQvgdaPSo/VFmVd9n9-dI/AAAAAAAAALY/kngBZlie9Hk/s1600/Blog_04NOV2014_email.png" alt="" width="241" height="320" border="0" /></dt>
+<dd class="wp-caption-dd">Recevez les demandes par courriels. </dd>
+</dl>
+<h3>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></h3>
+<dl id="" class="wp-caption alignright">
+<dt class="wp-caption-dt"><img src="http://4.bp.blogspot.com/-tzpU7miNqh8/VFmVir3wEuI/AAAAAAAAALg/x2Ze2J7w4Bs/s1600/blog_04NOV2014_Alert.png" alt="" width="200" height="320" border="0" /></dt>
+<dd class="wp-caption-dd">Ou utilisez les alertes de l&rsquo;appli mobile</dd>
+</dl>
+<h3>
+</div></div></div></h3>
+<h3>Recevez les demandes de rendez-vous par courriel</h3>
+<p>Vous pouvez maintenant dire à booxi de vous envoyer toutes vos demandes de rendez-vous prises en ligne directement sur votre adresse courriel. C&rsquo;est pratique pour ceux qui n&rsquo;ont pas encore testé toute la puissance de booxi et qui n&rsquo;utilisent pas encore quotidiennement l&rsquo;application, mais qui sont très réactifs avec leur courriels.</p>
+<p>Il est possible que certains de vos employés utilisent l&rsquo;application mobile et que d&rsquo;autres préfèrent continuer d&rsquo;utiliser leur courriels. Nous nous sommes donc assurés que vous puissiez ajuster cette fonctionnalité pour chacun de vos employés.</p>
+<div style="width: 330px" class="wp-caption aligncenter"><img src="http://3.bp.blogspot.com/-72bhPBEtIAA/VFmYnz3hvYI/AAAAAAAAALs/aGwsfPaFl6I/s1600/Blog_04NOV2014_SettingCOM.png" alt="" width="320" height="242" border="0" /><p class="wp-caption-text">Chaque employé peut décider comment il souhaite recevoir les demandes&nbsp;</p>
+<p></p></div>
+<h3>Rendez-vous à domicile</h3>
+<p>Vous pouvez maintenant offrir la prise de rendez-vous en ligne pour les services que vous offrez aux domiciles de vos clients simplement en changeant l&rsquo;emplacement du rendez-vous dans les détails du service de Place d&rsquo;affaire (par défaut) à Domicile du client. De cette façon le client devra donner son adresse ou l&rsquo;adresse à laquelle il souhaite recevoir le service à la fin du processus de prise de rendez-vous.</p>
+<h3></h3>
+<h3>Plus de contrôle sur votre page web booxi</h3>
+<p>Nous avons réalisé quelques améliorations sur votre page web booxi. Par exemple, vous pouvez maintenant montrer des services qui ne sont pas assignés à un employé et désactiver la prise de rendez-vous pour un service ou un employé en particulier. Cela vous permet de présenter l&rsquo;ensemble de votre offre même si certains services sont trop complexes pour pouvoir être réservés en ligne par le client lui-même. De la même manière vous pouvez maintenant présenter l&rsquo;ensemble de l&rsquo;équipe, même si l&rsquo;un de vos employés n&rsquo;accepte pas la prise de rendez-vous en ligne.</p>
+<div></div>
+<h3></h3>
+<h3>Et ensuite ?</h3>
+<div>
+<ul>
+<li>Ne pas afficher le prix de services spécifiques.</li>
+<li>Distribuer vous-même les demandes de rendez-vous aux employés plutôt que de laisser le client choisir.</li>
+<li>Nous sommes en attente de l&rsquo;approbation d&rsquo;Apple pour mettre à jour l&rsquo;application iPhone.</li>
+<li>Nous travaillons fort sur la version web de booxi pour tablettes et ordinateurs.</li>
+</ul>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/premier-article/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Appli iPhone &#8211; UI et calendrier améliorés</title>
+		<link>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/</link>
+		<comments>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 20:41:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=54</guid>
+		<description><![CDATA[Découvrez plus de détails sur la mise à jour de l'application iPhone : une meilleure expérience pour l'utilisateur et des améliorations dans le calendrier.]]></description>
+				<content:encoded><![CDATA[<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Nous venons de rendre disponible une nouvelle version de l’appli iPhone, dans laquelle nous avons apporté plusieurs améliorations dans le but de vous donner une expérience UI exceptionnelle, ainsi que pour rendre disponible sur mobile, plusieurs options déjà disponibles sur l’appli web.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Mise à jour générale basée sur l’application web</li>
+<li>Amélioration du calendrier</li>
+<li>Disponibilité dans de nouveaux pays</li>
+</ul>
+<p></div>
+<hr />
+<h3>Mise à jour générale basée sur l’application web</h3>
+<h3><img class="shadow_small alignright" src="https://3.bp.blogspot.com/-IugkeGPLRHU/V2f1aeZTo6I/AAAAAAAAAdc/CvBAlNDlHvYmdNbafDzAzFMw3_sOyhAIgCLcB/s400/IMG_0565.PNG" alt="modification d'une fiche client depuis l'iPhone" width="225" height="400" /></h3>
+<p>Nous avons pris le temps de revoir l’aspect visuel et l’expérience qu’offre l’appli mobile, afin qu’elle soit plus agréable et plus intuitive. Nous avons également ajouté de nombreuses fonctionnalités, pour que l’appli mobile offre plus d’options qui sont déjà disponibles sur l’appli web.</p>
+<p>En voici quelques exemples:</p>
+<ul>
+<li>Vous pouvez maintenant consulter et modifier la description de vos plages horaires disponibles et occupées.</li>
+<li>Vous avez maintenant accès à la note rapide de chaque rendez-vous.</li>
+<li>Nous avons ajouté plus de détails dans la fiche client, soit : le sexe, la date de naissance et la langue préférée.</li>
+<li>Nous avons aussi ajouté les choix d’emplacement Par vidéo conférence, et Par téléphone pour vos services, qui s’ajoutent aux choix Place d’affaires, et Domicile du client.</li>
+</ul>
+<h3><img class="shadow_small alignleft" src="https://3.bp.blogspot.com/-kD6peOctHMw/V2f13ztxDJI/AAAAAAAAAdk/-ZOGvCvl0lwmNzIlSYr2A_WNf_mCzcBggCLcB/s400/IMG_0560.PNG" alt="vue du calendrier sur l'application iPhone" width="225" height="400" />Amélioration de la présentation du calendrier</h3>
+<p>Nous avons amélioré l’affichage des évènements, de façon à ce que vos disponibilités soient plus évidentes et que le calendrier ressemble plus à un horaire journalier.</p>
+<ul>
+<li>Vous êtes maintenant en mesure de voir votre horaire de travail, vos plages horaires et vos rendez-vous, dans une même vue chronologique.</li>
+<li>Chaque fois qu’un rendez-vous est ajouté, votre horaire se brise en plages, afin de mettre en évidence les disponibilités restantes et conserver la chronologie des évènements.</li>
+<li>Vous pouvez aussi maintenant voir votre calendrier personnel synchronisé (par exemple Gmail, Hotmail, ou Apple) dans votre calendrier booxi.</li>
+<li>Nous avons aussi ajouté de nouveaux états de rendez-vous (qui sont aussi disponibles sur l’appli web), soit : Client arrivé, Rendez-vous manqué, et Complété.</li>
+</ul>
+<h3>Disponibilité dans de nouveaux pays</h3>
+<p>Finalement l’appli mobile est maintenant disponible dans de nouveaux pays, pour un total de 43 pays.</p>
+<p><img class="shadow_small aligncenter" src="https://2.bp.blogspot.com/-PwfE1Ngy-wc/V2f3TiXGcHI/AAAAAAAAAd8/8O1v20tV8l80QUmC_R7nErORRBD-APC8QCLcB/s1600/pays.png" alt="pays dans lesquels booxi est disponibles sur l'appli mobile" width="696" height="339" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/appli-iphone-ui-et-calendrier-ameliores/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Horaire compact, format 12 heures, politique d&#8217;annulation par service</title>
+		<link>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/</link>
+		<comments>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:56:23 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[agenda]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[gain de temps]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=50</guid>
+		<description><![CDATA[Découvrez les fonctionnalités du calendrier qui vous permettent de sauver encore plus de temps. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Voici des explications sur les petits détails de booxi qui vous permettent de gagner encore plus de temps :</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Localisation des dates et heures</li>
+<li>Impression d&rsquo;un horaire compact</li>
+<li>Politique d’annulation par service</li>
+<li>Ligne de temps sur le calendrier</li>
+<li>Zone grise d’horaire plus précise</div></li>
+</ul>
+<hr />
+<h3>Localisation des dates et heures<a href="https://lh4.googleusercontent.com/sKDFQNAuHSEcO1qqI5xar5MInD1NWUZyILfT_4ZCb1JUpYIyR5BuV1c0gaJotIhi5d6PGYVc0vqtXt88_4fV0i1F1Z_Hx5W5QAkUW7cDLV8QhRMiOhn2_fdKWinmQwN1RUQqdiIA"><img class="shadow_medium alignright" title="use_banner" src="https://lh4.googleusercontent.com/sKDFQNAuHSEcO1qqI5xar5MInD1NWUZyILfT_4ZCb1JUpYIyR5BuV1c0gaJotIhi5d6PGYVc0vqtXt88_4fV0i1F1Z_Hx5W5QAkUW7cDLV8QhRMiOhn2_fdKWinmQwN1RUQqdiIA" alt="paramétrer l'heure" width="241" height="132" border="0" /></a></h3>
+<p>Nous avons amélioré l’affichage des dates et heures en respectant les formats spécifiques à chaque pays. Nous supportons maintenant complètement les formats 24 heures et 12 heures (militaire) avec AM/PM.</p>
+<h3>Imprimer un horaire compact</h3>
+<p>Nous avons ajouté un nouveau format pour l’impression de l’horaire de rendez-vous journalier. Vous pouvez maintenant imprimer un horaire avec 24 rendez-vous par page, comparativement à l’horaire détaillé qui n’en affiche que 8 par page.<img class="alignright wp-image-379 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/pasted-image-0.png" alt="imprimer l'horaire" width="291" height="165" /></p>
+<p>Pour imprimer l’horaire compact :</p>
+<ol>
+<li>Accédez à votre calendrier en mode Journée</li>
+<li>Cliquez sur le bouton de menu  <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/bAK47s-rP2ZE9TRNjjOmmQRrd9WGq941rMY6dxD10SUGZgw1Wz1JE0PHV9V95bCfd6kF0rDtJCFb1o3sYbSSvkw0VzReJxduioUaF7TARnRV4CDIoUKcTeZxmzNXtz15PaGQiS2i" alt="" /> (en haut, à droite)</li>
+<li>Choissez Imprimer l’horaire compact.</li>
+</ol>
+<p>Le navigateur Google Chrome, vous permet toujours d’imprimer ou sauvegarder en format PDF.</p>
+<p><a style="font-weight: normal" href="https://lh4.googleusercontent.com/b1vqYZA8Rtz59gm2q3pEdBF5oAWLJCqTQk46-mTUwP2zZ-p4NIEYGKzvuMA7nSz_QNx2JojAIglP5-uZSfvDLKOZQKlmr2hQcm27_H-q7Gd0OkOMnrKF71-l9Xnebr1K5ewNgyy6"><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/b1vqYZA8Rtz59gm2q3pEdBF5oAWLJCqTQk46-mTUwP2zZ-p4NIEYGKzvuMA7nSz_QNx2JojAIglP5-uZSfvDLKOZQKlmr2hQcm27_H-q7Gd0OkOMnrKF71-l9Xnebr1K5ewNgyy6" alt="horaire de la journée" width="309" height="400" border="0" /></a></p>
+<h3>Politique d’annulation par service</h3>
+<p>Vous pouvez maintenant ajuster la politique d’annulation pour chaque service. Par défaut, tous les services utilisent la politique d’annulation de votre entreprise, mais vous pouvez donc au besoin, ajuster cette dernière.<br />
+<a style="font-weight: normal" href="https://lh3.googleusercontent.com/3MmXJKTO_HdDSY3zq_lj2x9u1s18JtE8gMtmfevTjSHS8ctASnmu6yrKaBJK081ptnh6TJyyWvpchnGk_PLTWTjRL5syV3seeVzPZZ4ddHWywh1MxpnKfrJcMXeSdBpEOkiZYNZX"><img class="shadow_medium alignright" src="https://lh3.googleusercontent.com/3MmXJKTO_HdDSY3zq_lj2x9u1s18JtE8gMtmfevTjSHS8ctASnmu6yrKaBJK081ptnh6TJyyWvpchnGk_PLTWTjRL5syV3seeVzPZZ4ddHWywh1MxpnKfrJcMXeSdBpEOkiZYNZX" alt="règle de rendez-vous par service" width="320" height="274" border="0" /></a></p>
+<p>Pour ajuster la politique d’annulation d’un service :</p>
+<ol>
+<li>Accédez à votre liste de services</li>
+<li>Choisissez un service</li>
+<li>Cliquez sur Règles de rendez-vous</li>
+<li>Activez la Politique d’annulation <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/BFkDc_VSvdcUbz-dmdmuiFEhNJgx4_vWRul0XDjQ6I4DUHw6gx96A5X0GJrnfm-ZycZOuSGzw4TBS367GpY5Z7gg6U3U1Xx9v-9R-N9YVA0A0IBLzmyN9iH5guESyVbWMsp-w_Q-" alt="" /></li>
+<li>Ajustez les paramètres et cliquez sur Sauvegarder</li>
+</ol>
+<h3>Ligne de temps sur le calendrier</h3>
+<p>Nous avons ajouté une ligne de temps qui vous indique en tout temps le moment présent dans votre horaire.</p>
+<h3>Zone grise d’horaire plus précise</h3>
+<p>Vous pouvez voir en tout temps votre horaire de travail ou heures d’ouverture, grâce à la couleur grise en arrière plan de votre calendrier. Par contre si votre intervalle de rendez-vous est ajustée à 60 minutes et que votre journée débute à 8h30, la zone grise commençait à 9h00, affichant ainsi une information erronée. Nous avons amélioré la précision de la zone grise au 5 minutes, affichant ainsi une information précise à propos de votre horaire, et ce en tout temps.</p>
+<p><a style="font-weight: normal" href="https://lh4.googleusercontent.com/KpAFI1auYB1fUINC2adknblMhRe_WVz6WdErjZpVwUTotUtYoWYsBlARaLjgbPJPOQx45iiCQXE7_TR4fUM7xvKDqnekA6a2WIZ7W6Gj5neTV2cHSFVDRjrvz5DknlxHrQd-HsD2"><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/KpAFI1auYB1fUINC2adknblMhRe_WVz6WdErjZpVwUTotUtYoWYsBlARaLjgbPJPOQx45iiCQXE7_TR4fUM7xvKDqnekA6a2WIZ7W6Gj5neTV2cHSFVDRjrvz5DknlxHrQd-HsD2" alt="précision augmentée du calendrier" width="320" height="184" border="0" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/mise-a-jour-horaire-compact-format-12-heures-politique-dannulation-par-service/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

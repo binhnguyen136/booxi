@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; site web jimdo</title>
+	<atom:link href="https://www.booxi.com/blog/tag/site-web-jimdo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Comment ajouter la prise de rendez-vous en ligne sur votre site web Jimdo?</title>
+		<link>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/</link>
+		<comments>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 22:01:16 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+		<category><![CDATA[site web jimdo]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1392</guid>
+		<description><![CDATA[Apprenez comment ajouter la prise de rendez-vous en ligne directement sur votre site web Jimdo et convertissez vos visiteurs en ligne en clients. ]]></description>
+				<content:encoded><![CDATA[<p><b><img class="float_top aligncenter wp-image-1391 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/jimdo.png" alt="jimdo" width="1200" height="600" /><br />
+Step 0 :</b></p>
+<ul>
+<li>Aller sur <a href="https://www.booxi.com/developers/booknow">https://www.booxi.com/developers/booknow</a></li>
+<li>Entrez votre API booxi et générer le code du bouton (pour trouver votre API booxi, allez sur l’onglet Mon Entreprise, puis dans la section Détails de l’entreprise, et copier la clé de l’API).</li>
+<li>Laissez cette fenêtre ouverte, vous vous en servirez plus tard dans l’éditeur de votre site web Jimdo.</li>
+</ul>
+<p><b>Step 1 :</b> Allez sur Jimdo et entrez vos identifiants pour accéder à votre éditeur de site web.</p>
+<p><b>Step 2 : </b> Ouvrez le menu de votre site (sur le côté gauche). Cliquez sur l’option Paramètres.</p>
+<p><img class="float_top aligncenter wp-image-1393 size-full" src="https://lh3.googleusercontent.com/T-ao5krkYgE6QGvSm9pdKFhpAfKpXuhS8peftO5ENDGMZUmpeD66lXVHL1Yi3glPr2V_fZ4wkT-zJf5wfOBYmw=s0" alt="menu principal Jimdo" width="230" height="362" /></p>
+<p><b>Step 3 : </b>Dans le menu des paramètres, sélectionnez l’option “Modifier le head” et cliquez dessus:</p>
+<p><img class="shadow_medium aligncenter wp-image-1394 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/modifier-le-head.png" alt="parametres jimdo" width="217" height="584" /></p>
+<p><b>Step 4 </b>: Cette section vous permet d’ajouter le bouton booxi sur toutes les pages de votre site (cela ne les inclus pas automatiquement sur chacune des pages).</p>
+<p><img class="shadow_medium aligncenter wp-image-1395 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/script-pour-modifier-le-head.png" alt="modifier site web Jimdo" width="1177" height="654" /></p>
+<p>Veillez à sélectionner l’onglet Site web (situé dans l’en-tête grise). Retournez sur la page développeur de booxi et faites défiler l’écran jusqu’à la section “Code du widget”, dans laquelle vous trouverez le code.</p>
+<p><img class="shadow_medium aligncenter wp-image-1396 size-full" src="https://lh3.googleusercontent.com/DgxRs9SI129MELPApkqu8VDfm0lZr_sxGDMzPyealowgWuN8Dmr9Loh0OX2_QlbQZiGPsKKUrD3dv-iViNuW=s0" alt="bouton rendez-vous booxi" width="978" height="793" /></p>
+<p>Vous devez sélectionner tout le code dans la zone de texte et le copier, retournez sur l’éditeur du site web Jimdo, et collez le code dans la section de texte:</p>
+<p><img class="shadow_medium  aligncenter wp-image-1397 size-full" src="https://lh3.googleusercontent.com/vkVaJ6EPOFx59VIXA6o8YoogghjMW_nkNZjupuHLlwWsk3oQWdI4q1D5Mhh4rVIRX_QSIb0zRdb2nNn0ykoCRA=s0" alt="rendez-vous en ligne sur Jimdo" width="1157" height="1011" /></p>
+<p>Veillez à sauvegarder avant de quitter cette page. Si une erreur est détectée, Jimdo ne sauvegardera pas le code. Pour vous assurer que c’est correctement sauvegardé, retournez simplement dans la section de code après avoir sauvegardé. Si le code y apparaît, c’est que tout à correctement fonctionné.</p>
+<p><b>Step 5: </b>Maintenant que le code du bouton est sauvegardé, vous êtes en mesure d’ajouter le bouton de rendez-vous. Allez sur votre éditeur de site web Jimdo et déterminez l’endroit où vous souhaitez ajouter le bouton de rendez-vous.</p>
+<p>Cliquez sur le boutton “<b>+ Add Element</b> “.</p>
+<p><img class="shadow_medium aligncenter wp-image-1383 size-full" src="https://lh3.googleusercontent.com/YQXxcnroEjAlyB5MitmSEgKikxS68a2wFoPfA3a0zeUdlb6HDGgiBA4dkKobUMVFjoYJIzzdGZzA__IG3-CxTA=s0" alt="ajouter la prise de rendez-vous" width="439" height="336" /><br />
+L’option d’ajouter le bouton de rendez-vous ne fait pas partie des options basiques. Cliquez sur le bouton <b>More elements and Add-ons</b>.à</p>
+<p><img class="shadow_medium aligncenter wp-image-1384 size-full" src="https://lh3.googleusercontent.com/0kXa1yuGzDKFnwslN46Vllt1WIu7KfWFBilX41OGNR-9B58jJvtvtfsYVeTz5TKU-zUZ6yHLdRrSYGAseli22Q=s0" alt="bouton RDV sur Jimdo" width="441" height="424" /></p>
+<p>Sélectionnez l’option “ <b>Widget / HTML</b> “, cela va ouvrir l’éditeur d’où vous pourrez ajouter le bouton.</p>
+<p><img class="shadow_medium aligncenter wp-image-1385 size-full" src="https://lh3.googleusercontent.com/Lt4VyZ8JwcefoCQmLgAY6ntRfvVnpQjehGM8aVH-vESJphfGPnLLsZbX1ws32fi1UcfhXZ5QgxeVhlIawr9ggAI=s0" alt="Jimdo editeur de site web" width="569" height="542" /></p>
+<p>Retournez sur la page de booxi pour développeur, vous y trouverez une zone de texte contenant le code html nécessaire pour ajouter le bouton :</p>
+<p><img class="shadow_medium aligncenter wp-image-1398 size-full" src="https://lh3.googleusercontent.com/KIgunbH8WFKt_iwgt55BH3mMXo2KOq-4WONdz6dvDFbb1kWONfYjoSxXtqBSFZBp3zy6MaAxDdX6C3Soa80XMA=s0" alt="bouton rendez-vous" width="1021" height="447" /></p>
+<p>Vous devez copier le code HTML de cette section, retourner sur l’éditeur de Jimdo et coller le texte dans la zone de texte Widget / HTML.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1387" src="https://lh3.googleusercontent.com/6gXnAcOkk_U3gw3GDUoMZxVURV0zEMwj7d7rbP61Y4emN7hN-JOuO_QdQ5S7R3RYQcjaK8f6Z-9gsO9I2K8NOw=s0" alt="Jimdo editeur de script" /></p>
+<p>Cliquez sur le bouton Sauvegarder. Sauvegardez la page et essayez le.</p>
+<p>Si tout a correctement fonctionné, vous devriez voir un bouton vert apparaître.</p>
+<p>Si vous cliquez dessus, le bouton de rendez-vous devrait charger.</p>
+<p>Les risques d’erreur possibles:</p>
+<p>Si le bouton ne charge pas, vérifiez les éléments suivants:</p>
+<ul>
+<li>Il y a eu une erreur au moment de copier le code du bouton de rendez-vous.</li>
+<li>Votre clé d’API est invalide ou il y a une faute de frappe.</li>
+<li>Votre compte booxi n’est pas en ligne.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

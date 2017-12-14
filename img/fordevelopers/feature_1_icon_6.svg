@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="74px" viewBox="0 0 72 74" enable-background="new 0 0 72 74" xml:space="preserve">
+<g id="shadow" opacity="0.051">
+	<g>
+		<path d="M66,2H6C2.686,2,0,4.686,0,8v60c0,3.313,2.686,6,6,6h60c3.313,0,6-2.687,6-6V8C72,4.686,69.313,2,66,2z"/>
+	</g>
+</g>
+<g id="Rounded_box">
+	<g>
+		<path fill="#44CE5E" d="M66,0H6C2.686,0,0,2.687,0,6v59.999C0,69.313,2.686,72,6,72h60c3.313,0,6-2.687,6-6.001V6
+			C72,2.687,69.313,0,66,0z"/>
+	</g>
+</g>
+<g id="calendar" opacity="0.102">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M49.998,41.021h-3.996v4.009h3.996V41.021z M43.998,41.021h-3.996v4.009h3.996
+			V41.021z M37.998,41.021h-3.996v4.009h3.996V41.021z M55.334,23.021H16.667c-1.675,0-2.667,1.06-2.667,2.667v26.667
+			c0,1.649,1.032,2.666,2.667,2.666h38c1.676,0,3.334-0.997,3.334-2.666V25.688C58,24.08,57.029,23.021,55.334,23.021z
+			 M53.992,51.014H18.007V37.02h35.985V51.014z M53.992,31.004H18.007v-4.007h35.985V31.004z"/>
+	</g>
+</g>
+<g id="calendar_1_">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M37.998,39.021h-3.996v4.009h3.996V39.021z M49.998,39.021
+			h-3.996v4.009h3.996V39.021z M43.998,39.021h-3.996v4.009h3.996V39.021z M55.334,21.021H16.667c-1.675,0-2.667,1.06-2.667,2.667
+			v26.667c0,1.649,1.032,2.666,2.667,2.666h38c1.676,0,3.334-0.997,3.334-2.666V23.688C58,22.08,57.029,21.021,55.334,21.021z
+			 M53.992,49.014H18.007V35.02h35.985V49.014z M53.992,29.004H18.007v-4.007h35.985V29.004z"/>
+	</g>
+</g>
+</svg>

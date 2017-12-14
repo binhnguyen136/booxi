@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Partners &#187; Languages &#187; English</title>
+	<atom:link href="https://www.booxi.com/partners/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/partners</link>
+	<description>Partners</description>
+	<lastBuildDate>Thu, 02 Mar 2017 15:37:25 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>test post</title>
+		<link>https://www.booxi.com/partners/test-post/</link>
+		<comments>https://www.booxi.com/partners/test-post/#comments</comments>
+		<pubDate>Thu, 03 Nov 2016 18:24:17 +0000</pubDate>
+		<dc:creator><![CDATA[booxi-admin]]></dc:creator>
+				<category><![CDATA[Health Solutions]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/partners/?p=24</guid>
+		<description><![CDATA[test post]]></description>
+				<content:encoded><![CDATA[<p>test post </p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/partners/test-post/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

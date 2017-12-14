@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; multiple services</title>
+	<atom:link href="https://www.booxi.com/blog/tag/multiple-services/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>iPhone App &#8211; Improved Calendar</title>
+		<link>https://www.booxi.com/blog/iphone-app-improved-calendar/</link>
+		<comments>https://www.booxi.com/blog/iphone-app-improved-calendar/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:16:39 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[iPhone / iOS]]></category>
+		<category><![CDATA[multiple services]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=31</guid>
+		<description><![CDATA[All your appointments on hand, with the new features on the iPhone app. ]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Thanks for your patience with our iPhone mobile app updates. This update will improve your agenda view and ensure that you always see the details of appointments when new types of appointment are added to booxi.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Improved Agenda View</li>
+<li>New Types of Appointment</li>
+</ul>
+<p></div>
+<hr />
+<h3>Improved Agenda View</h3>
+<h2><a style="font-weight: normal" href="https://lh3.googleusercontent.com/wHwCsECbzd4_moN1_q9wK2gnuHbbDpD3mFr3kAUk_VKYwlx8Js6U0Q9LgendfGkUbUNrdzW91EZXjZ5uuFeKLjPFO0L-_q3NQnCCKGIqpQvVGbezWGG-LlBlCocH3twwAk4xbAjt"><img class="shadow_small alignright" src="https://lh3.googleusercontent.com/wHwCsECbzd4_moN1_q9wK2gnuHbbDpD3mFr3kAUk_VKYwlx8Js6U0Q9LgendfGkUbUNrdzW91EZXjZ5uuFeKLjPFO0L-_q3NQnCCKGIqpQvVGbezWGG-LlBlCocH3twwAk4xbAjt" alt="" width="195" height="400" border="0" /></a></h2>
+<p>Depending on how you manage your availability, our previous mobile app was not always efficient. We have improved it to better display your daily appointments.</p>
+<ul>
+<li>If you have appointments on top of available time slot, booxi will now split the time slots in parts, displaying what is still available and your appointments without overlaps; making it easier to track time.</li>
+<li>New appointment types that are not yet supported by the mobile app will now be displayed as regular appointments instead of busy time slot; providing you more information.</li>
+</ul>
+<p>&nbsp;</p>
+<h2><a href="https://lh5.googleusercontent.com/sPTayNswE0OsK5sp0WaWetV3KcIAuqXYiogAyFiDCTx58s6-3R1ZHjDqHFgxu6oqWZZ6EK9_5EQRJj1Tcyl-6GzEGXrcnYgRU0ythytZjbG9AyJXbKNewfKx_4R74o3LjA-_pXFZ"><img class="shadow_small alignleft" src="https://lh5.googleusercontent.com/sPTayNswE0OsK5sp0WaWetV3KcIAuqXYiogAyFiDCTx58s6-3R1ZHjDqHFgxu6oqWZZ6EK9_5EQRJj1Tcyl-6GzEGXrcnYgRU0ythytZjbG9AyJXbKNewfKx_4R74o3LjA-_pXFZ" alt="" width="196" height="400" border="0" /></a></h2>
+<h3>New Types of Appointment</h3>
+<p>We often add new features to booxi; which sometimes leaves the mobile app behind. The result is that new types of appointment like the multi-service appointment can’t be accessed using the mobile app. We fixed this for now and the future, by always providing you at least the details of the new appointment type, but limiting its editing to the appointment time only.</p>
+<ul>
+<li>Support for new and future appointment types</li>
+<li>Display new appointment types in the agenda view</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/iphone-app-improved-calendar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Time saving : Status, Colors, Copy Paste and more.</title>
+		<link>https://www.booxi.com/blog/time-saving-status-colors-copy-paste-and-more/</link>
+		<comments>https://www.booxi.com/blog/time-saving-status-colors-copy-paste-and-more/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[agenda]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[multiple services]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=27</guid>
+		<description><![CDATA[Gain efficiency thanks to the colors that allow you to know your schedules at a glance and learn some tips to save even more time.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top  aligncenter" src="https://4.bp.blogspot.com/-ejU1y2kgWos/Vp8LN2XogpI/AAAAAAAAAik/WBUR6EXCOYs/s320/booxi_NewFeature_Calendar_Full.png" alt="" width="320" height="191" border="0" /></p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Your feedback has greatly helped us to improve booxi in many ways this month. Among many improvements, here are the most important ones.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Calendar Look</li>
+<li>New Appointment Status (Completed, No-Show, Client Arrived)</li>
+<li>Disabling Automatic Messages</li>
+<li>Appointment Preview with multiple services</li>
+<li>Time Slot Copy / Paste</div></li>
+</ul>
+<hr />
+<h3>Calendar Look</h3>
+<p>The appointment&#8217;s look have been improved to make the colors more obvious and bring the most important information at the top. We are also introducing 2 new appointment status colors (for Completed and No-Show appointments).</p>
+<p><img class="shadow_medium aligncenter" style="color: #000000" src="https://lh6.googleusercontent.com/0d-dlcNdPzDPAkmtzK_Xf2v1UcX5TwzwanQ443oMz2wbO1TRNdOhjZy4Nc8Ldpg_XYhH8v3MkXlH9ZvPCkzURzSlwHOg4Z0fIzyKXLnvUqimUq-CNLCbq3DGM1e1gzXLAExECNob" alt="" width="495" height="74" /></p>
+<h3>New Appointment Status</h3>
+<p>We have added a few new appointment status for you to better track your appointments. You can now set and appointment as Completed or No-Show, as well as signal that a client has arrived (when you have multiple staff managing the appointments). Simply right-click on any appointment and change its status. The option Client Arrived is obviously only available for appointments of the current day, while Completed and No-Show are available for appointments in the past.</p>
+<p>Completed appointments are grey, No-Show purple, and Client Arrived is green with a little client icon <img style="color: #000000" src="https://lh4.googleusercontent.com/66kH1Iehghv5jowYvKYRnKT_6JdQCbHdIAK-RouoWlrW7D0GKKv3bpAud4GPaTJq2msknup4G7cTO68oZk_P37lHvb4tPZrcdQYSXN3HupcmUD9xiJXsX_kcJphDobAu1ps4q39D" alt="" /> located in the bottom right corner of the appointment.</p>
+<p>The option Reopen allows you to cancel the Completed status, the option Cancel No-Show allows you to cancel the No-Show status; while the option Cancel Client Arrived allows you to remove the client arrived indicator.</p>
+<h3>Disabling Automatic Messages</h3>
+<p>When you modify or add a new appointment, you can now change the message option to prevent booxi from sending a message to the client. Simply change the option “Approve without client confirmation” to “Do not send a message to the client” and no message will be sent. If the appointment was just added and you decide to not send any messages, the appointment will be yellow like a new request. This will help you to remind that this appointment has not yet been approved as the client has not been informed.</p>
+<p><img class="shadow_medium aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/Jf4zoVPND4ePzBQJNQq_WnKks3rgGLgFDTcUA1Lz_MzcZkpkfl2_U1bd4Eg8ctCRUG2nI_dvojAxLu6ch8lJrm8g855p0VXCVWFabBe2BlssK9--gRiq-FPiB2VwlwGHIiS_6BR-" alt="" width="471" height="119" /></p>
+<p>We have also adjusted the rules that send emails and SMS, in order to make sure we only send messages to a client when the date or duration of the appointment has changed, and not for any changes.</p>
+<h3>Appointment Preview</h3>
+<p>When your mouse is over an appointment, we display a preview popup which now has the full list of services for multiple services appointment. Category names will also soon be added.</p>
+<p><img class="shadow_medium aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/VYhrJElNlEC9Wib2VHVrdNBDzi5bJaSC-S70VcjY-lbm_CsYA2-hToPSiAXRui46XrqkJllMM3qti6abF9KkrvmpewXnIXgZxlYng4092eIEiOlY9JirOSOra0hm0WaiDkXBerea" alt="" width="400" height="387" border="1" /></p>
+<h3>Time Slot Copy / Paste</h3>
+<p>Not only you can move an appointment or a time slot (drag and drop), but you can now Copy and Paste time slots repeatedly. Simply right-click on a time slot (busy or available) and select Copy, then right-click in the calendar and select Paste. Repeat the Paste action to copy the same time slot multiple times, and you can now build your schedule in less time.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/KBed22B9FOgAQf8ouDUYulnaTWPgxtgCdfWku891Mobjje9cy4MsIhRVtoPf9q8NERB5c3AJ2dbu2sPuDR1M78dAWseguJ4ruFGzTzfJh5TuvREjXhS6NodOjRhCbQmcNyNmMxFy" alt="" width="299" height="62" /><br />
+<img class="shadow_medium aligncenter" style="color: #000000" src="https://lh4.googleusercontent.com/4cBVtQCVapTgwFUfxFsUNOcgl1DLExqNEb-zz7_cXS2ZH55suSXTD37lsKnQ5thrOslzITt1JIiFEhm2-El4ymNWizDBvaoU9MX0mJVNm3DS2FTUROWD4G3RyeflHG-AL7jlbR9M" alt="" width="299" height="61" /></p>
+<h3></h3>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/time-saving-status-colors-copy-paste-and-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You can now book multiple services in the same appointment!</title>
+		<link>https://www.booxi.com/blog/you-can-now-book-multiple-services-in-the-same-appointment/</link>
+		<comments>https://www.booxi.com/blog/you-can-now-book-multiple-services-in-the-same-appointment/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:09:52 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[multiple services]]></category>
+		<category><![CDATA[spacing]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=26</guid>
+		<description><![CDATA[Learn how you can book multiple services in the same appointment from booxi to be even more efficient. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>This is a short article to tell you about the multiple services appointment feature, and how to use it.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Add multiple services</li>
+<li>Add spacing</li>
+<li>Calendar view with multiple services appointments</li>
+<li>Appointment confirmation email with multiple services</div></li>
+</ul>
+<hr />
+<h3>Adding Multiple Services and Spacings</h3>
+<p>You can now add multiple services in a single appointment, as long as all services are provided in sequence (one after the other). You may add spacing in between services, but you should expect the client to remain onsite for the duration of the appointment.</p>
+<p>If you need to book an appointment with different personnel, then you need to create different appointments in each personnel&#8217;s calendar.</p>
+<p>The appointment form remains very similar, but you now have the ability to add, edit and remove services and spacing as well as order them, as follow:</p>
+<ul>
+<li>Add a new service or spacing <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/2EBKDhLiqiUVp1vc-vKSsYP0SWL2hLdh-G9hiPxm_Bgm9EEhCEFnce_P4j_8JZnrDB_O0Kky1tK8LOMZ11qmXPvTvtOrokHSk_Np7hijeW9ErAX89lQS7fbJwVysQMu7bcF2FSMJ" alt="" /></li>
+<li>Remove the selected service or spacing <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/E02ATfaqy7a_Y12WCYvyJHp33DpiqKcmuilFU6G4E-IgTi7QKUAxKx0rhB1ZYioB6J31UnRXBtkI5urZEYUpPLWukwqm2goXuhcfdV3blih6VoKQEko0ZU1zUpvJPKI3Pz8cBHSk" alt="" /></li>
+<li>Change the order of the selected service or spacing <img style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/vYOT5JJfjtzqbq7fz-_gNqcWQGd8v1T732l1uZ4ggnq7d0_MHOfpLpJToKLzWmFR_f8EP-2gdQw7GLdOtDz5Ol3P7IjJhyryNyy6E-LNjwgYX96tZM64cFEKih7Qg41b7If-ZwB4" alt="" /><img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/9Zt2IJqQqm76sxCUoD-00brdlQZA1RMgTOFaC1d8OP8-SH3_EzHCoJ8Fzw0K0cBU84DShmF-Dda71yyAx1SS_vc-syiEnQC3sErn3Byarpp390SSWnsxWozHC-exl91xprQ4FhqB" alt="" /></li>
+<li>Select or edit a service or spacing <img style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/P8i2H5WIAQ1Ve7sZnf52Rkt5gmj20FvmAyp62yzv5rTGpYDA5VG1u8_0ft1R4LnxTPIxpq5jrv6N-Dov4N_fBFvNLtV3uYdLLna4fr2_C4Au5yOx-s8XmfI4vO3u_otTQ8nlnKNd" alt="" /></li>
+</ul>
+<p>To add a service, click on <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/2EBKDhLiqiUVp1vc-vKSsYP0SWL2hLdh-G9hiPxm_Bgm9EEhCEFnce_P4j_8JZnrDB_O0Kky1tK8LOMZ11qmXPvTvtOrokHSk_Np7hijeW9ErAX89lQS7fbJwVysQMu7bcF2FSMJ" alt="" /> and select <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/rDJp7HbImAc6R-O_JFskkH6k2yveb3R5BdtgOIHBIMWsr5gQ6PY0VZkyjk3_qYhL_-Ievgy6pcefQ6ouh6beC9kMf506GJr1Yt_kWc08y4ddZcMrILTTe7Fd7CRzn2g65BhP9am1" alt="" />Add Service, then complete the requested information. If the service already has a spacing by <img class="shadow_medium alignright" src="https://1.bp.blogspot.com/-JS2NBlMWHXo/VnJbjXdsZ6I/AAAAAAAAAgo/slD6X0HUu6E/s320/MultiService1eng.png" alt="Add multiple service and spacing to an appointment" width="290" height="320" border="0" />default, that spacing will be automatically added after the service. Add more or complete the appointment.<br />
+To add a spacing, click on <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/2EBKDhLiqiUVp1vc-vKSsYP0SWL2hLdh-G9hiPxm_Bgm9EEhCEFnce_P4j_8JZnrDB_O0Kky1tK8LOMZ11qmXPvTvtOrokHSk_Np7hijeW9ErAX89lQS7fbJwVysQMu7bcF2FSMJ" alt="" /> and select <img style="font-weight: normal;color: #000000" src="https://lh5.googleusercontent.com/DOYzrN8tvRXJPOEPgVaGRn6mL-ogKboZk6n8k3j7RTiVgg8F8AbU2SDBetvZlLnaZ4LnDguS8PNmCuG6sjNFNHIHw4pDcj6zQ-6MRK_YUmcOj7ZcoXiVbq8t9BYFxwKJOfoHw27M" alt="" />Add Spacing After, then complete the requested information. Add more services or complete the appointment.</p>
+<p><a style="font-weight: normal" href="http://1.bp.blogspot.com/-YlnvYda80Iw/VnJb6GpGJQI/AAAAAAAAAg0/VaTqkxaUmFk/s1600/MultiService2eng.png"><img class="shadow_medium alignleft" src="https://1.bp.blogspot.com/-YlnvYda80Iw/VnJb6GpGJQI/AAAAAAAAAg0/VaTqkxaUmFk/s320/MultiService2eng.png" alt="Appointment with 2 services and 1 spacing" width="320" height="254" border="0" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Here is an example with a first service of 60 min followed by a 15 min spacing and a second service of 60 min for an appointment duration of total 135 min.</p>
+<p>&nbsp;</p>
+<h3>Calendar View of Multiple Services Appointments</h3>
+<p><a style="font-weight: normal" href="https://lh6.googleusercontent.com/Q6Pkr5RjIqF3aC0uFHVql8EgvRUcM0vj17VcYG4OWDeAu8j4UK2r_ZSyziOcGGHUyvQta1PGyGpC3_Y25GmuZzGyVf-RrKzvrvEUgb3_SEh-2HNy_OSaftil6grZxch2O8UtkRkM"><img class="shadow_medium alignright" src="https://lh6.googleusercontent.com/Q6Pkr5RjIqF3aC0uFHVql8EgvRUcM0vj17VcYG4OWDeAu8j4UK2r_ZSyziOcGGHUyvQta1PGyGpC3_Y25GmuZzGyVf-RrKzvrvEUgb3_SEh-2HNy_OSaftil6grZxch2O8UtkRkM" alt="Calendar event with appointment for multiple services" width="247" height="76" border="0" /></a></p>
+<p style="text-align: left">An appointment with multiple services will show the first service name followed by (+) to identify that the appointment has more services. Also the total spacing is always displayed next to the duration as (+ 15 min). Click on the appointment, and you can see and modify the full list of services.</p>
+<h3>Multiple Services Appointment Confirmation Email</h3>
+<p>The confirmation and reminder messages sent for multiple services have slightly changed in order to provide more details to your clients. The appointment itself always has a total duration that excludes the last spacing, but we added the list of requested services with for each the individual time and duration.</p>
+<p><img class="shadow_medium aligncenter wp-image-169 size-full" src="https://lh3.googleusercontent.com/fDVw_mEOxIOOFjhQY89wb8SnkmEl7lOcjADk4sHiCymxQAwf1N68vyLeidwpHlq5mguCebRU-_6QCxCfmdHX=s0" alt="confirmation" width="372" height="434" /></p>
+<p>In order to keep the SMS message short, it only contains the first service name with a (+) at the end.</p>
+<hr />
+<p style="text-align: center">Not a booxi user yet? Sign up Now!</p>
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Try it for free</a>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/you-can-now-book-multiple-services-in-the-same-appointment/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

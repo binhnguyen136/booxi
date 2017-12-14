@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; Languages &#187; English</title>
+	<atom:link href="https://www.booxi.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Merge Duplicate Client Records and Keep a Healthy Client List</title>
+		<link>https://www.booxi.com/blog/merge-client-list/</link>
+		<comments>https://www.booxi.com/blog/merge-client-list/#comments</comments>
+		<pubDate>Thu, 09 Nov 2017 16:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[customer]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1603</guid>
+		<description><![CDATA[With booxi, you can easily merge duplicate client records to keep a clean client list. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1623 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/merging-client2.png" alt="merging client" width="1200" height="600" /><br />
+You can now search for client record duplicates, and merge multiple selected records into one, without losing your appointment history.</p>
+<ul>
+<li>Search for Duplicates</li>
+<li>Merge Client Records</li>
+</ul>
+<p><strong>Search for Duplicates</strong></p>
+<p>Using the search icon at the top of the client list, you can search for a partial client name, or a phone number to find duplicate client records. Use this to find, select and merge duplicate, so you keep a clean and healthy client list.</p>
+<ol>
+<li>Go to your client list, by clicking on the main menu Clients section.</li>
+<li>Click on the button at the top of the client list.</li>
+<li>Type in a partial name, or phone number.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1605" src="https://lh3.googleusercontent.com/NXJUJ2eNpvL2el6bFwSp8wkYcXr8t8qyV3RBSC2PPsIfpoqX8lTqxJlEZkrMVoU-yj-RdSR8u6y4JzkcZj73VA=s0" alt="search bar" /></li>
+<li>Click on the button again to launch the search, or simply hit the Enter key.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1606" src="https://lh3.googleusercontent.com/Jk42ECTznC3itkatE2jrrbvTmI7Bbi8GOCVnOVDC3BtnnxHbPqEToIPRpMZ5rJ9otb7Nwr0eaY25LHVYUqS1iw=s0" alt="client names search" /></li>
+<li>The search result will be listed below, and you can select multiple client records, or get back to the full list by cancelling the search using the button.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1607" src="https://lh3.googleusercontent.com/FBlFCykJWSSm6D3ZFheykyq19MzHQL3jak7hP1VuqbL3rei2MvV-nQjbXVi5YfKZtR-BepHZOw3KnwMZhAIG6Q=s0" alt="select client" /></li>
+</ol>
+<p><strong>Merge Client Records</strong></p>
+<p>Once you have identified duplicate client records, you can easily select and merge them together in one record with one appointment history. The merged client record will contain the combined available details and appointment history of all selected records, and the duplicate records will be marked as deleted and remove from your client list.</p>
+<ol>
+<li>Search for a partial name, or phone to find duplicate records</li>
+<li>Select the client records to merged together,<strong> by first selecting the client record to merge into, followed by the duplicates.</strong></li>
+<li>Click on the Action Menu of the List, and select Merge Clients<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1608" src="https://lh3.googleusercontent.com/7rEHszGXCda6QOjEDqRyXbYnAIPeJrKOy0-khk0qxSDj4BKDAyFudQ9grgCfbz9qlQVmdL1N0nusnwF6_e0f6iA=s0" alt="merge client" /></li>
+<li>A form allowing you to review the merge result will be displayed.</li>
+<li>You can hover the icon at the top to review the list of selected client records that are about to be merged.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1609" src="https://lh3.googleusercontent.com/ysCMd_dO1PX05sktWzXMt99W9EjhQ0T9Qvh4JF6O08WUnEBfy11CIE6CQHeLHepfMNzGzhLE9-YOzK2VA-YDDA=s0" alt="client list to merge" /></li>
+<li>Update the details if needed, and click on Merge at the bottom of the form.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1610" src="https://lh3.googleusercontent.com/T1YymvvVNiwIiymy1jI2C7bwkO8Fgqi_gY7Xfj_x_-9kJ9w3UK5BDY-YqGMVEs3U1qlQIseIGm5y3ouYNt7dQw=s0" alt="merging" /></li>
+<li>The client records will be merged in one record, and you’re done.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/merge-client-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 marketing tips to promote your website</title>
+		<link>https://www.booxi.com/blog/4-marketing-tips-to-promote-your-website/</link>
+		<comments>https://www.booxi.com/blog/4-marketing-tips-to-promote-your-website/#comments</comments>
+		<pubDate>Thu, 02 Nov 2017 20:06:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1591</guid>
+		<description><![CDATA[In a fast-changing digital world, you need to constantly keep up-to-date with new trends to properly promote your business. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1593 size-full" src="https://lh3.googleusercontent.com/mI2GV7mp_t4SMTwvqeifVMod0PXyqvSqLcK8o3uHpUIHOeHQFrYA-BStPzCQcwbfF-q6FNY3pZ2HjUuNxNtLaA=s0" alt="website promotion" width="1200" height="600" /><br />
+In a fast-changing digital world, you need to constantly keep up-to-date with new trends to ensure that our business evolves along with the technology. Luckily for you, there are tons of tools available to help you deepen your web knowledge.</p>
+<p>Today, WebSelf, one of booxi’s partners gives you 4 marketing tips to promote your website.</p>
+<p><b>First, get to know your customers</b></p>
+<p>The first step is to determine your target market and get to know your clientele.</p>
+<p>This is essential since you will have to take them into account in almost all of your marketing actions, to retain them or simply to win new customers.</p>
+<p><i>Your offers, products and services, who are they for?</i></p>
+<p>The answer to this question is very important because it will give you an idea of ​​what type of audience you will be dealing with.</p>
+<p>When you’ve somewhat determined your target market, you need to learn as much about them as you can. Their buying habits, their gender, their age, etc. The more information you have, the easier it will be to personalize your marketing efforts in order to maximize them.</p>
+<p><b>1. Spread the good news</b></p>
+<p>Someone once said that a website is a direct reflection of a business. That’s why your online presence, whether it’s through a website, social networks, online directories, etc. must be impeccable. at all times.</p>
+<p>When you’re proud of the final result, it’s time to spread the good news and share your website everywhere! Ask for your entourage’s opinion and share a link on your personal social media to get the word out. It will also increase your visibility online and will allow you to win a few customers!</p>
+<p><b>2. Use social platforms</b></p>
+<p>Do we really need to tell you about the importance of creating business accounts on social networks? Be sure to choose wisely which platform you wish to appear on, and then properly use them. Do not forget that many will use it as a support for their technical questions. Answer all questions and suggestions from your customers and communicate with original and interesting content.<br />
+<img class="img_zoom aligncenter size-full wp-image-1594" src="https://lh3.googleusercontent.com/OTIZOfG-rBOquVjwa8ikWXrOgBLr5M3aGOsCOsxpwBz25PY2E4ANFKdrgaX9SvFRw94CXn7LkZDSpHHckAmPcw=s0" alt="social" /></p>
+<p><b>3. Increase customer loyalty with a newsletter</b></p>
+<p>A great way to retain your current customer base is to send them a newsletter. This is advantageous especially when we know that it is 5x easier and less expensive to retain our current customer base than to find new customers.</p>
+<p>Send a newsletter to inform your customers of new things coming up, share your blog articles or simply to remind them that you still exist! WebSelf offers an email collector tool, in the editor, where you can collect your visitors’ e-mail addresses use them to send out a newsletter, for example.</p>
+<p><b>4. Set up a reward system</b></p>
+<p>Your satisfied customers will be your best brand ambassadors, and you must reward loyalty! There are several kinds of reward systems, whether it&#8217;s sponsorship, ex, offer a discount whenever a client refers you to another, or you offer your customers discounts or gifts after X numbers of purchases. Be careful: Offer only gifts / discounts that are proportional to expenses. You want to retain your customers but you do not want to lose too much money in the process.</p>
+<p><a href="http://en.webself.net/">Try creating your free website NOW</a></p>
+<p><a href="http://en.webself.net/">Webself</a> is a free and easy tool to create website. Choose your design, add your texts and pictures and publish your website on the Internet. It has never been easier to create a website! No computer knowledge required, only your imagination ! Start building your own website today.</p>
+<p><img class="aligncenter wp-image-1596 size-full" src="https://lh3.googleusercontent.com/F6KJa79JK3XNjpj_Vf6w7IzCLewlOCummGNpZNHrx6JNEPg8C9yB4Xlw1K822r9Pk9tNAo0RlsYIMxh7MZzeBdA=s0" alt="webself website creator " width="1440" height="600" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/4-marketing-tips-to-promote-your-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Add Simple Questions to Your Booking, and Save Yourself The Burden</title>
+		<link>https://www.booxi.com/blog/add-customized-question-to-your-booking/</link>
+		<comments>https://www.booxi.com/blog/add-customized-question-to-your-booking/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1504</guid>
+		<description><![CDATA[It is now possible to add simple custom questions at booking, to acquire more details on your appointment requests, while avoiding to call customers to gather the information you need.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1575 size-full" src="https://lh3.googleusercontent.com/svJGDc-OWsEHBNfVCN4Nn8HtpL3ufmmyoVt7IycGzC1T7Eqwz1OOxLIGZrpXfAE0NvlSiuJuVodk_Nc5cRPI2w=s0" alt="customize question during online booking" width="1200" height="600" />It is now possible to add simple custom questions at booking, to acquire more details on your appointment requests, while avoiding to call customers to gather the information you need.</p>
+<ul>
+<li>How to setup booking questions</li>
+<li>How will online booking capture that information</li>
+<li>Where to find those question answers</li>
+</ul>
+<p><b>How to Setup Booking Questions</b></p>
+<p>You can easily setup a simple question per service, make it optional or mandatory, and your customer will have to provide that information when booking online. Your personnel will also be able to record that information when the booking is done over the phone.</p>
+<ol>
+<li>Go to your service list, and select a service</li>
+<li>Click on <b>Service Details </b>to open the service details form</li>
+<li>Scroll down to <b>Booking Question</b></li>
+<li>Type in the question. You can ask one ore multiple informations with the same question. For example, “Provide your bike brand, model and size.”, or “Provide any food allergies you may have, or answer NONE.”</li>
+<li>Set the question to be mandatory, or leave it optional</li>
+<li>Click on <b>Save</b>, on you’re done. Next time you or a client book this service, the booking question will be asked.<br />
+<img class="img_zoom aligncenter size-full wp-image-1505" src="https://lh3.googleusercontent.com/OoCDxnMdZQFjk0s3d497qdQME7L9AMUhtTaidm_uYurEcZiB0oO1n-dJz31PVRMLENIjLixIH5POkUPuLhK7jOU=s0" alt="question while booking" /></li>
+</ol>
+<p><b>How Will Online Booking Capture That Information</b></p>
+<p>When a client books online and selects one or more services setup with booking questions, these questions will be asked per service, right after the client provided his contact information. Clients must provide answers to mandatory questions, while your personnel doesn’t have to (when the booking is done over the phone).  For group reservation, the question will be repeated per attendee.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1508" src="https://lh3.googleusercontent.com/TzOkKKh-7zymMupHjk4y_ikjrNu6U9RzILm7EjrVkbu0PPc3ApiJHN_2ulcpayihZb-nlcwPrz_XFM-YSDkb1w=s0" alt="online booking question" /></p>
+<p><b>Where to Find Those Question’s Answers</b></p>
+<p>When questions are asked at online booking or provided over the phone, booxi stores the answers in the appointment, so each time you open the appointment, you have access to the question and answer per service. For group reservation, the question and answers repeated per attendee.</p>
+<p>The questions and answers are also included in a few reports, such as the attendee list, the detailed schedule, and the appointment report.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1509" src="https://lh3.googleusercontent.com/eFU09KnTCJcS5ALUQhZWibB4QF5Q4v-Rmr1_FpZuGRQPK6ZzDyXT-xmiGcOPAuWbU2SY9gA4Q9kuTSETyMeUYlY=s0" alt="customized section in appointment " /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/add-customized-question-to-your-booking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Increase Your Customer Retention With Automated Appointment Recall Reminders</title>
+		<link>https://www.booxi.com/blog/automated-appointment-recall-reminder/</link>
+		<comments>https://www.booxi.com/blog/automated-appointment-recall-reminder/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:11:04 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[customer retention]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1416</guid>
+		<description><![CDATA[Build repeat business with automated rebooking reminders. An efficient way to boost your customer retention. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1568 size-full" src="https://lh3.googleusercontent.com/7QdBPh1WkLbGHc8JE3HzLF9U3PjwoO4XHaF1mfB8iK-hr5mLerl6ckWn4li7ZQOPwYLxNGMqFBK3d_kDQlWvpw=s0" alt="appointment recall reminder" width="1200" height="600" /></p>
+<p>You can now easily schedule automated message to remind your customers to book a new appointment with you, in due time. Since calling every customers is not a viable option, most service providers suffer the lost. Which is why booxi can do it all for you and simplify things even more.</p>
+<ul>
+<li>Enable Appointment Recall in booxi</li>
+<li>Schedule Recall Reminders in One Click</li>
+<li>Book A Next Appointment While the Customer is There</li>
+<li>Automate Everything</li>
+</ul>
+<p><b>Enable Appointment Recall<br />
+</b>You can easily enable the Appointment Recall feature from your Business Appointment Rules. You can set a default delay, for example 20 days, if you would like booxi to send your customer an email reminder in 20 days, for most of your appointments. You will be able to change this delay for every appointment recall reminders.</p>
+<p><img class="shadow_small aligncenter wp-image-1453 size-full" src="https://lh3.googleusercontent.com/tPFOrVrXsuJlz_jwMz1df0pceIWcukzdjG3nwhdNQ4fCegOtHlmJ7KvP3jGFADchiMgyVv88GWnQHe3TZGQzpA=s0" alt="appointment recall " width="586" height="298" /></p>
+<p><b>Schedule Recall Reminders in One Click<br />
+</b>Once you have enabled Appointment Recall, you will be able to set an automated reminder for your customer, whenever you complete an appointment. Simply click on Complete and you’re done, disable the reminder or adjust the reminder settings prior to completing the appointment. Since recall reminders are sent via email, if the customer did not provide an email address, you will be able to add one at this time.</p>
+<p><img class="aligncenter wp-image-1566 size-full" src="https://lh3.googleusercontent.com/E877n1Qf9rZGyOEimN-fDKlvbW9Ugqco288Vkvi5hc3Zwd_3XUJuCuMkItk-0f_U1T4vC3Rq2JRDuym_KH0Y=s0" alt="complete this appointment" width="935" height="770" /></p>
+<p>&nbsp;</p>
+<ol>
+<li>Right-Click on the appointment and select Complete. The Complete confirmation popup will be displayed, providing you more options.</li>
+<li>You can choose to schedule a recall reminder, complete without reminder, or Book the next appointment now. Choose to Schedule a recall reminder.</li>
+<li>Select the service to propose, which is by default set to the same service as the appointment you are about to complete.</li>
+<li>Select the personnel to propose, which is by default also set to the same personnel as the appointment you are about to complete.</li>
+<li>Adjust the delay, or a specify a date on which the reminder will be sent.</li>
+<li>You may also add an additional message, or simply leave it blank.</li>
+<li>Finally, click on Complete and the appointment recall reminder will be scheduled and automatically sent in due time.</li>
+<li>If you choose to Complete without reminder, or Book the next appointment now, no recall reminder will be scheduled.</li>
+</ol>
+<p>If you or your client book a new appointment for the same service and client before the automated recall reminder is sent, that reminder will be automatically cancelled, avoiding any confusion for your customer.</p>
+<p>You can cancel or change the appointment recall reminder by reopening the appointment, and complete it again. Whenever a completed appointment is reopen, the associated scheduled appointment recall reminder is automatically cancelled.</p>
+<p><b>Book A Next Appointment While the Customer is There<br />
+</b>You can now book a next appointment faster, while your customer is still at your store. When you complete an appointment, you can now choose to Book the next appointment now. It creates a new appointment identical to the current one, and you simply set a different date and time.</p>
+<ol>
+<li>Right-Click on the appointment and select Complete.</li>
+<li>Choose Book the next appointment now in the confirmation dialog.</li>
+<li>Click on Complete at the bottom of the dialog, and a new copy of the appointment will open on the right.</li>
+<li>Simply change the appointment date and time, and click on Save.</li>
+</ol>
+<p><b>Automate Everything<br />
+</b>You can save even more time by putting your appointment on auto complete. If you set the Complete Appointment Business Appointment Rule to automatic and adjust the delay, appointments will be automatically completed past that delay after the appointment. When completed, the appointment recall reminder will also automatically be scheduled using the default delay and for clients with an email adresse.</p>
+<ul>
+<li>Make sure the Appointment Recall feature is on with a delay that suits most of your services.</li>
+<li>Turn the Complete Appointment feature on, and adjust the delay.</li>
+<li>Both features can be found in your Business Appointment Rules.<img class="shadow_small aligncenter wp-image-1455 size-full" src="https://lh3.googleusercontent.com/yrftYJtQW8VrYMO1FKGIwrPJB69lhc9wEo-dEW8Pv5EUZB8SS0vWsAV8xTElG6h-HZr-rPNXeCcE8itZpMXvqA=s0" alt="complete appointment" width="584" height="296" /></li>
+</ul>
+<p>Booking a next appointment, or sending a reminder to book again to your customer will contribute greatly in increasing your customer retention, and help you improve your revenues.</p>
+<p style="text-align: center"><strong><br />
+Boost your customer retention by using booxi<br />
+</strong><br />
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started </a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automated-appointment-recall-reminder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Generate Appointment Reports to Monitor Your business</title>
+		<link>https://www.booxi.com/blog/generate-appointment-reports/</link>
+		<comments>https://www.booxi.com/blog/generate-appointment-reports/#comments</comments>
+		<pubDate>Fri, 13 Oct 2017 20:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[Business Owners]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1456</guid>
+		<description><![CDATA[With booxi, it’s now easy to generate reports from your appointments data. A relevant information to analyze your business and help you to bring it to the next level. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1501 size-full" src="https://lh3.googleusercontent.com/vlag5YfyW7i7IcrFCWGZMejfiMo6l6WW_EM2eJ_rb2NxbWqP45YUGDFCwmNmwKEjQgXf4oWZe1W0XXFltjnNvQ=s0" alt="appointment report" width="1200" height="600" />Reports are powerful tools to analyze your business, to take the right decisions, to know where you should focus your efforts and where there is room for improvement.</p>
+<p>With booxi, you can now easily export reports from your appointments data, adjust your criteria and analyze them.</p>
+<p>Here are key information your can extract from these reports:</p>
+<ul>
+<li>Know which service is most appreciated by your customers.</li>
+<li>Know the busiest periods (whether in terms of days of the week or schedules)</li>
+<li>Visualize your employees’ performance</li>
+<li>Determine who are your most regular customers</li>
+<li>Make comparisons for all of these aspects, over different periods of time.</li>
+</ul>
+<p>To do it, you have to realize the export. It’s very easy to do it:</p>
+<ol>
+<li>Sign in your booxi account and go on the Calendar Tab.</li>
+<li>Then click on the “More options” icon, and select the “Appointment Report” option.<img class="img_zoom aligncenter size-full wp-image-1502" src="https://lh3.googleusercontent.com/I1KAR7kEOiXj2rDOCTd5WAsWzB90ZF9h2hbf05jepl5LK9njEu1hVlMvu2ur_FLeBVCKwXb8PlmfrJ9NRpjqHA=s0" alt="appointment export report" /></li>
+<li>Select the criteria and click on Export.<i>Tips: To analyze only completed appointments, make sure to exclude all cancelled appointments and no-show appointments.</i><img class="img_zoom aligncenter size-full wp-image-1503" src="https://lh3.googleusercontent.com/AUrx0-CvrdLpYKwZWRGF0gp8VsKSoucayCGFuMe2AkYCHOngl_2W4FvSvp2yWdteP5p1OBNkXdlvhVZOrbRt8A=s0" alt="export de rapport de rendez-vous" /></li>
+<li>Then click on the link “Click here to download the report”.<img class="img_zoom aligncenter size-full wp-image-1460" src="https://lh3.googleusercontent.com/DhT_hJGqRyEUx8dwdrH-Nx-g3IHpYjFJdEy-7s-gSimSK-3A-wrexHKaew-edljuFdlOmfdSjZ_wGuwyNbMyjg=s0" alt="download report" /></li>
+<li>You can now open your file (you can find it at the bottom left of the window). Use Excel or Google Spreadsheet to open it and start to analyze the data that interest you.</li>
+</ol>
+<p>Analysis of reports is crucial for your business management. This is an effective way to determine if your business is growing, stagnant or if you need to make some changes.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/generate-appointment-reports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New feature : Condensed view of the calendar</title>
+		<link>https://www.booxi.com/blog/condensed-view-of-the-calendar/</link>
+		<comments>https://www.booxi.com/blog/condensed-view-of-the-calendar/#comments</comments>
+		<pubDate>Thu, 12 Oct 2017 20:06:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[online appointment booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1522</guid>
+		<description><![CDATA[You can now see your entire team on only one view in the calendar: up to 20 people on the same view, without the need to move the cursor!]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1527 size-full" src="https://lh3.googleusercontent.com/UdqXYrLS_GITB3qPf3tbDvr_B5JHITNkJmNo5E087_s9AjgZxvbc8Xll6USl4jzRs0EYMOpUDVjlIiXf5tFeFYg=s0" alt="condensed calendar view " width="1200" height="600" /></p>
+<p>You can now see your entire team at a glance: up to 20 people on the same view, without the need to move the cursor!</p>
+<p><strong>How?</strong></p>
+<ol>
+<li>Go to the Calendar tab and click on the day view.</li>
+<li>Then make sure to add all employees on the view.</li>
+<li>Finally click on the Option icon, and select the Compact View.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1530" src="https://lh3.googleusercontent.com/WTClwcs6gVo9ho6JHLhErWe1358NCJ7hMLZP57fYzxNwCF-AwEurXFUFFXPf7LMm3YuoujgC0jbzCOiBwuE0JQ=s0" alt="compact view " /></li>
+<li>You can now see all your employees on the same calendar view.</li>
+</ol>
+<p>To come back to the initial view, just click again on the Option icon and select “Normal View”.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/condensed-view-of-the-calendar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatically Dispatch Appointments to Your Personnel and Spend Less Time Managing Schedules</title>
+		<link>https://www.booxi.com/blog/automatically-dispatch-appointments/</link>
+		<comments>https://www.booxi.com/blog/automatically-dispatch-appointments/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 17:03:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1493</guid>
+		<description><![CDATA[It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1487 size-full" src="https://lh3.googleusercontent.com/jGIIyUywkNnHRAH79me-Fa-ksrFffuWo5z3uwyYLe5HoM-cei9k1N-7QZf4GtaITOduYufJT4mzHzB2BkK0XhZo=s0" alt="automatic dispatch " width="1492" height="713" />It is now possible to automatically dispatch appointments booked online to the available personnel instead of asking your client to choose a personnel, or do the dispatch manually yourself. This way appointments get evenly distributed to your personnel, and you spend no time managing schedules.</p>
+<p>Whether you have 10 or 100 employees, book spaces like conference rooms, gun ranges, pet wash cabins, or stuff like bikes, kayaks, booxi can dispatch appointments for you, and save you precious time.</p>
+<ul>
+<li>How Appointments Are Automatically Dispatched</li>
+<li>Setup a Service for Automatic Dispatch</li>
+<li>Online Booking Experience</li>
+</ul>
+<p><b>How Appointments Are Automatically Dispatched</b></p>
+<p>When using appointment automatic dispatch, booxi computes the availability of each personnel and presents a choice of dates and time slots that have at least one personnel available each. When the client selects a time slot, booxi automatically dispatches the appointment to the personnel available that has the least appointments for the selected date. This way all personnel will have on average the same number of appointments.</p>
+<p>Depending on the Approval Mode you set, you will receive appointment requests (manual mode) or approved appointments (automated mode) in your booxi calendar. All automated, saving you lots of schedule management efforts and time.</p>
+<p><b>Setup a Service for Automatic Dispatch</b></p>
+<p>You can enable automatic dispatch per service, simply by changing two simple appointment rules for that service. Automatically dispatching appointments will not require the client to select a personnel, so you must first <b>Disable personal selection</b>, and then set the <b>Time Slot Selection</b> to <b>Display time slot with automatic dispatch</b>. You can then offer some services with automatic dispatch, and other with a personnel selected by the client.</p>
+<ol>
+<li>Go to the profile of the service you would like to dispatch appointment automatically.</li>
+<li>Click on <b>Appointment Rules</b> for that service</li>
+<li>Turn <b>Disable Personnel Selection</b> On</li>
+<li>Set the <b>Time Slot Selection</b> option to <b>Display time slot with automatic dispatch</b></li>
+<li>Click <b>Save </b>at the top of the Appointment Rules form, and you’re done.<br />
+<a href="https://booxi-live-wp-storage.storage.googleapis.com/AutomaticDispatch_2_En-1.png"><br />
+<img class="img_zoom aligncenter size-full wp-image-1496" src="https://lh3.googleusercontent.com/cmW7LEtpE_NZn4KuLIBeg8-vOov6nZdNMoYjhZSfnM5VapNIpk-6BoXngxUZTodCHafxrkMGjlr5j6oczotzug=s0" alt="automatic dispatch setting" /> </a></li>
+</ol>
+<p><b>Online Booking Experience</b></p>
+<p>When a client selects a service that is set to automatically dispatch appointments, he is presented with a choice of dates and time slots, without prior personnel selection. These time slots are the available times that have at least one personnel available. If more than one personnel is available for the selected time, booxi will dispatch the appointment to the personnel with the least appointments for that day.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1488" src="https://lh3.googleusercontent.com/Ww8UXP3eZWEA79O-MLJEuFE8_oXLQOvJZaSVGlSB6g0FiSONXXsyTf9Of8ro7awtvI9v8ZCPOk7Nh6-pSg6sdbk=s0" alt="AutomaticDispatch_2_En (1)" /></p>
+<p>Your client will receive a confirmation and reminder without mention of who is the selected personnel, leaving you the possibility to make some changes afterwards.</p>
+<p style="text-align: center">You spend to much time managing your employees&#8217; schedules? Try booxi for free during 14 days!</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automatically-dispatch-appointments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to add book now button directly on your Webself website?</title>
+		<link>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/</link>
+		<comments>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 14:38:43 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online visibility]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1537</guid>
+		<description><![CDATA[Here is the tutorial to learn how to add online appointment booking directly on your Webself website.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1550 size-full" src="https://lh3.googleusercontent.com/nDarG9RG95oK7v1li6gcErJC3276LsosdNNeFTQ-9-M-o99X1NXWIZPPMroEVoEq33RKtqvZ5pL0iS-HuToUAg=s0" alt="webself-top" width="1200" height="373" /></p>
+<ol>
+<li>Sign in your Webself editor, and go on the page where you want to add the book now button.</li>
+<li>Click on the section ‘’+ ADD’’ and select the option ‘’Script’’ in the Tools Sections.<br />
+Click on it, and drop down it on the desired section.<img class="img_zoom aligncenter wp-image-1551 size-full" src="https://lh3.googleusercontent.com/b6KMQT_6vmpRJIhKEUV2pHbCNq2wdRmRvuvfpzQ1R2gw-JpAamebpYjYBgssNbbRVz2enbPvuc7s9w88M8pw=s0" alt="add section" width="290" height="463" /></li>
+<li>This pop will appear:<img class="img_zoom aligncenter size-full wp-image-1552" src="https://lh3.googleusercontent.com/5ybr9C0oRvuC2KxAvXhnj8jv4WGLHIbGWq_tgFkpSKFiMAHQd3kLTBmGyOL9yMoBTJmHJzRQWwTwg_KKJq15=s0" alt="script pop up" /></li>
+<li>To generate the code that you’ll past on this pop up:</li>
+</ol>
+<ul>
+<li>You’ll need your booxi API Key.<br />
+Here’s how to find it:<br />
+Go on My Business tab, and then on the section Business Details. Scroll down to the section API Key and copy the code.</li>
+<li>Then go <a href="https://www.booxi.com/developers/booknow" target="_blank">to this page</a> and use the Widget Generator to create the script:<img class="img_zoom aligncenter size-full wp-image-1553" src="https://lh3.googleusercontent.com/egv5RSJe8_GV_2o-C5JTG7UMGuvwlBer8u64Bg45ubpTkn44SflEJNAiOvq27eL-QUai9Wv-5MHLqWd6u7O7Yyc=s0" alt="widget generator" /></li>
+</ul>
+<p>In the section API Key, paste the code you’ve just copied.<br />
+Select the language which you want the text to appear on the button, and select the option ‘’External Popup’’. Then you can customize the text of the button if you want to. Finally click on the button ‘’ Generate the code’’ : a code is generated on the right side.</p>
+<p>5. Copy the code generated in the section ‘’Widget Code’’.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1554" src="https://lh3.googleusercontent.com/nsUFxl_nzdPF263-IfbGIPAZs2_SdeV8iZf917_RIpAaBhrg9zDRyl11rpGc3iLxu831UZQJtynxOIHdic8Oni4=s0" alt="widget generated" /></p>
+<p>6. And go back to the Editor in Webself.</p>
+<p>In the pop-up Script, scroll down to the section ‘’Content code between &lt;body&gt; and &lt;/body&gt; tags. Paste the Widget code you’ve just copied.</p>
+<p>7. Go back to the booxi code generator and copy the code in the Widget Container section.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1555" src="https://lh3.googleusercontent.com/Z95pOAxVwexShHksu_E8sbEiTn7p2sz1l-pv3PTWPpMt-5ysuWBb8k4jPzzz4LvblJQ71p5rfWmfoJJBtVjDHWo=s0" alt="book now button code" /></p>
+<p>8. In the Webself Editor, paste the code in the first section ‘’Code Content’’.<br />
+9. Once again go back to your booxi generator, and copy the code in the section ‘’Book Now Button’’. For example, copy the English one.</p>
+<p>10. And finally go back to the Webself Editor and paste the code you’ve just copied in the section ‘’Content code between &lt;head&gt; and &lt;/head&gt; tags.</p>
+<p>11. Click on the Update buttons, and then on Save and you’re done.</p>
+<p>Your customers can now book appointment directly from your Webself website.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-add-book-now-button-directly-on-your-webself-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Easy Ways to Gain Customer Trust &#8211; Overcoming the Stigma of the Beauty Industry</title>
+		<link>https://www.booxi.com/blog/gain-customer-trust/</link>
+		<comments>https://www.booxi.com/blog/gain-customer-trust/#comments</comments>
+		<pubDate>Tue, 26 Sep 2017 19:18:15 +0000</pubDate>
+		<dc:creator><![CDATA[booxi team​]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[customer retention]]></category>
+		<category><![CDATA[user experience]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1445</guid>
+		<description><![CDATA[This article provides beauty salon owners with 5 easy (and actionable) ways on how to present their business as a modern and reliable establishment. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1481 size-full" src="https://lh3.googleusercontent.com/MTwsWMqTEEss7OBeZeMMtLe3LCghFmQYBgw5uukFzqWQo2zvHDsOLJcJfoepnzIaH3wMn0yjNYxIAqzBJOD81fs=s0" alt="trusted beauty salon " width="1200" height="600" />Great customer service and professionalism should be the first things that pop into your head when reading the title.<br />
+Beyond that, there are some aspects that aren’t so obvious to everyone. When it comes to their personal appearance, customers want the best they can get and many are reluctant to venture toward new beauty salons in fear of having a disappointing, or worse, an unprofessional experience.</p>
+<p>This article provides beauty salon owners with 5 easy (and actionable) ways on how to present their business as a modern and reliable establishment. From working with an efficiency-boosting <a href="https://www.lightspeedhq.com/">POS</a> system and <a href="https://www.booxi.com/en">automated appointment management system</a> to paying close attention to the details of their salon’s physical and online aesthetic, beauty shop owners will access insightful suggestions to improve (or maintain) their image and gain new loyal customers.</p>
+<p><strong>1. Offer personal suggestions</strong></p>
+<p>Although customers expect your professional advice, they appreciate hearing about your personal experience with the products or services you’re selling. After all, everyone is different and sometimes practical feedback (as opposed to theoretical or technical) can be a little more relevant and relatable. Taking an interest in your client and connecting with them on a personal level shows them you care and you’re gathering the information you need to give them the best advice possible.</p>
+<p>On the other hand, this also means you can’t shy away from giving your customer bad news; it’s ok if you’re unable to provide them with every solution in the book. There may come a time where you’ll need to point out that your product or company may not be the right fit for their needs. They’ll appreciate the honesty and you’ll be remembered as the one who gives real advice.</p>
+<p>According to <a href="https://www.lightspeedhq.com/blog/2017/09/4-ecommerce-takeaways-lightspeed-speaker-series/">Simon Tooley</a>, Founder &amp; CEO at Maison Etiket, “if someone has that memorable experience, it&#8217;s not about the product they bought, it&#8217;s actually about [the] people they interacted with.” We couldn’t agree more.</p>
+<p><strong>2. Listen<br />
+</strong></p>
+<p>Ever walked into a retail store with sales clerks selling on commission and get pestered about all kinds of products you’re just not interested in? Of course you have &#8211; and chances are you didn’t buy any of those items.</p>
+<p>Learn from their mistakes; stick to what your customer is telling you and don’t push unrelated products on them. You won’t sell more and, in fact, you risk losing the entire sale over it. Your expert advice may have convinced a customer to purchase an item or service, but if you sound too eager to increase their basket size, your credibility is undermined and the first thing you sold them on may now be in jeopardy. Are you actually giving good advice or are you simply trying to make a quick sale and saying whatever it is you think they want to hear?</p>
+<p>By keeping an open mind, customers will sense that you&#8217;ve got their best interests at heart and be much more receptive and trusting of your professional advice.</p>
+<p><img class="aligncenter wp-image-1480 size-large" src="https://lh3.googleusercontent.com/88Z8fCTVjTUCvgHAYvJedsBkGUCPPzdNOpwQKjdvygkSWSa7o8JJodXkwa_nX8nZJlTNMGaCzdsORSmEcP_I=s1024" alt="listen your customers" width="1024" height="1024" /></p>
+<p><strong>3. Unleash your psychic skills</strong></p>
+<p>This one applies to businesses who’ve cultivated their relationships with customers (which should be all of them!), who are knowledgeable of their offering and have their answers ready.</p>
+<p>Chances are, most of your customers ask similar questions and those conversations often lead to the same solutions. Pay attention to what they’re saying, detect patterns in their purchasing behavior and needs, ask the right questions and predict what their next concern might be, addressing it with an easy solution before they even bring it up. Often, they won’t even know about this solution, which makes it your job to find it for them, “Ask them the questions to get to why they truly come.</p>
+<p>Sometimes you have to dig a little”, explains Simon Tooley. They’ll appreciate the thorough service and feel like they’re in good hands. For example, a client inquires about one of your services they’d like to try for the first time but they seem unconvinced of its value.</p>
+<p>Instead of just providing them with the straight-forward answer, read between the lines, tell them about an upcoming discount on the service they should wait for and take advantage of.</p>
+<p><strong>4. Display positive reviews from other clients</strong></p>
+<p>Your customers are walking, talking, “free” adverts for your business &#8211; keep this in mind at all times and only make promises you can keep. A good way to ensure that is to enforce a “under promise, over deliver” rule.</p>
+<p>As you may already know, freebies and surprises tend to make customers really happy and getting them to recommend you is one of the best things you can do for your business. Naturally, people are much more inclined to try and trust a business who already has the seal of approval from someone they know and trust. To make referrals happen, <a href="https://www.lightspeedhq.com/blog/2016/06/10-ways-get-feedback-online-customers/">put systems and incentives in place</a>. This can be something as simple as offering a small discount for every new client they bring in. Not only can this boost business, it’s also a great way to see how customers view your business and where to make adjustments.</p>
+<p><strong>5. Respond to crisis quickly</strong></p>
+<p>In the event of a crisis &#8211; an unhappy customer claiming he or she was misinformed, for example &#8211; don’t sit on your hands and hope the problem goes away (it never does).</p>
+<p><a href="https://www.lightspeedhq.com/blog/2016/12/how-to-respond-to-negative-reviews/">Be decisive and respond quickly</a> to show your customers you can be trusted. Remain objective and professional because a lot can be told about a business in the way they handle and remedy a tough situation. A customer’s journey has 3 parts: before, during and after, and it’s important not to neglect the last one as it holds all the power to make or break that customer’s overall experience and lasting perception.</p>
+<p>Your product or service must be desirable with clear added value; however, without the customer&#8217;s trust, they&#8217;ll probably buy from someone else. Somebody they trust.</p>
+<div class="creativ-shortcode creativ-shortcode-alertbox creativ-shortcode-alertbox-colour-border"><p class="creativ-shortcode creativ-shortcode-alertbox-content"><br />
+Athena Kyriacou a.k.a. Tina, is a Content Specialist at Lightspeed POS, based in Montreal, Qc. She describes creating content as “being in her happy place”. After work hours you can find her spending time with her dog, editing videos for her youtube channel, advocating gender equality and then with her dog some more.</p></div>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/gain-customer-trust/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Add Online Booking to Jimdo Website</title>
+		<link>https://www.booxi.com/blog/online-booking-jimdo/</link>
+		<comments>https://www.booxi.com/blog/online-booking-jimdo/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 21:30:27 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[jimdo]]></category>
+		<category><![CDATA[online appointment booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1377</guid>
+		<description><![CDATA[Learn how to add online appointment booking to your Jimdo website and start converting online visitors into customers. ]]></description>
+				<content:encoded><![CDATA[<p><strong><img class="float_top aligncenter wp-image-1391 size-full" title="jimdo" src="https://lh3.googleusercontent.com/NwYs4OteRJonSOv6mBI03BVnVV-T2nF2CrLzbfeNtVM9wKpQUKUWyRCj4ufLCtb8tF7WIgjiWM2kHSHg6kT6oaY=s0" alt="jimdo" width="1200" height="600" /><br />
+Step 0 :</strong></p>
+<ul>
+<li>Go to <a href="https://www.booxi.com/developers/booknow" target="_blank">https://www.booxi.com/developers/booknow</a></li>
+<li>Enter your booxi API key and generate your widget code.</li>
+<li>Set this aside, we will use it in the Jimdo site editor.</li>
+</ul>
+<p><strong>Step 1 :</strong> Go to jimbo and please login into your account and access your jimdo site editor screen.</p>
+<p><strong>Step 2 :</strong> Open your site menu (menu left side). Look for settings option and select it:<br />
+<img class="shadow_medium aligncenter wp-image-1378 size-full" src="https://lh3.googleusercontent.com/0qLDEEWgqwJcGc3XdH54LQDQVaXEpdzSomXUYa292hen_kXlI6COh48E1LkJIVglYA7TVJhNlU_JkfijTrPMupk=s0" alt="Jimdo menu " width="461" height="393" /></p>
+<p><strong>Step 3 :</strong> In the settings menu look for an option called Edit Head and select it:</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1379" src="https://lh3.googleusercontent.com/nm9zyV0xb7Eio_MVfWOzmrKpwZFHE9DU3626CcYv9VE0Kj-PvirxkmITnxq3WCT8gSGj8oO1kTV6GzCp5CCkwA=s0" alt="Jimdo Settings" /></p>
+<p><strong>Step 4 :</strong> This section will allow you to place the booxi widget code onto every page of the site (this does NOT automatically include a button on each page).</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1380" src="https://lh3.googleusercontent.com/jJgTfcymbjH2ym6Lq7I8xJEUIVXHRgAvxKBmLdBwON7L2QFkclaNtM0oOt1_V6S1stnzD20_bQsQr14DZzrx2nc=s0" alt="edit head" /></p>
+<p>Please make sure that WEBSITE tab is selected (loaded in the grey header). Go back to the booxi developer page and look for Widget Code section, there will be a text box full of web code and would look like the image below :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1381" src="https://lh3.googleusercontent.com/Ic289KnGmHkCUMPlWX9WkIGO8dbGwm1nfQCItLOnJhZHTnqNqas6UajX6xZkJBgVltMf-62QKsPny6PYfqKJ8_U=s0" alt="book now widget code" /></p>
+<p>You must select all the text in this text area and copy it (crtl-c), go back to your Jimdo Edit Head window, and paste the code into the text area.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1382" src="https://lh3.googleusercontent.com/Tj_TgdEfXeO3yilZXSrE0Q13NOEyIwBLRGs3LOSZFRM0xiKP980srK2tdp044sE_EWtc98ETv-o8Hh4du2CH9w=s0" alt="script html edit head" /></p>
+<p>Be sure to save it before leaving the section. If there was an error in the copy page Jimdo will not save it. To make sure it worked just go back to the section after saving it, if the code is still there that means everything is good.</p>
+<p><strong>Step 5:</strong> Now that the widget code we are able to add the book now button. Go to your jimdo page editor and find the place where you wish to add the book now button. Use the + Add Element option that is presented on the page editor as you move your mouse around. Click the <strong>+ Add Element</strong> button.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1383" src="https://lh3.googleusercontent.com/YQXxcnroEjAlyB5MitmSEgKikxS68a2wFoPfA3a0zeUdlb6HDGgiBA4dkKobUMVFjoYJIzzdGZzA__IG3-CxTA=s0" alt="add online booking" /></p>
+<p>The option to add the book now button is not a part of these basic options, please press the <strong>More elements and Add-ons</strong> button.<br />
+<img class="img_zoom aligncenter size-full wp-image-1384" src="https://lh3.googleusercontent.com/0kXa1yuGzDKFnwslN46Vllt1WIu7KfWFBilX41OGNR-9B58jJvtvtfsYVeTz5TKU-zUZ6yHLdRrSYGAseli22Q=s0" alt="Widget book now on jimdo" /></p>
+<p>Look for and select the option called Widget / HTML, this will bring up a editor where we can add the button. The Editor should look something like this :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1385" src="https://lh3.googleusercontent.com/Lt4VyZ8JwcefoCQmLgAY6ntRfvVnpQjehGM8aVH-vESJphfGPnLLsZbX1ws32fi1UcfhXZ5QgxeVhlIawr9ggAI=s0" alt="Jimdo website editor" /></p>
+<p>Go back to the booxi developer page and look for Book Now Button, you will have a text area containing the html code required to add a button to the page. It looks something like :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1386" src="https://lh3.googleusercontent.com/O0urejHYe1A066SnncZMFxydiiteNXN9KDm2z573s5VOWEctffJmLWc9y51yGldl2jeRgNR0hu8XFiK3FPl_=s0" alt="book now button " /></p>
+<p>You must copy the HTML code from the text box and go back to your Jimdo editor and paste the text into Widget / HTML text area. As shown in the following image :</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1387" src="https://lh3.googleusercontent.com/6gXnAcOkk_U3gw3GDUoMZxVURV0zEMwj7d7rbP61Y4emN7hN-JOuO_QdQ5S7R3RYQcjaK8f6Z-9gsO9I2K8NOw=s0" alt="Jimdo script editor " /></p>
+<p>Press the save button. It is normal that you do not see the button on the page. Save the page and testing it out, if everything went well the green button should appear. If you click on it the book now widget will load up.</p>
+<p><strong>Trouble shooting :</strong></p>
+<p>If your button is not loading it can be one of the following problems :</p>
+<ul>
+<li>There was an error with the copying of one of the book now widget text code.</li>
+<li>Your api key is invalid, could be a typo or something similar.</li>
+<li>Your business is not online.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/online-booking-jimdo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

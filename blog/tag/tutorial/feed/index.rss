@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; tutorial</title>
+	<atom:link href="https://www.booxi.com/blog/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Need help to sign up?</title>
+		<link>https://www.booxi.com/blog/sign-up/</link>
+		<comments>https://www.booxi.com/blog/sign-up/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 18:50:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=13</guid>
+		<description><![CDATA[A step by step tutorial to help you sign up with booxi. ]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Here is a step by step tutorial to help you with the sign-up process.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Start the sign-up</li>
+<li>Complete the form</li>
+<li>Provide your address</li>
+<li>Choose a plan</li>
+<li>Activate your account</div></li>
+</ul>
+<hr />
+<h3>Step 1 &#8211; Start the sign-up</h3>
+<p>Sign-up is very easy and requires no credit card. Go to booxi main website at <a href="https://www.booxi.com/business/signup">www.booxi.com</a> and click on Sign Up at the top of the page.<br />
+<img class="shadow_medium aligncenter wp-image-91 size-large" src="https://lh3.googleusercontent.com/sGFt0xXY5WyK-7vmF1iRcnb88Xd-n17cxMhXZBTUEpTb6zk0b19g4aKA3jkpRoFQndVaYN3mXy4ORWXV81tC=s1024" alt="click on sign up" width="1024" height="1024" /></p>
+<h2> <img class="shadow_medium alignright wp-image-92 size-full" src="https://lh3.googleusercontent.com/0UoYbI9DYOZUx6b1ccVF19ijEiF3GbcJquw9nU-zc65-b-LWS7Qx7Nbr3thXfwfHawQA1awEGO_4BzjlR1II=s0" alt="complete sign up form" width="487" height="1000" /></h2>
+<h3>Step 2 &#8211; Complete the form</h3>
+<p>The requested information will allow to preconfigure your booxi account, and the choice of country will be used for your international settings.</p>
+<ol>
+<li>Provide your first and last name.</li>
+<li>Enter an email address and a password for your sign in,</li>
+<li>And provide a business phone number (which can be shown or hidden on your booxi website &#8211; you choose).</li>
+<li>Click on Continue.</li>
+</ol>
+<p>If you already have a booxi account and would like to add a new business profile to it, booxi will advise you. If a business has already subscribed with the same phone number, booxi will also advise you. You will be able to proceed anyway.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Step 3 &#8211; Provide your address</h3>
+<p>Your business address will be used to prepare your business profile and can be shown or hidden on your website (you choose). It is important to choose the business type that best describes your business activities.</p>
+<p>&nbsp;</p>
+<p><a style="font-weight: bold" href="https://lh3.googleusercontent.com/VwGqq1r6WtzWxOgfOfjtc-AyQmta3EJj27BFf5Gy93X9-NZ6zSnwjOhWF4WXt8_8CIw_Dd-enNShECVav1PjH92vcA-X8A5NBUGSaKbqwdOi1Y6bdEwuN0eqRQUdbkWvSCAFG_c"><img class="shadow_medium alignleft" src="https://lh3.googleusercontent.com/VwGqq1r6WtzWxOgfOfjtc-AyQmta3EJj27BFf5Gy93X9-NZ6zSnwjOhWF4WXt8_8CIw_Dd-enNShECVav1PjH92vcA-X8A5NBUGSaKbqwdOi1Y6bdEwuN0eqRQUdbkWvSCAFG_c" alt="" width="248" height="400" border="0" /></a></p>
+<p>&nbsp;</p>
+<ol>
+<li>Enter the name of your business (or your name if you are self-employed and do not have a business name).</li>
+<li>Choose the business type that best represents your business activities.</li>
+<li>Complete your business address (or your personal address, if you do not have a commercial place).</li>
+<li>Click on Continue.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2></h2>
+<p>&nbsp;</p>
+<h2></h2>
+<h3>Step 4 &#8211; Choose a plan</h3>
+<p>The choice of plan allows us to adjust the account to your needs. The plan price is only provided so you have an idea on how much it would cost if you decide to continue using booxi after the free period. No credit card will be asked for monthly plans.</p>
+<ol>
+<li>Choose a plan.<img class="shadow_medium aligncenter wp-image-230 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Plan.png" alt="choose the right plan" width="491" height="499" /></li>
+<li>Provide a promo code if you have one, and click on <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/m8nnLt2K-6-rVcVLN0OmKpgK8o3qOaWU7JvmcjuK_G1S4_iFNcqzRScgRD869YbCcn8aYAs5GuVwJ7XXld5_hgkVwrSvffC3izAFuAaSBERbkyV_oTEd4uva0oKmzLrO1CE5DGA" alt="" width="35" height="24" />. If you do not have a promo code, leave it empty and you still get the 30 day free.</li>
+<li>Accept the terms and conditions by checking the box.</li>
+<li>Click on Create Account.</li>
+</ol>
+<p>&nbsp;</p>
+<h2>Step 5 &#8211; Activate your account</h2>
+<p>If everything went well, your account has been created and you should have received a verification email. You must click on the Verify button in that email to activate your account and be able to sign in for the first time.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/lTm85v86NaDRzsUOC5vJGy-7r_YKhtH_dztgkwl4uv7ZYM4wE4oO7L2zZ-Zl8VrwxuRjhpdN4gIBO5dic4eewDbV6hgdIAMevxaXYaIIx2cvYXLEW4W_2NS59TOgukSE3slK_8M" alt="verify your email address" width="386" height="427" /></p>
+<h2>Step 6 &#8211; You’re done! You can now sign up!</h2>
+<p>Now the only thing left to do is to sign up and enjoy booxi.</p>
+<ol>
+<li>Click on Sign In at the top of the home page <a href="https://app.booxi.com/?locale=en#">booxi.com</a>.</li>
+<li>Enter your sign in email address and password.</li>
+<li>Click on Sign in and it’s done.<img class="shadow_medium aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/SVIvYi27McIVoXCK29bzsvaql7y1UJq7ZOksQflhHjAzLBdSuIyvWjaUHE8wE03XgdPkEQRkt4vbKv5yZiJZTJ7HOkhjVwIuUvZg4zc9dogHToUJ3L1GwXkok5UxJq6QdHj5RJc" alt="sign in your booxi account" width="410" height="328" /></li>
+</ol>
+<h3>Things to remember:</h3>
+<ol>
+<li>Remember the email and password you sign-up with.</li>
+<li>You must activate your account (using the verification email) prior to sign-in and use booxi.</li>
+<li>Check your junk mail folder, if you cannot find the verification email.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/sign-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

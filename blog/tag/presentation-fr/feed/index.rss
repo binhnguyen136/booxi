@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; presentation</title>
+	<atom:link href="https://www.booxi.com/blog/tag/presentation-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>booxi au salon de la beauté du CFP des Riverains.</title>
+		<link>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/</link>
+		<comments>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/#comments</comments>
+		<pubDate>Mon, 11 Jul 2016 16:59:45 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Communiqués de presse]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+		<category><![CDATA[solution abordable]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=74</guid>
+		<description><![CDATA[Saviez-vous que booxi offre des présentations et des formations sur la gestion des entreprises? Découvrez plus de détails dans ce article.]]></description>
+				<content:encoded><![CDATA[<p>L’événement a pour but de présenter aux étudiants et visiteurs les nouveautés dans l’industrie de la coiffure et de la beauté. Dans le cadre de son partenariat avec <a href="http://toncoiffeur.com">TonCoiffeur.com</a>, booxi<img class="alignright" src="https://2.bp.blogspot.com/-aONcXrImupI/VyitfCYao_I/AAAAAAAAAOs/Tptn47kTn1Qotq24iK4-SphTHN-QHtMeACLcB/s200/beaute.JPG" alt="" /> y présentait sa solution intelligente, qui s’adresse autant aux entreprises avec plusieurs employés, qu’aux travailleurs autonomes. booxi est <strong>une révélation pour les étudiants qui planifient se lancer en affaires</strong>, et une révolution pour les entreprises de coiffure établies.</p>
+<p>Étudiants et entreprises y voient l’opportunité d’éviter une dépense de 3 000 $ à 10 000 $ pour un site web, un logiciel de gestion de salon vieille génération et des ordinateurs en réseau. Avec un <strong>budget limité</strong> de 17 $ à 34 $ par mois (200 $ à 400 $ par année), ils auront<strong> tout ce dont ils ont besoin</strong> : un site web sans entretien, une liste de clients (CRM/GRC), une solution de prise de rendez-vous, l’envoi automatique de rappels par courriel et texto, et davantage. Cette solution facile d’utilisation, leur permet donc rapidement d’être plus efficaces que la plupart de leurs concurrents.</p>
+<p><img class="alignleft" src="https://4.bp.blogspot.com/-azYXvIj1boU/Vyit6aJNz7I/AAAAAAAAAOw/te9eKrjA04IAuVTjgFft-jROTxHPos8nwCLcB/s320/salonbeaute.JPG" alt="" />La solution vise à leur permettre d’obtenir plus de résultats avec moins d’efforts, notamment en passant moins de temps au téléphone, sur des tâches administratives et leur marketing, tout en se concentrant sur ce qu’ils aiment vraiment faire : s’occuper de leurs clients.<br />
+booxi souhaite continuer à initier les étudiants à l’<strong>importance d’avoir une bonne visibilité en ligne</strong>, et d’utiliser les outils abordables et gratuits qui sont à leur disposition, afin de gérer leur salon plus efficacement.</p>
+<p>C’est donc avec beaucoup d’enthousiasme que<strong> nous invitons les étudiants à parler de booxi avec leurs enseignants, et les écoles à nous contacter afin d’initier leurs étudiants à ses problématiques et leurs solutions</strong>, via une présentation éducative offerte par booxi.</p>
+<hr />
+<p>Vous souhaitez en apprendre plus sur notre formation en école? Découvrez le programme des sujet abordés, et envoyez nous votre demande pour que nous organisions ensemble une formation dans votre école.</p>
+<a href="https://docs.google.com/a/booxi.com/forms/d/e/1FAIpQLSfhxM5d9SHJazGz8_7gYLBpl2JBu7608RJoNVY1g1CRRspNjQ/viewform" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Presentation Request</a>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/booxi-au-salon-de-la-beaute-du-cfp-des-riverains/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

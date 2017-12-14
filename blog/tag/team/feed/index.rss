@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; team</title>
+	<atom:link href="https://www.booxi.com/blog/tag/team/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>How to update your staff?</title>
+		<link>https://www.booxi.com/blog/tutorial-update-your-staff/</link>
+		<comments>https://www.booxi.com/blog/tutorial-update-your-staff/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 18:58:55 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[business management]]></category>
+		<category><![CDATA[staff]]></category>
+		<category><![CDATA[team]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=18</guid>
+		<description><![CDATA[In this tutorial, we will show you how to well set up all the information about your staff in your booxi account.]]></description>
+				<content:encoded><![CDATA[<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>In this step by step tutorial, we will demonstrate you how to update your personnel and display your team on your booxi website.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></p>
+<ul>
+<li>Add and modify a staff.</li>
+<li>Associate a picture to a staff.</li>
+<li>Modify the work hours schedule of a staff.</li>
+<li>Assign services to a staff.</li>
+<li>Review the appointment rules of a staff.</li>
+</ul>
+<p>
+</div></div></div>
+<hr />
+<p>You must first be signed in your booxi account to complete the following steps.</p>
+<h3>Step 1 &#8211; Access your list of staff</h3>
+<p>By default, a new booxi account only has one personnel, yourself. You may add members of your personnel for every person who takes appointments with clients, or any booxi users. From the main menu located on the left side of the page, click on Personnel to access the list of your personnel. <img class="aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/GFXpyQtKfST8RoV6IkvSobHdBBPXI0Lm1YCEGkmjbRLuUlsImq4O3UosRBDakaG6HXY_1UQBfseYYLJPCFV4cDNslAOyYIPIl-syp1YnWAXt_NXGvSrdfTwq4ArrTSurj887v7U" alt="section personnel on booxi" width="640" height="461" /></p>
+<h3>Step 2 &#8211; Add a new staff</h3>
+<p>You can add personnel to manage appointments for them, or to simply to show your entire team on your website. You can disable online booking for a specific personnel, but we strongly encourage you to enable booking for all of your personnel. For a receptionist, you can add a personnel without setting the profile status to online; this way the person will have access to booxi, and will not be displayed in your website.</p>
+<ol>
+<li>Click on the <img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/9IKUy-79mz5gMwNymJl4qWmgOmS_sB_Bh2uJGLEJu3haj-i38VvnMv-PiN_tOxof3MRacZF895FCsgUU5PDHR2P7PaQpHTNF8tA8vd9X3oqaEOMZjPHSX34HQDU9tk854OAlDKQ" alt="" />icon at the top of the list of personnel to add a new personnel.</li>
+<li>Provide a First and Last name that will be displayed online.</li>
+<li>Provide an Email Address that will be used by booxi to communicate with this person, but will not be displayed online.</li>
+<li>Check the option Invite to join booxi, if you wish to invite this person to use booxi. You can also do this later.</li>
+<li>Click on Create and your new personnel is created.<img class="aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/Ayb9WAfMFttS_uRY3tQraIHQY_bB2PWO0feb15l4NWWYnqMvMAxI5iMGnT_YG8qjFBRaQx8UxWHNQ9Qzdr-rHtjMoZTnLRU9C-KfCMFG9CiYSnF4O1kKHwLOWrmkhzrhxKWEwTE" alt="invite a personnel to use booxi" width="414" height="346" /></li>
+<li>See the next step Modify a personnel for the full list of features.</li>
+</ol>
+<h3>Step 3 &#8211; Modify a personnel</h3>
+<p>The profile of each personnel gives you access to its details, assigned services, work hours schedule, appointment rules and associated picture.</p>
+<ol>
+<li>Select a member of your personnel from the list.</li>
+<li>Click on Personnel Details. <img class="aligncenter" style="font-weight: normal;color: #000000" src="https://lh5.googleusercontent.com/ccdaWd1adjkxISmJDw6aeazFoQNDmDyLGG0KDoYWbEHc40ZMrmfxuONvbhrsATpBvOnDyyl0En7kJvKLY8xUEriZw0IWH60AcznHYd6AMd5x3SW5WOyxB8Rgoly4BDx0W0UpyFE" alt="Add personnel Details" width="640" height="447" /></li>
+<li>You can modify the First and Last name which will be displayed online.</li>
+<li>Change the Position to reflect what is the profession of this person.</li>
+<li>Provide a Mobile and Work phone number which will not be displayed online, but used to communicate with the person.</li>
+<li>Provide an Email address, not displayed online and also used to communicate with the person.</li>
+<li>Finally provide a Bio that promotes and sell the person.</li>
+<li>Once completed, click on Save at the top of the form to save your changes, or Undo to cancel your changes.<img class="aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/8y5qRYYZmX_BfS-V_kX4R60uYc8UReGfz7mRGkKR8rBYyDTp1B1rlX3AMItjZ3Ypq9FJvNkDFtEbqbsdQ6aJxwiRml8FYM7SmeLjsRwEXy6GI8lVe5FHzI3uWdsa8bBlu2XdNAw" alt="save / undo" width="259" height="52" /></li>
+</ol>
+<h3>Step 4 &#8211; Associate a picture to a personnel</h3>
+<p>You can apply a picture to each personnel or leave it blank. Providing a picture for your personnel will make your booxi website look more attractive to customers and ease their trust. <img class="aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/x2HtxCPgez1DGnjOSyPSqfFKIf7HyA27_3-uHfB5U79kuGuthq61IZTq80hnIdEVIAuYBP7aKY8K14SWb4LrvdLaz6wFGqV9JwIZO9SZFRtgrWPXTfX_iOvJ1R_zpxGvnPSWBYE" alt="add a profile picture" width="261" height="263" /></p>
+<ol>
+<li>You can set or change the personnel profile picture by clicking on the <img style="color: #000000" src="https://lh3.googleusercontent.com/wwh4j145ZELGoQQW_R2Bt6fB_Jze-EwTdKNmf-sMhprlO0DvYB23sDKM_krYukD2YUZCbzkk4X4Ig7V5ok-COHBQtwUOKmCHIfjrrkXo0Tr8ObwNgQ9_LotZRTOv-cP9PqWE6_k" alt="" /> icon at the bottom of the current profile picture. You may also use our mobile app to take a picture with your smartphone and apply it to this member of your personnel.
+<ul>
+<li>Click on the Upload a photo button to upload a picture from your computer or tablet.</li>
+<li>Click on the Reset to default button to remove the picture so this personnel does not have any picture.</li>
+<li>Use the 4 blue dots to crop or select the visible portion of the picture.</li>
+</ul>
+</li>
+<li>Click on Save the photo button to save your changes, or click on the X at the top to cancel your changes.</li>
+</ol>
+<h3><img class="aligncenter" style="color: #000000" src="https://lh4.googleusercontent.com/ArxT8-LLsMJbhOg2gHRu8ZTTqI9yTzDHs-oQFtpIMvBc4hmNmTwhn3gY1rn-U45YiAXlhe0qvwQqA--DG-xlbLdRN9zcnybsZ1MlYRjthwjNyEBgKUwis54RlmEp1gLJQv5-9yY" alt="how to crop the image" width="640" height="406" /> Step 5 &#8211; Assign Services</h3>
+<p>You can select which services this personnel offers, so that clients can only request an appointment for the right service with this personnel.</p>
+<ol>
+<li>Click on Assigned Services.</li>
+<li>Click to apply a check mark on each service the personnel offers.<img class="aligncenter" style="color: #000000" src="https://lh6.googleusercontent.com/2fpcnOtPkH_nyTCx2MyZdW9M08W_Mfi39C9F7FrDzt-Lkxwtbk_WkaRAo9Z0iO_HKwU8lrFfG7kNbDfLfIYoT-zbY1AwRIlgXlOX86TPBp3O96NXiZ6DdhARV0k1uz0qaGuaFeI" alt="assigned services per personnel" width="640" height="427" /></li>
+<li>Once done, click on Save at the top of the form to save your changes, or Undo to cancel your changes.<img class="aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/8y5qRYYZmX_BfS-V_kX4R60uYc8UReGfz7mRGkKR8rBYyDTp1B1rlX3AMItjZ3Ypq9FJvNkDFtEbqbsdQ6aJxwiRml8FYM7SmeLjsRwEXy6GI8lVe5FHzI3uWdsa8bBlu2XdNAw" alt="" /></li>
+</ol>
+<h3>Step 6 &#8211; Review the Work Schedule</h3>
+<p>If this personnel always works during open hours, you can simply set his work schedule at Open Business Hours; if he has different weekly schedule, choose Work Schedule and provide the schedule following the steps below; but if his schedule is decided on a daily, weekly or biweekly basis, you should choose Free Calendar and add available time slots directly in his calendar. To build a weekly schedule, specify time slots for each day of the week. You may provide multiple time slots per day, if for example the personnel has a lunch break (9:00-12:00 and another one for 13:00-18:00). You may also leave a day without time slots if he does not work on that day.</p>
+<ol>
+<li>Click on Work Schedule to review the schedule.
+<ul>
+<li>Provide a start and end time for each time slot.</li>
+<li>Click on X to remove a time slot.</li>
+<li>Click on + to add another time slot.<img class="aligncenter" style="color: #000000" src="https://lh6.googleusercontent.com/jFauvBHWWz_LGjC4LQUe8FUGuictnAMwjLSh_fImKboOAaUOxJvZwU1EweK2TG3lEHkUUQBHIqBG_UF8t5MP8ZErxetU8cLYf5AC6XBzkE2h4NLINdKViG2t_y7QVVXOPXzvZbM" alt="work schedule per personnel" width="559" height="374" /></li>
+</ul>
+</li>
+<li>Once you have completed your changes, click on Save to save them or Undo to cancel.<img class="aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/ZHCC8Nb1gvttolXAjfo1uinBgcmkl5IUSLFU6OUwFIvtZC0sfm-Y3U-EqpEP0GmzRWa7AH6sBw6laNq5-wKGIS9xJYdOc_RbQXSXwNZjqfdXpyzmW3A1KE8oKtBtez7PtoIeKPg" alt="save / undo" width="259" height="52" /></li>
+</ol>
+<h3>Step 7 &#8211; Review Appointment Rules</h3>
+<p>The appointment rules allows you to tell booxi how to manage appointments and availability for this personnel.</p>
+<ol>
+<ol>
+<li>Click on Appointment Rules to access and modify the rules.</li>
+</ol>
+</ol>
+<p><strong>Enable Online Booking</strong> This rule allows you by disabling it to prevent consumers to book appointments online with this personnel. If for some reasons you want to display this personnel online, but prevent clients from booking online; you can uncheck the option to disable it. <strong>Show Availability Online</strong> This rule will display and offer to consumers the time slots that are still available, so they can book a specific time. It is always better to show your availability, because consumers love it and you save time; however, if you which to keep more control over your schedule and decide whether you will be available or not depending on how busy your week gets, you may disable this options. You can also use this option to receive appointment request and adjust the duration of the appointment after talking to the client. When this rule is disabled (no checkmark), the client is asked to provide up to 5 available time slots from his schedule, which means you receive a request with time options like for example : Monday, April 6th from 9:00 to 12:00; Wednesday April 7th from 12:00 to 17:00; and Friday from 17:00 to 21:00. You can than find a matching availability in your schedule and confirm a time to your client. <strong>Appointment Interval</strong> This rule allows you to fix the interval of available time slots that will be presented to a client when booking online. It is suggested to set this interval to the duration of the shortest service you offer. For example, if you only offer 1 hour appointments, set it to 60 min to prevent clients from booking at 8h15, 8h30 or 8h45, leaving empty time slots of less than 1 hour. With an interval of 60 min, clients will only be able to request appointments at 8h00, 9h00, 10h00 and so on. We will look at the other rules in another tutorial. <img class="aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/KNmTo2OfUOvaDeBd1xKSL4zoY4MlgCwC6FMWZB-x8ZI9B3EMbgmiTx4j6A6KyuzDvSQoBBneU0pZpsfzdfypG3ZkrpnicUQa4uka2wCq35KaBK1yHGyb-eWoy4_w0swW_ysZLDU" alt="appointment rules per personnel" width="462" height="515" /></p>
+<ol>
+<li>If you made any changes, click on Save at the top of the form to save your changes, or Undo to cancel your changes.<img class="aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/nhkZ4SK1gnRtkUQf99Hhpsiu5IsIkCPjCHIZo48oSSqhCDny4dri4s4bMmeOHv6zUfq2Aby3HhXWYcrzERVAT-oINBW8iiunCYRWKEDX1eUr9NqyU5iTcHut0Mit005ykczEbkk" alt="save / undo" width="259" height="52" /></li>
+</ol>
+<h3>Step 8 &#8211; Put this personnel online</h3>
+<p>Now that the personnel profile has been completed, you can put it online, so it becomes visible and clients can book appointment with it. The personnel will only be visible if your business is available online.</p>
+<ol>
+<li>Click on Offline and select Available online.</li>
+<li>The status should turn green.<img class="aligncenter" style="color: #000000" src="https://lh5.googleusercontent.com/O13TuR-A28sDa5pl4n6T_HQyrG6If2yLbk8e5PqNOyNsV-Bo9E4DoqByjmgFK6zYnczCcTR4tgPTFh6TUvkJKxRqx5jEnDK1e7RMSqDXq0izKS0-8FkBq73p4-7u4wRiOPkZFA8" alt="personnel statut" width="260" height="347" /></li>
+</ol>
+<p>You can also Block this personnel and prevent him from using booxi. A personnel blocked will no more be visible online. You are done and can now move on to the Management of your appointments.</p>
+<h3>Things to remember</h3>
+<ul>
+<li>Add personnel to allow clients to book with them &#8211; Each personnel status must be Available online for them to be displayed on your booxi website.</li>
+<li>Associate services with each member of your personnel for them to be available to offer those services.</li>
+<li>Review the work schedule of each personnel, so booxi knows when they are available.</li>
+<li>You can let the clients choose a specific time slot, or ask their availability.</li>
+<li>Adding photos and a bios that sell the expertise of your personnel, will bring trust from your clients.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/tutorial-update-your-staff/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How do I share booxi with my staff?</title>
+		<link>https://www.booxi.com/blog/how-do-i-share-booxi-with-my-staff/</link>
+		<comments>https://www.booxi.com/blog/how-do-i-share-booxi-with-my-staff/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 18:57:37 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[staff]]></category>
+		<category><![CDATA[team]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=17</guid>
+		<description><![CDATA[Did you know that you can can multiply positive effects of booxi by sharing it with your personnel? You will save even more time and make your life easier.]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p> This article is about the benefits of sharing booxi with your team and the best way to do it.</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"><ul>
+<li>The Benefits</li>
+<li>Sharing booxi with your personnel is easy</li>
+<li>Sign up for free personnel account</li>
+<li>You can limit the access<br />
+</div></div></div></li>
+</ul>
+<hr />
+<p>Now that you have the booxi advantage, you can multiply its benefits by sharing booxi with the rest of your team. Sharing booxi with your personnel will save you lots of time and make your life easier.</p>
+<h3>The benefits</h3>
+<p>Running a company gives you lots of responsibilities and often makes you the only person managing the schedules and appointments for everyone. You spend hours managing appointments, trying to satisfy everybody and answering schedule questions because your employees don’t always have access to the information.<br />
+<img class="shadow_medium alignright" src="https://lh6.googleusercontent.com/MEis8VrpXuapb1uR-4l4VdHalRQmBvR5YOT8inITF_h8ytEMNC00A7GVnGLUL2BA7VxgLEWe9YZDdnKKXwjpNqDTlbYDO_m0Ov9a8lDq_ohyaQ8xmGKLJ9VBpUmXyrcFcxMZFiI" alt="" width="325" height="381" />Now that you are using booxi, you can save time and be more efficient in the way you book appointments. Share the task, or at least give everyone access to their schedule, at anytime from their personal smartphone.</p>
+<p>Sharing booxi with your staff will enable them to manage their own appointments, plus you instantly see the changes they make, or the appointments they add, no matter where they are or where you are. They can also modify their availability and you automatically see it in their calendar. This way, you avoid double booking and save time off the phone, as they stop calling to enquiry about their schedule.</p>
+<p><span style="text-decoration: underline">You always have control over everyone’s schedule as you will still be able to manage all schedules, whether or not your personnel uses booxi.</span></p>
+<h3>Sharing booxi with your personnel is easy</h3>
+<p><a style="font-weight: normal" href="https://lh5.googleusercontent.com/hs0JBwCRH5o8vnZkZNUH_G6gib8OQU7VesVEu3Rpsy6vPqhi3ddChHFp-d_nKlYGtLCQMNQCGW-DYUPLaCGBdmDuKEdjlacCMMdL0kGDOfcP53ArCs_IuJaahOfcRHIKNeErH2I"><img class="shadow_medium alignleft" src="https://lh5.googleusercontent.com/hs0JBwCRH5o8vnZkZNUH_G6gib8OQU7VesVEu3Rpsy6vPqhi3ddChHFp-d_nKlYGtLCQMNQCGW-DYUPLaCGBdmDuKEdjlacCMMdL0kGDOfcP53ArCs_IuJaahOfcRHIKNeErH2I" alt="" width="224" height="320" border="0" /></a>To share booxi and let your employees manage their own appointments, you must invite them. The invitation to join your business on booxi will allow them to sign up for a free Personnel account. Once this is done, they should be able to use booxi on a desktop computer from home, a tablet or their smartphone (iPhone and Android) no matter where they are.</p>
+<p>Their access to booxi will be secured with the email and a password of their choice. <span style="text-decoration: underline">You can always block this access at anytime</span>.</p>
+<p>To invite a member of your personnel to use booxi, simply follow these simple steps:</p>
+<ol>
+<li>Sign in your booxi account</li>
+<li>Select the profile of this person from your list of personnel</li>
+<li>Click on Invite to join booxi</li>
+<li>Once the invitation is sent (to the email address that appears in their profile), the button will change to Resend the invitation</li>
+<li>Once this person has started using booxi, the button will change to Using booxi</li>
+</ol>
+<h3>Sign up for a free Personnel account</h3>
+<p>The person you invited will receive an invitation email with a code that will be required to join your business. That person simply needs to follow the steps instructed in the invitation email.</p>
+<p>The invitee will be instructed to:</p>
+<ol>
+<li>Click on the sign up link embedded in the invitation email, or go to the booxi website, click on Sign up, and choose to sign up with an invitation.</li>
+<li><span style="line-height: 21.6px">Enter the email address and a password he wishes to use to access his booxi account (sign in).</span></li>
+<li><span style="line-height: 21.6px">Enter the email address at which he has received the invitation.</span></li>
+<li><span style="line-height: 21.6px">Enter the code provided in the invitation.</span></li>
+<li><span style="line-height: 21.6px">And click on Continue.</span></li>
+</ol>
+<p>Once the sign up is completed, the new user will receive a welcome message. This user will be able to sign in using the email and password he provided and access his booxi account from a desktop computer, tablet and smartphone.</p>
+<h3>Your personnel has limited access to booxi</h3>
+<p>Keep in mind that when sharing booxi with your personnel, they have access to features and data, but not all of it.<br />
+What your personnel can access:</p>
+<ul>
+<li>Manage their own profile (details, schedule and rules)        <span class="floatR fnt_w7" style="margin-right: 5em">Yes</span></li>
+<li>View and edit their own appointments and alerts                                              <span class="floatR fnt_w7" style="margin-right: 5em">Yes</span></li>
+<li>View and add new appointments for other personnel                                         <span class="floatR fnt_w7" style="margin-right: 5em">Yes</span></li>
+<li>Consult your business details, service offer and personnel       <span class="floatR fnt_w7" style="margin-right: 5em">Yes</span></li>
+<li>Edit your business details, service offer and other personnel       <span class="floatR fnt_w7" style="margin-right: 5em">No</span></li>
+<li>View your business performance data    <span class="floatR fnt_w7" style="margin-right: 5em">No</span></li>
+</ul>
+<p>We are currently working on enabling you to decide what each person can do or not do.</p>
+<h3>Things to remember:</h3>
+<ol>
+<li>Personnel accounts are free.</li>
+<li><span style="line-height: 21.6px">You must send invitations for personnel to join your business.</span></li>
+<li><span style="line-height: 21.6px">They have access to their appointment calendar at all time and from their smartphone.</span></li>
+<li><span style="line-height: 21.6px">You can block their access at any time and no data is kept on their devices. All the data is in the cloud protected by your email and password.</span></li>
+<li><span style="line-height: 21.6px">You will save time and have a better organization</span></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-do-i-share-booxi-with-my-staff/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Radio_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+<g id="radio_on">
+	<g>
+		<path fill="#FFFFFF" d="M27.01,9.999H12.999c-1.657,0-3,1.343-3,3v14c0,1.657,1.343,3,3,3H27.01c1.657,0,3-1.343,3-3v-14
+			C30.01,11.342,28.667,9.999,27.01,9.999z"/>
+	</g>
+</g>
+<g id="Shade" opacity="0.051">
+	<g>
+		<path d="M27.01,9.999H12.999c-1.107,0-2.064,0.607-2.584,1.5c0.52,0.893,1.477,1.5,2.584,1.5H27.01c1.107,0,2.064-0.607,2.584-1.5
+			C29.074,10.606,28.117,9.999,27.01,9.999z"/>
+	</g>
+</g>
+<g id="border">
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#D9D9D9" d="M27.01,9.999H12.999c-1.657,0-3,1.343-3,3v14
+			c0,1.657,1.343,3,3,3H27.01c1.657,0,3-1.343,3-3v-14C30.01,11.342,28.667,9.999,27.01,9.999z M29.007,26.866
+			c0,1.178-0.955,2.133-2.133,2.133H13.133c-1.178,0-2.133-0.955-2.133-2.133V13.133c0-1.179,0.955-2.134,2.133-2.134h13.741
+			c1.178,0,2.133,0.955,2.133,2.134V26.866z"/>
+	</g>
+</g>
+</svg>

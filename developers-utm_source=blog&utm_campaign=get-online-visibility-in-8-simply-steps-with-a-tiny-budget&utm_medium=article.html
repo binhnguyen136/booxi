@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>For Developers | Smart appointment booking - booxi</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="msvalidate.01" content="259E429701F098F26DD63884F93A95A7" />
+    <meta name="robots" content="all"><link rel="alternate" hreflang="en" href="developers.html" /><link rel="alternate" hreflang="fr" href="developpeurs.html" /><link rel="alternate" hreflang="es" href="developers.html" /><link rel="alternate" hreflang="nl" href="developers.html" /><link rel="alternate" hreflang="pt" href="developers.html" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="HandheldFriendly" content="true">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="icon" type="image/x-icon" href="img/common/favicon.ico" />
+<link rel="apple-touch-icon" href="img/common/touch-icon-iphone_60x60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="img/common/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="img/common/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="img/common/touch-icon-ipad-retina.png"><meta name="author" content="booxi">
+<meta name="copyright" content="booxi inc">
+<link rel="author" href="https://plus.google.com/+booxicom"/>
+<link rel="publisher" href="https://plus.google.com/+booxicom"/><meta name="description" content="booxi offers a suite of APIs that helps developers to integrate an efficient appointment booking solution to any website.">
+<meta itemprop="name" content="For Developers | Smart appointment booking - booxi" />
+<meta itemprop="description" content="booxi offers a suite of APIs that helps developers to integrate an efficient appointment booking solution to any website." />
+<meta itemprop="image" content="https://www.booxi.com/img/social/booxi_thumbnail.jpg" />
+<meta property="og:title" content="For Developers | Smart appointment booking - booxi" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.booxi.com/img/social/booxi_OpenGraph_1200x630.jpg" />
+<meta property="og:description" content="booxi offers a suite of APIs that helps developers to integrate an efficient appointment booking solution to any website." />
+<meta property="og:url" content="https://www.booxi.com/developers" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.booxi.com/developers">
+<meta name="twitter:title" content="For Developers | Smart appointment booking - booxi">
+<meta name="twitter:domain" content="https://www.booxi.com/">
+<meta name="twitter:site" content="@booxicom">
+<meta name="twitter:creator" content="@booxicom">
+<meta name="twitter:description" content="booxi offers a suite of APIs that helps developers to integrate an efficient appointment booking solution to any website.">
+<meta name="twitter:image" content="https://www.booxi.com/img/social/booxi_thumbnail.jpg">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K6J95P');</script>
+<!-- End Google Tag Manager -->
+
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,200italic,200,300,300italic,400italic,600,600italic,700,700italic,900" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/build/style-ver=1.65.6.css" />
+    <script type="text/javascript">
+    // ---- VERSION---- //
+    window.__site_env__ = 'booxi-live';
+    window.__site_ver__ = '1';
+    window.__site_ver_minor__ = '65';
+    window.__site_ver_revision__ = '6';
+    window._ver = function(){ return 'Site Version : ' + __site_ver__ + '.' + __site_ver_minor__ + '.' + __site_ver_revision__; }();
+
+
+    var __rootpath__ = 'https://www.booxi.com/';
+    var __rootserver__ = 'https://booxi-api.appspot.com/';
+    var __fancy_path__ = 'https://www.booxi.com/';
+    var __smart_engine__ = 'https://smart-engine-dot-booxi-api.appspot.com/';
+
+    var __constants__ = {};
+
+    __constants__.htmlBase = __rootpath__;
+    __constants__.ajaxPath =  __rootserver__  + 'php/';
+    __constants__.picturesPath =  'http://localhost:9080';
+
+    var __ssl__ = true;
+    var __search_request_delay__ = 1000;
+
+    //Compatibility Fallback
+    var a=window,b=a.document,c=/fallback=true/.test(a.location.search.substring(1)),d=b.getElementsByTagName("html")[0].getAttribute("class"),e=!0;if(/no-history/.test(d)||/no-borderradius/.test(d)||/no-opacity/.test(d)||/no-csstransitions/.test(d))e=!1;!1===e&&!1===c&&(a.location="oops.html?url="+b.URL);
+
+    //JS Error Logging
+    (function(b,c){b.onerror=function(d,a,e){/fallback=true/.test(b.location.search.substring(1))||(d="priority=LOG_CRIT&page="+encodeURIComponent(b.location.pathname!==c?b.location.pathname:"pathname_undefined")+"&file="+encodeURIComponent(a!==c?a:"unknown")+"&line="+encodeURIComponent(e!==c?e:"-1")+"&message="+encodeURIComponent(d!==c?d:"Unknown Javascript Error"),a=new XMLHttpRequest,a.onreadystatechange=function(){},a.open("POST",b.__fancy_path__+"web_php/log_js_fail.php",!0),a.setRequestHeader("Content-type",
+        "application/x-www-form-urlencoded"),a.send(d))}})(window,void 0);
+
+    //Array Methods
+    (function(g,f){"bind"in Function.prototype||(Function.prototype.bind=function(c){var a=this;if(1>=arguments.length)return function(){return a.apply(c,arguments)};var b=Array.prototype.slice.call(arguments,1);return function(){return a.apply(c,0===arguments.length?b:b.concat(Array.prototype.slice.call(arguments)))}});"trim"in String.prototype||(String.prototype.trim=function(){return this.replace(/^\s+/,"").replace(/\s+$/,"")});"indexOf"in Array.prototype||(Array.prototype.indexOf=function(c,a){a===
+        f&&(a=0);0>a&&(a+=this.length);0>a&&(a=0);for(var b=this.length;a<b;a++)if(a in this&&this[a]===c)return a;return-1});"lastIndexOf"in Array.prototype||(Array.prototype.lastIndexOf=function(c,a){a===f&&(a=this.length-1);0>a&&(a+=this.length);a>this.length-1&&(a=this.length-1);for(a++;0<a--;)if(a in this&&this[a]===c)return a;return-1});"forEach"in Array.prototype||(Array.prototype.forEach=function(c,a){for(var b=0,d=this.length;b<d;b++)b in this&&c.call(a,this[b],b,this)});"map"in Array.prototype||
+    (Array.prototype.map=function(c,a){for(var b=Array(this.length),d=0,e=this.length;d<e;d++)d in this&&(b[d]=c.call(a,this[d],d,this));return b});"filter"in Array.prototype||(Array.prototype.filter=function(c,a){for(var b=[],d,e=0,f=this.length;e<f;e++)e in this&&c.call(a,d=this[e],e,this)&&b.push(d);return b});"every"in Array.prototype||(Array.prototype.every=function(c,a){for(var b=0,d=this.length;b<d;b++)if(b in this&&!c.call(a,this[b],b,this))return!1;return!0});"some"in Array.prototype||(Array.prototype.some=
+        function(c,a){for(var b=0,d=this.length;b<d;b++)if(b in this&&c.call(a,this[b],b,this))return!0;return!1})})(window,void 0);
+
+</script>
+
+    <!--  Compatibility -->
+    <script language="javascript" type="text/javascript" src="js/lib_ext/modernizr.js"></script>
+    <script type='text/javascript' src="geo_loc-ver=1.65.6.js"></script>
+    <script type='text/javascript' src="https://wurfl.io/wurfl.js" async></script>
+    <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+    <script type='text/javascript' src="js/lib_ext/mailcheck-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="js/lib_ext/moment.min-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="js/lib_ext/numeral-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="js/lib_ext/jquery-3.2.1.min-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="js/lib_ext/PhoneFormat.js"></script>
+    <script language="javascript" type="text/javascript" src="lang/data_lang-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="lang/data_links_booxi-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="lang/locale-ver=1.65.6.js"></script>
+    <script language="javascript" type="text/javascript" src="js/build/core_alt2.min-ver=1.65.6.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/page_custom/for_dev.css" />
+    <link rel="stylesheet" type="text/css" href="css/legacy_nav_v2.css" />
+</head>
+
+<body onclick="utl_input_close_all()">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6J95P"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+
+    function checkCtrlBar()
+    {
+        //$('#_crtl_box').attr('logo', (''+(__gevt__.pageTop < $('#bar_ank').position().top)) );
+        setTimeout(hideLBX, 0);
+    }
+
+            var bxPageLang = "eng";
+        
+        function fnLocalLangOverride(lng)
+        {
+            var url = {
+                eng:'https://www.booxi.com/developers',
+                fre:'https://www.booxi.com/developpeurs',
+                spa:'https://www.booxi.com/developers',
+                nld:'https://www.booxi.com/developers',
+                por:'https://www.booxi.com/developers'};
+
+            if(url[lng] !== undefined)
+            {
+                var args = (__loc__ !== undefined) ? __loc__.search : '';
+                window.location = url[lng] + args;
+            }
+        }
+
+        
+    window.coreOnReady = function()
+    {
+        
+        //initControlBar(7); // for dev
+        utl_CountElemCtrlOption();
+
+        //dpdn_contact_subject.fnDisplayByValue('Web and mobile developers');
+
+        __gevt__.fnRegister('scroll', trigHideLBX);
+
+        core.fnCheck_isMobile();
+
+        __8trk__.mxpTrack("PV Developer");
+
+        __loc__.fnTriggerRootState();
+        delete window.coreOnReady;
+    };
+
+</script>
+
+<div id="overview" class="p_ank"></div>
+<div class="cbar W"></div>
+<div class="hero_box">
+
+    <div class="hb_inner" data-img="1">
+        <div class="crossfade_layer"></div>
+        <div class="gradLayer bk_gradV_EE0_EE1"></div>
+    </div>
+
+    <div class="hb_content">
+        <div class="pgbox hb_content_pad">
+
+            <div class="vcenter ovr_H">
+                <div class="vc_inner fnt_col555">
+                    <h1 class="nodef lh_SS tx_alg_C ovr_LR_A">
+                        <span class="tx_type_SS fnt_w7" bx_lang="fd_gen_01" >booxi is simple to integrate</span>                    </h1>
+                    <div class="sprow1"></div>
+                    <h2 class="nodef lh_Sp tx_alg_C ovr_LR_B">
+                        <span class="tx_type_S" bx_lang="fd_gen_02" >and makes it look like you worked hard!</span>                    </h2>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="pgbox bk_gradV_EE_F5 br_dash_bot_D9">
+    <div id="bar_ank"></div>
+    <div class="offset_top">
+        <div class="bxRel_mxStc">
+            <div class="pgb_nr">
+                <!-- href="#content" id_hash="content_api" onclick="fnNavSlide(this);" -->
+                <div class="fbx3 no_ul bxStc_mxRel">
+                    <a class="fbx3_bkg bkg_colFFF bx_shadw1" href="developers-utm_source=blog&amp;utm_campaign=get-online-visibility-in-8-simply-steps-with-a-tiny-budget&amp;utm_medium=article.html#content_api" id_hash="content_api" onclick="fnNavSlide(this);">
+                        <div class="W H bkg_hovGrad"></div>
+                    </a>
+                    <div class="bxRel padB_LR_2e avoid-clicks">
+                        <div class="sprow2"></div>
+                        <div class="feat_tile_icon bxRel" data-icon-img="content_api"></div>
+                        <div class="sprow1"></div>
+                        <div class="lh_B fnt_col555 fnt_w7 tx_alg_C">
+                            <span class="tx_type_B" bx_lang="fd_feat_01" >Content Integration API</span>                        </div>
+                        <div class="vmob">
+                            <div class="sprow1"></div>
+                            <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                                <span class="tx_type_C" bx_lang="fd_feat_02" >Integrate with our API and provide a CMS to your clients, so their website is always up to date.</span>                            </div>
+                            <div class="sprow2"></div>
+                            <div class="sprow1"></div>
+                        </div>
+                    </div>
+                </div><!--
+                    --><div class="fbx3 no_ul bxStc_mxRel">
+                    <a class="fbx3_bkg bkg_colFFF bx_shadw1" href="developers-utm_source=blog&amp;utm_campaign=get-online-visibility-in-8-simply-steps-with-a-tiny-budget&amp;utm_medium=article.html#appointment_api" id_hash="appointment_api" onclick="fnNavSlide(this);">
+                        <div class="W H bkg_hovGrad"></div>
+                    </a>
+                    <div class="bxRel padB_LR_2e avoid-clicks">
+                        <div class="sprow2"></div>
+                        <div class="feat_tile_icon bxRel" data-icon-img="appointments_api"></div>
+                        <div class="sprow1"></div>
+                        <div class="lh_B fnt_col555 fnt_w7 tx_alg_C">
+                            <span class="tx_type_B" bx_lang="fd_feat_03" >Appointment Booking API</span>                        </div>
+                        <div class="vmob">
+                            <div class="sprow1"></div>
+                            <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                                <span class="tx_type_C" bx_lang="fd_feat_04" >Let consumers book appointments online and save considerable time to your business clients.</span>                            </div>
+                            <div class="sprow2"></div>
+                            <div class="sprow1"></div>
+                        </div>
+                    </div>
+                </div><!--
+                    --><div class="fbx3 no_ul bxStc_mxRel">
+                    <a class="fbx3_bkg bkg_colFFF bx_shadw1" href="developers-utm_source=blog&amp;utm_campaign=get-online-visibility-in-8-simply-steps-with-a-tiny-budget&amp;utm_medium=article.html#directory_api" id_hash="directory_api" onclick="fnNavSlide(this);">
+                        <div class="W H bkg_hovGrad"></div>
+                    </a>
+                    <div class="bxRel padB_LR_2e avoid-clicks">
+                        <div class="sprow2"></div>
+                        <div class="feat_tile_icon bxRel" data-icon-img="directory_api"></div>
+                        <div class="sprow1"></div>
+                        <div class="lh_B fnt_col555 fnt_w7 tx_alg_C">
+                            <span class="tx_type_B" bx_lang="fd_feat_05" >Online Directory API</span>                        </div>
+                        <div class="vmob">
+                            <div class="sprow1"></div>
+                            <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                                <span class="tx_type_C" bx_lang="fd_feat_06" >Add a service providers or members directory with online appointment booking to your web project.</span>                            </div>
+                            <div class="sprow2"></div>
+                            <div class="sprow1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pgb_nr hmob avoid-clicks">
+                <div class="fbx3">
+                    <div class="bxRel padB_LR_2e">
+                        <div class="sprow1"></div>
+                        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                            <span class="tx_type_C" bx_lang="fd_feat_02" >Integrate with our API and provide a CMS to your clients, so their website is always up to date.</span>                        </div>
+                        <div class="sprow2"></div>
+                    </div>
+                </div><!--
+                --><a class="fbx3">
+                    <div class="bxRel padB_LR_2e">
+                        <div class="sprow1"></div>
+                        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                            <span class="tx_type_C" bx_lang="fd_feat_04" >Let consumers book appointments online and save considerable time to your business clients.</span>                        </div>
+                        <div class="sprow2"></div>
+                    </div>
+                </a><!--
+                --><a class="fbx3">
+                    <div class="bxRel padB_LR_2e">
+                        <div class="sprow1"></div>
+                        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C">
+                            <span class="tx_type_C" bx_lang="fd_feat_06" >Add a service providers or members directory with online appointment booking to your web project.</span>                        </div>
+                        <div class="sprow2"></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- ---------------------------- -->
+
+
+
+    <!-- Slide 0 -->
+    <div class="bxRel">
+        <div class="bkg_deco_left"></div>
+        <div class="bkg_deco_right"></div>
+
+        <div class="sprow10"></div>
+        <div class="pgb_nr padB_LR_20p padMob_LR_2e">
+            <div class="lh_S fnt_col555 fnt_w7 tx_alg_C">
+                <span class="tx_type_S" bx_lang="fd_gen_03" >If you are interested in bringing great value to your customers, give them booxi.</span>            </div>
+            <div class="sprow4"></div>
+            <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_C">
+                <span class="tx_type_A" bx_lang="fd_gen_04" >The online appointment booking and business solution suite that works for them.</span>            </div>
+        </div>
+
+        <div class="sprow10"></div>
+        <div class="pgb_nr">
+            <div class="fbx4x2">
+                <div class="mini_icon" data-img="1"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_07" >Services</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="2"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_08" >Personnel</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="3"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_09" >Appointments</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="4"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_10" >Clients</span>                </div>
+            </div>
+        </div>
+
+        <div class="sprow3 hmob"></div>
+        <div class="sprow2 vmob"></div>
+
+        <div class="pgb_nr">
+            <div class="fbx4x2">
+                <div class="mini_icon" data-img="5"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_11" >Photos</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="6"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_12" >Payment</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="7"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_13" >Analytics</span>                </div>
+            </div><!--
+        --><div class="fbx4x2">
+                <div class="mini_icon" data-img="8"></div>
+                <div class="sprow1"></div>
+                <div class="lh_A fnt_col555 tx_alg_C">
+                    <span class="tx_type_A" bx_lang="fd_feat_14" >Notifications</span>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sprow8"></div>
+</div>
+
+<div id="content_api" class="p_ank"></div>
+<!-- Slide 1 -->
+<div class="feat_section_icon" data-icon-img="content_api"></div>
+<div class="pgbox br_dash_bot_D9 bk_gradV_FF_F5 hideXY">
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow1"></div>
+    <div class="pgb_nr padB_LR_10p">
+        <div class="lh_S fnt_col555 fnt_w7 tx_alg_C">
+            <span class="tx_type_S" bx_lang="fd_gen_05" >Content Integration API</span>        </div>
+        <div class="sprow2"></div>
+        <div class="lh_Bp fnt_col555 fnt_w3 tx_alg_C">
+            <span class="tx_type_B" bx_lang="fd_gen_06" >Provide your clients with a seamless CMS that keeps their website always up to date. They already have to keep their personnel, service offer and pricing up to date to serve their clients, with booxi you can access that information using our Content API and make sure their website displays the latest information.</span>        </div>
+    </div>
+    <div class="sprow5 hmob"></div>
+    <div class="pgb_nr bxRel">
+        <div class="fbx2 padB_R4 pad_mX">
+            <div class="sprow10"></div>
+            <div class="lh_A fnt_colFFF fnt_w7 tx_alg_R_mC bxRel">
+                <div class="boxRadL bxD_inb bkg_col44CE padB_TB_1 padB_L2 pad_mF1">
+                    <span class="tx_type_A" bx_lang="fd_gen_07" >With booxi’s automatic updates, your business clients have one less worry.</span>                </div><!--
+                --><div class="bgBarRight bkg_col44CE"></div>
+            </div>
+            <div class="sprow3"></div>
+            <div class="lh_Bp fnt_col999 fnt_w3 tx_alg_R_mC">
+                <span class="tx_type_B" bx_lang="fd_gen_08" >We provide you a simple to use RESTful API to query content such as: services, personnel, open hours and address.</span>            </div>
+            <div class="sprow3"></div>
+            <div class="tx_alg_R_mC">
+                <a class="uie_button curPnt" btn_type="white_green" onclick="Intercom('show');">
+                    <div class="button_inner"><span bx_lang="common_06" >Contact us</span></div>
+                </a>
+            </div>
+            <div class="sprow3"></div>
+            <div class="sprow2 hmob"></div>
+            <div class="sprow5 hmob"></div>
+        </div><!--
+        --><div class="fbx2 hmob_in">
+            <div class="promo_img p_img_1 bxAbs_TB eye_hover" onclick="showLBX('/img/fordevelopers/feature_2_preview.png')"></div>
+        </div>
+        <div class="promo_img_mob vmob p_img_1"></div>
+    </div>
+    <div class="sprow8"></div>
+</div>
+
+<div id="appointment_api" class="p_ank"></div>
+<!-- Slide 2 -->
+<div class="feat_section_icon" data-icon-img="appointments_api"></div>
+<div class="pgbox br_dash_bot_D9 bk_gradV_FF_F5 hideXY">
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow1"></div>
+    <div class="pgb_nr padB_LR_10p">
+        <div class="lh_S fnt_col555 fnt_w7 tx_alg_C">
+            <span class="tx_type_S" bx_lang="fd_gen_09" >Appointment Booking Widget</span>        </div>
+        <div class="sprow2"></div>
+        <div class="lh_Bp fnt_col555 fnt_w3 tx_alg_C">
+            <span class="tx_type_B" bx_lang="fd_gen_10" >Save your business clients valuable time on a daily basis by letting consumers book appointments online. With a simple integration of our Book Now button in your clients websites, you provide them with a web and a mobile solution to manage appointments, clients and communications. All they need comes from you, and we pay to support it.</span>        </div>
+    </div>
+    <div class="sprow3"></div>
+    <div class="pgb_nr bxRel">
+        <div class="fbx2 hmob_in">
+            <div class="promo_img p_img_2 bxAbs_TB z1 eye_hover" onclick="showLBX('/img/fordevelopers/feature_3_preview.png')"></div>
+        </div><!--
+        --><div class="fbx2 padB_L4 pad_mX">
+            <div class="sprow7"></div>
+            <div class="lh_A fnt_colFFF fnt_w7 tx_alg_L_mC bxRel">
+                <div class="boxRadR bxD_inb bkg_col44CE padB_TB_1 padB_R2 pad_mF1">
+                    <span class="tx_type_A" bx_lang="fd_gen_11" >It is simple, it looks good and they’ll love you for it.</span>                </div><!--
+                --><div class="bgBarLeft bkg_col44CE"></div>
+            </div>
+            <div class="sprow3"></div>
+            <div class="lh_Bp fnt_col999 fnt_w3 tx_alg_L_mC">
+                <span class="tx_type_B" bx_lang="fd_gen_12" >We provide simple javascript code with a business account api key unique to your client. The book now experience stays in your website.</span>            </div>
+            <div class="sprow3"></div>
+
+            <div class="tx_alg_L_mC">
+                <a class="uie_button" btn_type="white_green" href="developers/booknow.html">
+                    <div class="button_inner"><span bx_lang="common_16" >Learn more</span></div>
+                </a>
+            </div>
+
+            <div class="sprow10"></div>
+        </div>
+        <div class="promo_img_mob vmob p_img_2"></div>
+    </div>
+    <div class="sprow6"></div>
+</div>
+
+<div id="directory_api" class="p_ank"></div>
+<!-- Slide 3 -->
+<div class="feat_section_icon" data-icon-img="directory_api"></div>
+<div class="pgbox bk_gradV_FF_F5 hideXY">
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+    <div class="sprow1"></div>
+    <div class="pgb_nr padB_LR_10p">
+        <div class="lh_S fnt_col555 fnt_w7 tx_alg_C">
+            <span class="tx_type_S" bx_lang="fd_gen_13" >Online Directory API</span>        </div>
+        <div class="sprow2"></div>
+        <div class="lh_Bp fnt_col555 fnt_w3 tx_alg_C">
+            <span class="tx_type_B" bx_lang="fd_gen_14" >Add a service providers or members directory with online appointment booking to your website project. This feature is perfect for any marketplace or association website, as it provides a simple to use directory widget with search and listing features. You also have access to a RESTful API that gives full control over the UI experience.</span>        </div>
+    </div>
+    <div class="sprow3"></div>
+    <div class="pgb_nr bxRel">
+        <div class="fbx2 padB_R2 pad_mX">
+            <div class="sprow7"></div>
+            <div class="lh_A fnt_colFFF fnt_w7 tx_alg_R_mC bxRel">
+                <div class="boxRadL bxD_inb bkg_col44CE padB_TB_1 padB_L2 pad_mF1">
+                    <span class="tx_type_A" bx_lang="fd_gen_15" >Ready to use widget and customizable CSS, or API to develop a custom user experience.</span>                </div><!--
+                --><div class="bgBarRight bkg_col44CE"></div>
+            </div>
+            <div class="sprow3"></div>
+
+            <div class="hmob_in W">
+                <div class="lh_Bp fnt_col999 fnt_w7 tx_alg_R_mC">
+                    <span class="tx_type_B" bx_lang="fd_gen_16" >Features</span>                </div>
+                <div class="sprow1"></div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_R_mC">
+                    <span class="tx_type_B bullet" bx_lang="fd_gen_16a" >List with profiles</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_R_mC">
+                    <span class="tx_type_B bullet" bx_lang="fd_gen_16b" >Search engine (what and where)</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_R_mC">
+                    <span class="tx_type_B bullet" bx_lang="fd_gen_16c" >Online appointment booking</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_R_mC">
+                    <span class="tx_type_B bullet" bx_lang="fd_gen_16d" >Admin console to manage member listing</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_R_mC">
+                    <span class="tx_type_B bullet" bx_lang="fd_gen_16e" >Self subscription</span>                </div>
+            </div>
+
+            <div class="vmob padMob_LR_2e">
+                <div class="lh_Bp fnt_col999 fnt_w7 tx_alg_L">
+                    <span class="tx_type_B" bx_lang="fd_gen_16" >Features</span>                </div>
+                <div class="sprow1"></div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_L">
+                    <span class="tx_type_B bullet_f" bx_lang="fd_gen_16a" >List with profiles</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_L">
+                    <span class="tx_type_B bullet_f" bx_lang="fd_gen_16b" >Search engine (what and where)</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_L">
+                    <span class="tx_type_B bullet_f" bx_lang="fd_gen_16c" >Online appointment booking</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_L">
+                    <span class="tx_type_B bullet_f" bx_lang="fd_gen_16d" >Admin console to manage member listing</span>                </div>
+                <div class="lh_Ap fnt_col999 fnt_w3 tx_alg_L">
+                    <span class="tx_type_B bullet_f" bx_lang="fd_gen_16e" >Self subscription</span>                </div>
+
+            </div>
+
+            <div class="sprow10 hmob"></div>
+            <div class="sprow1"></div>
+        </div><!--
+        --><div class="fbx2 hmob_in">
+            <div class="promo_img p_img_3 bxAbs_TB eye_hover" onclick="showLBX('/img/fordevelopers/feature_4_preview.png')"></div>
+        </div>
+        <div class="promo_img_mob vmob p_img_3"></div>
+    </div>
+
+    <div class="sprow3"></div>
+    <div class="sprow3"></div>
+
+        <div class="bxRel_mxStc">
+        <div class="pgb_nr">
+            <div class="tbx3m1 no_ul bxStc_mxRel">
+        <a class="tbx3m1_bkg bkg_colFFF bx_shadw1" bx_link="associations" href="associations-schools.html" >
+            <div class="W H bkg_hovGrad"></div>
+        </a>
+        <div class="bxRel padB_LR_2e avoid-clicks">
+            <div class="sprow2"></div>
+            <div class="feat_tile_icon" data-icon-img="partners"></div>
+            <div class="sprow1"></div>
+            <div class="bxRel lh_B fnt_col555 fnt_w7 tx_alg_C padMob_LR_2e">
+                <span class="tx_type_B" bx_lang="fp_gen_05" >booxi - For Associations</span>            </div>
+            <div class="vmob">
+                <div class="sprow1"></div>
+                <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+                    <span class="tx_type_C" bx_lang="ft_b_13" >Show your members and students the way to success.</span>                </div>
+                <div class="sprow2"></div>
+            </div>
+        </div>
+    </div><div class="tbx3m1 no_ul bxStc_mxRel">
+        <a class="tbx3m1_bkg bkg_colFFF bx_shadw1" bx_link="business" href="business.html" >
+            <div class="W H bkg_hovGrad"></div>
+        </a>
+        <div class="bxRel padB_LR_2e avoid-clicks">
+            <div class="sprow2"></div>
+            <div class="feat_tile_icon" data-icon-img="business"></div>
+            <div class="sprow1"></div>
+            <div class="bxRel lh_B fnt_col555 fnt_w7 tx_alg_C padMob_LR_2e">
+                <span class="tx_type_B" bx_lang="ft_a_05" >booxi - For Business</span>            </div>
+            <div class="vmob">
+                <div class="sprow1"></div>
+                <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+                    <span class="tx_type_C" bx_lang="ft_b_05" >Sign up a business today to start taking appointments 24/7.</span>                </div>
+                <div class="sprow2"></div>
+            </div>
+        </div>
+    </div><div class="tbx3m1 no_ul bxStc_mxRel">
+        <a class="tbx3m1_bkg bkg_colFFF bx_shadw1" bx_link="technology" href="technology.html" >
+            <div class="W H bkg_hovGrad"></div>
+        </a>
+        <div class="bxRel padB_LR_2e avoid-clicks">
+            <div class="sprow2"></div>
+            <div class="feat_tile_icon" data-icon-img="technology"></div>
+            <div class="sprow1"></div>
+            <div class="bxRel lh_B fnt_col555 fnt_w7 tx_alg_C padMob_LR_2e">
+                <span class="tx_type_B" bx_lang="ft_a_03" >booxi - Technology</span>            </div>
+            <div class="vmob">
+                <div class="sprow1"></div>
+                <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+                    <span class="tx_type_C" bx_lang="ft_b_03" >Tailored solutions that fit your needs and your brand.</span>                </div>
+                <div class="sprow2"></div>
+            </div>
+        </div>
+    </div>        </div>
+        <div class="sprow1 hmob avoid-clicks"></div>
+        <div class="pgb_nr hmob bxRel avoid-clicks">
+            <div class="tbx3m1 padB_LR_2e">
+        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+            <span class="tx_type_C" bx_lang="ft_b_13" >Show your members and students the way to success.</span>        </div>
+    </div><div class="tbx3m1 padB_LR_2e">
+        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+            <span class="tx_type_C" bx_lang="ft_b_05" >Sign up a business today to start taking appointments 24/7.</span>        </div>
+    </div><div class="tbx3m1 padB_LR_2e">
+        <div class="lh_C fnt_col999 fnt_w3 tx_alg_C padMob_LR_2e">
+            <span class="tx_type_C" bx_lang="ft_b_03" >Tailored solutions that fit your needs and your brand.</span>        </div>
+    </div>        </div>
+        <div class="sprow2 hmob"></div>
+    </div>
+    
+    <div class="sprow5"></div>
+</div>
+
+<div id="_crtl_box2" class="bxFxd_top bkg_colF5F">
+    <div class="W H bxRel">
+
+        <div id="bx-nav_ank1" class="bxAbs_TL H z1">
+
+            <a class="bxD_inb bkg_col44CE PL-2 PR-2 mg-T1 mg-L1" href="index.html" style="border-radius: 4em; top: -1em;">
+                <img src="img/v2/common/logo_booxi_w_mobile.svg">
+            </a>
+
+        </div>
+
+        <div class="cbar W">
+            <div class="W H bxRel bxBorder fnt_colFFF hmob tx_alg_R">
+                <span id="bx-nav_ank2" class="bxAbs bxD_inb fnt_col555" data-menu-short="false"></span>
+                <div class="bx_nav_pc bxD_inb H bxRel">
+                    <a class="lgbx_bt_menu no_ul" bx_link="feat_page" href="features.html">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="op_head_09" >Features</span></a>
+<a class="lgbx_bt_menu no_ul" bx_link="pricing" href="business/pricing.html">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="sn_menu_16" >Pricing</span></a>
+<a class="lgbx_bt_menu no_ul" bx_link="blog" href="blog/index-en/index.html">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="sn_menu_15" >Blog</span></a>
+<a class="lgbx_bt_menu no_ul" bx_link="bizlogin" href="https://app.booxi.com/?locale=en#login">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="op_head_07" >Sign in</span></a>
+<a class="lgbx_bt_menu_special no_ul" bx_link="signup" href="business/signup.html">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="op_head_06" >Free Trial</span></a>
+
+<div class="H bxBorder bxD_inb padB_LR_2e bxh_parent cbarVDiv curPnt" onclick="utlBxhClick(this, event);" data-menu-open="false">
+
+    <div class="H PL-1 PR-1 hov66p no_ul">
+        <div class="bxD_inb H W2 bkgImg_center_center" style="background-image: url('img/icons/svg/drop_d_b.svg');"></div>
+        <div class="bxD_inb H W3 bkgImg_center_center" style="background-image: url('img/v2/icons/svg/languages_b.svg');"></div>
+    </div>
+
+    <div class="bxh_menu tx_alg_L" data-fright="true">
+        <div class="bxh_display bxShdw_1">
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetEng();" data-value="eng" data-idx="0">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">English</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetFre();" data-value="fre" data-idx="1">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">Français</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+                </div>
+                <div class="bx_nav_pc_short bxD_inb H bxRel">
+                    <div class="H bxBorder bxD_inb padB_LR_2e bxh_parent cbarVDiv curPnt" onclick="utlBxhClick(this, event);" data-menu-open="false">
+
+    <div class="H PL-1 PR-1 curPnt hov66p_targ_parent" style="line-height: 6em;">
+        <span class="fx_fnt_18 fnt_w7 fnt_col999">Menu</span>
+        <div class="bxD_inb H W2 bkgImg_center_center hov66p_target" style="background-image: url('img/icons/svg/drop_d_b.svg');"></div>
+    </div>
+
+    <div class="bxh_menu tx_alg_L" data-fright="true">
+        <div class="bxh_display bxShdw_1">
+            <a class="bxD_inb W bxh_item PL-6 bxRel no_ul" bx_link="feat_page" href="features.html">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20" bx_lang="op_head_09" >Features</span>                </div>
+                <div class="fxsprow2"></div>
+            </a>
+            <a class="bxD_inb W bxh_item PL-6 bxRel no_ul" bx_link="pricing" href="business/pricing.html">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20" bx_lang="sn_menu_16" >Pricing</span>                </div>
+                <div class="fxsprow2"></div>
+            </a>
+            <a class="bxD_inb W bxh_item PL-6 bxRel no_ul" bx_link="blog" href="blog/index-en/index.html">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20" bx_lang="sn_menu_15" >Blog</span>                </div>
+                <div class="fxsprow2"></div>
+            </a>
+            <a class="bxD_inb W bxh_item PL-6 bxRel no_ul" bx_link="bizlogin" href="https://app.booxi.com/?locale=en#login">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20" bx_lang="op_head_07" >Sign in</span>                </div>
+                <div class="fxsprow2"></div>
+            </a>
+
+
+        </div>
+    </div>
+</div><a class="lgbx_bt_menu_special no_ul" href="business/signup.html">
+    <span class="fx_fnt_18 fnt_w7 fnt_col999" bx_lang="op_head_06" >Free Trial</span></a>
+<div class="H bxBorder bxD_inb padB_LR_2e bxh_parent cbarVDiv curPnt" onclick="utlBxhClick(this, event);" data-menu-open="false">
+
+    <div class="H PL-1 PR-1 hov66p no_ul">
+        <div class="bxD_inb H W2 bkgImg_center_center" style="background-image: url('img/icons/svg/drop_d_b.svg');"></div>
+        <div class="bxD_inb H W3 bkgImg_center_center" style="background-image: url('img/v2/icons/svg/languages_b.svg');"></div>
+    </div>
+
+    <div class="bxh_menu tx_alg_L" data-fright="true">
+        <div class="bxh_display bxShdw_1">
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetEng();" data-value="eng" data-idx="0">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">English</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetFre();" data-value="fre" data-idx="1">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">Français</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+                </div>
+            </div>
+
+            <div class="W H bxRel bxBorder fnt_colFFF vmob">
+                <!--
+                <div class="H bxAbs">
+                    <a class="H bxD_inb cbar_logo cbarVDiv cbarHL bxRel PR-2 PL-2" bx_link="home" href="https://www.booxi.com/en" >
+    <img class="bxVAlg_C logo_hack_a" src="https://www.booxi.com/img/common/logo_booxi_w_mobile.svg">
+    <img class="bxVAlg_C logo_hack_b" src="https://www.booxi.com/img/common/logo_booxi_w_.svg">
+</a>
+                </div>
+                -->
+                <div class="H floatR bxRel">
+                    <div class="H bxBorder bxD_inb padB_LR_2e bxh_parent cbarVDiv curPnt" onclick="utlBxhClick(this, event);" data-menu-open="false">
+
+    <div class="H PL-1 PR-1 hov66p no_ul">
+        <div class="bxD_inb H W2 bkgImg_center_center" style="background-image: url('img/icons/svg/drop_d_b.svg');"></div>
+        <div class="bxD_inb H W3 bkgImg_center_center" style="background-image: url('img/v2/icons/svg/languages_b.svg');"></div>
+    </div>
+
+    <div class="bxh_menu tx_alg_L" data-fright="true">
+        <div class="bxh_display bxShdw_1">
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetEng();" data-value="eng" data-idx="0">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">English</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+            <div class="bxD_inb W bxh_item PL-6 bxRel no_ul" onclick="fnxLngSetFre();" data-value="fre" data-idx="1">
+                <div class="fxsprow2"></div>
+                <div class="fx_lineH_20 fnt_col555">
+                    <span class="fx_fnt_20">Français</span>
+                </div>
+                <div class="fxsprow2"></div>
+            </div>
+                    </div>
+    </div>
+</div>
+                    <div class="H bxD_inb bxRel W8 tx_alg_C cbarHL bxRel PR-2 PL-2 hov66p curPnt" onclick="core.fnBxNav_togMobMenu();">  <!--  href="#menu" -->
+    <img class="bxVAlg_C" src="img/icons/svg/menu_b.svg">
+</div>                </div>
+            </div>
+        </div>
+        <div class="bxAbs_L W bsol-B-col15p"></div>
+    </div>
+</div>
+<div id="bx-nav_mob_overlay_menu" class="W H bkg_colF5F" data-is-open="false">
+    <div class="cbar"></div>
+    <div class="W H PL-2 PR-2" style="overflow-y: auto;">
+        <div class="fxsprow2"></div>
+        <a class="bkgCol_rgba_0 hov_bkg_col05p bxD_inb W H6 bsol-B-col15p no_ul" style="line-height: 6em;"
+           bx_link="feat_page" href="features.html">
+            <span class="vfnt_20 fnt_col999 fnt_w7" bx_lang="op_head_09" >Features</span>        </a>
+        <a class="bkgCol_rgba_0 hov_bkg_col05p bxD_inb W H6 bsol-B-col15p no_ul" style="line-height: 6em;"
+           bx_link="pricing" href="business/pricing.html">
+            <span class="vfnt_20 fnt_col999 fnt_w7" bx_lang="sn_menu_16" >Pricing</span>        </a>
+        <a class="bkgCol_rgba_0 hov_bkg_col05p bxD_inb W H6 bsol-B-col15p no_ul" style="line-height: 6em;"
+           bx_link="blog" href="blog/index-en/index.html">
+            <span class="vfnt_20 fnt_col999 fnt_w7" bx_lang="sn_menu_15" >Blog</span>        </a>
+        <div class="fxsprow2"></div>
+        <div class="W">
+            <div class="bxD_inb" style="width:50%;">
+                <a class="bx_button W tx_alg_C br_rf_6_left no_ul"
+                   bx_link="bizlogin" href="https://app.booxi.com/?locale=en#login">
+                    <span class="vfnt_20 fnt_w7 fnt_col555" bx_lang="op_head_07" >Sign in</span>                </a>
+            </div><!--
+            --><div class="bxD_inb" style="width:50%;">
+                <a class="bx_button bt_style_blue W tx_alg_C br_rf_6_right no_ul"
+                   bx_link="signup" href="business/signup.html">
+                    <span class="vfnt_20 fnt_w7 fnt_colFFF" bx_lang="op_head_06" >Free Trial</span>                </a>
+            </div>
+        </div>
+        <div class="fxsprow2"></div>
+        <div class="fxsprow4"></div>
+        <div class="W">
+            <a class="foot_link_img no_ul" href="tel:18776926694">
+                <img class="H6" src="img/v2/footer/footer_talk-expert_en_b.svg"> <!-- /img/footer/footer_talk-expert_en_b.svg -->
+            </a><!--
+            --><a class="foot_link_img no_ul" target="_blank" bx_link="web_store_apple" href="https://itunes.apple.com/ca/app/booxi-for-business/id742658170?mt=8&amp;uo=4&amp;l=en">
+                <img class="H6" src="img/v2/footer/footer_app-store_en_b.svg"> <!-- /img/footer/footer_app-store_en_b.svg   -->
+            </a><!--
+            --><a class="foot_link_img no_ul" target="_blank" bx_link="web_store_google" href="https://play.google.com/store/apps/details?id=com.booxi.merchant&amp;hl=en">
+                <img class="H6" src="img/v2/footer/footer_google-play_en_b.svg"> <!-- /img/footer/footer_google-play_en_b.svg  -->
+            </a>
+            <div class="fxsprow2"></div>
+            <div class="footer_social_box bxBorder">
+                <a class="foot_link_social bxBorder bsol-R-col15p no_ul" target="_blank" href="https://www.facebook.com/booxicom">
+                    <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_facebook_b.svg');"></div>
+                </a><!--
+                --><a class="foot_link_social bxBorder bsol-R-col15p no_ul" target="_blank" href="https://twitter.com/booxicom">
+                    <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_twitter_b.svg');"></div>
+                </a><!--
+                --><a class="foot_link_social bxBorder bsol-R-col15p no_ul" target="_blank" href="https://www.linkedin.com/company/booxi">
+                    <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_linkedin_b.svg');"></div>
+                </a><!--
+                --><a class="foot_link_social bxBorder bsol-R-col15p no_ul" target="_blank" href="https://plus.google.com/+booxicom/posts">
+                    <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_googleplus_b.svg');"></div>
+                </a><!--
+                --><a class="foot_link_social no_ul" target="_blank" href="https://www.youtube.com/channel/UCMNYIrJIXDZ6WWHUclnK28Q">
+                    <div class="H6 W bkgImg_center_center" style="background-image: url('img/v2/icons/svg/youtube_b.svg');"></div>
+                </a>
+            </div>
+            <div class="fxsprow2"></div>
+            <div class="W tx_alg_C fnt_col">
+                <span class="fx_fnt_14">booxi inc. &copy; 2017. </span>
+                <span class="fx_fnt_14" bx_lang="common_23" >All rights reserved.</span>            </div>
+        </div>
+    </div>
+
+
+</div><script>
+
+    function footLinkToggle(ele)
+    {
+        var openState = ele.parentNode.getAttribute('data-is-open');
+        openState = (openState != 'true') ? true : false;
+        ele.parentNode.setAttribute('data-is-open', openState);
+    }
+
+</script>
+
+<footer id="bx_page_footer" class="W bkg_colEEE">
+    <div class="W bdash-T-col15p"></div>
+    <div class="fxsprow6"></div>
+
+    <div class="bx_footer_box mrgAuto">
+        <div class="pgflex_box_start">
+            <div class="fxt_2x1f_1024">
+                <div class="pgflex_box_start">
+                    <div class="fxt_x3f_hack">
+                        <!-- col 1 -->
+                        <div class="footer_link_set_box bxRel" data-is-open="false">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt avoid-clicks"></div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">
+                                <span class="fx_fnt_20" bx_lang="ft_xp2_03" >Business</span>                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" bx_link="vp__salon" href="b/salon-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__salon" >Salon Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__massage_therapy" href="b/massage-therapy-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__massage_therapy" >Massage Therapy Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__nail_salon" href="b/nail-salon-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__nail_salon" >Nail Salon Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__nutritionist" href="b/nutritionist-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__nutritionist" >Nutritionist Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__pet_grooming" href="b/pet-grooming-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__pet_grooming" >Pet Grooming Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__osteopath" href="b/osteopath-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__osteopath" >Osteopaths Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__eyelash" href="b/eyelash-extension-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__eyelash" >Eyelash Extension Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__chiropractor" href="b/chiropractor-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__chiropractor" >Chiropractor Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__bike_shop" href="b/bike-shop-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__bike_shop" >Bike Shop Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__beauty" href="b/beauty-salon-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__beauty" >Beauty Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__tanning_salon" href="b/tanning-salon-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__tanning_salon" >Tanning Salon Software</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="vp__tattoo" href="b/tattoo-shop-software/index.html" ><span class="fx_fnt_14" bx_lang="vp__tattoo" >Tattoo Software</span></a></div>                            </div>
+                        </div>
+
+                    </div>
+                    <!--
+                    <div class="fxt_x4f">
+
+                        <div class="footer_link_set_box bxRel" data-is-open="false">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt"</div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">>
+                                <span class="fx_fnt_20">Integrations</span>
+                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Shopify</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Lightspeed retail</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Lightspeed eComm</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Wordpress</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Weebly</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Web.com</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Wix</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Stripe</span></a></div><div class="W fnt_w3"><a class="foot_link" href="" ><span class="fx_fnt_14">Prestashop</span></a></div>                            </div>
+                        </div>
+                    </div>
+                    -->
+                    <div class="fxt_x3f_hack">
+                        <!-- col 3 -->
+                        <div class="footer_link_set_box bxRel" data-is-open="false">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt avoid-clicks"></div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">
+                                <span class="fx_fnt_20" bx_lang="sn_menu_17" >Company</span>                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" bx_link="about" href="about.html" ><span class="fx_fnt_14" bx_lang="sn_menu_09" >About us</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="blog" href="blog/index-en/index.html" ><span class="fx_fnt_14" bx_lang="sn_menu_15" >Blog</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="press" href="about/press.html" ><span class="fx_fnt_14" bx_lang="sn_menu_10" >Press kit</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="legal" href="about/privacy-legal.html" ><span class="fx_fnt_14" bx_lang="sn_menu_13" >Legal terms</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="business_faq" href="business/faq.html" ><span class="fx_fnt_14">FAQ</span></a></div>                            </div>
+                        </div>
+                        <div class="footer_link_set_box bxRel" data-is-open="false">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt avoid-clicks"></div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">
+                                <span class="fx_fnt_20" bx_lang="op_head_02" >Partners</span>                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" bx_link="parnters_pages" href="partners/index-en/index.html" ><span class="fx_fnt_14" bx_lang="sn_menu_21" >Partner Integrations</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="associations" href="associations-schools.html" ><span class="fx_fnt_14" bx_lang="sn_menu_14" >Associations</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="developers" href="developers.html" ><span class="fx_fnt_14" bx_lang="op_head_03" >Developers</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="affiliates" href="affiliates.html" ><span class="fx_fnt_14" bx_lang="sn_menu_08" >Affiliate Program</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="technology" href="technology.html" ><span class="fx_fnt_14" bx_lang="op_head_04" >Technology</span></a></div>                            </div>
+                        </div>
+                    </div>
+                    <div class="fxt_x3f_hack">
+                        <!-- col 4 -->
+                        <div class="footer_link_set_box bxRel" data-is-open="false">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt avoid-clicks"></div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">
+                                <span class="fx_fnt_20" bx_lang="sn_menu_18" >Customers</span>                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" bx_link="bizlogin" href="https://app.booxi.com/?locale=en#login" ><span class="fx_fnt_14" bx_lang="op_head_07" >Sign in</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="signup" href="business/signup.html" ><span class="fx_fnt_14" bx_lang="op_head_06" >Free Trial</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="search" href="https://site.booxi.com/" ><span class="fx_fnt_14" bx_lang="com_feedback_06" >Business Directory</span></a></div><div class="W fnt_w3"><a class="foot_link" bx_link="help_center" href="http://help.booxi.com/english" ><span class="fx_fnt_14" bx_lang="sn_menu_19" >Help center</span></a></div><div class="W fnt_w3"><a class="foot_link" onclick="Intercom('show');" ><span class="fx_fnt_14" bx_lang="sn_menu_20" >Contact support</span></a></div>                            </div>
+                        </div>
+                        <div class="footer_link_set_box bxRel" data-is-open="true">
+                            <div class="footer_toggle_icon bxAbs_TR H6 W6 bkgImg_center_center hov66p curPnt avoid-clicks"></div>
+                            <div class="footer_link_set_label W fnt_col999 fnt_w7" onclick="footLinkToggle(this);">
+                                <span class="fx_fnt_20" bx_lang="ft_web_07" >Contact</span>                            </div>
+                            <div class="footer_link_content">
+                                <div class="W fnt_w3"><a class="foot_link" onclick="Intercom('show');" ><span class="fx_fnt_14" bx_lang="ft_xp2_30" >Talk to an expert</span></a></div><div class="W fnt_w3"><a class="foot_link" href="developers.html" ><span class="fx_fnt_14">English</span></a></div><div class="W fnt_w3"><a class="foot_link" href="developpeurs.html" ><span class="fx_fnt_14">Francais</span></a></div>                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="fxt_2x1f_1024 foot_icon_box">
+                <!-- col 5 -->
+
+                <a class="foot_link_img" href="tel:18776926694">
+                    <img class="H6" src="img/v2/footer/footer_talk-expert_en_b.svg">
+                </a>
+
+                <a class="foot_link_img" target="_blank" href="https://itunes.apple.com/ca/app/booxi-for-business/id742658170?mt=8&amp;uo=4&amp;l=en">
+                    <img class="H6" src="img/v2/footer/footer_app-store_en_b.svg">
+                </a>
+
+                <a class="foot_link_img" target="_blank" href="https://play.google.com/store/apps/details?id=com.booxi.merchant&amp;hl=en">
+                    <img class="H6" src="img/v2/footer/footer_google-play_en_b.svg">
+                </a>
+
+                <div class="footer_social_box bxBorder">
+                    <a class="foot_link_social bxBorder bsol-R-col15p" target="_blank" href="https://www.facebook.com/booxicom">
+                        <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_facebook_b.svg');"></div>
+                    </a><!--
+                    --><a class="foot_link_social bxBorder bsol-R-col15p" target="_blank"  href="https://twitter.com/booxicom">
+                        <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_twitter_b.svg');"></div>
+                    </a><!--
+                    --><a class="foot_link_social bxBorder bsol-R-col15p" target="_blank" href="https://www.linkedin.com/company/booxi">
+                        <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_linkedin_b.svg');"></div>
+                    </a><!--
+                    --><a class="foot_link_social bxBorder bsol-R-col15p" target="_blank" href="https://plus.google.com/+booxicom/posts">
+                        <div class="H6 W bkgImg_center_center" style="background-image: url('img/icons/svg/contact_googleplus_b.svg');"></div>
+                    </a><!--
+                    --><a class="foot_link_social" target="_blank" href="https://www.youtube.com/channel/UCMNYIrJIXDZ6WWHUclnK28Q">
+                        <div class="H6 W bkgImg_center_center" style="background-image: url('img/v2/icons/svg/youtube_b.svg');"></div>
+                    </a>
+                </div>
+                <div class="fxsprow2"></div>
+                <div class="W tx_alg_C fnt_col">
+                    <span class="fx_fnt_14">booxi inc. &copy; 2017. </span>
+                    <span class="fx_fnt_14" bx_lang="common_23" >All rights reserved.</span>                </div>
+
+            </div>
+
+        </div>
+
+    </div> <!-- end bx footer -->
+
+    <div class="fxsprow6"></div>
+</footer>
+
+    <script>window.intercomSettings = {app_id: "hnxk2305"};</script>
+    <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/hnxk2305';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+    
+    <!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/467250.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+    <!-- End of Async HubSpot Analytics Code -->
+
+     <!-- Hotjar Tracking Code for www.booxi.com -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:340148,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+     <!-- start Mixpanel -->
+    <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+            for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+        mixpanel.init("27d8ff6704ee7f9f2f508e6154a2496e");</script>
+    <!-- end Mixpanel -->
+</body>
+</html>

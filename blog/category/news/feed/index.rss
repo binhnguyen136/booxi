@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; News</title>
+	<atom:link href="https://www.booxi.com/blog/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Increase Your Customer Retention With Automated Appointment Recall Reminders</title>
+		<link>https://www.booxi.com/blog/automated-appointment-recall-reminder/</link>
+		<comments>https://www.booxi.com/blog/automated-appointment-recall-reminder/#comments</comments>
+		<pubDate>Tue, 17 Oct 2017 21:11:04 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[customer retention]]></category>
+		<category><![CDATA[online booking]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1416</guid>
+		<description><![CDATA[Build repeat business with automated rebooking reminders. An efficient way to boost your customer retention. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1568 size-full" src="https://lh3.googleusercontent.com/7QdBPh1WkLbGHc8JE3HzLF9U3PjwoO4XHaF1mfB8iK-hr5mLerl6ckWn4li7ZQOPwYLxNGMqFBK3d_kDQlWvpw=s0" alt="appointment recall reminder" width="1200" height="600" /></p>
+<p>You can now easily schedule automated message to remind your customers to book a new appointment with you, in due time. Since calling every customers is not a viable option, most service providers suffer the lost. Which is why booxi can do it all for you and simplify things even more.</p>
+<ul>
+<li>Enable Appointment Recall in booxi</li>
+<li>Schedule Recall Reminders in One Click</li>
+<li>Book A Next Appointment While the Customer is There</li>
+<li>Automate Everything</li>
+</ul>
+<p><b>Enable Appointment Recall<br />
+</b>You can easily enable the Appointment Recall feature from your Business Appointment Rules. You can set a default delay, for example 20 days, if you would like booxi to send your customer an email reminder in 20 days, for most of your appointments. You will be able to change this delay for every appointment recall reminders.</p>
+<p><img class="shadow_small aligncenter wp-image-1453 size-full" src="https://lh3.googleusercontent.com/tPFOrVrXsuJlz_jwMz1df0pceIWcukzdjG3nwhdNQ4fCegOtHlmJ7KvP3jGFADchiMgyVv88GWnQHe3TZGQzpA=s0" alt="appointment recall " width="586" height="298" /></p>
+<p><b>Schedule Recall Reminders in One Click<br />
+</b>Once you have enabled Appointment Recall, you will be able to set an automated reminder for your customer, whenever you complete an appointment. Simply click on Complete and you’re done, disable the reminder or adjust the reminder settings prior to completing the appointment. Since recall reminders are sent via email, if the customer did not provide an email address, you will be able to add one at this time.</p>
+<p><img class="aligncenter wp-image-1566 size-full" src="https://lh3.googleusercontent.com/E877n1Qf9rZGyOEimN-fDKlvbW9Ugqco288Vkvi5hc3Zwd_3XUJuCuMkItk-0f_U1T4vC3Rq2JRDuym_KH0Y=s0" alt="complete this appointment" width="935" height="770" /></p>
+<p>&nbsp;</p>
+<ol>
+<li>Right-Click on the appointment and select Complete. The Complete confirmation popup will be displayed, providing you more options.</li>
+<li>You can choose to schedule a recall reminder, complete without reminder, or Book the next appointment now. Choose to Schedule a recall reminder.</li>
+<li>Select the service to propose, which is by default set to the same service as the appointment you are about to complete.</li>
+<li>Select the personnel to propose, which is by default also set to the same personnel as the appointment you are about to complete.</li>
+<li>Adjust the delay, or a specify a date on which the reminder will be sent.</li>
+<li>You may also add an additional message, or simply leave it blank.</li>
+<li>Finally, click on Complete and the appointment recall reminder will be scheduled and automatically sent in due time.</li>
+<li>If you choose to Complete without reminder, or Book the next appointment now, no recall reminder will be scheduled.</li>
+</ol>
+<p>If you or your client book a new appointment for the same service and client before the automated recall reminder is sent, that reminder will be automatically cancelled, avoiding any confusion for your customer.</p>
+<p>You can cancel or change the appointment recall reminder by reopening the appointment, and complete it again. Whenever a completed appointment is reopen, the associated scheduled appointment recall reminder is automatically cancelled.</p>
+<p><b>Book A Next Appointment While the Customer is There<br />
+</b>You can now book a next appointment faster, while your customer is still at your store. When you complete an appointment, you can now choose to Book the next appointment now. It creates a new appointment identical to the current one, and you simply set a different date and time.</p>
+<ol>
+<li>Right-Click on the appointment and select Complete.</li>
+<li>Choose Book the next appointment now in the confirmation dialog.</li>
+<li>Click on Complete at the bottom of the dialog, and a new copy of the appointment will open on the right.</li>
+<li>Simply change the appointment date and time, and click on Save.</li>
+</ol>
+<p><b>Automate Everything<br />
+</b>You can save even more time by putting your appointment on auto complete. If you set the Complete Appointment Business Appointment Rule to automatic and adjust the delay, appointments will be automatically completed past that delay after the appointment. When completed, the appointment recall reminder will also automatically be scheduled using the default delay and for clients with an email adresse.</p>
+<ul>
+<li>Make sure the Appointment Recall feature is on with a delay that suits most of your services.</li>
+<li>Turn the Complete Appointment feature on, and adjust the delay.</li>
+<li>Both features can be found in your Business Appointment Rules.<img class="shadow_small aligncenter wp-image-1455 size-full" src="https://lh3.googleusercontent.com/yrftYJtQW8VrYMO1FKGIwrPJB69lhc9wEo-dEW8Pv5EUZB8SS0vWsAV8xTElG6h-HZr-rPNXeCcE8itZpMXvqA=s0" alt="complete appointment" width="584" height="296" /></li>
+</ul>
+<p>Booking a next appointment, or sending a reminder to book again to your customer will contribute greatly in increasing your customer retention, and help you improve your revenues.</p>
+<p style="text-align: center"><strong><br />
+Boost your customer retention by using booxi<br />
+</strong><br />
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started </a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/automated-appointment-recall-reminder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Want booxi free for life?</title>
+		<link>https://www.booxi.com/blog/want-booxi-free-for-life/</link>
+		<comments>https://www.booxi.com/blog/want-booxi-free-for-life/#comments</comments>
+		<pubDate>Thu, 15 Jun 2017 17:55:29 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1195</guid>
+		<description><![CDATA[Share your unique referral link and get one free month for each friend that activates a booxi account. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1201 size-full" src="https://lh3.googleusercontent.com/c1W-yolvIVUk8x3VLgoLBOn4pRYGcqKmVeonMfgGdELTt1TkS208UwRjxOlRMuUch06U_Bq-vIe5k3gNit9Zsw=s0" alt="refer someone" width="1200" height="600" />Share your unique referral link and get one free month for each friend that activates a booxi account.</p>
+<p>Here are the steps to find your referral code:</p>
+<ol>
+<li>Sign into your booxi account,</li>
+<li>And click on the “heart”</li>
+<li>A pop-up appears with your unique referral link,</li>
+<li>Copy it and share it on all the places you want: your Facebook page, Facebook groups, email&#8230;
+<p><img class="img_zoom aligncenter size-full wp-image-1250" src="https://lh3.googleusercontent.com/yXNsZF3WAByptZMjTJiRRMJ3-Nf8unW_P9mF1tw8Nkq3S_18VNiDLGV7bbWhl5stPXQiX56IimTDvDmQ1XnA3Q=s0" alt="referral-program" /></li>
+</ol>
+<p style="text-align: center"><b>There is no limit to the number of free months you can earn!<br />
+More referrals = more free booxi! </b></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/want-booxi-free-for-life/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

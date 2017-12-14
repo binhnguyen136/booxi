@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; customer</title>
+	<atom:link href="https://www.booxi.com/blog/tag/customer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Merge Duplicate Client Records and Keep a Healthy Client List</title>
+		<link>https://www.booxi.com/blog/merge-client-list/</link>
+		<comments>https://www.booxi.com/blog/merge-client-list/#comments</comments>
+		<pubDate>Thu, 09 Nov 2017 16:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[customer]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1603</guid>
+		<description><![CDATA[With booxi, you can easily merge duplicate client records to keep a clean client list. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1623 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/merging-client2.png" alt="merging client" width="1200" height="600" /><br />
+You can now search for client record duplicates, and merge multiple selected records into one, without losing your appointment history.</p>
+<ul>
+<li>Search for Duplicates</li>
+<li>Merge Client Records</li>
+</ul>
+<p><strong>Search for Duplicates</strong></p>
+<p>Using the search icon at the top of the client list, you can search for a partial client name, or a phone number to find duplicate client records. Use this to find, select and merge duplicate, so you keep a clean and healthy client list.</p>
+<ol>
+<li>Go to your client list, by clicking on the main menu Clients section.</li>
+<li>Click on the button at the top of the client list.</li>
+<li>Type in a partial name, or phone number.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1605" src="https://lh3.googleusercontent.com/NXJUJ2eNpvL2el6bFwSp8wkYcXr8t8qyV3RBSC2PPsIfpoqX8lTqxJlEZkrMVoU-yj-RdSR8u6y4JzkcZj73VA=s0" alt="search bar" /></li>
+<li>Click on the button again to launch the search, or simply hit the Enter key.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1606" src="https://lh3.googleusercontent.com/Jk42ECTznC3itkatE2jrrbvTmI7Bbi8GOCVnOVDC3BtnnxHbPqEToIPRpMZ5rJ9otb7Nwr0eaY25LHVYUqS1iw=s0" alt="client names search" /></li>
+<li>The search result will be listed below, and you can select multiple client records, or get back to the full list by cancelling the search using the button.
+<p></br><img class="img_zoom aligncenter size-full wp-image-1607" src="https://lh3.googleusercontent.com/FBlFCykJWSSm6D3ZFheykyq19MzHQL3jak7hP1VuqbL3rei2MvV-nQjbXVi5YfKZtR-BepHZOw3KnwMZhAIG6Q=s0" alt="select client" /></li>
+</ol>
+<p><strong>Merge Client Records</strong></p>
+<p>Once you have identified duplicate client records, you can easily select and merge them together in one record with one appointment history. The merged client record will contain the combined available details and appointment history of all selected records, and the duplicate records will be marked as deleted and remove from your client list.</p>
+<ol>
+<li>Search for a partial name, or phone to find duplicate records</li>
+<li>Select the client records to merged together,<strong> by first selecting the client record to merge into, followed by the duplicates.</strong></li>
+<li>Click on the Action Menu of the List, and select Merge Clients<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1608" src="https://lh3.googleusercontent.com/7rEHszGXCda6QOjEDqRyXbYnAIPeJrKOy0-khk0qxSDj4BKDAyFudQ9grgCfbz9qlQVmdL1N0nusnwF6_e0f6iA=s0" alt="merge client" /></li>
+<li>A form allowing you to review the merge result will be displayed.</li>
+<li>You can hover the icon at the top to review the list of selected client records that are about to be merged.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1609" src="https://lh3.googleusercontent.com/ysCMd_dO1PX05sktWzXMt99W9EjhQ0T9Qvh4JF6O08WUnEBfy11CIE6CQHeLHepfMNzGzhLE9-YOzK2VA-YDDA=s0" alt="client list to merge" /></li>
+<li>Update the details if needed, and click on Merge at the bottom of the form.<br />
+</br><img class="img_zoom aligncenter size-full wp-image-1610" src="https://lh3.googleusercontent.com/T1YymvvVNiwIiymy1jI2C7bwkO8Fgqi_gY7Xfj_x_-9kJ9w3UK5BDY-YqGMVEs3U1qlQIseIGm5y3ouYNt7dQw=s0" alt="merging" /></li>
+<li>The client records will be merged in one record, and you’re done.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/merge-client-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get more customers by adding online appointment booking to Google My Business</title>
+		<link>https://www.booxi.com/blog/get-more-customers-by-adding-booxi-on-google-my-business/</link>
+		<comments>https://www.booxi.com/blog/get-more-customers-by-adding-booxi-on-google-my-business/#comments</comments>
+		<pubDate>Wed, 28 Jun 2017 21:10:44 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[online visibility]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1226</guid>
+		<description><![CDATA[You can now easily convert online visitors into customers by adding booxi directly to your Google My Business account.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1217 size-full" src="https://lh3.googleusercontent.com/QSkaIa1KvQ4501-WCLZCBddUzVAomUnvHqhPSI3AZtSkbleD_hy1t72d_dK9W_dxemyghzQ2rufKk0dPh4yD10k=s0" alt="thumbnail" width="1200" height="600" /></p>
+<p>Did you know that today 35% of customers would like to schedule appointments during non-business hours and that 25% of millennials (people under 35) will only book appointment online?</p>
+<p>Then it&#8217;s obvious that online appointment booking is a competitive advantage and adding it on Internet is a strategic way to attract new customers.</p>
+<p>The good news? You can now add online appointment booking directly on your Google My Business profile: a powerful tool to convert online visitors into customers.</p>
+<p><strong>How to do it?</strong><br />
+The first step is to create your account on Google My Business.<br />
+If it’s not already done, here is a <a href="https://www.booxi.com/blog/get-more-visibility-by-registering-with-google-my-business-2/" target="_blank">step by step tutorial</a> to show you how to do it.</p>
+<p>It’s easy to do it and free!</p>
+<p>Then,</p>
+<p><img class="img_zoom size-full wp-image-1219 alignleft" src="https://lh3.googleusercontent.com/VqGEY7CvfXAI3GMrO-Uj4eNE5jJCsZvOrCUoG3y0no5Hgk7tubtd3Ofy2kDI_x-cLfiYTVoNz-RVOda69A7zu1o=s0" alt="unnamed (2)" /><br />
+Go to the <a href="https://www.google.com/appserve/mkt/p/aZ4_3ZYNqumnqKN7XzF7PNPc3HF9qzgu-qXrbSYeMzcaGvDeyzN942-z2VHp_51GKjC-S-q93R9pzUON5oqxZ8b64nRcargMbUjtbuk93y9txqtfPkVZuQbS-phwnkEjqaYvDUiE6aARbTeasqwuxwRO48muh8lkSW9s_wbPPhFGIlml7a2G4ROr0ufKSNev63Nfjmvn8Nb_v_Cyxr9uUKIjcnKYdx_IsvJ2t2XtH_uMBJei8Htsr_E=" target="_blank">&#8220;Posts&#8221; tab<br />
+</a><a href="https://www.google.com/appserve/mkt/p/aZ4_3ZYNqumnqKN7XzF7PNPc3HF9qzgu-qXrbSYeMzcaGvDeyzN942-z2VHp_51GKjC-S-q93R9pzUON5oqxZ8b64nRcargMbUjtbuk93y9txqtfPkVZuQbS-phwnkEjqaYvDUiE6aARbTeasqwuxwRO48muh8lkSW9s_wbPPhFGIlml7a2G4ROr0ufKSNev63Nfjmvn8Nb_v_Cyxr9uUKIjcnKYdx_IsvJ2t2XtH_uMBJei8Htsr_E=" target="_blank"> <img class="shadow_small aligncenter wp-image-1224 size-full" src="https://lh3.googleusercontent.com/CC59Fn-9uID2cic99kg8LPA-nwEwcATABfQ1aHAPQB8-MogofHpN4cppoF3arvW_I8DLLoNCMlTfH3NB_YzV9Q=s0" alt="posts tab google my business" width="387" height="252" /></a></p>
+<p>&nbsp;</p>
+<p><img class="img_zoom size-full wp-image-1221 alignleft" src="https://lh3.googleusercontent.com/Q8d32nMfhAOc5XJSp6MNvHOz8oB0Ws5E0DDVZldPel9mcnrGIo9mE_jpwX8WjxyO4sGo0C1PP3qWcuN2rTpxDgg=s0" alt="unnamed (3)" /><br />
+And click on the section “Write your post”.<br />
+Create your message by adding a picture, a short text and the “Reserve” button. On the line <span style="color: #3366ff">example.com</span> add your booxi website link.</p>
+<p>To find this link, sign in your booxi account and click on My Business tab, then on Business Details. Copy the link under the section “booxi site”.</p>
+<p><img class="shadow_small aligncenter wp-image-1225 size-full" src="https://lh3.googleusercontent.com/3xTJHL2gg-2Gcx-3yQmfy4wHI3hnTg-AE_sbI3yiJSz10CddxrUNsYSzg9upd1UORfOWqfIOt_mcSaowwK6t=s0" alt="book-now-button" width="453" height="930" /></p>
+<p><img class="img_zoom size-full wp-image-1223 alignleft" src="https://lh3.googleusercontent.com/xjGS0NwcMTD4Ig7pKGva4FufvodP0E1Ie8K0bYgXRfDlAlUQcmHgZ8qK9b5nA04yhh9Up2TofD75AAfK-39h=s0" alt="unnamed (4)" /><br />
+Once it’s done click on Preview and then on Publish. And it’s live on Google, so it’s easy to convert your online visitors into customers!</p>
+<p>&nbsp;</p>
+<p style="text-align: center">You want to add online appointment booking directly on your Google My Business account but you don&#8217;t use booxi yet?<br />
+Create your free trial right now!<br />
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/get-more-customers-by-adding-booxi-on-google-my-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Connect With your Customers for the Holidays and Get More Revenues</title>
+		<link>https://www.booxi.com/blog/connect-with-your-customers-for-the-holidays-and-get-more-revenues/</link>
+		<comments>https://www.booxi.com/blog/connect-with-your-customers-for-the-holidays-and-get-more-revenues/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 22:38:38 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[customer]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=834</guid>
+		<description><![CDATA[Holidays are the perfect time to communicate with your customers! We wrote a guide to help you save time and select the right tool to wish them the best.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-835 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/communicate_with_customer.png" alt="Send a message to your customers during Holidays" width="1200" height="600" />The holidays are coming and you’re very busy. Whereas it is the right time to communicate with your customers and take a few minutes to thanks them. Here is a quick guide to help you select the right tool and send your holidays newsletter.</p>
+<h2><b>Why should I send a newsletter for the Holidays?</b></h2>
+<p>To keep in touch with your customers you have to make sure to regularly communicate with them. Sending them a newsletter for the holidays is an opportunity to build your customer&#8217;s loyalty. You can get advantage of this moment to send them information about your business, news, and promotions, and get them to book their next appointment.</p>
+<h2>1- Get your client list ready to be imported in the solution of your choice.</h2>
+<p>You can easily export your client list directly from booxi, using the option Export the client list under your client list menu.</p>
+<p>Here is an article on <a href="https://www.booxi.com/blog/get-the-most-out-of-your-client-list/">how to export your booxi client list</a>.</p>
+<h2>2- Select the perfect sending tool for you.</h2>
+<p>There are many solutions available, and we have selected four of them which, depending on your needs, offer free plans. Here is an overview of them: Mailchimp, Zoho, Campayn and Sendiblue.</p>
+<hr class="dash" />
+<h3 style="text-align: center"><a href="https://mailchimp.com/">MAILCHIMP</a></h3>
+<p><img class="img_zoom wp-image-836 alignleft" src="https://lh3.googleusercontent.com/D2w_JhDojxUyJ3zIYiqky-OIhOQFNOmdTAca6eAlrUwCU1CmZSzGDZhS95scL1toDh3QpWtYcbqjm3kWdzz8=s0" alt="mailchimp_logo" width="92" height="97" />Mailchimp allows you to send customized mass mailing for free, if you have less than 2,000  subscribers and send less than 12,000 messages a month. This solution is very simple to use. For more subscribers and messages, plans start at CAD 35$  per month and there is no limit for the number of messages that can be sent.</p>
+<hr class="dash" />
+<h3 style="text-align: center"><a href="https://www.zoho.com">ZOHO</a></h3>
+<p><img class="img_zoom  wp-image-837 alignleft" src="https://lh3.googleusercontent.com/97yVeBPdAVhZMdlivOnReI8b9ad9VCkW9LWmKd53rY1cNbbkSihGhwgqOL_ocw6YRVLfh-OYb7SLJ54FhYS_=s0" alt="Zoho_logo" width="141" height="141" />Zoho also provide a free plan for users that have less than 2,000 subscribers and send less than 12,000 messages per month. You also have the option to choose a plan without any limit of email sent. Then prices depend on the number of subscribers. For example, for the first 500 subscribers it’s 5$ per month. One of the differences we have noticed, is that before the final step of sending your message, that message will be verified by Zoho, which only takes a few minutes.</p>
+<hr class="dash" />
+<h3 style="text-align: center"><a href="http://campayn.com/">CAMPAYN</a></h3>
+<p><img class="img_zoom wp-image-841 alignleft" src="https://lh3.googleusercontent.com/Hz5WS6uzXW1-I02meMCPf9vsXpgDGXs-HSSrnO9iI_dwMh2oNcJJm6h2PdeKQLRGdBM9-WmIW8ihktwmiJ3T=s0" alt="campayn_logo" width="137" height="90" />Campayn is a free solution for users that have less than 500 subscribers, and you can send up to 20,000 messages per month. Beyond 500 subscribers you can choose the plan that corresponds to your mailing list. For example for 1000 subscribers select the 10$ per month plan. As soon as you pay for a plan there is no limit of the number of email that you can send.</p>
+<hr class="dash" />
+<h3 style="text-align: center"><a href="https://fr.sendinblue.com/features/">SENDIBLUE</a></h3>
+<p><img class="img_zoom wp-image-840 alignleft" src="https://lh3.googleusercontent.com/Gk9gPIi6hd2R6sCNWPUm1wyC1l1kH8HbIyG94enOhtG8aS6WzFeMVwBDavQNke91Qy21bvXGFXXEhuD2IQ7VZw=s0" alt="sendiblue" width="120" height="108" />Sendiblue provides a free solution for users that send a maximum of 9,000 messages per month, and the number of subscribers is unlimited. However with this version you can only send 300 messages by days. For more than 9000 emails per month, you can take a paying plan. For example if you need to send up to 40000 emails select the 7.93$ per month option.  The solution is available in English, French, Spanish, Portuguese, Italian and German.</p>
+<hr />
+<h2>3- Send your newsletter.</h2>
+<p>Now that you have chosen your solution, follow these steps to send your newsletter. For each solution, the steps are almost the same, but the terms can change a little.</p>
+<ol>
+<li>Once your account is confirmed, select the Campaign tab in your Dashboard and click on Import Contacts. Then select Import a file, and choose your booxi client list. Then click on Import.</li>
+<li>Click on Create a new campaign, adjust the settings of your campaign.</li>
+<li>Next you can select the template of your choice and customize the text and images.</li>
+<li>Once everything is at your liking, select your list of subscribers and click on Next.</li>
+<li>Schedule when to send or send it immediately.</li>
+</ol>
+<p>Once your campaign is sent you have access to a report, where you can track opening rates and other things.</p>
+<p><strong>One last tip</strong>: In your messages, visual is crucial! Here are a few websites where you can find the perfect picture:  <a href="https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/">https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/connect-with-your-customers-for-the-holidays-and-get-more-revenues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get the Most Out of Your Client List!</title>
+		<link>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/</link>
+		<comments>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/#comments</comments>
+		<pubDate>Fri, 16 Dec 2016 21:58:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[mailing list]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=827</guid>
+		<description><![CDATA[Your business exists for your customers. It is then crucial to know them well and regularly communicate with them. Here is how to export your booxi client list and benefit from it. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-823 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/export_booxi_client_list.png" alt="export your booxi client list" width="1280" height="720" />A good business manager knows that a client list is crucial to be successful. There are many reasons for that, and here are some of them.</p>
+<ul>
+<li>Each client record holds informations such as the frequency of appointments, which allows you to know who is a regular and who has not come back in a while. That tells you whether you should send a thank you message or an invitation to come back.</li>
+<li>You probably have birth dates of some customers, so a short message for their birthday with a promotion is a good way to encourage them to spend money in your business.</li>
+<li>Thanks to online appointment booking, you probably have a good database of email addresses, so take advantage of that to send monthly news or promotions to your customers. Keeping in touch is really important, without excess of course.</li>
+<li>By exporting your client list with metrics, you can for example perform simple analysis in Excel and target customers that had appointments with a specific personnel, target the ones who often missed their appointment or the ones who buy a specific service. Use this to apply or try different strategies with your customers.</li>
+</ul>
+<p><b>With booxi It’s Easy to Export Your Client List</b></p>
+<p>You can export your client list as a CSV file, so it is compatible with almost any software, including Excel. To do it, complete the following steps:</p>
+<ol>
+<li>Click on the Clients tab in the main menu on the left.</li>
+<li>Then click on the Options <img class="verti-top" src="https://lh3.googleusercontent.com/6gZ3W4NoBfevPKYlMll4EcwCFLJ70yyrbqLsKzpkCenfA-qHCzPrjG2cL2t6VAfF165Q4ux_7015jG9hEhOO=s0" alt="option" width="20" height="20" /> icon at the top of the client list.</li>
+<li>And select the Export the client list option <img class="verti-top" src="https://lh3.googleusercontent.com/FAYppJy_rmrJGgVjiDMABqw0jkAEvDyj9vch1Nt7AsOPbuCC67Q0dqG-tHMUd79MAXv7V42VB2JZ05bE96ZvGA=s0" alt="clients_export_b" width="33" height="33" />.</li>
+<li>A pop-up appears allowing you to segment your export by selecting a few criterias.</li>
+<li>If you want to get your full client list with all the information about appointments, all you have to do is to check the option “Include client metrics”.</li>
+<li>Once you had selected your criterias, click on the Export button.</li>
+<li>booxi is preparing your list and a new pop-up appears with the link “Click here to download the exported clients”.</li>
+<li>Click on that link and the download starts, like any file downloaded from your browser.</li>
+<li>You can now have access to the CVS file in your Downloads folder and use your client list.</li>
+</ol>
+<p>Now try it for yourself! For example you can import your client list in a mailing solution or analyse different variables of interest, according to your strategies.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/get-the-most-out-of-your-client-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Export Your Clients List, Referral Data and Much More!</title>
+		<link>https://www.booxi.com/blog/export-your-clients-list-referral-data/</link>
+		<comments>https://www.booxi.com/blog/export-your-clients-list-referral-data/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[user experience]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=30</guid>
+		<description><![CDATA[Improve your communication with your clients thanks to our new features : send them thank-you message, promotions or newsletter, and know how they heard about you.  ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>In response to your requests, we’ve just released a new version of booxi, to improve your experience with several new features:</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Export your clients list</li>
+<li>Add a referral question</li>
+<li>Offer services by phone or by video conference</li>
+<li>Book appointments directly from a client record</li>
+<li>Automatically send thank you messages to your clients after their appointments</div></li>
+</ul>
+<hr />
+<h3>Export Your Clients List</h3>
+<p>We’ve added a feature that allows you to export the contact details of all or a subset of your clients in CSV format (compatible with Excel and XLSX). With this new feature you can easily use the software of your choice (ex :<a href="//mailchimp.com"> http://mailchimp.com</a>) to send emails for promotions, newsletters, or even invite inactive clients to come back.</p>
+<p>You can export your clients list from the following criteria:</p>
+<ul>
+<li>Clients whose birthday is soon.</li>
+<li>Clients who recently had an appointment, or those who have not come for a long time.</li>
+<li>Clients who had an appointment with a specific member of your personnel.</li>
+<li>You can exclude customers who have requested not to receive emails.</li>
+<li>You can include additional information on the frequency of appointment, cancellation, no-show, etc.</li>
+</ul>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the Clients section from the main menu on the left side to access your client list.</li>
+<li>Then click on the button <img src="https://1.bp.blogspot.com/-GPLN2SDkfew/V2mKP-NvKDI/AAAAAAAAAfU/J7UyEWJ9E-UsxdQAGFV2PZ8Z5Fm6QwDbQCLcB/s1600/options.png" alt="" width="60" height="32" /> at the top of the client list, and then on the Export the client list option.<img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/wiKQXemPLaPu0gTLgQW9jh_xZCpiE3gJ9HOqZ93aY2RewILx1_q1oB4FMEsw6cmMEvCmT022wb6kYgemqFP4trJsMQyRQionWmVWO5p-R9E_58_k7U6e_0y6QBhaoFJMxSFCVW6Y" alt="export the client list from booxi" width="865" height="412" /></li>
+<li>Adjust your export criteria to identify which clients and what information will be exported. For example to mark a birthday, bring back former clients, or to target the clients of a specific member of your personnel.</li>
+<li>Click on Export, and if everything went well, a pop-up with a link to download the CSV file should appear on the screen. If no client could be exported, review your export criteria.</li>
+<li>Click on the link Click here to download the exported clients and that’s it. You should receive the list at the bottom of your web browser.</li>
+</ol>
+<h3><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/3imfv22EW2BpCxb2zvxAH-t_wYWPclYVLdJz3k3R7UT4LmRh4znfKwwlTapI4Cke3NFCOf1aBUf4hUV-AApmnmRYSgFLJYwIz6rcyhf6C248roEYLc-U46yD-2lEN0ccdIDfWx9Y" alt="choose criteria before the export" width="624" height="436" /><br />
+Add a Referral Question</h3>
+<p>To know how your clients heard about you, you can now choose to activate a referral question that will be asked to new clients. This question will be asked to your client when they book online, or to you when you add an appointment.<br />
+The answer will be available in the appointment form, and in the client details as well. You can also customize the question and its responses.</p>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the My Business section from the main menu, and then on the Appointment Rules sub-section.</li>
+<li>Scroll down to Enable the new client referral question and activate the option.</li>
+<li>Next you can customize the question and its responses. Don’t forget to click on Save to keep the changes you made.</li>
+</ol>
+<p><img class="shadow_medium aligncenter" src="https://lh5.googleusercontent.com/j900AA9K_ECRe5XMuZnBHihQZGDNAwtdtoskX_RM0KAgJKSN26vvYoo7QNWW31ph-DGhp-t8PrUZDkZY8iwhhhcUeQtYSJik1hzV6YwXgULSZCAOwZcdxdxoFmpHz0hBvHTrJNH8" alt="enable referral question during online booking" width="589" height="571" /><br />
+The question will appear when a new client completes his first online appointment booking.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/BzrfAr7UWElJV20fmTrWegECIWKdt1enujV9Ar1Jg7t1PvEbGEXVqXR5SfC3dtB2HUH6zGKyJ-ZpJh0f7FBAgKdLWfxotx54GBwLfYIxjgxeFfJMkD8YprXczK4Pz1zrZCROZXtd" alt="referral question for new customer" width="624" height="376" /></p>
+<p>The client can select the option that best matches his situation, then click on the Send your answers button, and he’s done!</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/1eGMV6ta9HC8J7Y0sWc2SSLc3MiEzFSCwAAsnFwK5mkBpa7mn_P9bykMumW2L6IETnXqB9x04WEupzgiIOuTFTLamN0ROciCaVgwx58DJRm0FNnJuj1lUMEWCnstwDL7JDj7rLfB" alt="thank you message for answering online" width="963" height="581" /></p>
+<p>If you book the appointment by phone, booxi allows you to answer the referral question on behalf of your client.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/o35-n5lcHOQFp_C0jBecoxrlk8fzG1GEoEAC-DbnXVuh73QBlwRMhic5_enPH-6b3fgC-JCFhVWXyzdV6UcFqUtx1ohID1kGvyz4mIfxPPuz4qlU-p9DswDp3lKwaoYT-aua9m6i" alt="answer the referral question by phone" width="584" height="602" /></p>
+<p>The answer is also available in the appointment form and in the client details. We will soon be offering a statistic report for the referral question answers.</p>
+<h3>Offer Services by Phone or by Video Conference</h3>
+<p>You can now offer and book appointments for remote services provided by phone or by video conference using booxi. Simply change the location of the service using the options By phone or By video conference which are offered in addition to the options At Home or At My Business.</p>
+<p>Complete the following steps :<br />
+1. Click on the Services section from the main menu on the left side, then select a service.<br />
+2. Click on Service Details and change the location.<br />
+3. Do not forget to click Save to keep your changes.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/wccVYIw24qWKBFxoZl2pCP8wD-CGBABq9pkEGHhjGoUVyiGD7Uo9buI_KK4vVp6qRTCMQiod9D7rxXBStSMrAE1fvjEjuZ69liTJhFTV4yORROdDoU5z7PpaNbVl9sms0TRWtcwb" alt="location options for appointment" width="584" height="478" /></p>
+<p>When adding or reviewing an appointment, you can specify a phone number for the location By Phone, and you can add a web link for the location By Video Conference in the Instructions section.This information will be incorporated in the appointment confirmation and reminder messages sent to clients.</p>
+<h3>Book Appointments Directly from a Client Record</h3>
+<p>To save even more time, booxi now provides you the ability to add an appointment directly from a client record.<br />
+To do so, simply click the <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/jzvxdQ-SNzvSKK0-a-YXgHov41HH7alNPrtToQ5GDAIeMtXC8LvhJp_SQ2pLZqrgZG8htKkJ58HNuC3h9cJdFjdmsKaqyljM2XnORr1xzqWLuqNWixIZSGKj0vAjYFMu239dUJzF" alt="" width="37" height="31" /> New appointment button at the top right of the Client Summary.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/LbdzbgSeogo_MB4IHN9m2935qj6yri7icu0SWkVUzEvcH43b4Hj-3braM0qcGSsrdqml_yTPD5jcrKGwcCcglmdPXo1FeHc2ilwc7CfcRNV5rZjNJVNzVIeTjVIQVpDvcWR8rUsM" alt="add an appointment from client file" width="1203" height="470" /></p>
+<h3>Automatically Send a Thank You Message After an Appointment</h3>
+<p>This new feature allows you to automatically send thank you emails to your clients once their appointment is completed.</p>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the My Business section from the main menu on the left, then on the sub-section Appointment Rules.</li>
+<li>Scroll down to Enable automated thank you message and activate the option. Click Save to keep your changes.</li>
+</ol>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/_JXgk45DFUYe-w609aApF-f5JggVLATatj2OEfGYBu-XD8Uz73WE--aQpD5Lp-TIXLdrb_uhr3Xxb7uko5pvLNDlrRTwL2iObzZOVF6682sBdSya_Q35h2j3dK2AvOmUFQ9F5rRJ" alt="enable thank you message" width="581" height="124" /></p>
+<p>The messages will be sent in the preferred language of the client, as soon as the appointment is completed. A small attention that greatly improves your customer experience.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/9b4GnLL8DllR_XkYTvG5PFEdzKwtr-0ofzpkrlM18xH3evrtJZw_xLVfY0fzWgXdjflrKr_C5sxIajylKn1z41xuWbQcjaLD6-sYCLMZXHen-jcgN_xDX9ONW30IKHxWEPUKFx_8" alt="thank you message " width="388" height="385" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/export-your-clients-list-referral-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to make my website look amazing?</title>
+		<link>https://www.booxi.com/blog/how-to-make-my-website-look-amazing/</link>
+		<comments>https://www.booxi.com/blog/how-to-make-my-website-look-amazing/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:06:09 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[online visibility]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=23</guid>
+		<description><![CDATA[Some tips to have an great website that will catch the attention of your customers and increase your online visibility. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-815 size-full" src="https://lh3.googleusercontent.com/u7KXnAvXf20hlJD2vDrDlXrgjs-rA5Wm-8pq8g1j9gUxqx2nOowJjSV1V_zLIs4_jPAcFqKf--Vwy2pOBqak=s0" alt="website for your business" width="1200" height="600" /><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>You have a great online visibility tool, your booxi website, so lets make sure it looks awesome by following the tips provided in this article.</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Business description that sells</li>
+<li>A good service offer</li>
+<li>A team they can trust</li>
+<li>Delightful pictures</li>
+<li>More links, more visibility</li>
+<li>Share it</div></li>
+</ul>
+<hr />
+<p>It won&#8217;t take much time and efforts, but it will provide great results as every little detail is important and for customers to find what they are looking for.</p>
+<h3>Business description that sells</h3>
+<p>It&#8217;s important to write a description that sells your business. Try to be catchy; use short sentences and a friendly vocabulary so customers quickly get what your business is all about. Identify your competitive advantage; what makes you different from your competitors and write them down. Consider adding the following:</p>
+<ul>
+<li>How long you have been in business (if more than 3 years)</li>
+<li>Your expertise</li>
+<li>Accreditation</li>
+</ul>
+<p>The most important thing to remember here is to be concise and sell your business.</p>
+<h3>A good service offer</h3>
+<p>If you offer many services, list them all, even if you do not wish to offer online booking for all of them (you can disable online booking for specific services). If you don&#8217;t list some services, customers will assume you don&#8217;t offer them at all. You can organize your service in categories to make it easier to understand. Show the prices, the duration and add a full description that sells the service. The more details you give, the better. It is important to be concise and clear in all your descriptions.</p>
+<p><img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/dTTdbd1h53HI9mDe_IogJVNqdMFXxCqeKfaZ4__40Sj2aVQbOfPckcaclVoXAuPlM_1yFjFNCJ5iHv8tSEnXV_mfM_HLzBx4pNuJMSl3l9uPWiEb3baOCqgfq9HJ216pv-dNyLE" alt="" />Add a new service</p>
+<p><img style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/vX5jPqrhHrZfRxafVASmplWlJi5Syax8bQIwmWG0OJiYBgnXD_BK3w-PUtILeZyvrMrySgeQUKkHXDClAdslrPv9_dlzUqGUEpKmPMWMGO-kXlhT0ZEeScbMtaKt_3KXsMKaz_o" alt="" />Add a category of service<br />
+<img class="shadow_medium aligncenter wp-image-112 size-full" src="http://booxi-live-wp-storage.storage.googleapis.com/promotion.jpg" alt="service offer" width="914" height="843" /></p>
+<h3>A team they can trust</h3>
+<p>Customers have to trust you, and it has been proven that when they see a face, it becomes easier for them to trust. Which is why we strongly recommend that you list your personnel with pictures. Provide a position, so customers know who is who, and a short bio that should sell the merits of this skilled professional. Consider adding the following:</p>
+<ul>
+<li>Years of experience</li>
+<li>Particular skills or diplomas</li>
+<li>Name of the association the person is a member of</li>
+</ul>
+<p>You may ask your personnel to fill their profile on their own. Make sure to update the list of services they offer, so customers understand what they do.</p>
+<p><img class="shadow_medium aligncenter wp-image-113 size-full" src="http://booxi-live-wp-storage.storage.googleapis.com/promomotion.jpg" alt="listpersonnel" width="308" height="368" /></p>
+<h3>Delightful Pictures</h3>
+<p>Consumers love to visualize before buying and statistics show that websites and posts that have pictures are more viewed by consumers. Images make everything more attractive, trustworthy and thanks to them it is easier for customers to understand what the services are about. Add photos of your business (cover and logo), your personnel, and your services. A page with pictures is eye catching and shows that your are a professional in your field.</p>
+<p>You can upload pictures using your desktop computer, a tablet or use your smartphone with our mobile app to take and associate pictures to your services and personnel.</p>
+<p><img class="shadow_medium aligncenter wp-image-114 size-full" src="https://lh3.googleusercontent.com/MFMoNja0qu534-UDqUXL6gTn3GDMl6fmluAF0PkK6AcVrH198M5TEC4Dhq0MOBpL3sxFiJwkasdkv7ql3isN=s0" alt="picture website" width="1601" height="531" /><br />
+If you do not have a logo like most self-employed professionals, simply use your profile picture as a logo. If you don&#8217;t have pictures, here are <a href="https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/" target="_blank">6 tools for stunning photos</a>.</p>
+<h3>More links, more visibility</h3>
+<p>If you have another website, add a link to it on your booxi page (Business details section &#8211; website). It will give you more visibility and help Google search results.</p>
+<h3>Share it</h3>
+<p>Now that you have an attractive booxi website, share it and make sure it is visible everywhere you are. Add it to your Facebook page, Linkedin, Google plus, Twitter and Pinterest. The more links you create, the more people will find you and take appointments with you. Add links to your booxi website also improves your SEO, meaning that it increases your chances to <a href="https://www.booxi.com/blog/get-more-visibility-by-registering-with-google-my-business-2/" target="_blank">come up first in Google search</a>.</p>
+<h3></h3>
+<p>Now that your have your website, make sure it <a href="https://www.booxi.com/blog/get-online-visibility-in-8-simple-steps-with-tiny-budget/" target="_blank">drives traffic</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-make-my-website-look-amazing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Be successful by tracking your metrics with booxi.</title>
+		<link>https://www.booxi.com/blog/statistic-and-advice-with-booxi/</link>
+		<comments>https://www.booxi.com/blog/statistic-and-advice-with-booxi/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[appointment]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[online visibility]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=22</guid>
+		<description><![CDATA[To be successful in business, you have to keep track of your goals and results closely. With booxi it's easy to do it. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top shadow_large aligncenter wp-image-417 size-full" src="https://lh3.googleusercontent.com/2d15Jav70lm5VBuX_vPURXlqooA6iwXXsL1xazlvXHiaCsxKOBngcNuuuMM2E2Ns_kEDl82e60IWOIgbFqcfzQ=s0" alt="Client-Acquisition_EN" width="1200" height="600" /><br />
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Nowadays, to run a successful business, you need information. Information about your clients, your revenues and costs, your peak time and down time, etc, but that sounds complicated. To keep it simple we decided to start with 3 simple topics.</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<p>&nbsp;</p>
+<ul>
+<li>Statistics and metrics</li>
+<li>Visibility</li>
+<li>Appointments</li>
+<li>Clients</div></li>
+</ul>
+<hr />
+<h3>Statistics and metrics</h3>
+<p>booxi can analyse and compute all that complicated data for you, and present you with simple colorful information that you understand without getting a headache. It has the capability to provide you with statistics and metrics on countless aspects of your business.</p>
+<p>If you sign into your booxi account, go to My Business and select Activity, you get access to a series of 3 topics that provides you actual and average statistics with key metrics.</p>
+<h3><img class="shadow_medium aligncenter wp-image-110 size-large" src="https://lh3.googleusercontent.com/ikuGdGv2SGuxSbIsq7l7kY-UtOnGqy8Ii4yVgqT1ddSG_0SCTfxAFR2iik-zQ_ZAml-Krg9f2aoQACzQHcQ54w=s1024" alt="statistic" width="1024" height="1024" /><br />
+Visibility</h3>
+<p>The visibility topic provides you with information on the internet traffic you had on your booxi website, as well as how many times the book now button was used for an actual week or on average per day of week for a specific month. This information tells you if you are doing a good job in attracting customers to your booxi website, as well as how often they look at booking online with you.</p>
+<ul>
+<li>Use the left and right arrows to navigate from one week to another or through months</li>
+<li>Use the down arrow to switch from actual week data to average per day of week for each month<img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/V-i4WFucfjSJ3oILWzPRNBDUZyRPSBGtw5-uJ9CzFYoP92Akv1BsZ5Q3BtnIzCbaAY7yVpHxSdVEzPV0P-Q8IEFKLWXQnm7DENbbECZEO3J-eZcXJHEY2bzFOkL-fJeHed8wgBg" alt="" width="400" height="395" /></li>
+</ul>
+<h3>Appointments</h3>
+<p>The appointments topic provides you with information on both the overall and the online appointments you have per actual week or in average per day of week for each month. This information tells you about your busy days, week and months, as well as how good your doing at promoting online appointments. The more online appointments you get, the more time you save.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/OSjU4RuhO3UQ37IYPjJl84tKIcL6k3jgkGV6wDbDK2ozKTfoc8Oo4rzW6w-VcijS0Yx32hUZoF_2Q1VgWZyFlhqrJibeVp_AYnciWTAu7vAjJsdzvsrB0yuyi4END2M10iO-qKc" alt="Stats_Appt.JPG" width="388" height="400" /></p>
+<p>To save even more time, read <a href="https://www.booxi.com/blog/getting-clients-to-book-online/">our tips</a> to get your customers to book online.</p>
+<h3>Clients</h3>
+<p>The clients topic provides you with a simple statistic on your growing clientele. It tells you on a 6 months basis how fast your clientele is growing, as well as how many of those clients booked their first appointment with you from your booxi website (or through online booking). This a great data when you are growing a clientele, and if you already have one, you can measure how fast your clientele gets added to booxi and how quick they adopt online booking.<br />
+<img class="shadow_medium aligncenter" style="color: #000000" src="https://lh4.googleusercontent.com/Y-nAgPwGboyMY8SKJwi5OTI0GYaTIWsWSs0S0wZuXjm9IFymwDOfGxXrfMs4a1QwsisWci1gkb8RB3GVKBGI_3cDzuHBoEzW_2EByQ2DyioWHC14MJ7DykUdEl7tHOypgkhFbK8" alt="Stats_Client.JPG" width="388" height="400" /></p>
+<p>&nbsp;</p>
+<p>See, I told you it was simple.</p>
+<h3>Things to remember</h3>
+<ul>
+<li>You can access your statistics and metrics from My Business &#8211; Activity</li>
+<li>You can view actual data or averages and review it through time</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/statistic-and-advice-with-booxi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

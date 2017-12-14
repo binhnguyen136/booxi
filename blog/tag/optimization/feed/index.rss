@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; optimization</title>
+	<atom:link href="https://www.booxi.com/blog/tag/optimization/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Send instant SMS and Emails Messages to Your Clients</title>
+		<link>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/</link>
+		<comments>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/#comments</comments>
+		<pubDate>Wed, 08 Feb 2017 19:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[time saving]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=691</guid>
+		<description><![CDATA[Notify your clients without picking up the phone and save precious time. booxi introduces you a brand new feature to send instant email and SMS messages to your clients.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-704 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Article_NotifyClient.png" alt="send personalized message to customers" width="800" height="594" /><br />
+Businesses like pet shops and repair shops, need to inform their clients once a service is done, just like any business may have to communicate quickly with a customer, for example if they are late with their appointments, and want to notify the next customer of a delay. With booxi it is now quick and easy to do it! Let’s take the example of a customer who booked an appointment to drop off his pet for grooming, bike, car or smartphone for repair. The customer is not present during the service, but has to be informed when it’s done. You currently have to call each customer; while with booxi you could:</p>
+<ul>
+<li>Send a notification as soon as the service is completed.</li>
+<li>Quickly select a predefined message.</li>
+<li>View all the messages you sent for a specific appointment or to a specific customer.</li>
+</ul>
+<p style="text-align: center"><b>How Does it Work?</b></p>
+<p><b>Send a Message From an Appointment</b></p>
+<p>You can notify a customer from an appointment in your booxi calendar.</p>
+<ol>
+<li>Right click on an appointment and select Notify Client.<img class="aligncenter wp-image-696 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/notifyclient.png" alt="notify client option" width="368" height="434" /></li>
+<li>A form appears, where you can select the way you want to notify your customer (by email, by SMS or by phone/call) and the message (create one or select a predefined message).<img src="https://booxi-live-wp-storage.storage.googleapis.com/notifyby.png" alt="ways to notify clients" width="564" height="337" /></li>
+<li>Click on Send and your customer will instantly receive the message in their inbox or on their smartphone.</li>
+<li>For notifications by phone, you simply take note of what have been discussed with the customer and click on Save.</li>
+<li>You can now see, directly in your calendar, that a notification was sent for that appointment with the icon <a href="https://booxi-live-wp-storage.storage.googleapis.com/notify.jpg"><img class="verti_top" src="https://lh3.googleusercontent.com/K_Gs41_ttH2CSSHNdvwUiKsnAAKMsdxiJB6sUXpgJxlLfNWRZxTtlysjRTH0nPjRGmcqEIMpVrM79LKbGs7Eaw=s0" alt="notify" /></a>.</li>
+<li>From the appointment form you have access to all the messages sent for this specific appointment.<img class="img_zoom aligncenter wp-image-699 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/viewmessagelist.png" alt="list of sent messages" width="368" height="434" /></li>
+</ol>
+<p><b>Edit and Add Predefined Messages</b><br />
+You can predefined messages that suit your needs, you can modify it once it is created or add a new one.</p>
+<ol>
+<li>To do it, simply right click on the appointment and select Notify Client.</li>
+<li>From there, select how you want to notify your customer (email, SMS or Phone Call).</li>
+<li>In the section Preset message, click on the Add <img class="verti_top" src="https://lh3.googleusercontent.com/FqosDAQStX3ANTUl1xC8ebNg7XG8Q1824PkTA9zKMejO8dtnQzAQVXb_tvoZvzYLbdvQvA7sK6luWUX-bOzr=s0" alt="add" /> icon. You can then add a name for the predefined message. Write the text you want and click on Save. Your preset message is saved. You can now use it by clicking on the drop down menu on the Preset message section. If you need to modify it, select the predefined message and click on the Edit <img class="verti_top" src="https://lh3.googleusercontent.com/X_V8TYMTLWPlK4u3x59JFEiLaopdsTJ65JZXZBhooeuzH_3kj_c9BS2KpAumH81PbvVcz2T5AwFjr1qAb3T_=s0" alt="modifier" />icon. The Edit predefined message popup will appear and you will be able to modify the message. Click on Save to keep your changes, or Delete to delete that predefined message.</li>
+<li>To add a new predefined message, select Custom Message and click on the Add  icon.</li>
+</ol>
+<p><b>View the Message History</b><br />
+You can access the list of messages sent for a specific appointment or to a specific customer at any time.</p>
+<ul>
+<li>From the Appointment Form, use the menu at the top right and click on the option View Message History.</li>
+<li>From the Client Summary (in the client list), select the option Message History.<img class="aligncenter wp-image-701 size-full" style="padding-top: 30px" src="https://booxi-live-wp-storage.storage.googleapis.com/messagehistory.png" alt="history of sent messages" width="1181" height="508" /></li>
+</ul>
+<p>With this personalized message feature you can improve your customer experience and save even more time.</p>
+<hr class="dash" />
+<p style="font-size: 30px;font-weight: 200;color: #888;text-align: center">Try it for free</p>
+<p style="font-size: 16px;text-align: center;color: #555">14 days &#8211; No credit card required</p>
+<p style="text-align: center"><a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Get Started</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/send-personalized-sms-and-emails-to-your-clients-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 tools for stunning photos for your website by Webself.net</title>
+		<link>https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/</link>
+		<comments>https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 19:48:50 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[online visibility]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=279</guid>
+		<description><![CDATA[Images make everything more attractive and trustworthy. Here are 6 tools to improve your website images. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top shadow_large aligncenter wp-image-299 size-full" src="http://lh3.googleusercontent.com/dR_UN-iIbZmAwL_RmOGjuuZweSDb0hd7YjQXUlrGbcG3l4rZqoTBV19xgu5iz5PtcRaxXJ8iLIWIDscn0Nn2xqw=s0" alt="website example" width="836" height="474" /></p>
+<p>In our latest newsletter, we asked you what you thought <a href="http://en.webself.net/blog/2016/07/13/7-tips-to-improve-the-design-of-your-website">made an interesting website</a>. You responded majoritarily that it is the quality images that catch your eye and make you visit and stay on a website. Obviously, the images play a big role in the visual of a website, but are often difficult to manage.</p>
+<p>Today, we will talk about 6 tools to have the most perfect images: 3 image banks and 3 of our favorite picture editors!</p>
+<hr />
+<h2 style="text-align: center">Image Banks</h2>
+<hr class="dash" />
+<h3 style="text-align: center">Pexels</h3>
+<p><img class="shadow_medium aligncenter wp-image-281" src="http://lh3.googleusercontent.com/_uWevGd8YvpumLOeORToMI3GMmHlRHfa4-pJfvWdAVnS9QIKfUf_DhxlfEVpXAdlxx0rPxANBTNP_PS28H0TAw=s0" alt="pexels website" width="850" height="474" /></p>
+<p>&nbsp;</p>
+<p>Pexels offers more than 10 000 free and royalty free pictures that you can use for just about anything! This means that you can use them for your website, publish them on your social networks, or even modify them to better suit your needs.</p>
+<p style="text-align: center"><a href="https://www.pexels.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr class="dash" />
+<h3 style="text-align: center">Unsplash</h3>
+<p><img class="shadow_medium aligncenter wp-image-282 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/unsplash-blog-e1472502412211.png" alt="site web Unsplash" width="1000" height="557" /></p>
+<p>&nbsp;</p>
+<p>Unsplash is a website offering thousands of high resolution photos. Again, these photos are completely free and can be used in any context. Also, Unsplash uploads ten new photos every ten days, so be sure to visit this website often!</p>
+<p style="text-align: center"><a href="https://unsplash.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr class="dash" />
+<h3 style="text-align: center">Fotolia</h3>
+<p><img class="shadow_medium aligncenter wp-image-283" src="http://lh3.googleusercontent.com/r6MyqS5RTRFCbD18kxOuyXYW2ObVpXEs9CjmN6lmRRSHJIT8P8AQp1k1-BQCP7ogdC51r3AY3N4nbNPxOSefEw=s0" alt="site web fotolia" width="850" height="474" /></p>
+<p>&nbsp;</p>
+<p style="text-align: left">Still can’t find what you are looking for? Try Fotolia, one of the largest global image databases. With 60 million media (photos, videos, illustrations), you will surely find a photo suitable for your website. In addition, they offer several ways to buy pictures on their website, either by credit or monthly/annual subscription.</p>
+<p style="text-align: center"><a href="https://us.fotolia.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr />
+<h2 style="text-align: center">Photo Editors</h2>
+<hr class="dash" />
+<h3 style="text-align: center">Canva</h3>
+<p><img class="shadow_medium aligncenter wp-image-284" src="http://lh3.googleusercontent.com/wgs3oABsnwVH00Aa72CkQtv49f2WtJA7MY00DE-C5P1JxzHDEank2Qtmu_rWcWuFsxRGRCeB55hfkEypQjuhAg=s0" alt="site web canva" width="850" height="472" /></p>
+<p>&nbsp;</p>
+<p>Canva is a platform that allows you to become a pro in graphic design within minutes! You can edit your own photos, or select a picture directly from their selection of over one million royalty-free images. You can modify, add filters, or text on your images. Also, Canva allows you to easily create visual for your social networks or even for an advertising flyer.</p>
+<p style="text-align: center"><a href="https://www.canva.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr class="dash" />
+<h3 style="text-align: center">Pixlr</h3>
+<p><img class="shadow_medium aligncenter wp-image-285" src="http://lh3.googleusercontent.com/jSR8amLcQygB0DKp6gGJ2c81BpB-MQ2G6_tKO9ZJCdETTuRTrC0n8QTjYxCcsEa_UwKso_Y753EPmZOMHf8eNw=s0" alt="site web pixlr" width="850" height="575" /></p>
+<p>&nbsp;</p>
+<p>You have a little more knowledge in photo editing? With its French interface, Pixlr offers a multitude of features to enhance the quality of your images. Brightness to cropping, through photo editing, Pixlr offers similar functionality as the professional photo editors, but for free!</p>
+<p style="text-align: center"><a href="https://pixlr.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr class="dash" />
+<h3 style="text-align: center">PicMonkey</h3>
+<p><img class="shadow_medium aligncenter wp-image-286 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/picmonkey-blog.png" alt="site web picmonkey" width="1000" height="552" /></p>
+<p>&nbsp;</p>
+<p style="text-align: center"><a href="https://www.picmonkey.com/" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-white creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_self">Visit Website</a></p>
+<hr />
+<p>Webself is a free and easy tool to create website. Choose your design, add your texts and pictures and publish your website on the Internet. It has never been easier to create a website! No computer knowledge required, only your imagination ! Start building your own website today.</p>
+<p><a href="http://www.webself.net"><br />
+<img class="aligncenter wp-image-289 size-full" src="http://booxi-live-wp-storage.storage.googleapis.com/2016-08-26.jpg" alt="2016-08-26" width="1440" height="600" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/6-tools-for-stunning-photos-for-your-website/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to Get More Revenues by Working Less ?</title>
+		<link>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/</link>
+		<comments>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 16:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Business Tips]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[time saving]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=290</guid>
+		<description><![CDATA[Stop loosing time and energy. Choose the right tool that works for you to increase your income, improve your customer service, and enjoy your evenings and week-end. ]]></description>
+				<content:encoded><![CDATA[<p>You might think “Everyone knows that less work brings less income and not the opposite&#8230;&#8221;, but yet we always end up meeting someone who works less than us and gets more revenues. It is often because they find a way to make other people work for them, or work with tools that do the job for them.</p>
+<p>With that in mind, let’s have a look on two examples based on real life cases and see how these people manage to increase their incomes by working less.</p>
+<h3 style="text-align: center">For Michelle, Change Was Perceived as an Uphill Battle</h3>
+<p>Michelle, a mother of two owns a massage therapy center with 6 employees and has almost no time left to see her clients as her business and appointment management occupies nearly all of her time. To avoid as much as possible no-shows, she spends hours sending emails and calling customers to remind them of their appointment for the next day. Unfortunately she has no time to take care of her website, her visibility and her marketing and she is unable to grow her business.</p>
+<p>She hits a wall and has to change something, but change feels like an uphill battle for her. Michelle finally decides and begins to use a tool that she was considering for several months, but yet was delaying the implementation date.</p>
+<p>The transition is very easy, employees adapt quickly, and the uphill battle becomes a small step. Customers love it, nearly 20% of them book appointments without calling, and get an automated confirmation email. Reminders are also automatically sent by email and/or SMS, which completely takes away the associated workload while eliminating no-shows. Her client list automatically update, so she no more needs Excel nor paper notes because her appointment solution does all the work for her.</p>
+<p>After only one month using it, she realizes that managing appointments is not time consuming anymore, her employees have access to their appointments and the tool does the rest, “It’s like magic” she says. Given this work reduction, which Michelle estimates to be 28 hours a week, she starts seeing customers and even hires a new therapist. And after two months of using the tool she hires another therapist.</p>
+<p>Two months ago, Michelle could not see the day her business would grow and now it is performing better than ever while Michelle works less.</p>
+<h3 style="text-align: center">Julie Used to Spend Her Evenings Calling Back Clients,<br />
+on Top of Paying Two Daytime Receptionists</h3>
+<p>Julie owns a beauty salon in Quebec with a good clientele, many beauticians and two shared receptionists which costs nearly $36,000 a year. Despite her good business management, she spends her evenings and part of her weekends to call back clients as no-shows quickly becomes a problem if she doesn’t so.</p>
+<p>She decides to &#8220;take the technology turn&#8221; she said. Right from the first week employees are comfortable with the tool and inform their customers that they can now book appointments online from their website or directly from their facebook page.</p>
+<p>Julie starts having more free time instantly, and she can enjoy her evenings and weekends. After her first month, she reduces her reception to one receptionist, a saving that she estimates to $ 18,000 a year.</p>
+<p>She provides a better customer service than ever, her employees love the tool, her business is more profitable than ever and Julie works less.</p>
+<h3>Work Smarter Not Harder</h3>
+<p>The previous cases clearly show how easy it can be to increase income by working less, if you work more efficiently.</p>
+<p>Now let&#8217;s take a fictional example by calculating a possible increase in income, while using actual statistics.</p>
+<h3>Professional NOT Using a Tool:</h3>
+<p><strong>$40</strong> per 30 min appointment ( $80/hr).<br />
+<strong>64</strong> appointments per week for a total of 32 hours (+ $2,560).<br />
+<strong>7.5</strong> hours spent on the phone weekly.<br />
+<strong>13%</strong> missed appointments (4 missed appointments per week &#8211; $320).</p>
+<p><strong>40</strong> hours (or more) of work per week.<br />
+<strong>$2,240</strong> in revenues ( $2,560 &#8211; $320) per week.</p>
+<p><strong>30</strong> hours on the phone each month.<br />
+<strong>$8,960</strong> in gross revenue per month.<br />
+<strong>$43,000</strong> a year before tax, with a profit margin of 40% after expenses.</p>
+<h3>Professional Using a Tool:</h3>
+<p><strong>8</strong> hours less the phone time per month (+ 16 appointments $640).<br />
+<strong>2%</strong> no-shows only (+ 13 appointments per month $520).<br />
+<strong>$5,568</strong> per year for a total annual income of $48,568 before tax.<br />
+<strong>2,729%</strong> return on your investment of $204 per year for the management tool.</p>
+<h3 style="text-align: center">Gross Revenue increase of $27,840<br />
+At an additional cost of only $408</h3>
+<p>The same scenario can easily be used to estimate that a business of 5 employees could get a revenue increase of $27,840 at the sole cost of $408.</p>
+<p>You too, can “take the technology turn” to increase your revenues, improve your customer service, and enjoy your evenings and weekends, or for all these reasons.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/how-to-get-more-revenues-by-working-less/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Export Your Clients List, Referral Data and Much More!</title>
+		<link>https://www.booxi.com/blog/export-your-clients-list-referral-data/</link>
+		<comments>https://www.booxi.com/blog/export-your-clients-list-referral-data/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[customer]]></category>
+		<category><![CDATA[optimization]]></category>
+		<category><![CDATA[user experience]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=30</guid>
+		<description><![CDATA[Improve your communication with your clients thanks to our new features : send them thank-you message, promotions or newsletter, and know how they heard about you.  ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>In response to your requests, we’ve just released a new version of booxi, to improve your experience with several new features:</p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Export your clients list</li>
+<li>Add a referral question</li>
+<li>Offer services by phone or by video conference</li>
+<li>Book appointments directly from a client record</li>
+<li>Automatically send thank you messages to your clients after their appointments</div></li>
+</ul>
+<hr />
+<h3>Export Your Clients List</h3>
+<p>We’ve added a feature that allows you to export the contact details of all or a subset of your clients in CSV format (compatible with Excel and XLSX). With this new feature you can easily use the software of your choice (ex :<a href="//mailchimp.com"> http://mailchimp.com</a>) to send emails for promotions, newsletters, or even invite inactive clients to come back.</p>
+<p>You can export your clients list from the following criteria:</p>
+<ul>
+<li>Clients whose birthday is soon.</li>
+<li>Clients who recently had an appointment, or those who have not come for a long time.</li>
+<li>Clients who had an appointment with a specific member of your personnel.</li>
+<li>You can exclude customers who have requested not to receive emails.</li>
+<li>You can include additional information on the frequency of appointment, cancellation, no-show, etc.</li>
+</ul>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the Clients section from the main menu on the left side to access your client list.</li>
+<li>Then click on the button <img src="https://1.bp.blogspot.com/-GPLN2SDkfew/V2mKP-NvKDI/AAAAAAAAAfU/J7UyEWJ9E-UsxdQAGFV2PZ8Z5Fm6QwDbQCLcB/s1600/options.png" alt="" width="60" height="32" /> at the top of the client list, and then on the Export the client list option.<img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/wiKQXemPLaPu0gTLgQW9jh_xZCpiE3gJ9HOqZ93aY2RewILx1_q1oB4FMEsw6cmMEvCmT022wb6kYgemqFP4trJsMQyRQionWmVWO5p-R9E_58_k7U6e_0y6QBhaoFJMxSFCVW6Y" alt="export the client list from booxi" width="865" height="412" /></li>
+<li>Adjust your export criteria to identify which clients and what information will be exported. For example to mark a birthday, bring back former clients, or to target the clients of a specific member of your personnel.</li>
+<li>Click on Export, and if everything went well, a pop-up with a link to download the CSV file should appear on the screen. If no client could be exported, review your export criteria.</li>
+<li>Click on the link Click here to download the exported clients and that’s it. You should receive the list at the bottom of your web browser.</li>
+</ol>
+<h3><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/3imfv22EW2BpCxb2zvxAH-t_wYWPclYVLdJz3k3R7UT4LmRh4znfKwwlTapI4Cke3NFCOf1aBUf4hUV-AApmnmRYSgFLJYwIz6rcyhf6C248roEYLc-U46yD-2lEN0ccdIDfWx9Y" alt="choose criteria before the export" width="624" height="436" /><br />
+Add a Referral Question</h3>
+<p>To know how your clients heard about you, you can now choose to activate a referral question that will be asked to new clients. This question will be asked to your client when they book online, or to you when you add an appointment.<br />
+The answer will be available in the appointment form, and in the client details as well. You can also customize the question and its responses.</p>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the My Business section from the main menu, and then on the Appointment Rules sub-section.</li>
+<li>Scroll down to Enable the new client referral question and activate the option.</li>
+<li>Next you can customize the question and its responses. Don’t forget to click on Save to keep the changes you made.</li>
+</ol>
+<p><img class="shadow_medium aligncenter" src="https://lh5.googleusercontent.com/j900AA9K_ECRe5XMuZnBHihQZGDNAwtdtoskX_RM0KAgJKSN26vvYoo7QNWW31ph-DGhp-t8PrUZDkZY8iwhhhcUeQtYSJik1hzV6YwXgULSZCAOwZcdxdxoFmpHz0hBvHTrJNH8" alt="enable referral question during online booking" width="589" height="571" /><br />
+The question will appear when a new client completes his first online appointment booking.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/BzrfAr7UWElJV20fmTrWegECIWKdt1enujV9Ar1Jg7t1PvEbGEXVqXR5SfC3dtB2HUH6zGKyJ-ZpJh0f7FBAgKdLWfxotx54GBwLfYIxjgxeFfJMkD8YprXczK4Pz1zrZCROZXtd" alt="referral question for new customer" width="624" height="376" /></p>
+<p>The client can select the option that best matches his situation, then click on the Send your answers button, and he’s done!</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/1eGMV6ta9HC8J7Y0sWc2SSLc3MiEzFSCwAAsnFwK5mkBpa7mn_P9bykMumW2L6IETnXqB9x04WEupzgiIOuTFTLamN0ROciCaVgwx58DJRm0FNnJuj1lUMEWCnstwDL7JDj7rLfB" alt="thank you message for answering online" width="963" height="581" /></p>
+<p>If you book the appointment by phone, booxi allows you to answer the referral question on behalf of your client.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/o35-n5lcHOQFp_C0jBecoxrlk8fzG1GEoEAC-DbnXVuh73QBlwRMhic5_enPH-6b3fgC-JCFhVWXyzdV6UcFqUtx1ohID1kGvyz4mIfxPPuz4qlU-p9DswDp3lKwaoYT-aua9m6i" alt="answer the referral question by phone" width="584" height="602" /></p>
+<p>The answer is also available in the appointment form and in the client details. We will soon be offering a statistic report for the referral question answers.</p>
+<h3>Offer Services by Phone or by Video Conference</h3>
+<p>You can now offer and book appointments for remote services provided by phone or by video conference using booxi. Simply change the location of the service using the options By phone or By video conference which are offered in addition to the options At Home or At My Business.</p>
+<p>Complete the following steps :<br />
+1. Click on the Services section from the main menu on the left side, then select a service.<br />
+2. Click on Service Details and change the location.<br />
+3. Do not forget to click Save to keep your changes.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/wccVYIw24qWKBFxoZl2pCP8wD-CGBABq9pkEGHhjGoUVyiGD7Uo9buI_KK4vVp6qRTCMQiod9D7rxXBStSMrAE1fvjEjuZ69liTJhFTV4yORROdDoU5z7PpaNbVl9sms0TRWtcwb" alt="location options for appointment" width="584" height="478" /></p>
+<p>When adding or reviewing an appointment, you can specify a phone number for the location By Phone, and you can add a web link for the location By Video Conference in the Instructions section.This information will be incorporated in the appointment confirmation and reminder messages sent to clients.</p>
+<h3>Book Appointments Directly from a Client Record</h3>
+<p>To save even more time, booxi now provides you the ability to add an appointment directly from a client record.<br />
+To do so, simply click the <img style="font-weight: normal;color: #000000" src="https://lh4.googleusercontent.com/jzvxdQ-SNzvSKK0-a-YXgHov41HH7alNPrtToQ5GDAIeMtXC8LvhJp_SQ2pLZqrgZG8htKkJ58HNuC3h9cJdFjdmsKaqyljM2XnORr1xzqWLuqNWixIZSGKj0vAjYFMu239dUJzF" alt="" width="37" height="31" /> New appointment button at the top right of the Client Summary.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/LbdzbgSeogo_MB4IHN9m2935qj6yri7icu0SWkVUzEvcH43b4Hj-3braM0qcGSsrdqml_yTPD5jcrKGwcCcglmdPXo1FeHc2ilwc7CfcRNV5rZjNJVNzVIeTjVIQVpDvcWR8rUsM" alt="add an appointment from client file" width="1203" height="470" /></p>
+<h3>Automatically Send a Thank You Message After an Appointment</h3>
+<p>This new feature allows you to automatically send thank you emails to your clients once their appointment is completed.</p>
+<p>Complete the following steps :</p>
+<ol>
+<li>Click on the My Business section from the main menu on the left, then on the sub-section Appointment Rules.</li>
+<li>Scroll down to Enable automated thank you message and activate the option. Click Save to keep your changes.</li>
+</ol>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/_JXgk45DFUYe-w609aApF-f5JggVLATatj2OEfGYBu-XD8Uz73WE--aQpD5Lp-TIXLdrb_uhr3Xxb7uko5pvLNDlrRTwL2iObzZOVF6682sBdSya_Q35h2j3dK2AvOmUFQ9F5rRJ" alt="enable thank you message" width="581" height="124" /></p>
+<p>The messages will be sent in the preferred language of the client, as soon as the appointment is completed. A small attention that greatly improves your customer experience.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/9b4GnLL8DllR_XkYTvG5PFEdzKwtr-0ofzpkrlM18xH3evrtJZw_xLVfY0fzWgXdjflrKr_C5sxIajylKn1z41xuWbQcjaLD6-sYCLMZXHen-jcgN_xDX9ONW30IKHxWEPUKFx_8" alt="thank you message " width="388" height="385" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/export-your-clients-list-referral-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

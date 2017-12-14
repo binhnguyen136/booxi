@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; entreprise</title>
+	<atom:link href="https://www.booxi.com/blog/tag/entreprise/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Réviser son profil d’entreprise</title>
+		<link>https://www.booxi.com/blog/reviser-son-profil-dentreprise/</link>
+		<comments>https://www.booxi.com/blog/reviser-son-profil-dentreprise/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[entreprise]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+		<category><![CDATA[siteweb]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=38</guid>
+		<description><![CDATA[Dans ce tutoriel, nous vous présenterons étape par étape comment mettre à jour votre profil d’entreprise.]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Dans ce tutoriel, nous vous présenterons étape par étape comment mettre à jour votre profil d’entreprise. Vous pouvez également regarder le tutoriel sur youtube via <a href="https://www.youtube.com/watch?v=VOGsx5W-OkE">ce lien</a>.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Se connecter à son compte booxi</li>
+<li>Réviser les informations de l’entreprise</li>
+<li>Ajuster les heures d’ouverture</li>
+<li>Ajuster les règles de rendez-vous</li>
+<li>Changer l’image de couverture et le logo</li>
+<li>Mettre le profil en ligne</div></li>
+</ul>
+<hr />
+<h3>Étape 1 &#8211; Se connecter à son compte booxi</h3>
+<p>Si vous êtes déjà connecté à votre compte booxi, passez à l’étape 2, sinon suivez les étapes suivantes :</p>
+<ol>
+<li>Rendez-vous sur le site web <a href="http://booxi.com">booxi.com</a></li>
+<li><span style="line-height: 21.6px">Cliquez sur Connexion en haut de la page.<br />
+<img class="shadow_medium aligncenter wp-image-75 size-full" src="https://lh3.googleusercontent.com/nTNI-4ORy5nIOXaCbf0Gstcy0yVG2rhp9Snex3AcB8L0qcE4I1HVTFXweFCV4gN3f3JkRFHgke8wCg1l3qui=s0" alt="connexion" width="1600" height="1010" /><br />
+</span></li>
+<li>Entrez l’adresse courriel et le mot de passe que vous avez utilisés lors de l’inscription. Si vous avez oublié votre mot de passe, utilisez l’option Mot de passe oublié.</li>
+<li>Cliquez sur Connexion. Si un choix de profil s’affiche, choisissez celui qui correspond à l’entreprise désirée.<img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/rhTFywEqEh4notPmNQ4JstbN9Tf1Ae2w3C1ri2443tT9GvxBAFrO_dF71x1lIOflZZMIBZmiORjtaULT06yHp3Png_6wwADfYYjbxq9_eoOWZKO1QRIcoHjGtkfJgHJqWJOR7IA" alt="" width="405" height="324" /></li>
+</ol>
+<h3>Étape 2 &#8211; Réviser les informations de l’entreprise</h3>
+<p>Assurez-vous que les informations relatives à votre entreprise sont exactes en suivant les étapes suivantes :</p>
+<ol>
+<li>À partir du menu principal situé sur le coté gauche de la page, cliquez sur Mon Entreprise.<img class="shadow_medium aligncenter wp-image-76 size-large" src="https://lh3.googleusercontent.com/9TLCXpyeYxshAgTz1o747kTbpy4GkXRr4G3XI-qlAbj06W7_clXAeapYHvey4gl9QvBlcOoDMtY7CazDyAVojA=s1024" alt="revisioninformation" width="1024" height="1024" /></li>
+<li>Cliquez ensuite sur Détails de l’entreprise pour réviser les informations de votre entreprise.</li>
+<li>Assurez-vous que les informations suivantes sont exactes :
+<ul>
+<li>Nom de l’entreprise &#8211; Vous pouvez y mettre votre nom si vous êtes un travailleur autonome et que vous travaillez sous ce nom.</li>
+<li>Votre nom et prénom comme nom du contact &#8211; Cette information est utilisée seulement par booxi pour vous contacter.</li>
+<li>Le numéro de téléphone d’affaires de votre entreprise &#8211; Vous pouvez afficher cette information sur votre site web booxi ou la cacher et la garder confidentielle.</li>
+<li>Un lien vers votre site web si vous avez un autre site web que booxi.</li>
+<li>L’adresse d’affaires complète de votre entreprise &#8211; Vous pouvez afficher cette information sur votre site web booxi ou la cacher et la garder confidentielle, si par exemple, il s’agit de votre adresse personnelle.</li>
+<li>Finalement, une Description qui met en valeur vos services et vend votre expertise.</li>
+</ul>
+</li>
+<li>Les détails suivants ne peuvent pas être changés :
+<ul>
+<li>Le Site booxi &#8211; Vous pouvez copier-coller ce lien (URL) dans des affichages sociaux ou n’importe quel matériel promotionnel comme étant votre propre site web, car celui-ci vous a été réservé.</li>
+<li>Clé de l’API &#8211; Cette série de lettres et de chiffres est une clé dont vous aurez besoin pour intégrer le bouton Rendez-vous dans un site web sur mesure ou un répertoire en ligne. Il est possible que vous ayez à donner cette information à votre développeur de site web.</li>
+</ul>
+</li>
+<li>Une fois les changements terminés, cliquez sur Sauvegarder ou sur Annuler pour les annuler.<img class="shadow_medium aligncenter wp-image-250 size-full" src="http://booxi-live-wp-storage.storage.googleapis.com/sauvegarder4.png" alt="sauvegarder" width="324" height="47" /></li>
+</ol>
+<h3>Étape 3 &#8211; Ajuster les heures d’ouverture</h3>
+<p>Si vous avez des heures d’ouverture, spécifiez-les pour chaque jour de la semaine. Si vous n’en avez pas, sautez cette étape en laissant vos heures d’ouverture vides pour chaque jour. Vous pouvez fournir plusieurs plages horaires par jour, si par exemple, votre entreprise est fermée durant l’heure du dîner (9h00-12h00 et une autre pour 13h00-18h00).</p>
+<ol>
+<ol>
+<li>Cliquez sur Heures d’ouverture pour vérifier l’horaire des heures d’ouverture de votre entreprise.
+<ul>
+<li>Vous devez fournir un début et une fin pour chaque plage horaire.</li>
+<li>Cliquez sur X pour supprimer une plage horaire.</li>
+<li><span style="line-height: 21.6px">Cliquez sur + pour ajouter une autre plage horaire.</span></li>
+</ul>
+</li>
+</ol>
+</ol>
+<p><img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/5FjztiuPYAuZy92k6dgOG1IOiU-9fav1GNtd0KjizhHw-mh3Tbou6JQbPFom25O-bv3QMzF28aVIpEq8iauMlmwo2nAI6bnWtfzvLq6VPrszbcN0GkZlE_ufM6WLAA9d0aUYP_w" alt="ajouter les horaires d'ouverture" width="488" height="463" /></p>
+<ol>
+<li>Une fois les changements terminés, cliquez sur Sauvegarder ou sur Annuler pour les annuler.<img class="shadow_medium aligncenter wp-image-250 size-full" src="http://lh3.googleusercontent.com/mczr4kb-bYDT05u8sNOIkDD0ML7vpWKtVgu0qCd9YhD-3XepWgnHR7bRWcSnGZSCuPN0ZpHZib5K7DkZWrb3PA=s0" alt="sauvegarder" width="324" height="47" /></li>
+</ol>
+<h3>Étape 4 &#8211; Ajuster les règles de rendez-vous</h3>
+<p>Les règles de rendez-vous permettent de dire à booxi comment gérer vos rendez-vous et vos disponibilités pour vous.</p>
+<ol>
+<ol>
+<li>Cliquez sur Règles de Rendez-vous pour accéder et modifier les règles.</li>
+</ol>
+</ol>
+<p><strong>Afficher les heures d’ouverture</strong><br />
+Cette règle vous permet de ne pas afficher vos heures d’ouverture sur votre site web booxi. Ceci vous sera utile si vous n’avez pas fourni un horaire pour les heures d’ouverture ou si vous planifiez de gérer vos disponibilités selon les demandes de rendez-vous. Ainsi, vous pourriez, par exemple, décider d’insérer tous les rendez-vous dans l’horaire du jeudi et prendre congé le vendredi. Décochez simplement la case pour ne pas afficher vos heures d’ouverture.</p>
+<p>Nous regarderons les autres règles dans un autre tutoriel.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/v2h1JXUOn2H9HMwZWzMrfpiY5HiLrvcNNGv274R_tjczzocZ_zUqxXzHCiaDSKJzDGprWSVJsZL--r_VEPB0OFgyFnuADv4W-fewgCffCC77BVRE33sHIdxu9qJii5ADrQMrh0A" alt="Paramétrer les règles de rendez-vous" width="488" height="297" /></p>
+<ol>
+<li>Si vous avez fait des changements, cliquez sur Sauvegarder en haut de la fenêtre pour conserver vos changement ou sur Annuler sinon.<img class="shadow_medium aligncenter wp-image-250 size-full" src="http://lh3.googleusercontent.com/mczr4kb-bYDT05u8sNOIkDD0ML7vpWKtVgu0qCd9YhD-3XepWgnHR7bRWcSnGZSCuPN0ZpHZib5K7DkZWrb3PA=s0" alt="sauvegarder" width="324" height="47" /></li>
+</ol>
+<h3>Étape 5 &#8211; Changer l’image de couverture</h3>
+<p>Le profil de votre entreprise a une image de couverture ou un logo. La couverture embellit votre site web, tandis que le logo permet d’identifier votre entreprise.</p>
+<p><img class="shadow_medium aligncenter wp-image-77" src="https://lh3.googleusercontent.com/xXlgQBHGLuJjdTcX3QAQ9E85M37PpUvpefE-uahSGOJEoVYkduysmA0MMty1M2WaSzrlSLDXNlhWGxvoHQqJ=s0" alt="ajoutez du visuel" width="1056" height="844" /></p>
+<ol>
+<li>Changez votre image de couverture en cliquant sur l’icône <img src="https://lh5.googleusercontent.com/BnibybvmWmg3MuhPGk8aXhybnh2r2GDozFjrYvLpOy4oYqtSJ3QY3smd2hg39Njazb4qvVQ7MXUqHHwTfPmwb0O9oF1JfH3Rh2WRg1jrK2z5DS1nA_LxCyvaFHHuHNcIaDL92So" alt="" />au bas de l’image de couverture actuelle. Vous pouvez aussi utiliser notre application mobile pour prendre une photo avec votre téléphone intelligent et l’utiliser comme image de couverture.
+<ul>
+<li>Cliquez sur le bouton Télécharger une photo afin de télécharger une photo à partir de votre ordinateur ou tablette.</li>
+<li>Cliquez sur le bouton Réinitialiser pour supprimer la photo.</li>
+<li>Utilisez les 4 points bleus pour découper ou sélectionner la portion visible de la photo.</li>
+</ul>
+</li>
+<li>Cliquez sur le bouton Sauvegarder la photo pour sauvegarder les changements ou cliquez sur le X en haut à droite pour annuler les changements.<img class="shadow_medium aligncenter wp-image-78 size-full" src="https://lh3.googleusercontent.com/1p1RR8D6w05N1_GOsiN1LfppHoywcORv6QDvLjaNDVi8bRmiXKXwBSNkIQP0tFKJ2qycZ3m-h5ZZaNMd3XLpqw=s0" alt="rognerimagecouverture" width="823" height="524" /></li>
+</ol>
+<h3>Étape 6 &#8211; Changer le logo de l’entreprise</h3>
+<p>Le logo de votre entreprise permet d’identifier celle-ci. Si vous êtes un professionnel travailleur autonome et que vous n’avez pas de logo, vous pouvez y mettre votre photo.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/IPwz5t4zKbxdZ7Hqg5y7J81KmiEBZsLmEiy4tALthF6ajFJKkoK_bKV5TVf8ZLdWtDoCSBtyJ1nD5_gl9E0YGLh_Ph4YoqfkZaac6abjZHLK2SPPLpXyPmzwMx58QnjEtSMb-kg" alt="ajouter un logo" width="256" height="259" /></p>
+<ol>
+<li>Changez votre logo ou photo de profil en cliquant sur l’icône <img style="font-weight: normal;color: #000000" src="https://lh5.googleusercontent.com/BnibybvmWmg3MuhPGk8aXhybnh2r2GDozFjrYvLpOy4oYqtSJ3QY3smd2hg39Njazb4qvVQ7MXUqHHwTfPmwb0O9oF1JfH3Rh2WRg1jrK2z5DS1nA_LxCyvaFHHuHNcIaDL92So" alt="" /> au bas de la photo de profil actuelle.</li>
+<li><span style="line-height: 21.6px">Cliquez sur le bouton Sauvegarder la photo pour sauvegarder les changements ou cliquez sur le X en haut à droite pour annuler les changements.</span></li>
+</ol>
+<h3>Étape 7 &#8211; Mettre votre entreprise en ligne</h3>
+<p>Maintenant que tout a été révisé, vous pouvez mettre votre entreprise en ligne. Vous devez mettre le statut de votre profil d’entreprise à Disponible en ligne pour que votre site web booxi soit en ligne et pour que la prise de rendez-vous soit accessible.</p>
+<p>Vous pouvez aussi choisir de le faire plus tard, soit après avoir révisé la liste de votre personnel et votre offre de services.</p>
+<ol>
+<li>Cliquez sur Hors-Ligne et sélectionnez Disponible en ligne.</li>
+<li>Le statut devrait devenir vert.<img class="shadow_medium aligncenter" src="https://lh4.googleusercontent.com/xDDWvo1ml-q9fqrLN2TrSBzflFdD5VFP86k3tNK34c5OZwWikd-QFuaR8wtbEla6re7xHePh7Q-98VpnuZACDxW7iSvwdCGCK68XnaKrid3gNGsszkSWb0k65Q78eMg-pc4jKN4" alt="" width="263" height="247" /></li>
+</ol>
+<p>Vous avez terminé et vous pouvez passer au tutoriel Mettre à jour votre offre de services.</p>
+<h3>À retenir</h3>
+<ul>
+<li>L’affichage de votre numéro de téléphone et votre adresse sur votre site web booxi est optionnel.</li>
+<li><span style="line-height: 21.6px">Vous pouvez ne pas afficher vos heures d’ouverture sur votre site web booxi.</span></li>
+<li><span style="line-height: 21.6px">Mettre une image de couverture et de profil (logo) rend votre site web plus attrayant.</span></li>
+</ul>
+<p><span style="line-height: 21.6px">Vous devez régler le statut de votre profil d’entreprise à Disponible en ligne afin de pouvoir publier votre site web en ligne.</span></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/reviser-son-profil-dentreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

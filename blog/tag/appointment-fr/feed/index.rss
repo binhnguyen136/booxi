@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; rendez-vous en-ligne</title>
+	<atom:link href="https://www.booxi.com/blog/tag/appointment-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Générez des rapports de rendez-vous pour suivre l&#8217;évolution de votre entreprise</title>
+		<link>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/</link>
+		<comments>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/#comments</comments>
+		<pubDate>Fri, 13 Oct 2017 20:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[propriétaire d’entreprise]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1461</guid>
+		<description><![CDATA[Avec booxi, vous pouvez maintenant facilement générer des rapports à partir des données de vos rendez-vous. Une information très importante pour réaliser l’analyse de votre entreprise et vous aider à la développer en concentrant vos efforts sur les aspects pertinents. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1501 size-full" src="https://lh3.googleusercontent.com/vlag5YfyW7i7IcrFCWGZMejfiMo6l6WW_EM2eJ_rb2NxbWqP45YUGDFCwmNmwKEjQgXf4oWZe1W0XXFltjnNvQ=s0" alt="AppointmentReportThumbnail copy" width="1200" height="600" />Les rapports sont des outils puissants pour vous permettre d&rsquo;analyser votre entreprise, de vous aider à prendre les bonnes décisions, de savoir où concentrer vos efforts ou encore quels sont les points à améliorer.</p>
+<p>Avec booxi, vous pouvez maintenant facilement exporter des rapports à partir des données de vos rendez-vous, ajuster les critères d’export et les analyser.</p>
+<p>Voici quelques exemples d&rsquo;informations importantes que vous pouvez extraire à partir de ces rapports:</p>
+<ul>
+<li>Savoir quel est le service le plus apprécié de vos clients</li>
+<li>Connaître les périodes les plus occupées (que ce soit en terme de jours de la semaine ou d’horaires)</li>
+<li>Visualiser les performances de vos employés</li>
+<li>Déterminer qui sont vos clients les plus réguliers</li>
+<li>Déterminer les revenus générés à travers la prise de rendez-vous</li>
+<li>Faire des comparatifs pour l’ensemble de ces aspects, sur différentes périodes de temps.</li>
+</ul>
+<p>Pour cela rien de plus facile :</p>
+<ol>
+<li>Connectez-vous sur votre compte booxi, et allez sur l’onglet Calendrier.</li>
+<li>Ensuite cliquez sur l’icône “Plus d’options”, et sélectionnez l’option “Rapport des rendez-vous”.<img class="img_zoom aligncenter size-full wp-image-1499" src="https://lh3.googleusercontent.com/gMih5Qz4Lv1zdgREtR4FN_7cZN0qLtwk9_r9MG3sqoOcXnsl05ktjlcr8KCeEZKZ7xmj7NO2rXKyEa_Mc4qMqA=s0" alt="exporter les rapports de rendez-vous" /></li>
+<li>Sélectionnez les critères souhaités et cliquez sur Exporter.<i>Astuce: </i><i><i><i>Pour faire l’analyse des rendez-vous complétés, veillez à exporter en excluant les données des rendez-vous manqués et des rendez-vous annulés.</i></i></i><img class="img_zoom aligncenter size-full wp-image-1500" src="https://lh3.googleusercontent.com/M6xALaTAuoVr7wsLmpjcI2In5SLJap_09fv73OX7CECkA5Jy_YHAkRNLWjgbXWgHKnQelxHrgiIdXlJmRcIp=s0" alt="critères d'exportation" /></li>
+<li>Ensuite cliquez sur le lien “Cliquez ici pour télécharger le rapport”.<br />
+<img class="aligncenter wp-image-1464 size-full" src="https://lh3.googleusercontent.com/NZGEofqgihgEnYDbXBwQLSS_DWn_vk88_C-ULHmKGobpfGchRGjNv_bb1pDJg0jWtQSqEFGPgLGnlopSzi8f=s0" alt="télécharger le rapport" width="787" height="435" /></li>
+<li>Le téléchargement commence alors et vous pouvez trouver votre fichier en bas à gauche de votre fenêtre.</li>
+</ol>
+<p>Vous pouvez maintenant facilement l’ouvrir avec Excel ou Google Spreadsheet et commencer à faire vos analyses en fonction des informations qui vous intéressent.</p>
+<p>L’analyse de rapports est essentielle dans la gestion de votre entreprise. C’est une façon efficace de déterminer si votre entreprise est en croissance, stagne ou si vous devez réaliser des changements.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/generez-des-rapports-de-rendez-vous-pour-suivre-levolution-de-votre-entreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatisez la répartition de vos rendez-vous et gagnez encore plus de temps</title>
+		<link>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/</link>
+		<comments>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/#comments</comments>
+		<pubDate>Mon, 02 Oct 2017 15:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1490</guid>
+		<description><![CDATA[Il est maintenant possible d’automatiser la répartition des rendez-vous pris en ligne au lieu de demander à votre client de choisir un personnel, ou de répartir manuellement les rendez-vous vous-même.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-1487 size-full" src="https://lh3.googleusercontent.com/jGIIyUywkNnHRAH79me-Fa-ksrFffuWo5z3uwyYLe5HoM-cei9k1N-7QZf4GtaITOduYufJT4mzHzB2BkK0XhZo=s0" alt="répartition automatique des rendez-vous" width="1492" height="713" />Il est maintenant possible d’automatiser la répartition des rendez-vous pris en ligne au lieu de demander à votre client de choisir un personnel, ou de répartir manuellement les rendez-vous vous-même. De cette façon les rendez-vous seront répartis uniformément à votre personnel, et vous économiserez un temps fou à ne pas gérer leurs horaires.</p>
+<p>Que vous ayez 10 ou 100 employés, louez des espaces comme des salles de conférence, champs de tir, ou cabines de toilettage pour chien, ou des objets comme des bicyclettes, ou kayaks, booxi peut automatiser votre répartition et vous faire économiser un temps considérable.</p>
+<ul>
+<li>Comment les rendez-vous sont répartis automatiquement</li>
+<li>Configurer un service pour la répartition automatique</li>
+<li>Expérience de prise de rendez-vous en ligne</li>
+</ul>
+<p><b>Comment les rendez-vous sont répartis automatiquement</b></p>
+<p>Quand la répartition automatique est activée, booxi calcule les disponibilités de chaque personnel et présente un choix de dates et heures qui ont au minimum un personnel disponible. Quand le client choisi une plage horaire, booxi répartit automatiquement le rendez-vous au personnel disponible ayant le moins de rendez-vous pour cette journée. De cette façon, tout le personnel disponible aura une moyenne de rendez-vous uniforme.</p>
+<p>Selon le mode d’approbation des rendez-vous sélectionné, vous recevrez soit une demande de rendez-vous (mode manuel) ou un rendez-vous approuvé (mode automatique). Tout est automatisé afin de vous faire économiser un temps considérable dans la gestion de vos horaires.</p>
+<p><b>Configurer un service pour la répartition automatique</b></p>
+<p>Vous pouvez activer la répartition automatique pour un ensemble de services, en changeant tout simplement deux règles de rendez-vous par service. La répartition automatique des rendez-vous remplace le choix du personnel lors de la prise de rendez-vous en ligne par un choix de plages horaires disponible. Vous n’avez donc qu’à <b>Désactiver le choix de personnel</b>, et changer le <b>Mode de sélection de plage horaire</b> pour <b>Afficher les plages horaires avec répartition automatisée</b>.  Vous pouvez ainsi offrir certains services avec la répartition automatique, et d’autres avec un choix de personnel.</p>
+<ol>
+<li>Parmi votre liste de services, ouvrez le profil du service pour lequel vous aimeriez répartir automatiquement les rendez-vous.</li>
+<li>Cliquez sur<b> Règles de rendez-vous</b> pour ce service</li>
+<li>Activez la règle <b>Désactiver le choix de personnel</b></li>
+<li>Ajustez le <b>Mode de sélection de plage horaire</b> à <b>Afficher les plages horaires avec répartition automatisée</b></li>
+<li>Cliquez sur <b>Sauvegarder </b>au haut du formulaire Règles de rendez-vous, et le tour est joué.<img class="img_zoom aligncenter size-full wp-image-1497" src="https://lh3.googleusercontent.com/jkcKwVvNanN1fETJEC6CvHcaCeJNawJKGbv89LoCqWOa7y5tRO1bJpKLsHxLgg8YjDXTmOl2Vj9qg1qsbD1uEg=s0" alt="répartition automatisée" /></li>
+</ol>
+<p><b>Expérience de prise de rendez-vous en ligne</b></p>
+<p>Quand un client choisi un service avec répartition automatique, il obtient un choix de dates et plages horaires, sans choisir de personnel. Ces plages horaires ont tous au minimum un personnel disponible et si plus d’un personnel, le rendez-vous est réparti au personnel avec le moins de rendez-vous pour cette journée.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1492" src="https://lh3.googleusercontent.com/mfkJzY5xXOYt6xFhH6FFpvEAZs0wGDNZt7FLt-sh-jZhfkHWtuOECXFqeA1fIXYLKOUpv-PYL0ERg6zktSs6xA=s0" alt="dispatch automatique" /></p>
+<p style="text-align: center">Votre client reçoit une confirmation et un rappel de rendez-vous, sans mention du personnel attitré, vous permettant ainsi de le changer par la suite.</p>
+<p>Vous passez trop de temps à gérer les horaires de vos employés? Testez gratuitement booxi pendant 14 jours!</p>
+<p style="text-align: center"><a href="https://www.booxi.com/affaires/inscription" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-rounded" target="_blank">Démarrer</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/repartition-automatique-des-rendez-vous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment ajouter la prise de rendez-vous en ligne sur votre site web Jimdo?</title>
+		<link>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/</link>
+		<comments>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/#comments</comments>
+		<pubDate>Mon, 21 Aug 2017 22:01:16 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[prise de rendez-vous]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+		<category><![CDATA[site web jimdo]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=1392</guid>
+		<description><![CDATA[Apprenez comment ajouter la prise de rendez-vous en ligne directement sur votre site web Jimdo et convertissez vos visiteurs en ligne en clients. ]]></description>
+				<content:encoded><![CDATA[<p><b><img class="float_top aligncenter wp-image-1391 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/jimdo.png" alt="jimdo" width="1200" height="600" /><br />
+Step 0 :</b></p>
+<ul>
+<li>Aller sur <a href="https://www.booxi.com/developers/booknow">https://www.booxi.com/developers/booknow</a></li>
+<li>Entrez votre API booxi et générer le code du bouton (pour trouver votre API booxi, allez sur l’onglet Mon Entreprise, puis dans la section Détails de l’entreprise, et copier la clé de l’API).</li>
+<li>Laissez cette fenêtre ouverte, vous vous en servirez plus tard dans l’éditeur de votre site web Jimdo.</li>
+</ul>
+<p><b>Step 1 :</b> Allez sur Jimdo et entrez vos identifiants pour accéder à votre éditeur de site web.</p>
+<p><b>Step 2 : </b> Ouvrez le menu de votre site (sur le côté gauche). Cliquez sur l’option Paramètres.</p>
+<p><img class="float_top aligncenter wp-image-1393 size-full" src="https://lh3.googleusercontent.com/T-ao5krkYgE6QGvSm9pdKFhpAfKpXuhS8peftO5ENDGMZUmpeD66lXVHL1Yi3glPr2V_fZ4wkT-zJf5wfOBYmw=s0" alt="menu principal Jimdo" width="230" height="362" /></p>
+<p><b>Step 3 : </b>Dans le menu des paramètres, sélectionnez l’option “Modifier le head” et cliquez dessus:</p>
+<p><img class="shadow_medium aligncenter wp-image-1394 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/modifier-le-head.png" alt="parametres jimdo" width="217" height="584" /></p>
+<p><b>Step 4 </b>: Cette section vous permet d’ajouter le bouton booxi sur toutes les pages de votre site (cela ne les inclus pas automatiquement sur chacune des pages).</p>
+<p><img class="shadow_medium aligncenter wp-image-1395 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/script-pour-modifier-le-head.png" alt="modifier site web Jimdo" width="1177" height="654" /></p>
+<p>Veillez à sélectionner l’onglet Site web (situé dans l’en-tête grise). Retournez sur la page développeur de booxi et faites défiler l’écran jusqu’à la section “Code du widget”, dans laquelle vous trouverez le code.</p>
+<p><img class="shadow_medium aligncenter wp-image-1396 size-full" src="https://lh3.googleusercontent.com/DgxRs9SI129MELPApkqu8VDfm0lZr_sxGDMzPyealowgWuN8Dmr9Loh0OX2_QlbQZiGPsKKUrD3dv-iViNuW=s0" alt="bouton rendez-vous booxi" width="978" height="793" /></p>
+<p>Vous devez sélectionner tout le code dans la zone de texte et le copier, retournez sur l’éditeur du site web Jimdo, et collez le code dans la section de texte:</p>
+<p><img class="shadow_medium  aligncenter wp-image-1397 size-full" src="https://lh3.googleusercontent.com/vkVaJ6EPOFx59VIXA6o8YoogghjMW_nkNZjupuHLlwWsk3oQWdI4q1D5Mhh4rVIRX_QSIb0zRdb2nNn0ykoCRA=s0" alt="rendez-vous en ligne sur Jimdo" width="1157" height="1011" /></p>
+<p>Veillez à sauvegarder avant de quitter cette page. Si une erreur est détectée, Jimdo ne sauvegardera pas le code. Pour vous assurer que c’est correctement sauvegardé, retournez simplement dans la section de code après avoir sauvegardé. Si le code y apparaît, c’est que tout à correctement fonctionné.</p>
+<p><b>Step 5: </b>Maintenant que le code du bouton est sauvegardé, vous êtes en mesure d’ajouter le bouton de rendez-vous. Allez sur votre éditeur de site web Jimdo et déterminez l’endroit où vous souhaitez ajouter le bouton de rendez-vous.</p>
+<p>Cliquez sur le boutton “<b>+ Add Element</b> “.</p>
+<p><img class="shadow_medium aligncenter wp-image-1383 size-full" src="https://lh3.googleusercontent.com/YQXxcnroEjAlyB5MitmSEgKikxS68a2wFoPfA3a0zeUdlb6HDGgiBA4dkKobUMVFjoYJIzzdGZzA__IG3-CxTA=s0" alt="ajouter la prise de rendez-vous" width="439" height="336" /><br />
+L’option d’ajouter le bouton de rendez-vous ne fait pas partie des options basiques. Cliquez sur le bouton <b>More elements and Add-ons</b>.à</p>
+<p><img class="shadow_medium aligncenter wp-image-1384 size-full" src="https://lh3.googleusercontent.com/0kXa1yuGzDKFnwslN46Vllt1WIu7KfWFBilX41OGNR-9B58jJvtvtfsYVeTz5TKU-zUZ6yHLdRrSYGAseli22Q=s0" alt="bouton RDV sur Jimdo" width="441" height="424" /></p>
+<p>Sélectionnez l’option “ <b>Widget / HTML</b> “, cela va ouvrir l’éditeur d’où vous pourrez ajouter le bouton.</p>
+<p><img class="shadow_medium aligncenter wp-image-1385 size-full" src="https://lh3.googleusercontent.com/Lt4VyZ8JwcefoCQmLgAY6ntRfvVnpQjehGM8aVH-vESJphfGPnLLsZbX1ws32fi1UcfhXZ5QgxeVhlIawr9ggAI=s0" alt="Jimdo editeur de site web" width="569" height="542" /></p>
+<p>Retournez sur la page de booxi pour développeur, vous y trouverez une zone de texte contenant le code html nécessaire pour ajouter le bouton :</p>
+<p><img class="shadow_medium aligncenter wp-image-1398 size-full" src="https://lh3.googleusercontent.com/KIgunbH8WFKt_iwgt55BH3mMXo2KOq-4WONdz6dvDFbb1kWONfYjoSxXtqBSFZBp3zy6MaAxDdX6C3Soa80XMA=s0" alt="bouton rendez-vous" width="1021" height="447" /></p>
+<p>Vous devez copier le code HTML de cette section, retourner sur l’éditeur de Jimdo et coller le texte dans la zone de texte Widget / HTML.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-1387" src="https://lh3.googleusercontent.com/6gXnAcOkk_U3gw3GDUoMZxVURV0zEMwj7d7rbP61Y4emN7hN-JOuO_QdQ5S7R3RYQcjaK8f6Z-9gsO9I2K8NOw=s0" alt="Jimdo editeur de script" /></p>
+<p>Cliquez sur le bouton Sauvegarder. Sauvegardez la page et essayez le.</p>
+<p>Si tout a correctement fonctionné, vous devriez voir un bouton vert apparaître.</p>
+<p>Si vous cliquez dessus, le bouton de rendez-vous devrait charger.</p>
+<p>Les risques d’erreur possibles:</p>
+<p>Si le bouton ne charge pas, vérifiez les éléments suivants:</p>
+<ul>
+<li>Il y a eu une erreur au moment de copier le code du bouton de rendez-vous.</li>
+<li>Votre clé d’API est invalide ou il y a une faute de frappe.</li>
+<li>Votre compte booxi n’est pas en ligne.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/rendez-vous-en-ligne-jimdo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 raisons pour lesquelles votre entreprise a besoin d&#8217;une application mobile</title>
+		<link>https://www.booxi.com/blog/8-raisons-pour-lesquelles-votre-entreprise-a-besoin-dune-application-mobile-3/</link>
+		<comments>https://www.booxi.com/blog/8-raisons-pour-lesquelles-votre-entreprise-a-besoin-dune-application-mobile-3/#comments</comments>
+		<pubDate>Tue, 14 Feb 2017 16:41:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[appli mobile]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=889</guid>
+		<description><![CDATA[Avoir une application pour supporter votre entreprise offre d'immenses avantages, et c'est une excellente étape pour fidéliser vos clients et les inciter à revenir. Apprenez-en plus sur notre partenaire AppInstitute et pourquoi vous devriez créer votre propre application. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-875 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/app_mobile.png" alt="application mobile" width="360" height="514" />Avoir une App pour soutenir votre entreprise offre d&rsquo;énormes avantages et est une étape importante pour garder vos clients engagés et pour qu’ils viennent régulièrement. Non seulement elle offre une meilleure expérience client, mais elle permet également aux petites entreprises de tirer parti de la puissance du marketing mobile en restant en contact avec leurs clients fidèles, 24/7.</p>
+<p>Depuis 2014, la navigation sur Internet à partir d’un téléphone intelligent a énormément augmenté, dépassant la navigation à partir d’un ordinateur, et que cela vous plaise ou non cela n’est pas près de changer. Aujourd’hui quasiment tout ce qui peut être réalisé à partir d’un ordinateur peut également l’être à partir d’un téléphone intelligent. Et les gens adorent cela. Les téléphones intelligents sont de plus en plus intégrés à la façon dont les gens vivent et gèrent leur quotidien. À portés de mains 24/7, de nombreuses entreprises profitent de cette énorme opportunité marketing. Voici comment vous pouvez vous aussi en bénéficier.</p>
+<p><img class="verti_top alignleft wp-image-879" src="https://lh3.googleusercontent.com/k-7LdFdN2SyfDzLk6eKNgnRM7VqIRbyvdSpfLRPNJQewTU78D4U148bXC6PLZ8YcGhKtGECVIK4kZ-txPpLN=s0" alt="augmenter les rendez-vous" width="76" height="66" /></p>
+<h2>Réservation directement à partir de l’application en quelques clics</h2>
+<p>Une des fantastique raison de développer une application pour votre entreprise c’est la possibilité de l’utiliser comme une plateforme pour votre système de prise de rendez-vous. Sans application, votre client doit chercher votre site web sur un moteur de recherches, trouver votre page de réservation et ensuite planifier son prochain rendez-vous. Avec une application mobile, vous pouvez simplifier l’ensemble de ce processus en seulement quelques clics directement depuis leur téléphone intelligent.</p>
+<p><img class="verti_top alignleft wp-image-880 " src="https://lh3.googleusercontent.com/CNTFnuydyJCEC-PqUAGFMMF0Re8PO8Lu2ddAlm8ZPir61br0z2yBvg033K4KEk8DqVN7mYqxZpiuZUGTkm_LJ2Q=s0" alt="clients fidèles" width="70" height="70" /></p>
+<h2>Fidélisation récompensée &#8211; Cartes de fidélité</h2>
+<p>Quand il s&rsquo;agit de fidélité, les clients aiment savoir que leur entreprise est appréciée. C’est également l’occasion pour vous d’augmenter vos ventes en les incitant à refaire une transaction avec vous. Avec une application, vous offrez à vos clients une façon simple d’être récompensés pour leur fidélité. Et le fait de gagner des récompenses à travers une carte de fidélité mobile est une stratégie efficace pour les faire revenir.<br />
+<img class="verti_top alignleft wp-image-872 " src="https://lh3.googleusercontent.com/obJxaWEO22nOot_NxHh_0vAl7RQMvzBl0t1YGOS1lRsIQTqNj3bMISUzRDAs0_cYd7CaeqcS8X9U7jSV0_VoeA=s0" alt="appli téléchargée" width="87" height="82" /></p>
+<h2><a href="https://booxi-live-wp-storage.storage.googleapis.com/appli_telechargee.png"><br />
+</a>Coupons Mobile</h2>
+<p>Pendant les périodes plus calmes, pourquoi ne pas envoyer des offres spéciales qui peuvent être utilisées par vos clients qui ont votre App? Vous pouvez également les informer des promotions saisonnières, des offres de dernières minutes ou de nouveaux services. Les bons de réduction sur mobile sont aussi une excellente façon d’encourager le téléchargement de votre application.</p>
+<p><img class="verti_top alignleft wp-image-883 " src="https://lh3.googleusercontent.com/TEpBOnttVE_T714WpxQB7wz2N-wIvo9VqNa4ycmDiBarjC_9HoUvLTz-weIWZXUf-SvghTb_Kot6kr4cK-XR4w=s0" alt="présence " width="82" height="59" /></p>
+<p>&nbsp;</p>
+<h2>Marquez les esprits</h2>
+<p>En moyenne les gens regardent leur téléphone 85 fois par jour. Alors quand vous avez une App, à chaque fois qu’un client regarde son téléphone, l’icône de votre application sera là pour les faire penser à votre entreprise.</p>
+<p><img class="img_zoom  wp-image-884 alignright" src="https://lh3.googleusercontent.com/kKf9MWNnF90ABenX-A63uzwWOqTiQQ09sQhzaLbc0NQCcVGTwqepFKmhKB8RyUhazzxhwiZJIq0fwOx5Pn4W-Q=s0" alt="messages envoyés selon la localisation" width="322" height="529" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Messagerie basée sur l&rsquo;emplacement</h2>
+<p>Le marketing basé sur les applications mobiles permet aux entreprises d&rsquo;envoyer des notifications Push en fonction de l&rsquo;emplacement d&rsquo;un utilisateur de l&rsquo;application en créant une «barrière géographique» pour déclencher le message. Cela signifie que vous pouvez cibler les clients qui sont à proximité de vos magasins avec des offres pertinente, au bon moment.</p>
+<h2></h2>
+<h2><img class="verti_top alignleft wp-image-885 " src="https://lh3.googleusercontent.com/iBfm7BJw5j9GM58kMM5RXyGtK_PV8tdbdp4LSU971_gfbnRtsQi1p2X-tEZX94SBT0TZejtqTW4v1znFDL9X=s0" alt="messages planifiés" width="65" height="54" /></h2>
+<h2></h2>
+<h2>Messages Planifiés</h2>
+<p>Planifiez vos messages à l’avance pour avoir plus de temps pour gérer votre entreprise. C’est l’idéal pour annoncer les dates de fermeture des vacances à venir, les promotions saisonnières ou les offres récurrentes. Il vous suffit de paramétrer le message que vous souhaitez planifier, configurez l’heure et la date et continuez votre journée. Si vous avez identifié des périodes creuses dans vos activités, sur certains jours ou à certaines dates, alors programmez des notifications de rappel pour encourager vos clients à vous rendre visite sur ces périodes plus calmes.</p>
+<p>&nbsp;</p>
+<p><img class="verti_top alignleft wp-image-886 " src="https://lh3.googleusercontent.com/IjM2UwdBXjrQdBjft3HJBM_srhgYsK4bX_UpXCMxul3gTZcqsdxCf6VvEv2RJ93JLqUm6XiTP86Rv-IH8HDEfg=s0" alt="données enregistrées au même endroit" width="60" height="68" /></p>
+<h2></h2>
+<h2>Toutes les informations de contact enregistrées au même endroit</h2>
+<p>Si vos clients ont besoin de vous contacter, que ce soit pour vous donner davantage de détails sur leur réservation ou pour vous faire une demande, il est bien plus probable qu’ils continuent à vous contacter en utilisant l’information qui est enregistrée à quelques clics seulement. De cette façon ils n’ont pas besoin de chercher vos coordonnées en ligne ou de faire défiler leur liste de contacts sur leur téléphone.</p>
+<h2><img class="verti_top alignleft wp-image-887 " src="https://lh3.googleusercontent.com/hUM5PSl5qU5Aw7xc7TWZ0TDFaMYiy2AOS0Q_fnjNQaPe867-hVKoDCUfcL3C5oqjSrK9vAXfLKJvjDUF2v8RIw=s0" alt="entreprise en croissance" width="66" height="46" /></h2>
+<h2>Le meilleur des deux mondes</h2>
+<p>Avoir un système sur ordinateur pour prendre rendez-vous et sur une application signifie que vos entreprise est accessible depuis n’importe quel appareil. Aujourd’hui de plus en plus de consommateurs utilisent uniquement leur téléphone intelligent pour naviguer sur internet. En proposant une solution simplifiée à travers votre application mobile vous réduisez la friction de l’expérience de réservation de vos clients en leur permettant d’accéder à vos services de n’importe quel appareil et où qu’ils soient, qu’ils aillent au travail le matin ou sur l’heur du dîner.</p>
+<p><strong><img class="img_zoom  wp-image-895 alignleft" src="https://lh3.googleusercontent.com/bmgLEzUBjfH3QugCwssDvERXi7MoO1A7NqCmWfDq8Zch8QY1umMoATiDmlYD6YSw54ps5Cf_UfZQ4VQDivZeUaA=s0" alt="AppInstitute-logo-400x400-whiteversion" width="152" height="152" /></strong></p>
+<p>&nbsp;</p>
+<p><strong>Ian Naylor</strong>, CEO &amp; Fondateur de <a href="https://appinstitute.com/booxi-app/?utm_source=booxi&amp;utm_medium=Partner&amp;utm_campaign=booxi">AppInstitute</a></p>
+<p>AppInstitute est une solution pour construire soi-même son application pour petites entreprises. <a href="https://appinstitute.com/booxi-app/?utm_source=booxi&amp;utm_medium=Partner&amp;utm_campaign=booxi">Essayez le gratuitement maintenant</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/8-raisons-pour-lesquelles-votre-entreprise-a-besoin-dune-application-mobile-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Etes-vous prêt pour le rush des Fêtes?</title>
+		<link>https://www.booxi.com/blog/etes-vous-pret-pour-le-rush-des-fetes/</link>
+		<comments>https://www.booxi.com/blog/etes-vous-pret-pour-le-rush-des-fetes/#comments</comments>
+		<pubDate>Tue, 20 Dec 2016 16:55:10 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=833</guid>
+		<description><![CDATA[La période des fêtes est toujours très occupée. C’est pourquoi nous vous avons préparé une liste des choses que vous ne devez pas oublier pour bénéficier au maximum de cette période très achalandée, sans stress.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-832 size-full" src="https://lh3.googleusercontent.com/zzM8QyEe5bE6fBgVIACjg35JFvqoy-_2tVfApTCR6R2-mcsbiQR2iMgbUpUNa0kUH5pBwN7Bek4A2Ww0sDq2=s0" alt="idées marketing pour bénéficier du temps des fêtes" width="1200" height="600" />La période des fêtes est toujours très occupée. C’est pourquoi nous vous avons préparé une liste des choses que vous ne devez pas oublier pour bénéficier au maximum de cette période très achalandée, sans stress.</p>
+<ul>
+<li>Envoyez un message de voeux à vos clients et pour les remercier? Vous n’avez aucune idée de comment le faire? Voici un article qui devrait vous intéresser!</li>
+<li>Maintenant que votre texte et vos images sont prêtes, prenez 5 minutes pour programmer ou publier ce message sur vos réseaux sociaux aussi.</li>
+<li>Assurez-vous de bloquer dans votre calendrier vos jours de vacances pour être sûr que personne ne prenne rendez-vous à ce moment là?</li>
+<li>Basés sur les résultats de l’année dernière pensez-vous devoir ouvrir de nouvelles plages horaires pour répondre à la demande? Assurez-vous de bénéficier au maximum de cette période de l’année très achalandée en ayant les ressources nécessaires.</li>
+<li>Publiez vos horaires le temps des fêtes sur vos réseaux sociaux pour que vos clients sachent quand ils peuvent prendre rendez-vous?</li>
+<li>Appelez vos clients réguliers pour vous assurer qu’ils ont déjà pris leur rendez-vous et qu’ils ne se retrouvent pas pris au dépourvu, sans rendez-vous?</li>
+<li>Commandez votre stock de détails pour janvier (si vos fournisseurs ferment pendant la période des fêtes)?</li>
+<li>Vous voulez aller plus loin? Pourquoi ne pas repérer sur Instagram ou Pinterest les coiffures les plus publiées et les proposer à vos clients? D’ailleurs cela peut être du contenu supplémentaire pertinent pour vos réseaux sociaux.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/etes-vous-pret-pour-le-rush-des-fetes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vous pouvez maintenant personnaliser le prix et la durée de vos services par personnel</title>
+		<link>https://www.booxi.com/blog/vous-pouvez-maintenant-personnaliser-le-prix-et-la-duree-de-vos-services-par-personnel/</link>
+		<comments>https://www.booxi.com/blog/vous-pouvez-maintenant-personnaliser-le-prix-et-la-duree-de-vos-services-par-personnel/#comments</comments>
+		<pubDate>Fri, 18 Nov 2016 21:34:48 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[personnel]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">https://www.booxi.com/blog/?p=735</guid>
+		<description><![CDATA[Lorsque votre personnel a des niveaux d’expérience différents et que vos prix doivent le refléter, votre offre de services peut rapidement devenir complexe et fastidieuse à parcourir.
+C’est pourquoi nous avons ajouté une fonctionnalité vraiment pratique pour vous permettre d’ajuster le prix et la durée d’un service pour un personnel en particulier.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top aligncenter wp-image-743 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/Article_CustomizeService.png" alt="personnaliser le prix et la durée d'un service" width="1140" height="575" /></p>
+<p>Lorsque votre personnel a des niveaux d’expérience différents et que vos prix doivent le refléter, votre offre de services peut rapidement devenir complexe et fastidieux à parcourir.</p>
+<p>C’est pourquoi nous avons ajouté une fonctionnalité vraiment pratique pour vous permettre d’ajuster le prix et la durée d’un service pour un personnel en particulier.</p>
+<p>Par exemple, si l’un de vos employés avec seulement quelques années d’expérience offre un service A de 40 minutes à 40$ alors qu’un autre employé avec plus de 10 ou 12 années d’expérience offre le même service A mais en 30 minutes et à 75$ (c’est le principe de l’offre et de la demande), vous pouvez maintenant pré-configurer cela.</p>
+<p>Votre client verra clairement la différence lors de la prise de rendez-vous en ligne, et vous obtiendrez directement l’ajustement du prix et de la durée lorsque vous prenez un rendez-vous par téléphone. Finalement votre offre de services montrera que les services avec des variations de prix sont offerts à partir du prix le plus bas.</p>
+<h2>C’est vraiment facile à mettre en place. Vous sauvez du temps et votre liste de services est simplifiée.</h2>
+<p><b><img class="aligncenter wp-image-736 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/variations_prix.png" alt="personnalisation des services" width="574" height="223" /><br />
+Paramétrez vos prix par personnel</b></p>
+<p>Pour paramétrer les variations de prix et de durée par personnel, personnalisez simplement chaque ass en suivant ces étapes:</p>
+<ol>
+<li>Allez sur l’onglet Personnel (à gauche dans le menu principal).</li>
+<li>Sélectionnez un personnel.</li>
+<li>Cliquez sur la section Services Associés pour accéder à la liste de services offers par ce personnel.</li>
+<li>Pour chaque service dont la case est sélectionnée, vous avez l’icône Personnaliser le service <img class="verti_top" src="https://lh3.googleusercontent.com/X_V8TYMTLWPlK4u3x59JFEiLaopdsTJ65JZXZBhooeuzH_3kj_c9BS2KpAumH81PbvVcz2T5AwFjr1qAb3T_=s0" alt="modifier" />.<img class="alignright wp-image-737" src="https://lh3.googleusercontent.com/OhJTOOVVT-PkSRICo1cfuZ39MA5S8Q1pSSpyio0nwWSjERFUUYNjwKghJ4EzZroebtgIgXzxzxb-ZMuVJ3SG5A=s0" alt="personnaliser par personnel" width="420" height="319" /></li>
+<li>Cliquez sur l’icône Modifier et personnalisez la durée et le prix pour ce personnel.</li>
+<li>Une fois personnalisée, leur valeur qui varie par rapport au prix et à la durée par défaut du service est présenté en caractère gras.</li>
+<li>Pensez à Sauvegarder en haut du formulaire pour conserver les changements.</li>
+</ol>
+<p><strong>Ajoutez un rendez-vous avec l’ajustement automatique du prix</strong></p>
+<p>Quand vous ajoutez un nouveau rendez-vous avec un personnel qui offre le service sélectionné à un prix et/ou une durée personnalisés, booxi ajuste automatiquement le prix et la durée pour vous.</p>
+<ol>
+<li>Cliquez sur nouveau Rendez-vous dans le menu en haut à droite.</li>
+<li>Sélectionnez un service.<img class="alignright wp-image-738" src="https://lh3.googleusercontent.com/n8Jw9DbiU1PxsAH1MYL-VLgYrpcndmO3E9QvUf99zy1lAVnbXmyO9_5wjh45C4LtObR-s3aVzDZCsSyyG8bHbA=s0" alt="personnalisation directement ajustée lors de la prise de rendez-vous" width="420" height="235" /></li>
+<li>Sélectionnez un personnel.</li>
+<li>Le prix et la durée vont automatiquement s’ajuster. Le prix et la durée par défaut du service seront présentés entre parenthèses.</li>
+</ol>
+<p>C’est aussi simple que cela, et cela va vous faire gagner beaucoup de temps.</p>
+<h2>Vos clients connaîtront immédiatement le prix pour chaque personnel lorsqu’ils prennent rendez-vous en ligne</h2>
+<p>Lorsqu’ils prendront rendez-vous en ligne, vos clients verront les variations de prix par personnel. Donc quand ils choisissent un personnel ils savent à quoi s’attendre en terme de prix et de durée. Pour les services qui ont des variations de prix et de durée, un signe + suivra le prix ou la durée.<br />
+<img class="aligncenter wp-image-739 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/online_variation.png" alt="variations des prix et de la durée" width="460" height="275" /></p>
+<h2><b>Vous pouvez bénéficier de cette fonctionnalité dès à présent! </b><b><br />
+</b></h2>
+<p>Cette nouvelle fonctionnalité est inclus dans votre abonnement actuel, et prête à être utilisée. Essayez là et gagnez du temps.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/vous-pouvez-maintenant-personnaliser-le-prix-et-la-duree-de-vos-services-par-personnel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment les petites entreprises fidélisent-elles leurs clients?</title>
+		<link>https://www.booxi.com/blog/fidelisation-client/</link>
+		<comments>https://www.booxi.com/blog/fidelisation-client/#comments</comments>
+		<pubDate>Wed, 31 Aug 2016 15:33:23 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[expérience]]></category>
+		<category><![CDATA[fidélisation de la clientèle]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=370</guid>
+		<description><![CDATA[48% des propriétaires de petites entreprises à travers le monde disent qu'ils doivent leur succès à leurs clients. Pourtant peu d'entre eux ont de réelles stratégies de fidélisation de leurs clients existants. Découvrez les meilleures astuces pour augmenter la satisfaction de vos clients et pour fidéliser votre clientèle. ]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top shadow_large aligncenter wp-image-156" src="http://booxi-live-wp-storage.storage.googleapis.com/happy-customer.jpg" alt="fidélisation de la clientèle" width="750" height="490" /></p>
+<p><a href="https://www.emarketer.com/Article/How-Small-Businesses-Get-Keep-Clients/1012460" target="_blank">48% des propriétaires de petites entreprises à travers le monde disent qu&rsquo;ils doivent leur succès à leurs clients</a>. Pourtant peu d&rsquo;entreprises ont de réelles stratégies pour construire de solides relations avec leurs clients. Voici les meilleures astuces pour augmenter la satisfaction de vos clients et fidéliser votre clientèle.</p>
+<h3>1 &#8211; Demandez un commentaire</h3>
+<p>Demandez régulièrement un commentaire de vos clients sur les services que vous offrez, et prenez en considération leurs avis. Les clients aiment que l’on se préoccupe de ce qu’ils pensent. Donc un client qui se sent écouté communiquera à son entourage un message positif sur votre entreprise. .</p>
+<p>&nbsp;</p>
+<p>En plus cela peut être l’opportunité de convertir un client mécontent, qui n’aurait probablement pas exprimé son insatisfaction, et ne serait jamais revenu, en un client régulier. En effet, sur 1000 clients insatisfaits, 40 vous le disent, et 600 déclarent acheter ailleurs, par la suite*.</p>
+<p>Si une plainte est gérée immédiatement et de façon efficace, c’est-à-dire qu’une solution est apportée, il y a de fortes chances pour que le client insatisfait se transforme en client régulier, et parfois même en un ambassadeur de votre entreprise.</p>
+<p><img class="aligncenter wp-image-848 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/avis-en-ligne.jpg" alt="avis en ligne" width="750" height="500" /></p>
+<p><span class="bx_text14" style="color: #ffffff;background-color: #44ce5e;padding: 2px 8px"><strong>ASTUCES</strong></span></p>
+<ul>
+<li>Envoyez un courriel de remerciement automatisé, avec un lien pour laisser un commentaire.</li>
+<li>Répondez rapidement aux commentaires laissés en ligne, avec des excuses, et en demandant à être appeler pour régler la situation. Ne tentez pas de régler le problème publiquement.</li>
+</ul>
+<h3>2- Aidez vos clients à se rappeler de leur rendez-vous</h3>
+<p>&nbsp;</p>
+<p><img class="aligncenter wp-image-850 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/rappel-par-texto.jpg" alt="rappel de rendez-vous par texto" width="1000" height="667" /></p>
+<p>Comme vous, vos clients n’aiment pas avoir à appeler pour savoir quelle est l’adresse de votre entreprise, ou l’heure de leur rendez-vous. De plus, s’ils prennent leur rendez-vous longtemps à l’avance, il y a de fortes chances pour qu’ils oublient, et donc qu’ils manquent leur rendez-vous.</p>
+<p>Pour éviter le problème, envoyez un courriel de confirmation à votre client dès qu’il a pris son rendez-vous. De cette façon, il aura votre adresse et l’heure du rendez-vous à portée de main. Veillez également à ce qu’il soit facile pour lui d’ajouter son rendez-vous directement dans son calendrier personnel en utilisant un ICS (Internet Calendar Subscription) en pièce jointe dans le courriel de confirmation.</p>
+<p>De la même façon, envoyez lui un texto de rappel un peu avant son rendez-vous. Cela améliore l’expérience du client et réduit la probabilité qu’il rappelle parce qu’il lui manque des informations ou pire, qu’il manque son rendez-vous.</p>
+<p><span class="bx_text14" style="color: #ffffff;background-color: #44ce5e;padding: 2px 8px"><strong>ASTUCES</strong></span></p>
+<ul>
+<li>Utilisez une solution de gestion des rendez-vous pour automatiser vos confirmations et rappels, et ainsi économiser un temps fou.</li>
+</ul>
+<h3>3- Assurez vous que vos clients pensent à vous</h3>
+<p>Vos clients sont constamment sollicités par la compétition, donc les risques qu’ils vous oublient ou qu’ils essaient la compétition sont grands. Il est donc important de maintenir le contact avec eux, et de les inviter à prendre de nouveau rendez-vous avec vous.</p>
+<p>Conservez la date de leur dernier rendez-vous et envoyez leur un courriel pour leur proposer de planifier leur prochain rendez-vous. Ce message personnalisé renforce la relation, permet au client de se sentir unique, et évite par le fait même que le client prenne rendez-vous avec la concurrence.</p>
+<p><span class="bx_text14" style="color: #ffffff;background-color: #44ce5e;padding: 2px 8px"><strong>ASTUCES</strong></span></p>
+<ul>
+<li>Utilisez un CRM (logiciel de gestion de la relation client) pour simplifier le tout et automatiser le suivi des rendez-vous de chaque client, afin d’envoyer des courriels au moment opportun.</li>
+</ul>
+<h3>4 - Améliorez l&rsquo;expérience client</h3>
+<p>Si un client est satisfait par vos services, il y a de fortes chances pour qu’il revienne. Cela semble plutôt simple, mais attention, d’autres facteurs peuvent influencer cette relation. Par exemple, les clients détestent laisser des messages vocaux. Alors si vous êtes temporairement difficile à joindre (téléphone toujours occupé, personne pour répondre) vous prenez le risque que ce client oublie de rappeler, ou pire, qu’il prenne rendez-vous avec la concurrence.</p>
+<p>La meilleure solution pour éviter cette situation est de proposer la prise de rendez-vous 24/7, c’est-à-dire même en dehors de vos heures d’ouverture. Vous pouvez réaliser cela en utilisant <a href="https://www.booxi.com/fonctionnalites#online-appointment-booking" target="_blank">une solution de prise de rendez-vous en ligne</a> qui est simple et abordable. Les clients adorent et vous perdez moins de temps au téléphone, ce en plus d’être beaucoup moins dispendieux que d’embaucher une réceptionniste.</p>
+<p><img class="img_zoom aligncenter size-full wp-image-847" src="https://lh3.googleusercontent.com/pxMCHPmeIM_0tH8WZTl98rFl6NPeIbCfarBoQ_csJrlF84MojotgwzuZPgFQrFtMP3AcylYLu25YRnsekQEY=s0" alt="rendez-vous-en-ligne" /></p>
+<p><span class="bx_text14" style="color: #ffffff;background-color: #44ce5e;padding: 2px 8px"><strong>ASTUCES</strong></span></p>
+<ul>
+<li><a href="https://www.booxi.com/blog/ajoutez-la-prise-de-rendez-vous-sur-facebook/" target="_blank">Ajoutez la prise de rendez-vous en ligne directement sur votre page Facebook</a> et sur votre site web, ainsi que dans tous vos profils en ligne et publications.</li>
+</ul>
+<h3>5 &#8211; Récompensez vos meilleurs clients</h3>
+<p>Plus vos clients sont fidèles, plus ils parlent de vous et attirent de nouveaux clients vers votre entreprise. Offrez leur une attention particulière après leur rendez-vous et ils en parleront.</p>
+<p>Par exemple vous pouvez leur envoyer un message de remerciement dès que leur rendez-vous est complété. Offrez leur des promotions exclusives et limitées, telles qu’un 10% de rabais pour eux et un ami, à chaque fois qu’ils emmènent un ami, ou une carte cadeau à vos 10 meilleurs clients. Ils seront si fiers qu’ils vont en parler et faire bonne publicité à votre entreprise.</p>
+<p><span class="bx_text14" style="color: #ffffff;background-color: #44ce5e;padding: 2px 8px"><strong>ASTUCES</strong></span></p>
+<ul>
+<li>Utilisez un CRM ou une solution de gestion des rendez-vous pour <a href="https://www.booxi.com/fonctionnalites#client_profiles" target="_blank">améliorer votre communication avec vos clients</a> en envoyant automatiquement des messages de remerciement, en générant des rapports identifiant vos meilleurs clients, ou en préparant une campagne pour envoyer des courriels avec promotions exclusives.</li>
+</ul>
+<h3>Appliquez tous ces conseils en toute simplicité</h3>
+<p>A première vue, cela peut sembler beaucoup de travail. Mais ce n’est pas le cas quand vous travaillez avec les bons outils. Ces tâches peuvent être complètement automatisées en utilisant une solution de gestion de rendez-vous en nuage, comme booxi. C’est vraiment facile à utiliser, abordable, et vous obtenez plus de résultats avec moins d’efforts, donc un grand retour sur votre investissement de temps et d’argent.</p>
+<hr />
+<p>Obtenez un CRM et construisez une meilleure relation avec vos clients.<br />
+Essayez-le dès maintenant &#8211; aucune carte de crédit demandée.</p>
+<p style="text-align: center"><a href="https://www.booxi.com/fonctionnalites#client_profiles" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">En savoir plus</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/fidelisation-client/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Comment augmenter ses revenus tout en travaillant moins?</title>
+		<link>https://www.booxi.com/blog/comment-augmenter-ses-revenus-tout-en-travaillant-moins/</link>
+		<comments>https://www.booxi.com/blog/comment-augmenter-ses-revenus-tout-en-travaillant-moins/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 16:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[gain de temps]]></category>
+		<category><![CDATA[optimisation]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=291</guid>
+		<description><![CDATA[Arrêtez de gaspiller votre temps et votre l'énergie. Choisissez un outil qui travaille pour vous pour augmenter vos revenus, améliorer votre service à la clientèle, et enfin profiter de vos soirées et de vos fins de semaine. ]]></description>
+				<content:encoded><![CDATA[<p>Vous vous dites sûrement “Bien voyons ça ne se peut pas, tout le monde sait que travailler moins amène moins de revenus et pas l’inverse…” et pourtant on finit toujours par croiser quelqu’un qui travaille moins que nous et réussit mieux. C’est souvent parce qu’ils trouvent le moyen de faire travailler les autres à leur place, ou de travailler avec des outils qui font le travail à leur place.</p>
+<p>Dans cette ordre d’esprit, regardons ensemble deux exemples basés sur des cas réels et voyons comment ces deux personnes arrivent à augmenter leur revenus en travaillant moins.</p>
+<h3 style="text-align: center">Pour Michelle le changement apparaissait<br />
+comme une montagne à surmonter.</h3>
+<p>Michelle qui a deux enfants est propriétaire d’un centre de massothérapie de 6 employés et ne trouve plus le temps de voir ses clients car la gestion de son entreprise et des rendez-vous occupe presque tout son temps. Afin d’éviter le plus possible les rendez-vous manqués, elle passe des heures à envoyer des courriels de confirmation et à appeler les clients pour leurs rappeler leur rendez-vous du lendemain. Elle n’a donc pas de temps pour s’occuper de son site web, de sa visibilité et de son marketing et n’arrive pas à faire croître son entreprise.</p>
+<p>Elle se voit prise au pied du mur et doit changer, ce qui pour elle apparaît comme étant une montagne à surmonter. Michelle se décide finalement et commence à utiliser un outil qu’elle envisage depuis plusieurs mois et pourtant en retardait la mise en place jusqu’à maintenant.</p>
+<p>Finalement, la transition se fait très facilement, les employés s’adaptent rapidement, et la montagne devient un dos d’âne. Les clients adorent, d’ailleurs près de 20% de sa clientèle prend rendez-vous sans appeler, et leurs rendez-vous sont automatiquement confirmés par courriel. De plus les rappels s’envoient automatiquement par courriel et texto, ce qui lui enlève complètement cette charge de travail tout en éliminant les rendez-vous manqués. Sa liste de clients se tient à jour par elle-même, donc fini excel et fini les notes papiers car son outil se charge de tout.</p>
+<p>Après seulement un mois d’utilisation elle réalise qu’elle n’a presque plus rien à faire. Les employés ont tous accès à leurs rendez-vous et le reste se fait tout seul avec l’outil. Elle a confiance et n’a plus besoin de tout vérifier, pour elle c’est magique. Devant cette diminution de travail qu’elle estime à 28 heures par semaine, elle recommence à voir des clients et engage même un nouveau thérapeute. Après deux mois d’utilisation elle engage un autre thérapeute de plus.</p>
+<p>Il y a seulement deux mois, Michelle ne voyait pas le jour où son entreprise allait pouvoir prendre de la croissance et pourtant aujourd’hui son entreprise performe mieux que jamais et elle travaille moins.</p>
+<h3 style="text-align: center">Julie passait ses soirées à rappeler les clientes,<br />
+en plus de payer deux réceptionnistes de jour.</h3>
+<p>Julie opère un Institut de beauté à Québec avec une bonne clientèle, plusieurs esthéticiennes et deux réceptionnistes partagées qui lui coûte près de 36,000 $ par année. Malgré sa bonne gestion d’entreprise, elle se retrouve quand-même à passer ses soirées et une partie de ses fins de semaine à rappeler les clientes car les rendez-vous manqués deviennent rapidement un problème si elle ne le fait pas.</p>
+<p>Elle prend la décision de “passer à l’informatique” dit-elle. Dès la première semaine les employées sont à l’aise avec l’outil et elles informent leurs clientes qu’elles peuvent maintenant prendre rendez-vous en ligne depuis leur site web et depuis leur page facebook. Julie retrouve immédiatement ses soirées et ses fins de semaines, puis après son premier mois d’utilisation, elle réduit sa réception à une réceptionniste, un économie qu’elle estime à 18,000 $ par année.</p>
+<p>Sa clientèle est mieux servie que jamais, ses employés aiment l’outil, son entreprise est plus profitable et Julie travaille moins.</p>
+<h3 style="text-align: center"><b>Travailler mieux = travailler moins</b></h3>
+<p>Les cas précédant démontrent bien à quel point il peut être facile d’arriver à augmenter ses revenus en travaillant moins, si on travaille mieux.</p>
+<p>Prenons maintenant un exemple fictif en calculant une augmentation des revenus possible, tout en utilisant des statistiques réelles.</p>
+<h3><b>Professionnel SANS outils de gestion :</b></h3>
+<p><b>40 $ </b>par rendez-vous de 30 minutes ($80/h).<br />
+<b>64</b> rendez-vous par semaine pour un total de 32 heures (+ 2,560 $).<br />
+<b>7.5</b>heures passées au téléphone par semaine.<br />
+<b>13%</b> de rendez-vous manqués ( 4 rendez-vous manqués par semaine &#8211; 320 $).</p>
+<p><b>40</b> heures (et plus) de travail par semaine.<br />
+<b>2,240 $ </b>en revenus (2,560 $ &#8211; 320 $) par semaine.</p>
+<p><b>30</b> heures au téléphone par mois.<br />
+<b>8,960 $</b> en revenus bruts par mois.<br />
+<b>43,000 $</b> par année avant impôts, avec marge de profit de 40% après dépenses.</p>
+<p><b>Professionnel AVEC outils de gestion :</b></p>
+<p><b>8</b> heures de moins au téléphone par mois (+ 16 rendez-vous 640 $).<br />
+<b>2% </b>de rendez-vous manqués seulement (+ 13 rendez-vous par mois 520 $).<br />
+<b>5,568 $ </b>de plus par année pour un revenu annuel total de 48,568 $ avant impôt.<br />
+<b>2729%</b> de retour sur votre investissement de 204 $ par année pour l’outils de gestion.</p>
+<h3 style="text-align: center"><b>Augmentation de revenu de 27,840 $<br />
+</b><b>pour un coût supplémentaire de 408 $</b></h3>
+<p>On peut facilement utiliser le même scénario et estimer qu’une entreprise de 5 employés pourrait obtenir une augmentation de revenu de 27,840 $ pour un coût supplémentaire de 408 $.</p>
+<p>N’attendez plus, vous aussi “passez à l’informatique”, faites le pour augmenter vos revenus, améliorer votre service à la clientèle et gagner en efficacité.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/comment-augmenter-ses-revenus-tout-en-travaillant-moins/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Premier Article</title>
+		<link>https://www.booxi.com/blog/premier-article/</link>
+		<comments>https://www.booxi.com/blog/premier-article/#comments</comments>
+		<pubDate>Thu, 25 Aug 2016 15:58:20 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Fonctionalités]]></category>
+		<category><![CDATA[calendrier]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=264</guid>
+		<description><![CDATA[Voici le tout premier article de booxi. Découvrez nos premières améliorations et fonctionnalités. ]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p><span class="bx_text24">Dans ce premier article nous vous présentons les fonctionnalités que nous venons de développer pour vous.</span> </p>
+</div></div></p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Prise de rendez-vous ouverte</li>
+<li>Recevez les demandes de rendez-vous par courriel</li>
+<li>Rendez-vous à domicile</li>
+<li>Et autres améliorations</div></li>
+</ul>
+<hr />
+<h3>Prise de rendez-vous ouverte</h3>
+<p>Vous avez été nombreux à nous avouer avoir peur d&rsquo;arrêter d&rsquo;utiliser votre calendrier papier, dans lequel vous notez rigoureusement tous vos rendez-vous, pour utiliser du jour au lendemain un logiciel. Bonne nouvelle ! Vous n&rsquo;avez pas à le faire. Nous nous sommes assurés que vous puissiez commencer à profiter de booxi une étape à la fois.</p>
+<p>Vous pouvez toujours utiliser un calendrier papier et recevoir les demandes de rendez-vous de vos clients depuis votre page web booxi. Le client ne verra pas de plages horaires disponibles, mais à la place booxi lui demandera de vous donner jusqu&rsquo;à 5 plages horaires disponibles. Par exemple, un client souhaite réserver un massage et est disponible lundi matin prochain, mercredi après-midi, dimanche toute la journée et le mardi soir suivant. Vous recevez la demande de rendez-vous avec ses disponibilités et vous comparez vos horaires pour confirmer un horaire qui vous convient à tous les deux. Vous l&rsquo;écrivez sur votre calendrier papier et vous avez terminé. C&rsquo;est facile ! Nous appelons cela la prise de rendez-vous ouverte.</p>
+<p>Maintenant vous pouvez demander à booxi de vous envoyer ces demandes de rendez-vous par courriel, ou vous pouvez les voir en utilisant l&rsquo;application mobile. L&rsquo;avantage d&rsquo;utiliser l&rsquo;application pour confirmer vos rendez-vous c&rsquo;est que booxi enverra des courriels et des rappels à vos clients, ce qui vous fera sauver du temps.</p>
+<p>Et voilà, vous profitez de votre page web booxi, de la prise de rendez-vous, des courriels de confirmations et des rappels, et de tout ce qui vous permet de changer en douceur votre façon de faire actuelle. Commencez ainsi, vous allez adorer !</p>
+<p><img class="aligncenter" src="http://3.bp.blogspot.com/-oGdP-CBJA48/VFmaIMLM4WI/AAAAAAAAAL4/scRQ4iJxT3A/s1600/Blog_04NOV2014_SettingShowAvail.png" alt="" width="320" height="110" border="0" /></p>
+<div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"></p>
+<p>
+<div style="width: 310px" class="wp-caption alignleft"><img src="http://4.bp.blogspot.com/-L6kMI29i-Zw/VFmQjz1B5mI/AAAAAAAAAK4/qj64wMwBCpo/s1600/Blog_04NOV2014_TimeSlotBN.png" alt="" width="300" height="260" border="0" />
+<p class="wp-caption-text">Présentez vos disponibilités</p>
+</div>
+<p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></p>
+<p>
+<div style="width: 310px" class="wp-caption alignright"><a href="http://3.bp.blogspot.com/-85sYCIQYmtk/VFmQmSfyZ6I/AAAAAAAAALA/Fq8Oa3zP_4Q/s1600/Blog_04NOV2014_openBookingBN.png"><img src="http://3.bp.blogspot.com/-85sYCIQYmtk/VFmQmSfyZ6I/AAAAAAAAALA/Fq8Oa3zP_4Q/s1600/Blog_04NOV2014_openBookingBN.png" alt="" width="300" height="260" border="0" /></a>
+<p class="wp-caption-text">Réservation ouverte &#8211; Demander au client ses disponibilités</p>
+</div>
+<p>
+</div></div></div>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"></p>
+<dl id="" class="wp-caption alignleft">
+<dt class="wp-caption-dt"><img src="http://4.bp.blogspot.com/-L7sQvgdaPSo/VFmVd9n9-dI/AAAAAAAAALY/kngBZlie9Hk/s1600/Blog_04NOV2014_email.png" alt="" width="241" height="320" border="0" /></dt>
+<dd class="wp-caption-dd">Recevez les demandes par courriels. </dd>
+</dl>
+<h3>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></h3>
+<dl id="" class="wp-caption alignright">
+<dt class="wp-caption-dt"><img src="http://4.bp.blogspot.com/-tzpU7miNqh8/VFmVir3wEuI/AAAAAAAAALg/x2Ze2J7w4Bs/s1600/blog_04NOV2014_Alert.png" alt="" width="200" height="320" border="0" /></dt>
+<dd class="wp-caption-dd">Ou utilisez les alertes de l&rsquo;appli mobile</dd>
+</dl>
+<h3>
+</div></div></div></h3>
+<h3>Recevez les demandes de rendez-vous par courriel</h3>
+<p>Vous pouvez maintenant dire à booxi de vous envoyer toutes vos demandes de rendez-vous prises en ligne directement sur votre adresse courriel. C&rsquo;est pratique pour ceux qui n&rsquo;ont pas encore testé toute la puissance de booxi et qui n&rsquo;utilisent pas encore quotidiennement l&rsquo;application, mais qui sont très réactifs avec leur courriels.</p>
+<p>Il est possible que certains de vos employés utilisent l&rsquo;application mobile et que d&rsquo;autres préfèrent continuer d&rsquo;utiliser leur courriels. Nous nous sommes donc assurés que vous puissiez ajuster cette fonctionnalité pour chacun de vos employés.</p>
+<div style="width: 330px" class="wp-caption aligncenter"><img src="http://3.bp.blogspot.com/-72bhPBEtIAA/VFmYnz3hvYI/AAAAAAAAALs/aGwsfPaFl6I/s1600/Blog_04NOV2014_SettingCOM.png" alt="" width="320" height="242" border="0" /><p class="wp-caption-text">Chaque employé peut décider comment il souhaite recevoir les demandes&nbsp;</p>
+<p></p></div>
+<h3>Rendez-vous à domicile</h3>
+<p>Vous pouvez maintenant offrir la prise de rendez-vous en ligne pour les services que vous offrez aux domiciles de vos clients simplement en changeant l&rsquo;emplacement du rendez-vous dans les détails du service de Place d&rsquo;affaire (par défaut) à Domicile du client. De cette façon le client devra donner son adresse ou l&rsquo;adresse à laquelle il souhaite recevoir le service à la fin du processus de prise de rendez-vous.</p>
+<h3></h3>
+<h3>Plus de contrôle sur votre page web booxi</h3>
+<p>Nous avons réalisé quelques améliorations sur votre page web booxi. Par exemple, vous pouvez maintenant montrer des services qui ne sont pas assignés à un employé et désactiver la prise de rendez-vous pour un service ou un employé en particulier. Cela vous permet de présenter l&rsquo;ensemble de votre offre même si certains services sont trop complexes pour pouvoir être réservés en ligne par le client lui-même. De la même manière vous pouvez maintenant présenter l&rsquo;ensemble de l&rsquo;équipe, même si l&rsquo;un de vos employés n&rsquo;accepte pas la prise de rendez-vous en ligne.</p>
+<div></div>
+<h3></h3>
+<h3>Et ensuite ?</h3>
+<div>
+<ul>
+<li>Ne pas afficher le prix de services spécifiques.</li>
+<li>Distribuer vous-même les demandes de rendez-vous aux employés plutôt que de laisser le client choisir.</li>
+<li>Nous sommes en attente de l&rsquo;approbation d&rsquo;Apple pour mettre à jour l&rsquo;application iPhone.</li>
+<li>Nous travaillons fort sur la version web de booxi pour tablettes et ordinateurs.</li>
+</ul>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/premier-article/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vous en avez assez de passer tout votre temps au téléphone pour gérer tous vos rendez-vous ?</title>
+		<link>https://www.booxi.com/blog/vous-en-avez-assez-de-passer-tout-votre-temps-au-telephone-pour-gerer-tous-vos-rendez-vous/</link>
+		<comments>https://www.booxi.com/blog/vous-en-avez-assez-de-passer-tout-votre-temps-au-telephone-pour-gerer-tous-vos-rendez-vous/#comments</comments>
+		<pubDate>Thu, 11 Aug 2016 18:07:49 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Astuces d'affaires]]></category>
+		<category><![CDATA[gain de temps]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+		<category><![CDATA[rendez-vous manqués]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=148</guid>
+		<description><![CDATA[Arrêtez de perdre du temps et concentrez vous sur ce que vous aimez vraiment faire : vous occuper de vos clients.]]></description>
+				<content:encoded><![CDATA[<p><img class="float_top  aligncenter wp-image-781 size-full" src="https://booxi-live-wp-storage.storage.googleapis.com/tired_phone.png" alt="tired_phone" width="1200" height="600" /></p>
+<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Jongler avec la prise de rendez-vous, les ventes, le marketing, le service à la clientèle ou encore la gestion d’une entreprise peut se transformer en vrai casse-tête. Certains systèmes peuvent vous faire sauver beaucoup de temps. Prenons une solution de gestion de rendez-vous comme booxi et voyons les bénéfices qu’elle offre</p>
+</div></div></p>
+<p>&nbsp;</p>
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div>
+<ul>
+<li>Un gain d&rsquo;efficacité</li>
+<li>Moins de rendez-vous manqués</li>
+<li>Plus de clients satisfaits</li>
+<li>Une liste de clients automatisée</li>
+<li>Plus de visibilité en ligne et plus de rendez-vous</div></li>
+</ul>
+<hr />
+<h3>Un gain d’efficacité</h3>
+<p>Vous perdez moins de temps à jouer au ping-pong téléphonique avec vos clients. La prise d’informations personnelles, la confirmation de la date, l’heure et le lieu prennent en moyenne 6 minutes par appel&#8230; Limitez le temps non productif en laissant booxi gérer une partie de vos rendez-vous en incitant vos clients à réserver en ligne. Une économie d&rsquo;au moins 6 heures par mois!</p>
+<h3>Moins de rendez-vous manqués</h3>
+<p>Pour chaque prise de rendez-vous, booxi envoi automatiquement un courriel de confirmation contenant toutes les informations nécessaires pour le client. Cela évite que le client rappelle pour demander l’adresse ou l’heure exacte de la rencontre. De plus, la plate-forme offre un service d’aide mémoire par courriel ou par texto. On passe alors de 13 % à 2 % de rendez-vous manqués! Automatisez!</p>
+<h3>Plus de clients satisfaits</h3>
+<p>Vos clients prennent rendez-vous où ils veulent, quand ils veulent. En effet, 25 % des clients ont un penchant pour la réservation en ligne parce qu’ils peuvent prendre rendez-vous quand ils y pensent (même si votre entreprise est fermée). Tout comme vous, ils évitent de longs échanges au téléphone et gagnent du temps! Privilégiez l’expérience client!</p>
+<p><img class="img_zoom aligncenter wp-image-152" src="http://lh3.googleusercontent.com/7xJ_H0d02eXw2gEdMwoae4SID2uefdMLTf6nOv1mpzAo_78ORmFmzLBK3vaoN_-Kh8pY_Vl-vZSFyruxq-FZvw=s300" alt="Dollarphotoclub_72821478" width="500" height="333" /></p>
+<h3>Une liste de clients automatisée</h3>
+<p>Lors de la prise de rendez-vous en ligne, vous récupérez les adresses courriel des clients (avec leur consentement), augmentant ainsi votre liste de clients. Vous avez également accès à l’historique de chaque client ( ses derniers rendez-vous et notes par rendez-vous) de sorte que vous pourrez les surprendre et les impressionner en leur rappelant leur dernière visite et le service que vous aviez offert. De plus, l’historique des rendez-vous vous permet d’envoyer des courriels pour proposer une prochaine rencontre.</p>
+<h3>Plus de visibilité en ligne et plus de rendez-vous</h3>
+<p>Avec des solutions comme booxi par exemple, vous pouvez ajouter un bouton Rendez-vous sur votre site web et sur votre page Facebook (2 points d’entrées pour de nouveaux rendez-vous), en plus de joindre votre lien de réservation dans tous vos messages. Finalement, ajoutez votre lien sur des profils gratuits de répertoires en ligne spécialisés! Toutes les avenues peuvent amener à de nouveaux rendez-vous!</p>
+<p>Le travail est fait pour vous et vous passez plus de votre temps sur ce que vous aimez faire.<br />
+Impressionnante, cette prise de rendez-vous en ligne. Que demander de mieux ?</p>
+<hr />
+<p>Essayez booxi gratuitement et bénéficiez de tous ces avantages.</p>
+<p style="text-align: center"><a href="https://www.booxi.com/booxi?book=now&amp;lang=fre" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Demander une démo</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/vous-en-avez-assez-de-passer-tout-votre-temps-au-telephone-pour-gerer-tous-vos-rendez-vous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; business</title>
+	<atom:link href="https://www.booxi.com/blog/tag/business/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Review your business profile</title>
+		<link>https://www.booxi.com/blog/review-your-business-profile/</link>
+		<comments>https://www.booxi.com/blog/review-your-business-profile/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 18:53:52 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=15</guid>
+		<description><![CDATA[This tutorial shows you how to set up your business profile on your booxi account.]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"></p>
+<p>This step by step tutorial will show you how to review your business profile prior to publish your booxi website online.</p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Review your business information</li>
+<li>Change the open hours</li>
+<li>Adjust the appointment rules</li>
+<li>Upload a cover picture and a logo</li>
+<li>Set your profile online to get your website</div></li>
+</ul>
+<hr />
+<h3>Step 1 &#8211; Sign in your account</h3>
+<p>If you are already signed in your booxi account, continue with step 2.</p>
+<ol>
+<li>Go to the <a href="http://booxi.com">booxi.com</a> website.</li>
+<li>Click Sign in at the top of the page.<img class="shadow_medium aligncenter wp-image-81 size-full" src="https://lh3.googleusercontent.com/n0LomyrWXBQcl1w0H7ymQYabtmV0G0CbzWb2JsxNOy5CGM3Uvia5FWm2lMYFF5NbVf0ipQ_8XTEOQD5J8evW=s0" alt="signin" width="619" height="455" /></li>
+<li>Provide the email and password you signed up with.</li>
+<li>Click on Sign in. If you forgot your password, use the Forgot your password link.</li>
+</ol>
+<h2><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/A7vHgnzx36hbebW150sfxQrdG_EE8_cV0iPicQNTKjLRx84DEhZEL03IF_HdjolTX7PNlJ7CHSRL2WTkiu-xUX-c1YKZcryMiLmNXkWWhM5sRsY7mGu8Rd9ihLrfyv7sknNr95A" alt="" width="407" height="328" /></h2>
+<h3>Step 2 &#8211; Review your business information</h3>
+<ol>
+<li>From the main menu located on the side of the page, click on My Business.<br />
+<img class="shadow_medium aligncenter wp-image-82 size-full" src="https://lh3.googleusercontent.com/FAy2_iNznJpPYlzpWornD7A73EIY1edNA2R93T7gzFTrLbzgPV2A-Gq-jg6KOx3XOvCYyjxmZcre6Zbig4pe9So=s0" alt="reviewinformation" width="729" height="685" /></li>
+<li>And click on Business Details to review the details of your business.</li>
+<li>Make sure the following information is correct:
+<ul>
+<li>Business Name &#8211; which could be your name if you are a self-employed professional doing business under your own name.</li>
+<li>Your first and last name as the main Contact Name &#8211; this information is only used by booxi to contact you.</li>
+<li>Your business Phone number &#8211; You may show this information on your booxi web site or hide it to keep it confidential.</li>
+<li>Your Website URL link if you have another website.</li>
+<li>Your complete business Address &#8211; You may show this information on your booxi website or hide it to keep it confidential, if it is for example your home address.</li>
+<li>Finally a Description that sells your services and expertise.</li>
+</ul>
+</li>
+<li>The following details cannot be changed:
+<ul>
+<li>booxi site &#8211; You may copy paste this url in social post, or any marketing material, as your own website url as it has been reserved for you.</li>
+<li>API Key &#8211; this series of letters and numbers is a key that you will need to integrate the Book Now button into a website or directory. You may need to give it to your website developer.</li>
+</ul>
+</li>
+<li>Once you have completed your changes, click on Save to save the changes or Undo to cancel them.<img class="shadow_medium aligncenter wp-image-71 size-full" src="https://lh3.googleusercontent.com/YWE16iC0zsqWrrkn4KulFOHAGqBHLdi8vYfmeBw3VYHQ1ePCD4HDHznc4hVofw6HUF8nFXhTjnoInoHDHFvN8g=s0" alt="saveundo" width="259" height="52" /></li>
+</ol>
+<h3>Step 3 &#8211; Review your open hours</h3>
+<p>If you have open hours specify them for each day of the week. If you don’t simply skip this step, leaving your open hours empty. You may provide multiple time slots per day, if for example you close for lunch (9:00-12:00 and another one for 13:00-18:00).</p>
+<ol>
+<li><span style="line-height: 21.6px"><span style="line-height: 21.6px">Click on Open Hours to review your business open hour schedule.</span></span>
+<ul>
+<li>Click on X to remove a time slot.</li>
+<li>Click on + to add another time slot.</li>
+<li>Provide a start and end time for each time slot.<br />
+<img class="shadow_medium aligncenter" style="color: #000000" src="https://lh3.googleusercontent.com/Es1ayTRpxvzpizfEEcgos1W6x1gWBIiZaXPm9QzLuhyMCJykvIKAsWHB4gYc69wL20RpqSKp6mG4_DJBsx9KcbcRREddd-qJXz8i2y_Bq9d74bkSvJ0Te0ZwT_wJA8ptxfYHae0" alt="add you open hours" width="476" height="261" /></li>
+</ul>
+</li>
+<li>Once you have completed your changes, click on Save to save them or Undo to cancel.</li>
+</ol>
+<p><img class="shadow_medium aligncenter wp-image-71 size-full" src="https://lh3.googleusercontent.com/YWE16iC0zsqWrrkn4KulFOHAGqBHLdi8vYfmeBw3VYHQ1ePCD4HDHznc4hVofw6HUF8nFXhTjnoInoHDHFvN8g=s0" alt="saveundo" width="259" height="52" /></p>
+<h3>Step 4 &#8211; Review your appointment rules</h3>
+<p>The appointment rules allows you to tell booxi how to manage your appointments and availability for you.</p>
+<ol>
+<ol>
+<li>Click on Appointment Rules to access and modify the rules.Show Open Hours<br />
+This rule allows you not to display open hours on your booxi website when you disable the feature. This can be useful if you did not provide an open hours schedule or if you plan on managing your availability as appointment requests come in. That way, you could, for example, decide to squeeze appointments on a Thursday in order to take Friday off. We will look at the other rules in another tutorial.<img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/Q0dcX39oGg3N8IkmxiOMB77ncPvgp9nZIxRtd8V383cHcGz3jdYRb-Pdb1G_jGtAFJh_wqowdV2m4-8rAeFDP5t6M16lY0UXHewpQLJnJW3YyrGV3G5cw5iuQzxZfG10yzKYtiM" alt="set up your appointment rules" width="477" height="297" /></li>
+<li>If you made any changes, click on Save at the top of the form to save your changes, or Undo to cancel your changes.</li>
+</ol>
+</ol>
+<p><img class="shadow_medium aligncenter wp-image-71 size-full" src="https://lh3.googleusercontent.com/YWE16iC0zsqWrrkn4KulFOHAGqBHLdi8vYfmeBw3VYHQ1ePCD4HDHznc4hVofw6HUF8nFXhTjnoInoHDHFvN8g=s0" alt="saveundo" width="259" height="52" /></p>
+<h3>Step 5 &#8211; Change your cover picture</h3>
+<p>Your business profile has a cover and a profile or logo picture. The cover decorates your website, while the logo identifies your business.<br />
+<img class="shadow_medium aligncenter wp-image-83 size-full" src="https://lh3.googleusercontent.com/4H5xhsN_9NpKP0GmTorxLj7q-O72t9C32sOk65NP07oF9ZhueU2CnDdIvm_S8S48KmeU-rChe5fNv-lDMa9c=s0" alt="add pictures" width="462" height="366" /></p>
+<ol>
+<ol>
+<ol>
+<ol>
+<ol>
+<ol>
+<ol>
+<li>You can set or change your cover picture by clicking on the <img src="https://lh6.googleusercontent.com/wrfxhfJhabXZsFKmU80aKaAB0Fu8Wf5K1_r997o_Plmmgza_aCDBX0gifb9gwawtDlGHEftBP_xrYQohEGiMPCWAoCywC53AKdndG_jXgH2KGIxrUBzuzXAVD-ZJhHEFZI9uxmY" alt="" /> icon at the bottom of the current cover picture. You may also use our mobile app to take a picture with your smartphone and apply it to your cover picture.
+<ul>
+<li>Click on the Upload a photo button to upload a picture from your computer or tablet.</li>
+<li><span style="line-height: 21.6px">Click on the Reset to default button to remove the picture.</span></li>
+<li><span style="line-height: 21.6px"><span style="line-height: 21.6px">Use the 4 blue dots to crop or select the visible portion of the picture.</span></span></li>
+</ul>
+</li>
+<li>Click on Save the photo button to save your changes, or click on the X at the top to cancel your changes.<br />
+<h2><img class="shadow_medium aligncenter wp-image-84 size-full" src="https://lh3.googleusercontent.com/sZe1Ac-j18XgrePOOqIzcQkzrsd9MrgqztdMovmtMzR5JdnVBibYkbAm1o5II9Cw79bnW9G4X9cyv3yqKJ5yVLo=s0" alt="cropcoverpicture" width="823" height="522" /></h2>
+</li>
+</ol>
+</ol>
+</ol>
+</ol>
+</ol>
+</ol>
+</ol>
+<h3>Step 6 &#8211; Change your business logo</h3>
+<p>Your business profile picture identifies your business, you can apply a logo or your picture if you are a self-employed professional and don’t have a logo.</p>
+<ol>
+<ol>
+<ol>
+<ol>
+<ol>
+<li>You can set or change your profile picture by clicking on the small camera icon at the bottom of the current profile picture.<img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/IPwz5t4zKbxdZ7Hqg5y7J81KmiEBZsLmEiy4tALthF6ajFJKkoK_bKV5TVf8ZLdWtDoCSBtyJ1nD5_gl9E0YGLh_Ph4YoqfkZaac6abjZHLK2SPPLpXyPmzwMx58QnjEtSMb-kg" alt="add your logo" width="256" height="259" /></li>
+<li>Once you are done, click the Save button to keep your changes and set the new picture, or click on the small X at the top right to cancel.</li>
+</ol>
+</ol>
+</ol>
+</ol>
+</ol>
+<h3>Step 7 &#8211; Put your business profile online</h3>
+<p>Now that everything has been reviewed and updated, you can put your business online. You must set your business status to Available online for your website to be online and for the booking to be accessible.</p>
+<p>You can do this later, after you reviewed your personnel and your service offer, or now, and add personnel and services after.</p>
+<ol>
+<ol>
+<ol>
+<ol>
+<ol>
+<li>Click on Offline and select Available online.</li>
+<li><span style="line-height: 21.6px"><span style="line-height: 21.6px">The status should turn green.</span></span><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/3_op_hfP5CsWCEZf5OoOje-Y7a-UU8mdaWwns95UtDMK5rizFgwMK_DFlZlM2tKlbmnW4AVoYX0t6EF_x59QhXCF1vXXGOdbOMICd23g8WxygiL0hyK2OGYGiXxET8mBCxuXL_U" alt="" width="264" height="251" /></li>
+</ol>
+</ol>
+</ol>
+</ol>
+</ol>
+<p>Your are done and can now move on to the Update your service offer tutorial.</p>
+<h3>Things to remember</h3>
+<ol>
+<ol>
+<ol>
+<ol>
+<ul>
+<li>Business details &#8211; Showing your phone and address on your website is optional.</li>
+<li><span style="line-height: 21.6px">Open hours schedule &#8211; Displaying those on your website is optional.</span></li>
+<li><span style="line-height: 21.6px">Set a cover and profile or logo picture &#8211; Makes your website more attractive.</span></li>
+<li><span style="line-height: 21.6px">You must set your business status to Available online in order to publish your website.</span></li>
+</ul>
+</ol>
+</ol>
+</ol>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/review-your-business-profile/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

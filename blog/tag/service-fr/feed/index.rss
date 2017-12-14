@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; services</title>
+	<atom:link href="https://www.booxi.com/blog/tag/service-fr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>fr-FR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Mettre à jour votre offre de services</title>
+		<link>https://www.booxi.com/blog/mettre-votre-offre-de-services-a-jour/</link>
+		<comments>https://www.booxi.com/blog/mettre-votre-offre-de-services-a-jour/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:36:36 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Tutoriels]]></category>
+		<category><![CDATA[gestion d’entreprise]]></category>
+		<category><![CDATA[rendez-vous en-ligne]]></category>
+		<category><![CDATA[services]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=39</guid>
+		<description><![CDATA[Présentez vos différents services sur votre site web, en les ajoutant dans votre compte booxi. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>Dans ce tutoriel, nous vous présenterons étape par étape comment mettre votre offre de services à jour. </p>
+</div></div><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Ajouter et modifier des services</li>
+<li>Ajouter des catégories et classer vos services</li>
+<li>Associer une photo à un service</li>
+<li>Assigner un membre du personnel à un service</li>
+<li>Réviser les règles de rendez-vous d’un service</div></li>
+</ul>
+<hr />
+<p>Vous devez d’abord être connecté à votre compte booxi pour pouvoir effectuer les étapes suivantes. Vous pouvez également regarder le tutoriel sur youtube via <a href="https://www.youtube.com/watch?v=_x5-S7ZVdGE">ce lien</a>.</p>
+<h3>Étape 1 &#8211; Accéder à votre liste de services</h3>
+<p>À partir du menu principal situé à gauche de la page, cliquez sur Services pour accéder à votre liste de services. Par défaut, un nouveau compte booxi n’a qu’un seul service <em>Demande de rendez-vous</em>. Vous pouvez le modifier ou simplement le désactiver et ajouter de nouveaux services.</p>
+<h3><img class="shadow_medium aligncenter wp-image-60" src="https://lh3.googleusercontent.com/Zz9nti73TfBXFcEKS71dV6zVBa9TImd7lLoALxWJtefCpsFm_fWvsQPYTPUjueNA-1Gm4Ern_A6P5yM3td_SSw=s1024" alt="onglet des services" width="950" height="575" /></h3>
+<h3>Étape 2 &#8211; Ajouter un nouveau service</h3>
+<p>Un service nouvellement ajouté n’est pas automatiquement publié en ligne, ce qui vous donne le temps d’en réviser les détails avant de le rendre Disponible en ligne (visible par les clients). Vous pouvez également regrouper des services sous une même catégorie afin d’aider le client à trouver plus facilement ce qu’il cherche.</p>
+<ol>
+<li>Cliquez sur l’icône <img src="https://lh6.googleusercontent.com/mtZIu0iTK75s3jjSniRsYk7QmQskNtCB4lg2QD747lo1QfzbVhEZ_HusS4FISxvqcYXRZJ1e2xOuRtB8cYAuHOqdRup2c0pOrAZar-8WKRzpXSQ_quspP0Kv87zhkZHZ183vTE8" alt="" />en haut de la liste de services pour ajouter un nouveau service.</li>
+<li>Entrez un Nom de service qui sera affiché en ligne.</li>
+<li>Choisissez une Catégorie ou laissez la catégorie principale.</li>
+<li>Cliquez sur Nouveau pour ajouter votre nouveau service.</li>
+</ol>
+<p>Vous pouvez afficher un service en ligne sans que la prise de rendez-vous ne soit activée; cependant, nous vous encourageons à activer cette dernière pour tous vos services, afin de gagner le plus de temps possible. À la prochaine étape, Modifier un service, vous pourrez voir la liste complète des caractéristiques offertes.</p>
+<p><img class="shadow_medium aligncenter wp-image-61 size-full" src="https://lh3.googleusercontent.com/sRD4RdIKaUxz-li5lq-P-X-NVXK-1MQcirH0jXO1cifIJDRLlh5kNBogMKffJ_2T0IaqAjjzAoQmLocRx0VojA=s0" alt="ajouter un nouveau service" width="414" height="268" /></p>
+<h3>Étape 3 &#8211; Ajouter une nouvelle catégorie</h3>
+<p>Vous pouvez ajouter de nouvelles catégories et y associer des services. Ainsi, il est plus facile pour le client de trouver ce qu’il cherche.</p>
+<ol>
+<li>Cliquez sur l’icône <img src="https://lh5.googleusercontent.com/tDCZ5NC56rc2_WaDMjBxl9DOzDJutIng2l-wQ73CqvkpTdykAjzRyVNUr2winswg3O27kKDwzN3WwD7ON8pSx78261dai6RbuY6Q5JNmPtlNjyEvH8ab0lOuidu00WxDrUPwP8s" alt="" />en haut de la liste de services pour ajouter une nouvelle catégorie.</li>
+<li>Entrez un nom de Catégorie qui sera affiché en ligne.</li>
+<li>Cliquez sur Nouveau pour ajouter votre nouvelle catégorie.</li>
+</ol>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/LmjPSk2UdPxWJDaoqKVz96vNIgyfKGrMdl12THWrl9FjWFoMfDytqmhcT3-oraF6pAUI7g7ClqQH98w4esr4JAdzH99v8VdxKmDJT_Hhk1HjrxOWhqdI3HtvO2WxHqPi6TheDyc" alt="ajouter une nouvelle catégorie" width="413" height="221" /></p>
+<h3>Étape 4 &#8211; Modifier un service</h3>
+<p>Le profil de chaque service vous donne accès à ses détails, le personnel qui y est assigné (ceux qui offrent le service), les règles de rendez-vous et l’image associée.</p>
+<ol>
+<li>Sélectionnez un service dans la liste.</li>
+<li>Cliquez sur Détails du service.<br />
+<img class="shadow_medium aligncenter wp-image-62 size-large" src="https://lh3.googleusercontent.com/7owzoY0LKZGoKlvlRtY2GxSNG54Ctcll4-iyXntEM1XvvrobFi8hiuIsMc-a8OR1eKEW7w2ywj7N3gwPOTZtqw=s1024" alt="paramétrer les détails d'un service" width="1024" height="1024" /></li>
+<li>Vous pouvez modifier le Nom qui sera affiché en ligne.</li>
+<li>Changez la Catégorie ou laissez la catégorie Services généraux (sans catégorie).</li>
+<li>Réglez l’Emplacement à Place d’affaires si le service est offert à l’adresse de votre entreprise ou À domicile si le service est offert chez le client ou à une adresse fournie par le client.</li>
+<li>Déterminez la Durée du service.</li>
+<li>Déterminez un Prix ou laissez à 0 $ si vous ne souhaitez pas afficher le prix en ligne. Nous vous recommandons fortement d’afficher le prix car plusieurs clients demanderont des rendez-vous seulement s’ils peuvent voir les prix.</li>
+<li>Enfin, rédigez une Description attrayante qui fait la promotion du service.</li>
+<li>Lorsque vous avez terminé, cliquez sur Sauvegarder en haut du formulaire pour sauvegarder vos changements, ou sur Annuler pour annuler les changements.<img class="shadow_medium aligncenter wp-image-67 size-full" src="https://lh3.googleusercontent.com/vZjt02Wxg1ZL9HA2m-Q5tr-1upLP4o3Bm7a0rGbcB1zOfYAZpOdfb5pgKWwA7OUxHQT0HjYmkV7sawmvMMypT-s=s0" alt="sauvegarder" width="315" height="40" /></li>
+</ol>
+<h3>Étape 5 &#8211; Associer une image à un service</h3>
+<p>Vous pouvez associer une image à chaque service ou seulement pour certains services. Le fait d’ajouter des images rendra votre site web booxi plus attrayant pour les clients.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh5.googleusercontent.com/73HWfduT2_6WoeiTXLmwbcj8Opw-BfjVd_SLL1Zy-4ZTDymRQgmCTwBpMmPYZHQiXrhWu59c59OIzBJ1DuwntwDrIIXhevZde3sAkqbHFIGFzNuvGCJu4dfRKDrWtRdZncIfNw4" alt="" width="262" height="261" /></p>
+<ol>
+<li>Changer l’image de profil du service en cliquant sur l’icône <img src="https://lh5.googleusercontent.com/xC4H9B2Zu2mpCslyZ5BFOWdnfRLB8ro53mcdZPXE6AGfluCsGs-M6EXGBmdaeMwVXtedgMYeOPl0TCZyT2K0mzy_95yUxoOVZl5c9QYqOpmxOJyU53Gf2PwokbDGiKd2ygHq2Yo" alt="" />au bas de la photo de profil actuelle. Vous pouvez aussi utiliser notre application mobile pour prendre une photo avec votre téléphone intelligent et l’appliquer au service.
+<ul>
+<li>Cliquez sur le bouton Télécharger une photo afin de télécharger une photo à partir de votre ordinateur ou tablette.</li>
+<li>Cliquez sur le bouton Réinitialiser pour supprimer la photo.</li>
+<li>Utilisez les 4 points bleus pour découper ou sélectionner la portion visible de la photo.</li>
+</ul>
+</li>
+<li>Cliquez sur le bouton Sauvegarder la photo pour sauvegarder les changements, ou cliquez sur le X en haut pour annuler les changements.</li>
+</ol>
+<h3>Étape 6 &#8211; Assigner du personnel</h3>
+<p>Vous pouvez préciser quel membre du personnel offre le service. Ainsi, les clients pourront demander un rendez-vous avec le personnel approprié.</p>
+<ol>
+<li>Cliquez sur Assigner du personnel.</li>
+<li>Cochez chaque membre du personnel qui offre le service.<br />
+<img class="shadow_medium aligncenter wp-image-64 size-large" src="https://lh3.googleusercontent.com/kvabZEb201kmJbTfgRzzUHFZT0QG7XlT3kX-paH2akv2UmASDTKiRIVWsEClVwVfRl2BZ_lKAp2SCQtS9CgCtA=s1024" alt="personnel associé à un service" width="1024" height="1024" /></li>
+<li>Quand vous avez terminé, cliquez sur Sauvegarder en haut du formulaire ou sur Annuler pour annuler les changements.<img class="shadow_medium aligncenter wp-image-67 size-full" src="https://lh3.googleusercontent.com/vZjt02Wxg1ZL9HA2m-Q5tr-1upLP4o3Bm7a0rGbcB1zOfYAZpOdfb5pgKWwA7OUxHQT0HjYmkV7sawmvMMypT-s=s0" alt="sauvegarder" width="315" height="40" /></li>
+</ol>
+<h3>Étape 7 &#8211; Ajuster les règles de rendez-vous</h3>
+<p>Les règles de rendez-vous permettent de dire à booxi comment gérer les rendez-vous et les disponibilités pour ce service.</p>
+<ol>
+<ol>
+<li>Cliquez sur<strong> </strong>Règles de rendez-vous pour accéder aux règles et les modifier.</li>
+</ol>
+</ol>
+<p><strong>Activer la prise de rendez-vous</strong><br />
+Cette règle vous permet de désactiver la prise de rendez-vous en ligne et ainsi, d&rsquo;empêcher les clients de demander rendez-vous pour ce service. Ceci vous est utile si vous voulez afficher ce service sur votre site web booxi, mais ne désirez pas recevoir de demande de rendez-vous pour ce dernier. Par exemple, si vous avez besoin de parler au client afin d’évaluer le temps requis et le prix; vous pouvez désactiver l’option en décochant la case.</p>
+<p><strong>Afficher les disponibilités en ligne</strong><br />
+Lorsque cette règle est activée, les clients peuvent sélectionner et réserver une plage horaire disponible précise. Nous vous recommandons d’afficher vos disponibilités car les clients préfèrent choisir une plage précise et parce que c&rsquo;est ce qui va vous permettre de sauver le plus de temps. Cependant, si vous souhaitez avoir un contrôle complet sur votre horaire et décider de vos disponibilités selon l’achalandage de la semaine, vous pouvez désactiver cette option.</p>
+<p>Lorsque l’option est désactivée (case non cochée), booxi demande au client de fournir ses disponibilités (jusqu’à 5 plages horaires). Vous recevez ainsi une demande avec un choix de plages horaires, par exemple, lundi 6 avril de 9h00 à 12h00; mercredi 8 avril de 12h00 à 17h00; et vendredi 10 avril de 17h00 à 21h00. Vous pouvez ainsi trouver une disponibilité qui convient à votre horaire et confirmer une heure à votre client.</p>
+<p><strong>Désactiver le choix de personnel</strong><br />
+Cette règle vous permet de désactiver la sélection d’un membre du personnel. Si vous avez plusieurs employés qui prennent des rendez-vous, un choix de personnel est habituellement offert à vos clients sauf si vous décidez de désactiver cette règle.</p>
+<p>Quand vous désactivez le choix de personnel pour un service, le client ne peut plus choisir un employé et une plage horaire spécifique. Il n’a pas de choix de personnel et doit plutôt fournir ses propres disponibilités. Vous recevez alors une demande de rendez-vous que vous devez distribuer à un membre du personnel. Cette option est pratique quand vous devez contrôler la quantité de travail de votre personnel et distribuer les rendez-vous vous-même.</p>
+<p>Nous regarderons les autres règles dans un autre tutoriel.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/h6cPQ89e-gTCnjDo2zn8gl2KBkzypmeGneeIgCBWEbfjz-uIz00TmrU9LI9IqUhif4zpm_D3bSViO4eI9duMtqJVK5CnJBQozD0Y1sjNmG3iUQmIzeLZttM7UK_Nv6jio1YSvew" alt="règles de rendez-vous d'un service" width="550" height="463" /></p>
+<ol>
+<li>Si vous avez fait des changements, cliquez sur Sauvegarder en haut du formulaire ou sur Annuler pour annuler les changements.<img class="shadow_medium aligncenter wp-image-67 size-full" src="https://lh3.googleusercontent.com/vZjt02Wxg1ZL9HA2m-Q5tr-1upLP4o3Bm7a0rGbcB1zOfYAZpOdfb5pgKWwA7OUxHQT0HjYmkV7sawmvMMypT-s=s0" alt="sauvegarder" width="315" height="40" /></li>
+</ol>
+<h3>Étape 8 &#8211; Mettre un service en ligne</h3>
+<p>Maintenant que le profil du service est mis à jour, vous pouvez le mettre en ligne afin qu’il s’affiche sur votre site web booxi et que les clients puissent prendre rendez-vous pour ce service. Le service sera visible seulement si votre entreprise est disponible en ligne.</p>
+<ol>
+<li>Cliquez sur Hors-ligne et sélectionnez Disponible en ligne.</li>
+<li>Le statut devrait devenir vert.<img class="shadow_medium aligncenter" src="https://lh6.googleusercontent.com/S3OlwjL8Bsk7f0i9iRGip0IIs7SYgszjA9bumUDDgIp3jHpWjMoCkSBjPV2NY-syhA5mcS59ona7N-QPr31n8hJCuYCUVKTSidiL1ct77opEsuZs50SUHhvBsTDb1CXr_MuP3Hk" alt="statut d'un service" width="263" height="247" /></li>
+</ol>
+<p>Vous avez terminé et vous pouvez passer au tutoriel Mettre votre personnel à jour.</p>
+<h3>À retenir</h3>
+<ul>
+<li>Ajoutez des services et réglez leur statut à Disponible en ligne.</li>
+<li>Regroupez vos services par catégories quand vous offrez plus de 10 services.</li>
+<li>Vous pouvez laisser le client choisir une plage horaire ou lui demander ses disponibilités.</li>
+<li>Vous pouvez laisser le client choisir un membre du personnel ou distribuer vous-même les rendez-vous.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/mettre-votre-offre-de-services-a-jour/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

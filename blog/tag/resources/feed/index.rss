@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>booxi &#187; resources</title>
+	<atom:link href="https://www.booxi.com/blog/tag/resources/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.booxi.com/blog</link>
+	<description>booxi</description>
+	<lastBuildDate>Mon, 27 Nov 2017 18:59:17 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Manage the availability of resources such as rooms and equipments for your appointments</title>
+		<link>https://www.booxi.com/blog/manage-the-availability-of-resources-such-as-rooms-and-equipments-for-your-appointments/</link>
+		<comments>https://www.booxi.com/blog/manage-the-availability-of-resources-such-as-rooms-and-equipments-for-your-appointments/#comments</comments>
+		<pubDate>Fri, 08 Jul 2016 19:13:03 +0000</pubDate>
+		<dc:creator><![CDATA[Astrid Bertout]]></dc:creator>
+				<category><![CDATA[Product Features]]></category>
+		<category><![CDATA[business management]]></category>
+		<category><![CDATA[online booking]]></category>
+		<category><![CDATA[resources]]></category>
+
+		<guid isPermaLink="false">http://www.booxi.com/blog-dev/?p=29</guid>
+		<description><![CDATA[No more headhaches, no more wasting time to manage your rooms and equipment and your appointment with booxi. ]]></description>
+				<content:encoded><![CDATA[<p><div class="creativ-shortcode creativ-shortcode-cols  creativ-shortcode-cols-half-half "><div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-a"><div class="creativ-shortcode-col-inner"><p>With booxi, you now have the ability to manage the availability of resources like rooms and equipments. You view the calendar of availability of each resource and reserve a resource for an appointment.</p>
+</div></div><br />
+<div class="creativ-shortcode creativ-shortcode-col creativ-shortcode-col-b"><div class="creativ-shortcode-col-inner"></div></div></p>
+<ul>
+<li>Resource Management</li>
+<li>Resource Calendar</li>
+<li>Reserve a Resource</div></li>
+</ul>
+<hr />
+<h3>Resource Management</h3>
+<p>You have access to the list of your resources from the main menu, and can add new resources by clicking on the <img style="font-weight: normal;color: #000000" src="https://lh5.googleusercontent.com/d-d1owrG3OfqLu5jzx27UDRZ-kiIUbKyMCziFZNpJbVKGy8tfDg5oG2vyNffT0WvQS9dUNwQy6XagqR7wj7VRrVxlp_GEFh6SchX9ig9tYgSmy3q7_2CeWVsdIh7Rxk9LW-Cb6pC" alt="" /> button. To modify, simply select the resource from the list.</p>
+<p><img class="shadow_medium aligncenter" src="https://lh3.googleusercontent.com/LNLVIhH5fOx8WiBbmPQO5qVg9AVEL_Nmvw2B1ftVTNpirvxFdzS8XIZ5ASL8MVXV7fizmeZrRg0l8l-IvWqZdUVWJhCtrL59ZQlSo1Lmc7odrUNQD73j9pIaGsrg_1XFH6A7tqGs" alt="section resources in booxi" width="560" height="563" /></p>
+<p>Each resource has a name and a capacity, a list of services requiring this type of resource, a weekly availability schedule, and appointment rules.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh6.googleusercontent.com/cToLWbR35Kitf0Q9V0kTEwBgHFOF_IeuW39mZe79A_NcKMqJ5bpxnrCNcJBYvnwn7A1OZIFNqjyuufZC541xTO9st1lBPpdCaAtfODC4bbeZQNMR9BAwgHNqqsyhPTdI6RpXv3zM" alt="resource creation" width="624" height="468" /></p>
+<p>The appointment rules allow you to share the resource’s calendar with the personnel, and adjust the appointment interval.</p>
+<h3>Resource Calendar</h3>
+<p>You can access the calendar of each resource by clicking on the calendar selection, the same way you access each personnel’s calendar. From the choice of personnel’s calendar, click on the resource tab to access the choice of resource, and select a resource. You can also add a mix of resource and personnel calendars in your week view.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh3.googleusercontent.com/q3xxd_HCHa7F6zxQXWGdAldDyKHXdvJQQGUyJ4qNR82ykVZJ-IRP5bdWZoGyUcQF4Dm5mKDTx7oPSsQUOVO8wX-sILlB5-SwvYZA85zfb04ubKripxGsQveQhtb9xWdz-lg53nH9" alt="resource calendar" width="317" height="259" /></p>
+<h3>Reserve a resource</h3>
+<p>When you add an appointment to your calendar, you can now select and reserve a resource for this appointment, the same way you do for the personnel. Simply click on the list of resources and select one. The list will also show you the availability of the resource according to the time of the requested appointment.</p>
+<p><img class="shadow_medium aligncenter" style="font-weight: normal;color: #000000" src="https://lh5.googleusercontent.com/-Z2KU7kqWSLqJB-uWNaZzVVV5_D95mOmpqOk-Gt09O0FH1qvOFpIKa8x1Zhp5pEXunpme5r1c0i2K_jOZBnfuz5pSeheL_kZ5npLCeE1yFS3x4XfiILTlzoNR4wy0Swck8FUTzRY" alt="link an appointment with a resource" width="468" height="771" /></p>
+<p>Once the resource is selected and the appointment is added, booxi will add the reservation to the selected resource’s calendar. If the reservation cannot be completed, booxi will advise you of the problem.</p>
+<p><strong>That’s it, as simple as that</strong>! You can now relieve yourself of the headache of manage resource availability.</p>
+<hr />
+<p>Want to try it ? Create your booxi account and enjoy 30 day free.<br />
+<span style="line-height: 21.6px">Try it now &#8211; No credit card required.</span></p>
+<p style="text-align: center"><span style="line-height: 21.6px"><br />
+<a href="https://www.booxi.com/business/signup" class="creativ-shortcode creativ-shortcode-button creativ-shortcode-button-colour-allgreen creativ-shortcode-button-size-medium creativ-shortcode-button-edge-straight" target="_blank">Try it for free </a></span></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.booxi.com/blog/manage-the-availability-of-resources-such-as-rooms-and-equipments-for-your-appointments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
