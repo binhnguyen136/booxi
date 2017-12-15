@@ -45,7 +45,7 @@ function vpGetStarted_onClick(ele)
         mailArg = '&';
 
     // tag email for sign-up
-    if( (''+redir).search('www.booxi.com') != -1  )
+    if( (''+redir).search('www.interviewapp.com') != -1  )
     {
         redir += mailArg + 'use_email='+userEmail;
     }
@@ -62,7 +62,7 @@ function pushEmailToHubspot(emailVal)
     var reqData = {email: emailVal};
     reqData.lang = (lang == 'en') ? 'eng' : 'fre';
 
-    var reqPath = 'https://www.booxi.com/web_php/svr/put_record_client_hub.php';
+    var reqPath = 'https://www.interviewapp.com/web_php/svr/put_record_client_hub.php';
     var request = {
         url:reqPath,
         dataType: 'json',
@@ -192,7 +192,7 @@ function clearNavDropMenu()
 
 function searchKeyPress(ele, evt)
 {
-    //http://localhost/booxi_wp/en/
+    //http://localhost/interviewapp_wp/en/
     var form = document.getElementById('menu-search-box');
 
     if( (form !== null) && (form.submit !== undefined) )

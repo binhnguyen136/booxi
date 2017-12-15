@@ -144,13 +144,13 @@
 
 }
 
-.icon_f1, .section_icon[data-img='1'] { background-image: url("../../img/common/booxi_content_api.svg"); }
-.icon_f2, .section_icon[data-img='2'] { background-image: url("../../img/common/booxi_appointments_api.svg"); }
-.icon_f3, .section_icon[data-img='3']  { background-image: url("../../img/common/booxi_directory_api.svg"); }
+.icon_f1, .section_icon[data-img='1'] { background-image: url("../../img/common/interviewapp_content_api.svg"); }
+.icon_f2, .section_icon[data-img='2'] { background-image: url("../../img/common/interviewapp_appointments_api.svg"); }
+.icon_f3, .section_icon[data-img='3']  { background-image: url("../../img/common/interviewapp_directory_api.svg"); }
 
-.icon_f4 { background-image: url("../../img/common/booxi_partners.svg"); }
-.icon_f5 { background-image: url("../../img/common/booxi_business.svg"); }
-.icon_f6 { background-image: url("../../img/common/booxi_affiliates.svg"); }
+.icon_f4 { background-image: url("../../img/common/interviewapp_partners.svg"); }
+.icon_f5 { background-image: url("../../img/common/interviewapp_business.svg"); }
+.icon_f6 { background-image: url("../../img/common/interviewapp_affiliates.svg"); }
 
 .promo_img_mob
 {

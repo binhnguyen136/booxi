@@ -3209,7 +3209,7 @@ body .creativ-shortcode-cols {
 }
 body .creativ-shortcode-button,
 body .creativ-shortcode-button:hover {
-  /* needs to be remove for booxi's buttons */
+  /* needs to be remove for interviewapp's buttons */
     /*border: 0px solid transparent!important;*/
     /*box-shadow: none !important;*/
     text-decoration: none;

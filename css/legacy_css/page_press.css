@@ -153,7 +153,7 @@ body:not([is_mob=true]) .company_overview_box .company_overview_footer_part:hove
 
 }
 
-.company_overview_box .company_overview_members .member_team_booxi
+.company_overview_box .company_overview_members .member_team_interviewapp
 {
     display: inline-block;
     width: 100%;
@@ -165,7 +165,7 @@ body:not([is_mob=true]) .company_overview_box .company_overview_footer_part:hove
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: auto 90%;
-    background-image: url("../../img/presskit/team_booxi.jpg");
+    background-image: url("../../img/presskit/team_interviewapp.jpg");
 }
 
 /*---------PRESS KIT BRAND ASSETS STYLE----------*/
@@ -448,29 +448,29 @@ body:not([is_mob=true]) .brand_assets_box .b_assets_inner_two_col[which='8']:hov
     border-left: 1px solid #f0f0f0;
 }
 
-.brand_writing_box .bottom_writing .name_booxi
+.brand_writing_box .bottom_writing .name_interviewapp
 {
     font-size: 2.8em;
 }
 
 .brand_writing_box
-.writing_box .bottom_writing .name_booxi > p.bw_name
+.writing_box .bottom_writing .name_interviewapp > p.bw_name
 {
     padding: 22px;
     margin: 0;
 }
 
 .brand_writing_box
-.writing_box[titillium='1'] .bottom_writing .name_booxi > p.bw_name,
-.writing_box[titillium='2'] .bottom_writing .name_booxi > p.bw_name,
-.writing_box[titillium='3'] .bottom_writing .name_booxi > p.bw_name
+.writing_box[titillium='1'] .bottom_writing .name_interviewapp > p.bw_name,
+.writing_box[titillium='2'] .bottom_writing .name_interviewapp > p.bw_name,
+.writing_box[titillium='3'] .bottom_writing .name_interviewapp > p.bw_name
 {
     text-decoration: line-through;
     opacity: .5;
 }
 
 .brand_writing_box
-.writing_box[titillium='4'] .bottom_writing .name_booxi > p.bw_name
+.writing_box[titillium='4'] .bottom_writing .name_interviewapp > p.bw_name
 {
     font-weight: 700;
 }
@@ -971,7 +971,7 @@ body:not([is_mob=true]) .get_in_touch_box .soc_med_contact:hover
 
 @media screen and (max-width: 890px)
 {
-    .company_overview_box .company_overview_members .member_team_booxi
+    .company_overview_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
@@ -1061,7 +1061,7 @@ body:not([is_mob=true]) .get_in_touch_box .soc_med_contact:hover
 
 @media screen and (max-width: 3000px)
 {
-    .company_overview_box .company_overview_members .member_team_booxi
+    .company_overview_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }

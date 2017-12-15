@@ -183,28 +183,28 @@
 .box_img_left
 {
     left:0;
-    background-image: url("../../img/common/booxi_appointments_api.svg");
+    background-image: url("../../img/common/interviewapp_appointments_api.svg");
 }
 
 .box_img_left[data-img="1"]
 {
-    background-image: url("../../img/common/booxi_business.svg");
+    background-image: url("../../img/common/interviewapp_business.svg");
 }
 
 .box_img_left[data-img="2"]
 {
-    background-image: url("../../img/common/booxi_affiliates.svg");
+    background-image: url("../../img/common/interviewapp_affiliates.svg");
 }
 
 .box_img_left[data-img="3"]
 {
-    background-image: url("../../img/common/booxi_developers.svg");
+    background-image: url("../../img/common/interviewapp_developers.svg");
 }
 
 .box_img_right
 {
     right:0;
-    background-image: url("../../img/common/booxi_partners.svg");
+    background-image: url("../../img/common/interviewapp_partners.svg");
 }
 
 .grad_line
@@ -314,13 +314,13 @@
 
 }
 
-.icon_f1, .section_icon[data-img='1']  { background-image: url("../../img/common/booxi_directory.svg"); }
-.icon_f2, .section_icon[data-img='2']  { background-image: url("../../img/common/booxi_appointments.svg"); }
-.icon_f3, .section_icon[data-img='3']  { background-image: url("../../img/common/booxi_dispatch.svg"); }
+.icon_f1, .section_icon[data-img='1']  { background-image: url("../../img/common/interviewapp_directory.svg"); }
+.icon_f2, .section_icon[data-img='2']  { background-image: url("../../img/common/interviewapp_appointments.svg"); }
+.icon_f3, .section_icon[data-img='3']  { background-image: url("../../img/common/interviewapp_dispatch.svg"); }
 
-.icon_f4 { background-image: url("../../img/common/booxi_partners.svg"); }
-.icon_f5 { background-image: url("../../img/common/booxi_business.svg"); }
-.icon_f6 { background-image: url("../../img/common/booxi_affiliates.svg"); }
+.icon_f4 { background-image: url("../../img/common/interviewapp_partners.svg"); }
+.icon_f5 { background-image: url("../../img/common/interviewapp_business.svg"); }
+.icon_f6 { background-image: url("../../img/common/interviewapp_affiliates.svg"); }
 
 .pr_ico_text
 {

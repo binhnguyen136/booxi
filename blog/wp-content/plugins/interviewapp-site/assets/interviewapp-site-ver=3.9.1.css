@@ -599,7 +599,7 @@ div[data-menu-open=true] > .lead_item_op_menu
     width:4em;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url("https://test.booxi.com/img/icons/svg/arrow_r_b.svg");
+    background-image: url("https://test.interviewapp.com/img/icons/svg/arrow_r_b.svg");
     opacity: 0.5;
 
 }
@@ -724,7 +724,7 @@ a.pmenu_item[data-open=true] .pmenu_btn_ico
     background-position: center center;
     background-repeat: no-repeat;
     background-image: url("../../../../../img/icons/svg/promotions_w.svg");
-    /*background-image: url("https://booxi-tests.appspot.com/img/icons/svg/pricing_w.svg");*/
+    /*background-image: url("https://interviewapp-tests.appspot.com/img/icons/svg/pricing_w.svg");*/
 
     z-index: 1;
 }

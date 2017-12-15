@@ -106,7 +106,7 @@ function fnEvalAndProcess_urlArgs()
     }
 
     var docRef = document.referrer;
-    if( (docRef.search('www.booxi.com') === -1 ) && (docRef !== ''))
+    if( (docRef.search('www.interviewapp.com') === -1 ) && (docRef !== ''))
     {
         utlX_writeCookie('_bxdocref', docRef, 14);
     }

@@ -1,12 +1,12 @@
 /**
- * File containing all the CSS classes used by the booxi/GWT-Material custom implementation.
+ * File containing all the CSS classes used by the interviewapp/GWT-Material custom implementation.
  *
  *	Notes:
  *	Not all the classes of the common materialize.css style is in here. 
- * 	Only what booxi needs (and a bit more).
+ * 	Only what interviewapp needs (and a bit more).
  */
 /**
- * booxi
+ * interviewapp
  */
 .opacity-effect.opacity-25 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
@@ -6019,7 +6019,7 @@ label {
   width: 0;
   height: 0; }
 
-.lever-light, .lever-dark, .lever-default { /* booxi - Used to add a functionality to the switch */ }
+.lever-light, .lever-dark, .lever-default { /* interviewapp - Used to add a functionality to the switch */ }
 
 .switch label input[type=checkbox]:checked + .lever-default  {
   background-color: rgba(51,188,242,0.15); }

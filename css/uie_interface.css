@@ -631,7 +631,7 @@ body[is_mob=true] #crtl_box_mob
     box-sizing: border-box;
     background-repeat: no-repeat;
     background-position: left center;
-    background-image: url("../img/common/logo_booxi_w.svg");
+    background-image: url("../img/common/logo_interviewapp_w.svg");
 }
 
 #crtl_box_mob .lang
@@ -877,7 +877,7 @@ body[is_mob=true] #_crtl_box[search_mode=true] { display: block; }
 {
     width: 16em;
     background-position: left center;
-    background-image: url("../img/common/logo_booxi_w.svg");
+    background-image: url("../img/common/logo_interviewapp_w.svg");
 }
 
 #_crtl_box[mob_view=true] .header_menu .header_left_icon_container .header_left_bx_ico
@@ -1555,7 +1555,7 @@ a._crtl_option[sel=on]
 
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url("../img/common/logo_booxi_w.svg");
+    background-image: url("../img/common/logo_interviewapp_w.svg");
 
     cursor: pointer;
 }
@@ -1856,7 +1856,7 @@ body:not([is_mob=true]) .ctrlPanel_menuBox .menu_button_info:hover
 .ctrlPanel_menuBox div[item=locate]     {background-image: url('../img/icons/svg/location_b.svg');  }
 .ctrlPanel_menuBox div[item=find]       {background-image: url('../img/icons/svg/search_b.svg');    }
 .ctrlPanel_menuBox div[item=login]      {background-image: url('../img/icons/svg/sign_in_g.svg');    }
-.ctrlPanel_menuBox div[item=every]      {background-image: url('../img/icons/svg/booxi_b.svg');  }
+.ctrlPanel_menuBox div[item=every]      {background-image: url('../img/icons/svg/interviewapp_b.svg');  }
 .ctrlPanel_menuBox div[item=business]   {background-image: url('../img/icons/svg/business_b.svg');  }
 .ctrlPanel_menuBox div[item=participate]{background-image: url('../img/icons/svg/sign_up_b.svg');    }
 .ctrlPanel_menuBox div[item=about]      {background-image: url('../img/icons/svg/about_us_b.svg');  }
@@ -2563,7 +2563,7 @@ footer span.font-heavy{
     font-weight:900;
 }
 
-.booxi-copy{
+.interviewapp-copy{
     background-color: #44CE5E;
     color:#ffffff;
     border-radius: 3px;
@@ -2575,7 +2575,7 @@ footer span.font-heavy{
     -webkit-transition: .25s ease-in-out;
 }
 
-body:not([is_mob=true]) .booxi-copy:hover{
+body:not([is_mob=true]) .interviewapp-copy:hover{
     background-color: #3ebd55;
 }
 
@@ -2729,7 +2729,7 @@ ul.footer-data td{
 
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url("../img/common/logo_booxi_w.svg");
+    background-image: url("../img/common/logo_interviewapp_w.svg");
     cursor: pointer;
 }
 
@@ -3163,7 +3163,7 @@ body:not([is_mob=true]) .merchantAction_button .merchantAction_inner .shareButto
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: left center;
-    background-image: url("../img/common/logo_booxi_w.svg");
+    background-image: url("../img/common/logo_interviewapp_w.svg");
 
 }
 
@@ -3266,7 +3266,7 @@ body:not([is_mob=true]) .merchantAction_button .merchantAction_inner .shareButto
 
     .ctrlPanel_menuBox .ctrlPanel_header .ctrl_panel_header_ico
     {
-        background-image: url("../img/common/logo_booxi_w_.svg") !important;
+        background-image: url("../img/common/logo_interviewapp_w_.svg") !important;
         width: 15.8em !important;
     }
 }
@@ -3597,7 +3597,7 @@ body:not([is_mob=true]) .merchantAction_button .merchantAction_inner .shareButto
         padding: 6em 0 6em 0;
     }
 
-    .booxi-copy{
+    .interviewapp-copy{
         margin:0 auto;
     }
 }

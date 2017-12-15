@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Smart appointment booking - booxi</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta name="HandheldFriendly" content="true">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black"><link rel="icon" type="image/x-icon" href="img/common/favicon.ico" />
+<title>InterviewApp</title>
 <link rel="apple-touch-icon" href="img/common/touch-icon-iphone_60x60.png">
 <link rel="apple-touch-icon" sizes="76x76" href="img/common/touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="120x120" href="img/common/touch-icon-iphone-retina.png">
-<link rel="apple-touch-icon" sizes="152x152" href="img/common/touch-icon-ipad-retina.png"><meta name="author" content="booxi">
-<meta name="copyright" content="booxi inc">
-<link rel="author" href="https://plus.google.com/+booxicom"/>
-<link rel="publisher" href="https://plus.google.com/+booxicom"/><meta name="description" content="Connecting small business and customers with online booking and appointment reservation.">
+<link rel="apple-touch-icon" sizes="152x152" href="img/common/touch-icon-ipad-retina.png">
 <link href='http://fonts.googleapis.com/css?family=Titillium+Web' rel='stylesheet' type='text/css'>
 
 <style>html
@@ -87,7 +79,7 @@ html, body
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain;
-    background-image: url("img/website/maint/booxi_oops.svg");
+    background-image: url("img/website/maint/interviewapp_oops.svg");
 
 }
 
@@ -329,15 +321,11 @@ button
 
 <body langMode="eng">
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6J95P"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 <div id="top_bar_v2">
     <div class="toggle">
         <div class="toggle_inner">
-            <button value="EN" onclick="selectLangLabel(this)">EN</button>
-            <button value="FR" onclick="selectLangLabel(this)">FR</button>
+            <button value="EN">EN</button>
+            <button value="FR">FR</button>
         </div>
     </div>
 </div>
@@ -377,29 +365,6 @@ button
     </div>
 
 </div>
-
-
-<script>
-    function selectLangLabel(ele)
-    {
-        var el = ele.value;
-        if(el === "EN"){
-            document.getElementById('maintenance_text01').innerHTML = 'Oops 404 error';
-            document.getElementById('maintenance_text02').innerHTML = 'Sorry the page you are looking for does not exist.';
-            document.getElementById('maintenance_text03').innerHTML = 'Please continue to our home page.';
-            document.getElementById('maintenance_text04').innerHTML = 'Go to home page';
-
-        }
-        else
-        {
-            document.getElementById('maintenance_text01').innerHTML = 'Oops erreur 404';
-            document.getElementById('maintenance_text02').innerHTML = 'Désolé, la page que vous recherchez n’existe pas.';
-            document.getElementById('maintenance_text03').innerHTML = 'Veuillez continuer vers notre page d’accueil.';
-            document.getElementById('maintenance_text04').innerHTML = 'Page d’accueil';
-        }
-    }
-</script>
-
 
 </body>
 </html>

@@ -191,12 +191,12 @@
 
 }
 
-.icon_f1, .section_icon[data-img='1']  { background-image: url("../../img/common/booxi_associations.svg"); }
-.icon_f2, .section_icon[data-img='2']  { background-image: url("../../img/common/booxi_schools.svg"); }
+.icon_f1, .section_icon[data-img='1']  { background-image: url("../../img/common/interviewapp_associations.svg"); }
+.icon_f2, .section_icon[data-img='2']  { background-image: url("../../img/common/interviewapp_schools.svg"); }
 
-.icon_f4 { background-image: url("../../img/common/booxi_partners.svg"); }
-.icon_f5 { background-image: url("../../img/common/booxi_business.svg"); }
-.icon_f6 { background-image: url("../../img/common/booxi_affiliates.svg"); }
+.icon_f4 { background-image: url("../../img/common/interviewapp_partners.svg"); }
+.icon_f5 { background-image: url("../../img/common/interviewapp_business.svg"); }
+.icon_f6 { background-image: url("../../img/common/interviewapp_affiliates.svg"); }
 
 .pr_ico_text
 {

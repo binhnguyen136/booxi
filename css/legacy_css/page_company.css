@@ -89,7 +89,7 @@
 
 }
 
-.company_padded_box .company_overview_members .member_team_booxi
+.company_padded_box .company_overview_members .member_team_interviewapp
 {
     display: inline-block;
     width: 100%;
@@ -101,7 +101,7 @@
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
-    background-image: url("../../img/presskit/team_booxi.jpg");
+    background-image: url("../../img/presskit/team_interviewapp.jpg");
 }
 
 .company_padded_box .company_overview_download_ico
@@ -192,7 +192,7 @@ body:not([is_mob=true]) .company_two_btn:hover .return_to_presskit_ico
 
 @media screen and (max-width: 550px)
 {
-    .company_padded_box .company_overview_members .member_team_booxi
+    .company_padded_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
@@ -209,8 +209,8 @@ body:not([is_mob=true]) .company_two_btn:hover .return_to_presskit_ico
 
 @media screen and (max-width: 650px)
 {
-    /*Whole Team Booxi Picture*/
-    .company_padded_box .company_overview_members .member_team_booxi
+    /*Whole Team interviewapp Picture*/
+    .company_padded_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
@@ -219,13 +219,13 @@ body:not([is_mob=true]) .company_two_btn:hover .return_to_presskit_ico
     {
         height: 10em;
     }
-    /*End Whole Team Booxi Picture*/
+    /*End Whole Team interviewapp Picture*/
 }
 
 
 @media screen and (max-width: 890px)
 {
-    .company_padded_box .company_overview_members .member_team_booxi
+    .company_padded_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
@@ -235,7 +235,7 @@ body:not([is_mob=true]) .company_two_btn:hover .return_to_presskit_ico
 
 @media screen and (max-width: 1024px)
 {
-    .company_padded_box .company_overview_members .member_team_booxi
+    .company_padded_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
@@ -248,7 +248,7 @@ body:not([is_mob=true]) .company_two_btn:hover .return_to_presskit_ico
 
 @media screen and (max-width: 3000px)
 {
-    .company_padded_box .company_overview_members .member_team_booxi
+    .company_padded_box .company_overview_members .member_team_interviewapp
     {
         background-size: contain;
     }
